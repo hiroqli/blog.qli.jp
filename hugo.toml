@@ -1,0 +1,24 @@
+baseURL = 'https://qli.jp/'
+languageCode = 'ja-jp'
+title = 'Things on a planet'
+theme = "ananke"
+
+# 時間指定公開設定
+buildFuture = false
+buildExpired = false
+
+# メニュー設定
+[menu]
+  [[menu.main]]
+    name = "ホーム"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "記事一覧"
+    url = "/posts/"
+    weight = 20
+
+# その他設定
+[params]
+  description = "ブログの説明"
+  author = "hiro"
