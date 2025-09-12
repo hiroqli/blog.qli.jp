@@ -1,7 +1,9 @@
 baseURL = 'https://qli.jp/'
-languageCode = 'ja-jp'
+languageCode = 'ja'
 title = 'Things on a planet'
 theme = "ananke"
+
+defaultContentLanguage = 'ja'
 
 # 時間指定公開設定
 buildFuture = false
@@ -20,5 +22,6 @@ buildExpired = false
 
 # その他設定
 [params]
-  description = "ブログの説明"
+  description = "Just a personal blog"
   author = "hiro"
+  date_format = "2006/01/02 03:04 pm"
