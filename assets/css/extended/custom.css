@@ -1,0 +1,11 @@
+/* アビスパ福岡カラー定義 */
+:root {
+    --avispa-navy: #1a2332;    /* アビスパネイビー */
+    --avispa-blue: #0066CC;    /* アビスパブルー */
+    --avispa-light-blue: #4fa8d8; /* ライトブルー */
+}
+
+/* ダークモード時の背景色 */
+.dark body {
+    background: var(--avispa-navy);
+}

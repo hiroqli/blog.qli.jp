@@ -1,0 +1,147 @@
+baseURL: "https://qli.jp/"
+title: "Things on a planet"
+theme: PaperMod
+languageCode: "ja"
+
+# 基本設定
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# 日本語サポート
+defaultContentLanguage: "ja"
+hasCJKLanguage: true
+
+# ページネーション設定
+pagination:
+  pagerSize: 5
+
+# 出力設定
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
+# 軽量化設定
+minify:
+  disableXML: true
+  minifyOutput: true
+
+# マークアップ設定
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    style: monokai
+
+# シンタックスハイライト
+pygmentsUseClasses: true
+
+# メニュー設定
+menu:
+  main:
+    - identifier: blog
+      name: ブログ
+      url: /archives/
+      weight: 10
+    - identifier: categories
+      name: カテゴリー
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: タグ
+      url: /tags/
+      weight: 30
+    - identifier: search
+      name: サイト内検索
+      url: /search/
+      weight: 40
+
+# パラメータ設定
+params:
+  env: production
+  title: "Things on a planet"
+  description: "Just a personal blog from Fukuoka"
+  keywords: [ブログ, 福岡, 個人サイト, PaperMod]
+  author: "hiro"
+
+  # プロフィールモード
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
+
+  # ソーシャルアイコン
+  socialIcons:
+    - name: twitter
+      url: "https://x.com/hiro"
+    - name: rss
+      url: "/index.xml"
+
+  # 日付フォーマット
+  DateFormat: "2006年01月02日"
+
+  # テーマ設定
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  # 表示設定
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+
+  # コメント・メタ設定
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+
+  # アセット設定
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+
+  # ラベル設定
+  label:
+    text: "Things on a planet"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # カバー画像設定
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+
+  # 編集リンク設定
+  editPost:
+    URL: "https://x.com/hiro"
+    Text: "編集を提案"
+    appendFilePath: false
+
+  # 検索設定（Fuse.js）
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10
+    keys: ["title", "permalink", "summary", "content"]
