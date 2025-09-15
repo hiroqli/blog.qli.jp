@@ -121,6 +121,11 @@ params:
     favicon16x16: "/favicon/favicon-16x16.png"
     favicon32x32: "/favicon/favicon-32x32.png"
     apple_touch_icon: "/favicon/apple-touch-icon.png"
+  
+  # Analytics
+  analytics:
+    google:
+      SiteVerificationTag: "G-95RJ09YP47"
 
   # ラベル設定
   label:
