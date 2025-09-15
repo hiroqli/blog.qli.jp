@@ -41,9 +41,10 @@ jobs:
         run: |
           pip install feedparser requests beautifulsoup4 markdownify python-dateutil
 
-      - name: Create Medium fetcher script
+      - name: Create scripts directory and fetcher script
         run: |
-          cat > fetch_medium_posts.py << 'PYTHON_EOF'
+          mkdir -p scripts/logs
+          cat > scripts/fetch_medium_posts.py << 'PYTHON_EOF'
           #!/usr/bin/env python3
           import feedparser
           import requests
@@ -179,7 +180,8 @@ jobs:
                   'posts': [{'title': p['title'], 'url': p['link']} for p in posts]
               }
               
-              with open('medium_import_summary.json', 'w', encoding='utf-8') as f:
+              # scripts/logsディレクトリに保存
+              with open('scripts/logs/medium_import_summary.json', 'w', encoding='utf-8') as f:
                   json.dump(summary, f, ensure_ascii=False, indent=2)
 
           if __name__ == '__main__':
@@ -188,13 +190,13 @@ jobs:
 
       - name: Fetch new Medium posts
         run: |
-          python fetch_medium_posts.py
+          python scripts/fetch_medium_posts.py
 
       - name: Check for new posts
         id: check_posts
         run: |
-          if [ -f "medium_import_summary.json" ]; then
-            POSTS_COUNT=$(jq '.posts_imported' medium_import_summary.json)
+          if [ -f "scripts/logs/medium_import_summary.json" ]; then
+            POSTS_COUNT=$(jq '.posts_imported' scripts/logs/medium_import_summary.json)
             echo "posts_count=$POSTS_COUNT" >> $GITHUB_OUTPUT
             
             if [ "$POSTS_COUNT" -gt 0 ]; then
@@ -222,10 +224,10 @@ jobs:
           git config --local user.name "GitHub Action"
 
           git add content/posts/medium-*
-          git add medium_import_summary.json
+          git add scripts/logs/medium_import_summary.json
 
           if ! git diff --cached --quiet; then
-            POSTS_COUNT=$(jq '.posts_imported' medium_import_summary.json)
+            POSTS_COUNT=$(jq '.posts_imported' scripts/logs/medium_import_summary.json)
             git commit -m "Add $POSTS_COUNT new posts from Medium"
             git push
           else
@@ -237,7 +239,7 @@ jobs:
         run: |
           echo "## 📝 Medium記事インポート完了" >> $GITHUB_STEP_SUMMARY
           echo "インポート日時: $(date)" >> $GITHUB_STEP_SUMMARY
-          echo "新規記事数: $(jq '.posts_imported' medium_import_summary.json)" >> $GITHUB_STEP_SUMMARY
+          echo "新規記事数: $(jq '.posts_imported' scripts/logs/medium_import_summary.json)" >> $GITHUB_STEP_SUMMARY
 
       - name: No new posts message
         if: steps.check_posts.outputs.has_new_posts == 'false'
