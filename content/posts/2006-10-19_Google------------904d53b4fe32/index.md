@@ -4,7 +4,7 @@ description: ''
 date: '2006-10-19T15:35:15.000Z'
 categories: []
 keywords: []
-slug: Google+%E3%83%96%E3%83%AD%E3%82%B0%E6%A4%9C%E7%B4%A2%E3%80%80%E3%81%A7%E3%81%BE%E3%81%97%E3%81%9F
+slug: "766d75a1-5e5e-4030-a2dd-115d1dba07bf"
 ---
 リンク: [Google Japan Blog: ブログ検索、始めました](http://googlejapan.blogspot.com/2006/10/blog-post.html "Google Japan Blog: ブログ検索、始めました").
 

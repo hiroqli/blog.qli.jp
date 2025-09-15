@@ -4,7 +4,7 @@ description: ''
 date: '2007-01-04T00:50:00.000Z'
 categories: []
 keywords: []
-slug: "%E8%AC%B9%E8%B3%80%E6%96%B0%E5%B9%B4+2007"
+slug: "4718d7f0-cec1-4bff-b5de-04e97effba98"
 ---
 明けましておめでとうございます。  
 今年もよろしくお願いします。

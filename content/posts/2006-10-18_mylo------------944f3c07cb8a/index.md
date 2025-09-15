@@ -4,7 +4,7 @@ description: ''
 date: '2006-10-18T12:01:57.000Z'
 categories: []
 keywords: []
-slug: mylo%E3%81%8C%E5%9B%BD%E5%86%85%E3%81%A7%E7%99%BA%E5%A3%B2%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%EF%BC%81
+slug: "3d4f5a49-af4e-4f87-a01d-a187d237dfde"
 ---
 いきなりガジェットネタですみません。[mylo](http://www.jp.sonystyle.com/Qnavi/Detail/COM-1.html)の発売が決定しました！ひさびさのsonyガジェットなだけに積極的な方向で検討したいと思います。
 

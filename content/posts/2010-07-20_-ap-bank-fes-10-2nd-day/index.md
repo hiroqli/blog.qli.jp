@@ -4,7 +4,7 @@ description: ''
 date: '2010-07-20T13:02:22.000Z'
 categories: []
 keywords: []
-slug: "%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%80%81%E5%A4%AA%E9%99%BD+%28ap+bank+fes+%E2%80%9910+2nd+day%29"
+slug: "5580db4a-b5a5-4229-8067-2bbf2a75534f"
 ---
 忘れないうちに、冷めないうちに書いておこうと思う。
 

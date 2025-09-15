@@ -4,7 +4,7 @@ description: ''
 date: '2011-01-11T23:49:19.000Z'
 categories: []
 keywords: []
-slug: Mac+App+Store%E3%81%8C%E5%85%AC%E9%96%8B+-+iWork%E3%81%AB%E3%82%82%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%82%BF
+slug: "e7a01653-c9ae-40b8-893b-53dcd19e97e2"
 ---
 １月６日深夜に、噂通り、Mac App Storeがオープンしましたね。OS X 10.7 Lionに搭載予定の機能の先行リリースです。Mac App Storeが何かというのは検索すればわかるだろうし、敢えて説明はしません。
 

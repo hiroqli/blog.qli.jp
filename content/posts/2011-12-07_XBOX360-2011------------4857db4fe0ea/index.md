@@ -4,7 +4,7 @@ description: ''
 date: '2011-12-07T21:24:13.000Z'
 categories: []
 keywords: []
-slug: XBOX360+2011+%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88
+slug: "b74ec5d3-8b9e-4542-8893-5f9e5c345442"
 ---
 XBOX360にシステムアップデートがきました。これからのマイクロソフト共通UIとなる Metro UI がXBOXにやってきました。Windows 8も多少触ってみていたりしますし、Windows Phoneも興味本位で触ったりしていますが、それらに比べれば、XBOXのMetro UIは自然なできあがり。
 

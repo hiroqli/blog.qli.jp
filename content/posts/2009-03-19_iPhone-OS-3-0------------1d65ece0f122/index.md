@@ -4,7 +4,7 @@ description: ''
 date: '2009-03-19T12:09:31.000Z'
 categories: []
 keywords: []
-slug: iPhone+OS+3%2E0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%8D%E3%81%84%E3%81%A6%E3%81%97%E3%81%BE%E3%81%8A%E3%81%86
+slug: "2cfb462c-9569-4717-a786-19857b55697b"
 ---
 iPhone OS 3.0 のプレスリリースが終わって一日がたちました。
 

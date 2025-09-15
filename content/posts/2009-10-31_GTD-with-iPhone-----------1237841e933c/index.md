@@ -4,7 +4,7 @@ description: ''
 date: '2009-10-31T07:35:59.000Z'
 categories: []
 keywords: []
-slug: GTD+with+iPhone+%E5%8B%89%E5%BC%B7%E4%BC%9A%E3%82%92%E3%82%84%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F
+slug: "2b4b3f91-10d3-438f-a1a5-4589e7ce6355"
 ---
 ちょっとしたきっかけで言い出してみた、GTD with iPhone 勉強会をやりました。ことのきっかけは、iPhone情報整理術 からのTwitter上でのやりとりをみてて、自分が言い出したことなのですが、居酒屋で飲みながら”iPhoneでタスク管理”についての情報を共有しようということでやってみました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2013-04-26T05:09:14.000Z'
 categories: []
 keywords: []
-slug: Twitter+for+Mac+%E3%81%8C%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88
+slug: "563b32f9-423f-4abb-a5ca-85d801beed6b"
 ---
 Twitter for Mac がアップデートされ、Version 2.2 となりました。Mac App Storeからダウンロードできます。
 

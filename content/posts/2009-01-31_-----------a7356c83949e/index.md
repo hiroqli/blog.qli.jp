@@ -4,7 +4,7 @@ description: ''
 date: '2009-01-31T11:36:45.000Z'
 categories: []
 keywords: []
-slug: "%E6%98%A5%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AF%E6%A5%BD%E3%81%97%E3%81%8F%E3%81%AA%E3%81%84"
+slug: "e42a3fe7-ff34-48c8-a60b-f0a1b90e8890"
 ---
 今週は、auとsoftbankがそれぞれ春モデルを発表した。
 

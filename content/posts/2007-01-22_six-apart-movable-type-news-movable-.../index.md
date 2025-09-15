@@ -4,7 +4,7 @@ description: ''
 date: '2007-01-22T20:11:22.000Z'
 categories: []
 keywords: []
-slug: Six+Apart+%E2%80%94+Movable+Type+News%3A+Movable+Type+3%2E34%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88%E3%81%AE%E6%8F%90%E4%BE%9B%E3%82%92%E9%96%8B%E5%A7%8B
+slug: "b983f2ef-d1d6-4875-a443-b4ca9e3442a0"
 ---
 MTがバージョンアップしました。
 

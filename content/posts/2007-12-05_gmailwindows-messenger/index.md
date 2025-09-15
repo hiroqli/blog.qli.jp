@@ -4,7 +4,7 @@ description: ''
 date: '2007-12-05T00:38:46.000Z'
 categories: []
 keywords: []
-slug: Gmail%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A7Windows+Messenger
+slug: "2ced8030-630a-4151-8957-f1f9de1adf5e"
 ---
 本日XBOX360の大規模なシステムアップデートが行われました。今回のメインはXBOXクラシックという名のゲームダウンロード機能なのですが、細かい修正としては今までなぜかできなかったWindows Live IDの変更機能があります。
 

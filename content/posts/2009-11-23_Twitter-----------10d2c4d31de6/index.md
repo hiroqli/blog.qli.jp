@@ -4,7 +4,7 @@ description: ''
 date: '2009-11-23T22:19:07.000Z'
 categories: []
 keywords: []
-slug: Twitter+%E7%A4%BE%E4%BC%9A%E8%AB%96%E3%82%92%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F
+slug: "33ad7a90-b5cc-4e27-81bb-2768a12f472c"
 ---
 書籍レビューは、もうひとつのブログでやることにしたのですが、これはWEBにかかっているので。
 

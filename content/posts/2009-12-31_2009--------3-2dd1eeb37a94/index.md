@@ -4,9 +4,8 @@ description: ""
 date: "2009-12-31T10:36:18.000Z"
 categories: []
 keywords: []
-slug: 2009%E5%B9%B4%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8B+%233
+slug: "35b13cc3-e727-40ea-a83c-160cbf9f5dee"
 ---
-
 次の振り返りは、情報整理編。実は去年の今頃に、[Lifehacking.jp](http://lifehacking.jp/)の [@mehori](http://twitter.com/mehori) さんが書かれた[情報ダイエット仕事術](http://www.amazon.co.jp/gp/product/4479771328?ie=UTF8&tag=qli-22&linkCode=as2&camp=247&creative=7399&creativeASIN=4479771328)
 
 ![]()

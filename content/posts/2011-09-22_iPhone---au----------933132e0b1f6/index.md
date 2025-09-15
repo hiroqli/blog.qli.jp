@@ -4,7 +4,7 @@ description: ''
 date: '2011-09-22T20:15:22.000Z'
 categories: []
 keywords: []
-slug: iPhone+%E3%81%8C+au+%E3%81%8B%E3%82%89%E7%99%BB%E5%A0%B4%E3%81%99%E3%82%8B%E3%81%8B%EF%BC%9F
+slug: "1d2e448a-1ebf-4175-9159-bf3bc1aa7378"
 ---
 日経他各紙から、au iPhoneの報道が届いてきました。Twitterなどをはじめとして、自分もつねづね、次期かどうかわからないけれども、どこかのタイミングでauからもiPhoneが出る可能性は高いのではないかと考えていました。
 

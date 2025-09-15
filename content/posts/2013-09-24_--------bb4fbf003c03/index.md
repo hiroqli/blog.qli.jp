@@ -4,7 +4,7 @@ description: ''
 date: '2013-09-24T10:16:16.000Z'
 categories: []
 keywords: []
-slug: "%E6%98%A0%E7%94%BB+%E9%A2%A8%E7%AB%8B%E3%81%A1%E3%81%AC"
+slug: "b008fdb5-5d26-4887-85a0-ab965e7cc70b"
 ---
 風立ちぬを見た直後に書いたものです
 

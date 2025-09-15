@@ -4,7 +4,7 @@ description: ''
 date: '2006-08-24T10:25:00.000Z'
 categories: []
 keywords: []
-slug: Gmail+Notifier%E3%81%8C%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%EF%BC%9F
+slug: "0d11c6c7-189f-4608-a8d5-f85857928a87"
 ---
 GoogleのオフィシャルブログへのGoogle Mac専用エンジニアの投稿がありました。どうやら、Google Notifierがバージョンアップしたみたいです。
 

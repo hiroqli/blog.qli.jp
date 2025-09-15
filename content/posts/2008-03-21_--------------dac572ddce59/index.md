@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-21T08:10:43.000Z'
 categories: []
 keywords: []
-slug: "%E3%82%A2%E3%83%92%E3%83%AB%E3%81%A8%E9%B4%A8%E3%81%AE%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC"
+slug: "d63a4213-5149-42f4-b0cd-756d32aa2e54"
 ---
 [アヒルと鴨のコインロッカー](http://www.amazon.co.jp/exec/obidos/ASIN/B000ZGSQQO/sixapart-vox1-22 "アヒルと鴨のコインロッカー")
 

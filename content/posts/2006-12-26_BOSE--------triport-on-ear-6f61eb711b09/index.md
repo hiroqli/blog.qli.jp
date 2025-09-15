@@ -4,7 +4,7 @@ description: ''
 date: '2006-12-26T13:03:01.000Z'
 categories: []
 keywords: []
-slug: BOSE+%E3%83%98%E3%83%83%E3%83%89%E3%83%95%E3%82%A9%E3%83%B3+triport+on-ear
+slug: "ec61e065-a279-40ab-888f-96b52ca7c237"
 ---
 BOSEのヘッドフォン買いました。
 

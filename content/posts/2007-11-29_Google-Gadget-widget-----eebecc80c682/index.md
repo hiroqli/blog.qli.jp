@@ -4,7 +4,7 @@ description: ''
 date: '2007-11-29T11:05:24.000Z'
 categories: []
 keywords: []
-slug: Google+Gadget%E3%81%8Cwidget%E3%81%AB%E3%81%AA%E3%82%8B%EF%BC%9F
+slug: "9e17e3a4-1ed6-4058-a178-239fa07050bc"
 ---
 面白いニュースが飛び込んできました。Profy.comによると明日Google Desktop for Macがバージョンアップし、Google用GadgetがDashboardで利用可能になるとのこと。
 

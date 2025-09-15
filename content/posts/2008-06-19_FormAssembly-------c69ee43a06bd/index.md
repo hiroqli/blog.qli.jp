@@ -4,7 +4,7 @@ description: ''
 date: '2008-06-19T09:56:48.000Z'
 categories: []
 keywords: []
-slug: FormAssembly%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F
+slug: "d1fc07f8-9d21-4c57-9f2e-0dc862f36643"
 ---
 MobileMeのアンケートについては、[FormAssembly](http://formassembly.com/)を使ってみました。正直に書けば、iPhoneのアンケートを集計しながら新しく疑問に思ったことを、あらかじめ使ってみたかったFormAssemblyを使ってやってみたというところです。（前回書いたGoogleドキュメントを使ったフォーム機能の感想は[こちら](http://blog.qli.jp/2008/06/google-7120.html)です）
 

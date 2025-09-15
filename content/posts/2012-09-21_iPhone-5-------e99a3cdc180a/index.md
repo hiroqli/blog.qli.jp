@@ -4,7 +4,7 @@ description: ''
 date: '2012-09-21T21:11:39.000Z'
 categories: []
 keywords: []
-slug: iPhone+5+%E3%82%92%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F
+slug: "d3525235-e2a6-4ebf-8b35-94b13c327c79"
 ---
 **恒例秋のApple祭り**  
   

@@ -4,7 +4,7 @@ description: ''
 date: '2007-07-03T22:07:54.000Z'
 categories: []
 keywords: []
-slug: iPhone%E3%81%AE%E7%99%BB%E5%A0%B4%E3%81%8C%E5%A4%89%E3%81%88%E3%81%9F%E3%82%82%E3%81%AE
+slug: "81789490-c565-4645-96e3-80588d47d98c"
 ---
 iPod + iTunesを中心とした音楽プレイヤーの強力なリーダーはiTunes Music Store、のちのiTunes Storeにて違法コピーのはびこっていた音楽業界を一変させたと言われる。ご存じの通り、DRMフリーを掲げてまた新しい波を送りだそうとしている。
 

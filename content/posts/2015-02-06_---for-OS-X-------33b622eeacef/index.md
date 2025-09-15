@@ -4,7 +4,7 @@ description: ''
 date: '2015-02-06T02:47:09.000Z'
 categories: []
 keywords: []
-slug: "%E5%86%99%E7%9C%9F+for+OS+X+%E3%81%8C%E3%82%82%E3%81%86%E3%81%99%E3%81%90"
+slug: "3bea1a73-2fc1-4dc1-ad85-9f10d5581068"
 ---
 [AppleのWEBサイト](https://www.apple.com/osx/photos-preview/) にて、写真 for OS Xを春にリリースすると発表しています。
 

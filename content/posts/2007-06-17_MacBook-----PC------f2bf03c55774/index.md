@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-17T08:45:25.000Z'
 categories: []
 keywords: []
-slug: MacBook%E3%82%92%E6%8D%AE%E3%81%88%E4%BB%98%E3%81%91PC%E3%81%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95
+slug: "7666461d-ea32-455f-be06-5d576c136530"
 ---
 別にいらないっちゃいらないっていわれそうだけど、一応エントリー。
 

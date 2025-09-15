@@ -4,7 +4,7 @@ description: ''
 date: '2007-01-08T17:02:14.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%81%E3%82%A7%E3%82%B1%E3%83%A9%E3%83%83%E3%83%81%E3%83%A7"
+slug: "b0c8812e-b2ba-4e93-9d2e-fb0bf96f887c"
 ---
 さて、先日書いた[映画](http://qli.vox.com/library/post/%E5%AB%8C%E3%82%8F%E3%82%8C%E6%9D%BE%E5%AD%90%E3%81%AE%E4%B8%80%E7%94%9F%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E5%8A%87%E5%A0%B4%E7%89%882.html)と同時に借りた映画をもう一本ご紹介。
 

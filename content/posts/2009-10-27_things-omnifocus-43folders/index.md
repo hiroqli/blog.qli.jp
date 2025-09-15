@@ -4,7 +4,7 @@ description: ''
 date: '2009-10-27T09:38:41.000Z'
 categories: []
 keywords: []
-slug: Things+%E3%81%A8+OmniFocus+%28+43Folders+%29
+slug: "8e8eb909-4ad5-4e77-809f-00119497c3f2"
 ---
 GTDの管理ツールを Things に戻しました。Over the Air Syncとかないですし、某書で小さく取り上げられるだけで残念な思いもしましたが、個人的にはこっちの方が馴染んでいるようです。
 

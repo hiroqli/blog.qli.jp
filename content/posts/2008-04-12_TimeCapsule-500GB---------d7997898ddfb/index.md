@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-12T10:08:03.000Z'
 categories: []
 keywords: []
-slug: TimeCapsule%28500GB%29%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F
+slug: "0bac786a-9fc8-4d0e-b540-9dc38e97855d"
 ---
 突然ですがTimeCapsule 500GBを買いました。
 

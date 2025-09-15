@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-24T22:42:06.000Z'
 categories: []
 keywords: []
-slug: Windows%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%A8mac%E3%81%A7%E3%81%AEPHP%E9%96%8B%E7%99%BA
+slug: "a8cbc530-f1a7-4949-8380-7ae301b58de1"
 ---
 今日は、Windowsの開発環境を整えていました。今回は、XAMPP+ Eclipseをベースにしてみました。世の中便利になったもんですね。ライトウェイトの開発環境なんて整えるのがヘビィな感じで、お金はかからないけど面倒っていうのがおきまりだったものですが。  
   

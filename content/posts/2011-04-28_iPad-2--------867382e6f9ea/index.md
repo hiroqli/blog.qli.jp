@@ -4,7 +4,7 @@ description: ''
 date: '2011-04-28T21:50:40.000Z'
 categories: []
 keywords: []
-slug: iPad+2+%E3%81%8C%E7%99%BA%E5%A3%B2%E3%81%95%E3%82%8C%E3%81%9F
+slug: "7c4253d6-68b0-4dec-a41a-f34d2dfa035e"
 ---
 やっと本日iPad 2が日本で発売開始されました。というわけで、使ってみた感想を軽く書いておきたいと思います。
 

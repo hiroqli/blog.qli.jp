@@ -4,7 +4,7 @@ description: ''
 date: '2021-05-17T13:37:21.375Z'
 categories: []
 keywords: []
-slug: "%E6%96%B0%E3%81%97%E3%81%84%E9%9F%B3%E6%A5%BD%E4%BD%93%E9%A8%93%E3%81%8C6%E6%9C%88%E3%81%AB%E2%80%8A%E2%80%94%E2%80%8AApple+Music"
+slug: "9a6f4ccc-d9e4-492d-b6e3-1f7c12157432"
 ---
 Apple は、Apple Musicに 空間オーディオとAppleロスレスオーディオが6月に開始することを発表しました。これによる値上げはありません。
 

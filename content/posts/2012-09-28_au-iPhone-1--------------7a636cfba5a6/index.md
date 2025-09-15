@@ -4,7 +4,7 @@ description: ''
 date: '2012-09-28T21:59:52.000Z'
 categories: []
 keywords: []
-slug: au+iPhone+1%E9%80%B1%E9%96%93%E4%BD%BF%E3%81%A3%E3%81%A6%E6%84%9F%E3%81%98%E3%81%9F%EF%BC%95%E3%81%A4%E3%81%AE%E3%81%93%E3%81%A8
+slug: "b0d13799-fb90-4ddd-96f6-3fc90fcaabc9"
 ---
 iPhone5を買って一週間。気になったことをつらつら書いていきます。
 

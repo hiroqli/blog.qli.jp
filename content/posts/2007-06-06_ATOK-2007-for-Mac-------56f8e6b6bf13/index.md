@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-06T08:46:09.000Z'
 categories: []
 keywords: []
-slug: ATOK+2007+for+Mac+%E7%99%BA%E5%A3%B2%E6%97%A5%E6%B1%BA%E5%AE%9A
+slug: "19d775e9-bbe8-4709-b7a0-9d20aaa1515a"
 ---
 一太郎は使ったことがありませんが、生粋のATOKユーザです。正確にはMS-IMEもことえりも好きではない、といったレベルですが。  
 というわけで、Mac版ATOK最新版”ATOK2007 for mac”の発売日が決定しました。JustSystemのご厚意でATOK2007ベータ版を使用中で、しかも製品版にも（省略されていなければ）実名がテスターという形でのる（実はATOK2006も載っているのですが)ため、ATOK2007へのバージョンアップも検討します。

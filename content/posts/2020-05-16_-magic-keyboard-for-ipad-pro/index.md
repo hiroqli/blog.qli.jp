@@ -4,7 +4,7 @@ description: 突然発表されたMagic Keyboard for iPad Pro がやっと手に
 date: '2020-05-16T11:52:58.940Z'
 categories: []
 keywords: []
-slug: "%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%C2%A0%3A+Magic+Keyboard+for+iPad+Pro"
+slug: "1e168f58-b694-447a-9cff-410a9a5ae6b2"
 ---
 ![](1__aGX9pJFuOAhWZoOUcY5Ouw.jpeg)
 

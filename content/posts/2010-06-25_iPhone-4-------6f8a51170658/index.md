@@ -4,7 +4,7 @@ description: ''
 date: '2010-06-25T08:41:47.000Z'
 categories: []
 keywords: []
-slug: iPhone+4%E3%82%92%E8%B2%B7%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F
+slug: "88ac9ee1-a727-4f03-b143-147cf994371d"
 ---
 突然ですが、iPhone4を昨日買いました。買ったのは、iPhone4 32GB Blackです。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2009-03-04T11:28:45.000Z'
 categories: []
 keywords: []
-slug: Update+iMac+-+Mac+mini+-+Mac+Pro+and+Networks
+slug: "6c177d03-af37-44c3-9e3d-6f2a59b1c60e"
 ---
 Appleがデスクトップ群をアップデートしました。あまりに一気にアップデートされたので少々驚きましたが、なんだかアップデートしないわけにはいかないものを一気にアップデートしましたって空気も伝わってくるような。
 

@@ -4,7 +4,7 @@ description: 6月28日にApple OmotesandoでVision Proを体験してきた。�
 date: '2024-10-17T11:38:37.230Z'
 categories: []
 keywords: []
-slug: Vision+Pro+%E3%83%87%E3%83%A2%E4%BD%93%E9%A8%93%E8%A8%98
+slug: "7d61f741-8b5e-4fb4-b31f-035283f1adc8"
 ---
 ちょっと時間が経ってしまったのだけど、Vision Proについて書いておきたい。発売日にApple Storeへ行って、Vision Proのデモを体験してきた。まだ1ヶ月前だったんですね。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2010-08-22T22:00:50.000Z'
 categories: []
 keywords: []
-slug: "%E9%9F%B3%E6%A5%BD%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%AF%82%E3%81%97%E3%81%84%E5%87%BA%E6%9D%A5%E4%BA%8B%E3%81%9F%E3%81%A1"
+slug: "a80e8eba-e8de-446b-a273-fee8acfc46c1"
 ---
 今日は８月２２日。寂しい出来事が２つありました。
 

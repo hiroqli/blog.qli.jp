@@ -4,7 +4,7 @@ description: ''
 date: '2008-11-29T22:39:46.000Z'
 categories: []
 keywords: []
-slug: merkmal+%3A+salyu
+slug: "5f3a8c88-1f82-45ba-b889-ab02cd3839f2"
 ---
 Salyuさんのベストアルバムが出ました。Salyu名義の楽曲以外にもLily chou-chou名義の楽曲も含まれていて、これまでの総決算という感じがします。
 

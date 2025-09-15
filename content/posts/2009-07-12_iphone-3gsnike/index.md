@@ -4,7 +4,7 @@ description: ''
 date: '2009-07-12T22:26:04.000Z'
 categories: []
 keywords: []
-slug: iPhone+3GS%E3%81%AEnike%2B%E3%81%A7%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F
+slug: "a341d6e7-db82-4b4c-83bc-7937fc1513c9"
 ---
 さて、突然ですが、走ってきました。iPhone 3GSについているのがnike+なんですが、これを使って”ワークアウト”してきました。
 

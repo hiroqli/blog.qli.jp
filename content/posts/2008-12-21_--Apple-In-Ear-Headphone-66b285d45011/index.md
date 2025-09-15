@@ -4,7 +4,7 @@ description: ''
 date: '2008-12-21T10:46:39.000Z'
 categories: []
 keywords: []
-slug: "%E7%B6%9A%E3%83%BBApple+In-Ear+Headphone"
+slug: "5f6bdf27-ca31-42d9-8a4a-2bbdafb57f6b"
 ---
 前回の記事では、音質にとらわれて、それ以外の部分に着目していなかったので、それも書くことにします。追記にしようかと思ったのですが、結構なボリュームになってしまうのが分かったのでやめました。
 

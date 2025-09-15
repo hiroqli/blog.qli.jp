@@ -4,7 +4,7 @@ description: ''
 date: '2015-04-11T13:52:24.000Z'
 categories: []
 keywords: []
-slug: Pre-ordered+Apple+Watch+and+MacBook
+slug: "1a634598-bfb5-4f96-ac94-8b82905c5a60"
 ---
 Apple WatchとMacBook、両方予約しました。とはいえ、配送予定日が5月に入ってからになるようなので、おそらく手元にくるころには、ちまたにはファーストインプレッションが溢れているでしょうね。
 

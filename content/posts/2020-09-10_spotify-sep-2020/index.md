@@ -4,7 +4,7 @@ description: Apple Musicをメインにしている人がSpotifyを使ってみ�
 date: '2020-09-10T10:56:38.115Z'
 categories: []
 keywords: []
-slug: "%E3%81%84%E3%81%BE%E3%81%94%E3%82%8DSpotify%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+%28Sep%2E+202..."
+slug: "f3693ec7-51be-42a7-947a-f487ee8179a0"
 ---
 これまでSpotifyは無料でアカウントだけ作っていて、たまに使う程度でした。Spotifyのプレイリストを作るAIが素晴らしいという話も聞いたのと、Last.fm の使い勝手を試したく、好きな音楽を選ぶことができるプレミアム機能を試してみることにしました。
 

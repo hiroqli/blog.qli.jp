@@ -4,9 +4,8 @@ description: ""
 date: "2006-08-21T15:07:00.000Z"
 categories: []
 keywords: []
-slug: WEB%E3%81%AE%E5%B8%B8%E8%AD%98%E7%B5%B1%E4%B8%80%E8%A9%A6%E9%A8%93
+slug: "1631e1ed-b7a6-4aa6-ad2e-ce807ab5cac4"
 ---
-
 **ページタイトル:** WEB の常識統一試験
 
 **URL:** [http://book.mycom.co.jp/wd/exam/](http://book.mycom.co.jp/wd/exam/)

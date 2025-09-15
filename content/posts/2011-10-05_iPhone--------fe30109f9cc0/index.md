@@ -4,7 +4,7 @@ description: ''
 date: '2011-10-05T20:04:08.000Z'
 categories: []
 keywords: []
-slug: iPhone%E3%81%AB%E8%AA%9E%E3%82%8A%E3%81%8B%E3%81%91%E3%82%88%E3%81%86
+slug: "7cbc67be-8455-4eec-b035-c06a92501915"
 ---
 Appleが 史上最高のiPhoneを発表しました。この iPhone4S は、
 

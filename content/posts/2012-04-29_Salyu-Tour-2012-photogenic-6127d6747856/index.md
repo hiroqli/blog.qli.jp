@@ -4,7 +4,7 @@ description: ''
 date: '2012-04-29T21:39:48.000Z'
 categories: []
 keywords: []
-slug: Salyu+Tour+2012+photogenic
+slug: "8bef6bb9-d8a7-42c6-99fc-d3dc19f2cdff"
 ---
 大好きなボーカリストの一人、Salyu さんのライブに行ってきました。いったのは3月24日西川口リリアホール、そして4月29日東京国際フォーラムの2夜。
 

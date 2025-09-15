@@ -4,7 +4,7 @@ description: MagSafeバッテリーパックを導入してみました。
 date: '2021-08-04T14:57:57.260Z'
 categories: []
 keywords: []
-slug: MagSafe%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF+%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A4%E3%83%B3%E3%...
+slug: "1ca5ee06-e613-4f63-a09d-40e68a2b6737"
 ---
 MagSafeバッテリーパックを導入してみました。
 

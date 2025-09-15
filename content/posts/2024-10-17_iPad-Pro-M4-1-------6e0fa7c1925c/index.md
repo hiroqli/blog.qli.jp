@@ -4,7 +4,7 @@ description: 5月15日に受け取ってから、おおよそ1週間。iPad Pro 
 date: '2024-10-17T11:49:40.607Z'
 categories: []
 keywords: []
-slug: iPad+Pro+M4+1%E9%80%B1%E9%96%93%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC
+slug: "81c520cb-e566-4f3a-8973-1a1faa140e38"
 ---
 ![](0__WxMqjQ58aLeSowJQ.jpg)
 

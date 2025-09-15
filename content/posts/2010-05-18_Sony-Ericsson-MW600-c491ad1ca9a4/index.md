@@ -4,7 +4,7 @@ description: ''
 date: '2010-05-18T12:03:18.000Z'
 categories: []
 keywords: []
-slug: Sony+Ericsson+MW600
+slug: "de3a2029-caf6-4195-88bf-54a1f70feaf0"
 ---
 今日13時に発表された[ソニーエリクソンのMW600](http://www.sonyericsson.co.jp/product/accessories/mw600/index.html)を幸運にも頂けたのでレビューします。S004のブロガーレビューでもらったお土産とはこれでした。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2007-09-13T21:39:53.000Z'
 categories: []
 keywords: []
-slug: iPod%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%81%AE%E7%B4%B9%E4%BB%8B%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88
+slug: "88008656-c69f-4af3-9dfb-57bc6b1c7e1c"
 ---
 Appleが今週末新しいiPodシリーズの紹介イベントを行います。
 

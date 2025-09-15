@@ -4,7 +4,7 @@ description: ''
 date: '2009-09-02T09:00:11.000Z'
 categories: []
 keywords: []
-slug: posterous%E3%81%8C%E5%8F%96%E3%81%A3%E3%81%A4%E3%81%8D%E3%81%AB%E3%81%8F%E3%81%84
+slug: "b727ccbc-d7ae-4bdb-8149-a6bd380b52b2"
 ---
 Twitterでおつきあい頂いている方には分かっていると思いますが、ブログには紹介しきれていないほどの多数のWEBサービスのアカウントを持っていたりします。
 

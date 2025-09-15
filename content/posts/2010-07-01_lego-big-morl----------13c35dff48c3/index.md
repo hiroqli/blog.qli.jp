@@ -4,7 +4,7 @@ description: ''
 date: '2010-07-01T22:01:28.000Z'
 categories: []
 keywords: []
-slug: lego+big+morl+%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6
+slug: "f47f98d1-7388-4274-8cc5-5cb108ba0dd5"
 ---
 lego big morlのライブに行ってきました。今回のライブはシングル”ドリルドリル”リリース記念ということで、場所は渋谷クアトロ。
 

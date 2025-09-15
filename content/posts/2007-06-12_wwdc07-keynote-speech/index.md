@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-12T23:35:03.000Z'
 categories: []
 keywords: []
-slug: WWDC07+Keynote+Speech%E3%81%A7%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%95%E3%82%8C%E3%81%9F%E3%82%82%E3%81%AE
+slug: "fa302e97-bd66-4dc8-872d-770c02b2bf6a"
 ---
 WWDC07で発表されたのは10月発売のLeopardの機能とiPhoneの説明、そして、Safari 3 betaとそれのWindows版。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-19T14:25:14.000Z'
 categories: []
 keywords: []
-slug: "%E3%81%A4%E3%81%84%E3%81%ABMissyng+sync+for+WM5%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%EF%BC%81"
+slug: "a616f5b1-c85c-4541-b83f-d483595dbc98"
 ---
 ついに待望のものが出ました。
 

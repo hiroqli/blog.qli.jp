@@ -4,7 +4,7 @@ description: ''
 date: '2014-05-03T11:28:25.000Z'
 categories: []
 keywords: []
-slug: iTunes+Match+%E5%88%9D%E5%9B%9E%E3%81%AE%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9
+slug: "35e39e9f-86cb-485a-947c-12df6f6cb52a"
 ---
 iTunes Matchが5月2日に突然日本でサービス開始されました。
 

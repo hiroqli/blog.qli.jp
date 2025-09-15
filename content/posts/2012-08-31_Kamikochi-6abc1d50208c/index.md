@@ -4,7 +4,7 @@ description: ''
 date: '2012-08-31T20:07:11.000Z'
 categories: []
 keywords: []
-slug: Kamikochi
+slug: "b983debb-95a1-4296-9ae8-fafa7570a7cb"
 ---
 ちょっとお休みをもらって、上高地と呼ばれる山奥に行ってきました（経由地である松本もちょっと観光してきました）。
 

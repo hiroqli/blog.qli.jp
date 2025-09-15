@@ -4,7 +4,7 @@ description: ''
 date: '2007-11-16T00:53:19.000Z'
 categories: []
 keywords: []
-slug: TypePad%E3%81%AE%E5%AE%B9%E9%87%8F%E3%81%A8%E8%BB%A2%E9%80%81%E9%87%8F%E3%81%8C%E5%A2%97%E3%81%88%E3%81%BE%E3%81%97%E3%81%9F
+slug: "05854a8c-99a2-489a-8e17-545f44037c3f"
 ---
 TypePadが深夜のリニューアルで容量と転送量を増やしました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2015-09-13T12:00:00.000Z'
 categories: []
 keywords: []
-slug: iPhone%E8%B3%BC%E5%85%A5%E3%81%A7%E3%82%B5%E3%82%A4%E3%82%BA%E3%82%84%E8%89%B2%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%97%E3%81%AA%E3%81%8B%E3%81%A3%E3%81...
+slug: "d7250519-2abd-4c7c-bd1c-3cae40e2b895"
 ---
 とか書いたらききたいという反応をいただいたので、少し書いておきます。
 

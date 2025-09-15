@@ -4,7 +4,7 @@ description: ''
 date: '2008-10-09T16:37:30.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%A6%E3%83%93%E3%82%AD%E3%82%BF%E3%82%B9wifi%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%AA%E3%82%8BW-SIM%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF"
+slug: "b27ef4a2-9fff-4a38-b256-48ed72bccae3"
 ---
 willcomがこんなものを発表していました。
 

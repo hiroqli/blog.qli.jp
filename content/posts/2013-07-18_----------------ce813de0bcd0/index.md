@@ -4,7 +4,7 @@ description: ''
 date: '2013-07-18T20:38:12.000Z'
 categories: []
 keywords: []
-slug: "%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E5%BF%97%E5%90%91%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%92%E8%80%83%E3%81%88%E3%82%8B"
+slug: "9fb8c245-d3b9-4c2b-8f51-3215d4c91335"
 ---
 iOS7の登場によって一段と “フラットデザイン” への注目が俄然集まっているような気がします。この注目度は、もしかするとMicrosoftが Metro UI (Windows 8 Style) を発表した時以上な気がします。 Windows 8 Style は、Windows 8 はもちろん Windows Phone や XBOX、MS製iOSアプリに至るまで、MSのデザインの根幹をなすまでになっています。  
   

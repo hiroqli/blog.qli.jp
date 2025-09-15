@@ -4,7 +4,7 @@ description: ''
 date: '2014-01-03T01:54:55.000Z'
 categories: []
 keywords: []
-slug: "%E8%AC%B9%E8%B3%80%E6%96%B0%E5%B9%B4+2014"
+slug: "d9bee26f-5653-491b-879b-5d32f2bd7ce7"
 ---
 あけましておめでとうございます。
 

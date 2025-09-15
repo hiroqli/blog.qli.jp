@@ -4,7 +4,7 @@ description: ''
 date: '2011-06-07T21:16:03.000Z'
 categories: []
 keywords: []
-slug: WWDC+2011+%E3%82%AD%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%88
+slug: "d2ee83c3-1220-4af8-b961-84570debcadc"
 ---
 2011年6月７日午前２時（日本時間）に始まったWWDC 2011 Keynote Address は、今回のWWDCのメインである、OS X Lion, iOS 5, iCloud の紹介でした。そして、予め予告された通り、ハードウェアの発表は一切ありませんでした。すべてのデモは、MacBook AirとiPad 2、そしてiPhone 4 で行われました。
 

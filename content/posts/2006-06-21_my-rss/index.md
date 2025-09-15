@@ -4,7 +4,7 @@ description: ''
 date: '2006-06-21T10:02:28.000Z'
 categories: []
 keywords: []
-slug: My+RSS+%E7%AE%A1%E7%90%86%E4%BA%BA+%E3%83%96%E3%83%AD%E3%82%B0%3A+%E4%BC%9A%E8%AD%B0%E5%AE%A4%E5%9E%8B%E3%83%A1%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B8...
+slug: "f8a137e5-f48f-4261-99d1-fdce968e33e8"
 ---
 リンク: [My RSS 管理人 ブログ: 会議室型メッセンジャー「フレッシュミーティング」β版を公開します](http://blog.myrss.jp/archives/2006/06/post_67.html "My RSS 管理人 ブログ: 会議室型メッセンジャー「フレッシュミーティング」β版を公開します").
 

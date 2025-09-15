@@ -4,7 +4,7 @@ description: ''
 date: '2007-08-15T23:08:17.000Z'
 categories: []
 keywords: []
-slug: Skype2%2E7+beta+for+mac%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F
+slug: "d415ab18-ca72-4051-a092-8b46cfd4a194"
 ---
 windows版のskypeにはいろいろとトピックが続いていますが、Mac版も負けじとMacならではの進化を続けているようです。  
 リリースされたSkype 2.7 for Macにはアドレス帳との統合が図られました。

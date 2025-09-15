@@ -4,7 +4,7 @@ description: ''
 date: '2011-05-17T23:29:59.000Z'
 categories: []
 keywords: []
-slug: "%E7%99%BE%E4%B8%87%E5%86%86%E3%81%A8%E8%8B%A6%E8%99%AB%E5%A5%B3"
+slug: "a52208f5-93b0-4273-9cda-4c6e25dca3b7"
 ---
 書き忘れていたのだけど、大阪に行く新幹線の中で、iPad 2使って映画を見てた。
 

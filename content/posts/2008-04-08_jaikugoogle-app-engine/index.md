@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-08T11:40:34.000Z'
 categories: []
 keywords: []
-slug: Jaiku%E3%81%8CGoogle+App+Engine%E3%81%AE%E6%9C%80%E5%88%9D%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E3%81%A8%E3%81%97%E3%81%A6%E3%83%AA%E3%83%AA%E3%83%B...
+slug: "9edf0ec9-10cc-4802-ad31-70d6d1c1087f"
 ---
 買収したWikiエンジンをGoogle Appに乗せたGoogleが、jaikuもGoogle Appに乗せる計画であることが明かされました。
 

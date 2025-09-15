@@ -4,7 +4,7 @@ description: ''
 date: '2015-08-20T11:55:13.000Z'
 categories: []
 keywords: []
-slug: Things+Cloud+%E2%80%9CNimbus%E2%80%9D%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%95%E3%82%8C%E3%81%9F
+slug: "24549f08-a58b-4d67-b45d-9d9839c6203f"
 ---
 Cultured CodeからThings Cloud “Nimbus”がリリースされました。Things Cloudというのは、Things で デバイス間データ同期を仲介するためのサービスです。
 

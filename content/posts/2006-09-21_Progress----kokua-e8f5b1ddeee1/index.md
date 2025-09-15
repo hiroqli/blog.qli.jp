@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-21T20:39:00.000Z'
 categories: []
 keywords: []
-slug: Progress+%3A%3A+kokua
+slug: "45d5ca90-0a8d-4cc8-97df-83d890214111"
 ---
 **楽曲 / アルバムタイトル:** [Progress](http://www.amazon.co.jp/exec/obidos/ASIN/B000GEIQN8/mrchildrenonl-22/ref=nosim/)
 

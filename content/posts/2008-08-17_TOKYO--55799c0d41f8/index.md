@@ -4,7 +4,7 @@ description: ''
 date: '2008-08-17T00:47:16.000Z'
 categories: []
 keywords: []
-slug: TOKYO%21
+slug: "abc736f2-14e3-4cfd-b9a5-c07adfcfd0b6"
 ---
 映画「[TOKYO!](http://tokyo-movie.jp/)」を見てきました。
 

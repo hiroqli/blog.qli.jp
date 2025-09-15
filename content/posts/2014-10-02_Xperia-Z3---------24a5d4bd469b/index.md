@@ -4,7 +4,7 @@ description: ''
 date: '2014-10-02T14:36:06.000Z'
 categories: []
 keywords: []
-slug: Xperia+Z3%E3%81%AF%E3%81%84%E3%81%84%E7%AB%AF%E6%9C%AB%E3%81%A0%E3%81%A3%E3%81%9F
+slug: "1a60ebf1-d8aa-4cf1-9a71-53551dd35b02"
 ---
 NTT docomo / au / Softbank の3キャリアから出ることが発表されているXperia Z3の体験会 “Xperia アンバサダーミーティング” に行ってきました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2008-09-13T15:10:08.000Z'
 categories: []
 keywords: []
-slug: Let%E2%80%99s+Rock+with+New+iPod
+slug: "02b005a3-1fc3-4ac8-b0c8-aebec42f242b"
 ---
 Apple Store, Ginzaに新しいiPodを見に行ってきました。iPod側にかなりの人だかりが出来ていました。というわけで、今回はiPod nanoだけ見てきました。
 

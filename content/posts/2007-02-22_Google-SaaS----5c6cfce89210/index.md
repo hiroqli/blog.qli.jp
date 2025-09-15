@@ -4,7 +4,7 @@ description: ''
 date: '2007-02-22T17:51:50.000Z'
 categories: []
 keywords: []
-slug: Google%E3%81%8CSaaS%E3%82%92%E9%96%8B%E5%A7%8B
+slug: "7e3c36d0-5242-48d2-adfd-a97cdb3dfb0f"
 ---
 Googleが自らSaaSビジネスを開始するそうです。ついにこの日が来たって感じですね。
 

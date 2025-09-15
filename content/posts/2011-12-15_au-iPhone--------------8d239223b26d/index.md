@@ -4,7 +4,7 @@ description: ''
 date: '2011-12-15T20:45:07.000Z'
 categories: []
 keywords: []
-slug: au+iPhone%E3%81%AE%E5%90%84%E7%A8%AE%E5%AF%BE%E5%BF%9C%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E7%99%BA%E8%A1%A8
+slug: "f599bef3-9931-434f-886e-2d7cfcfcc3b5"
 ---
 auサポート公式Twitterアカウントが唐突に au iPhoneユーザー向けにクリスマスプレゼント(?)をくれました。
 

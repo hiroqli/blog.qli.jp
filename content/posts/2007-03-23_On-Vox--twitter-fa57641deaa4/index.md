@@ -4,7 +4,7 @@ description: ''
 date: '2007-03-23T01:27:10.000Z'
 categories: []
 keywords: []
-slug: On+Vox%3A+twitter
+slug: "7fbf752b-1413-4d49-bd1f-32022cb687b7"
 ---
 最近、多くのブロガーの多分に漏れず、[twitter](http://twitter.com/)にはまり気味。そもそも、SxSWの投票にはtwiterに投票してたしね。
 

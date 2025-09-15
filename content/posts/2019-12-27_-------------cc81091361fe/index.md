@@ -4,7 +4,7 @@ description: koalaを導入しました。koalaで有名なのはマットレス
 date: '2019-12-27T00:30:14.984Z'
 categories: []
 keywords: []
-slug: "%E3%82%B3%E3%82%A2%E3%83%A9%F0%9F%90%A8%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F"
+slug: "288a7c2d-2c24-4584-b325-bee8407e7838"
 ---
 koalaを導入しました。koalaで有名なのはマットレスですが、今回は枕の方。
 

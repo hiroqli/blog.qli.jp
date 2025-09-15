@@ -4,7 +4,7 @@ description: ''
 date: '2012-04-15T18:40:17.000Z'
 categories: []
 keywords: []
-slug: "%E6%98%A0%E7%94%BB+SPEC+%E5%A4%A9"
+slug: "1defc8f3-9026-4dfd-884b-8858c2e6a4cc"
 ---
 映画版SPEC、SPEC 天を見てきました。
 

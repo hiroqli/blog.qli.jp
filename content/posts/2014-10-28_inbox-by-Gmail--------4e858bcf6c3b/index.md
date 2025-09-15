@@ -4,7 +4,7 @@ description: ''
 date: '2014-10-28T23:51:15.000Z'
 categories: []
 keywords: []
-slug: inbox+by+Gmail+%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F
+slug: "7fe910a4-9213-441b-a1b8-2858a8dd9ea6"
 ---
 inboxのinvitationが届いたので早速使ってみました。
 

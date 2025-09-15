@@ -4,7 +4,7 @@ description: ''
 date: '2006-06-22T11:32:00.000Z'
 categories: []
 keywords: []
-slug: "%3E+TypePad1%2E8%E3%81%AE%E6%96%B0%E6%A9%9F%E8%83%BD"
+slug: "ed54e77c-3fea-41f8-a929-b8336b6db15d"
 ---
 久しぶりにfeedpathから書き込み。
 

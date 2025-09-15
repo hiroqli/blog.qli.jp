@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-30T21:22:02.000Z'
 categories: []
 keywords: []
-slug: "%E3%82%B5%E3%82%A4%E3%83%89%E3%82%AB%E3%83%BC%E3%81%AB%E7%8A%AC"
+slug: "4d35b19e-7ef7-4231-8422-aaa0b6473c71"
 ---
 「[サイドカーに犬](http://sidecar-movie.jp/)」見てきました。
 

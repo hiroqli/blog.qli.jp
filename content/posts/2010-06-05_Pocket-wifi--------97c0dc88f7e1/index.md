@@ -4,7 +4,7 @@ description: ''
 date: '2010-06-05T13:33:46.000Z'
 categories: []
 keywords: []
-slug: Pocket+wifi%E3%82%92%E5%85%A5%E6%89%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F
+slug: "c81f4317-e310-4386-a002-b3c585f79681"
 ---
 Pocket wifiというものを入手しました。って、これ読んでくれている人はたいていの人が知っているとは思いますが、一応説明を。
 

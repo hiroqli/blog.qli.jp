@@ -4,7 +4,7 @@ description: ''
 date: '2015-06-09T03:17:47.000Z'
 categories: []
 keywords: []
-slug: WWDC+2015+Keynote+%E3%81%AE%E3%81%96%E3%81%A3%E3%81%8F%E3%82%8A%E3%81%BE%E3%81%A8%E3%82%81
+slug: "c7120445-717d-411d-b209-91de4d9fc97e"
 ---
 _(オレンジとかみかんとかのつぎはりんごのはなし)_
 

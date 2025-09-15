@@ -4,7 +4,7 @@ description: ''
 date: '2014-04-08T22:21:58.000Z'
 categories: []
 keywords: []
-slug: Lightroom+mobile%E3%81%8C%E7%99%BB%E5%A0%B4
+slug: "ec49b0e5-37e2-46b7-8928-74cff2fbcc47"
 ---
 Lightroom mobileがリリースされました。iPhone版とiPad版が用意されているみたいですが、いまのところiPad版のみのリリースとなっています。
 

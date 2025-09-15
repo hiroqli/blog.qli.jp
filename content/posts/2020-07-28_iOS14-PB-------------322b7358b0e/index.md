@@ -4,7 +4,7 @@ description: 今年の夏も次期iOSの Public Beta が登場しています。
 date: '2020-07-28T10:25:21.066Z'
 categories: []
 keywords: []
-slug: iOS14+PB+%E3%81%A7%E9%9F%B3%E6%A5%BD%E3%81%8C%E6%A5%BD%E3%81%97%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E8%A9%B1
+slug: "f07d4ba2-aa26-462d-8516-6c8167143d0a"
 ---
 今年の夏も次期iOSの Public Beta が登場しています。Appleは日常使いのiPhoneに入れないでね、という警告とともに出していますが、アップデートしてしまう人が今年も多く見られるようです。夏の風物詩のようですね。
 

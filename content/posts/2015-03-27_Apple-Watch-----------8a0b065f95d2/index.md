@@ -4,7 +4,7 @@ description: ''
 date: '2015-03-27T00:01:36.000Z'
 categories: []
 keywords: []
-slug: Apple+Watch%E5%AF%BE%E5%BF%9C%E3%82%A2%E3%83%97%E3%83%AA%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9
+slug: "c0d958bb-4f1a-4e12-9e8d-b182685237c5"
 ---
 Appleが、Apple Watch対応を含んだアプリを解禁しました。
 

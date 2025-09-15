@@ -4,7 +4,7 @@ description: ''
 date: '2007-09-20T18:27:50.000Z'
 categories: []
 keywords: []
-slug: iPod+Touch%E7%99%BA%E5%A3%B2%E6%97%A5%E3%81%AF%EF%BC%9F
+slug: "5543b7bf-aa7f-4fff-9b7e-62959992eca5"
 ---
 iPod Touchが発表されてはや2週間。欧州からはiPhoneの話も聞こえてきますが、”This month”に出荷されるといわれた発表の日に注文して、待ち続ける日々を送っている方々もいらっしゃるのではないでしょうか？
 

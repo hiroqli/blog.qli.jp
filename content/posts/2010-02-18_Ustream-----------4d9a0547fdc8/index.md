@@ -4,7 +4,7 @@ description: ''
 date: '2010-02-18T22:48:17.000Z'
 categories: []
 keywords: []
-slug: Ustream%E3%81%A7%E3%81%A9%E3%81%9F%E3%81%B0%E3%81%9F%E3%83%A9%E3%82%A4%E3%83%96%E6%94%BE%E9%80%81
+slug: "e72ad2eb-0d85-492c-b6f6-745cbfe0ceeb"
 ---
 クラムボン、ミトさんがUstreamに登場していた。
 

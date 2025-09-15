@@ -4,7 +4,7 @@ description: ''
 date: '2008-06-23T16:03:13.000Z'
 categories: []
 keywords: []
-slug: iPhone+3G%E3%81%AESoftbank%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%86%85%E5%AE%B9%E3%81%8C%E6%98%8E%E3%82%89%E3%81%8B%E3%81%AB
+slug: "ca33c548-fef6-4346-a65a-840c5ea3b159"
 ---
 6月23日、SoftbankのiPhone 3Gのサービス内容が明らかになりました。簡単にまとめておきます。具体的にはSoftbankの[ニュースリリース](http://www.softbankmobile.co.jp/ja/news/press/2008/20080623_02/index.html)をご覧ください。(追記などがあればこのページに順次追加していきます)
 

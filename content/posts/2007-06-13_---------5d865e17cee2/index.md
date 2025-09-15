@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-13T10:32:11.000Z'
 categories: []
 keywords: []
-slug: "%E3%81%82%E3%82%8F%E3%81%9B%E3%81%A6%E8%AA%AD%E3%81%BF%E3%81%9F%E3%81%84"
+slug: "51c6bd2a-1478-401f-8ad7-282c05450fe3"
 ---
 [フィードメーター](http://feedmeter.net/)運営元[サイドフィード](http://sidefeed.com/)社から新しいサービスが提供されました。その名も「[あわせて読みたい](http://awasete.com/)」。このあたりのネーミングセンス、なかなかだと思います。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2012-12-01T18:25:32.000Z'
 categories: []
 keywords: []
-slug: "%5B%28an+imitation%29+blood+orange%5D"
+slug: "4e1fe7f0-9d77-41e2-b183-1677815385de"
 ---
 Mr.Childrenの新作が出ました。アルバムとしては2010年12月1日発売の”SENSE”以来、CDとしても2012年4月18日のシングル”祈り/End of the day/piece”以来となります。というよりも、アルバム”SENSE”とこの新作の間にはシングル1枚しか出ていません（配信限定ってのはありますが）。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2010-05-17T22:07:36.000Z'
 categories: []
 keywords: []
-slug: au+2010+%E5%A4%8F%E3%83%A2%E3%83%87%E3%83%AB+S004+%E3%82%92%E8%A7%A6%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F
+slug: "872d4677-4326-40b8-9e38-5c609f50599b"
 ---
 明日(5/17)に控えたNTT docomo、ソフトバンクの発表会に先駆けて、[auの2010夏モデルが発表](http://www.kddi.com/corporate/news_release/2010/0517/index.html)されました。
 

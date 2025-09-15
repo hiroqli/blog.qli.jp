@@ -4,7 +4,7 @@ description: Twitter見てたらふらっと流れてきたので、ポチッと
 date: '2018-03-10T02:55:08.804Z'
 categories: []
 keywords: []
-slug: Cheero+Wireless+Earphones+%E3%81%8C%E5%B1%8A%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F
+slug: "06a15a4d-b397-4644-bdbb-c6f6ccf5bd01"
 ---
 ![](1__Dft9KHhijw__bUXPReE__cKw.jpeg)
 

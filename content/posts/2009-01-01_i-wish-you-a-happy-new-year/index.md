@@ -4,7 +4,7 @@ description: ''
 date: '2009-01-01T17:03:44.000Z'
 categories: []
 keywords: []
-slug: I+wish+you+a+happy+new+year%21
+slug: "3ca68f1f-4383-4b8e-a9ea-c43b19e72549"
 ---
 新年あけましておめでとうございます。2009年もよろしくお願いします。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2009-10-20T08:44:53.000Z'
 categories: []
 keywords: []
-slug: iPhone+%E6%83%85%E5%A0%B1%E6%95%B4%E7%90%86%E8%A1%93+%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A0
+slug: "cfa44f2b-2360-426c-9599-17265be1ecef"
 ---
 Twitterやブログなどでお世話になっている、[Lifehaking.jp](http://lifehacking.jp/) の [mehori](http://twitter.com/mehori) さんが本を書かれたということで、読んでみました。限定場所で先行発売（？）されていたらしく、早めに入手できました。
 

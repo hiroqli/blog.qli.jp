@@ -4,7 +4,7 @@ description: ''
 date: '2013-08-18T15:48:03.000Z'
 categories: []
 keywords: []
-slug: Waiting+for%E3%81%AE%E5%AE%9F%E8%A3%85
+slug: "a119c6a7-b77d-45aa-b1b3-f3a177b636b0"
 ---
 このブログでずっと参照され続けている記事があります。[OmniFocus1の使い方](/2013/02/omnifocus1-manual.html)と[Things 2の使い方](/2013/01/things2-manual-201301.html)に関する記事です。  
   

@@ -4,7 +4,7 @@ description: ''
 date: '2011-05-22T21:24:42.000Z'
 categories: []
 keywords: []
-slug: Chim%E2%86%91pom%E5%B1%95+%E2%80%9CREAL+TIMES%E2%80%9D
+slug: "eb6763bd-62cd-453f-a6d4-71a81607d3f1"
 ---
 “REAL TIMES”にいってきました。
 

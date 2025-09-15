@@ -4,7 +4,7 @@ description: ''
 date: '2007-11-27T22:38:39.000Z'
 categories: []
 keywords: []
-slug: FeedBurner%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%90%E3%82%BA%E3%81%A7%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%84%E3%81%9F%E...
+slug: "429052a0-7215-4142-893f-3a8391045361"
 ---
 このブログをfeedburner.jpのブログであるFeedBurnerパブリッシャーバズでご紹介いただきました。僭越ながら僕のコメントつきです。
 

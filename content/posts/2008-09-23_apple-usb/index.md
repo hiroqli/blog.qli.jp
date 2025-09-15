@@ -4,7 +4,7 @@ description: ''
 date: '2008-09-23T21:56:28.000Z'
 categories: []
 keywords: []
-slug: Apple+%E8%B6%85%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88+USB+%E9%9B%BB%E6%BA%90%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E4%BA%A4%E6%8F%9B%E3%83%97%...
+slug: "66dae2eb-8d24-4692-a026-b8ccee275add"
 ---
 記事自体が古いものになってしまいましたが。取り上げないわけにはいかないだろうと。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2008-06-12T23:27:11.000Z'
 categories: []
 keywords: []
-slug: iPhone%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%BE%E3%81%99
+slug: "7967a95d-c8f6-4e35-ac47-320143e95395"
 ---
 ちょっとしたアンケートをしたいなと思ったので作成してみました。アンケートはGoogle Documentで作成しました。
 

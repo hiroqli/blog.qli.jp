@@ -4,7 +4,7 @@ description: ''
 date: '2007-08-08T08:26:48.000Z'
 categories: []
 keywords: []
-slug: Apple%E6%96%B0%E5%95%86%E5%93%81%E7%99%BA%E8%A1%A8%E4%BC%9A
+slug: "7a86dcb5-a242-417a-b53f-516e848dfa16"
 ---
 さて、今日はApple祭りということで（笑）
 

@@ -4,7 +4,7 @@ description: ''
 date: '2009-12-07T12:59:11.000Z'
 categories: []
 keywords: []
-slug: iPhone%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB
+slug: "5dbc9e1a-b051-49b0-95ad-5dddaa67693c"
 ---
 iPhone 3GSを使っていて、たまに起きるのだけれどもすごく困っているのでポスト。
 

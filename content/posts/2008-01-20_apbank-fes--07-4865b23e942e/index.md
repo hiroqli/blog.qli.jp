@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-20T15:29:02.000Z'
 categories: []
 keywords: []
-slug: apbank+fes+%E2%80%9807
+slug: "9e8df831-d1ec-47f4-8948-0b67775ed3c9"
 ---
 apbank fes’07のDVDがリリースされた。去年のapbank fesは突然の台風で3．5日の開催予定が1日となってしまった。このDVDには、その1日限りのfesの模様を含め、台風の中での中止から再開、そして終わった後の活動までのすべてが納められている。
 

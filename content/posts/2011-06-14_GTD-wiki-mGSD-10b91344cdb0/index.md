@@ -4,7 +4,7 @@ description: ''
 date: '2011-06-14T21:28:34.000Z'
 categories: []
 keywords: []
-slug: GTD%E7%94%A8wiki+mGSD
+slug: "f015bcf9-ef5f-4dba-b19b-e4d3190e35ef"
 ---
 最近、仕事用のマシンがMacからWindowsに変更されまして。Windowsといえば、多くのGTDerを苦しめてきたOS(笑)というわけで、GTDをどうやって構築しようか悩んでいました。
 

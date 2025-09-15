@@ -5,7 +5,7 @@ description: Thingsの記事を書くと（このブログとしては）意外�
 date: '2018-04-18T15:03:49.011Z'
 categories: []
 keywords: []
-slug: Things+3%2E5+%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9
+slug: "724bc82f-ee34-4150-944b-471d2f454e4e"
 ---
 Thingsの記事を書くと（このブログとしては）意外と読んでくれる方が多いのと、そもそも日本語のThingsの記事少ないよね、ということで、Things3.5 についても紹介します。
 

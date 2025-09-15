@@ -4,7 +4,7 @@ description: ''
 date: '2010-12-09T22:17:56.000Z'
 categories: []
 keywords: []
-slug: WM3500R%E3%81%A8IS03
+slug: "424f676b-9e76-45c4-9dcb-9bb438a8bf22"
 ---
 たまには個人ブログっぽい記事でも書いてみることにする。
 

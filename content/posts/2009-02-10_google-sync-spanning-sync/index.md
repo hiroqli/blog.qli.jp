@@ -4,7 +4,7 @@ description: ''
 date: '2009-02-10T09:29:46.000Z'
 categories: []
 keywords: []
-slug: Google+Sync+%28%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81spanning+sync%29
+slug: "df932cce-c135-44c9-a530-b3304fc6c46f"
 ---
 Googleがまたモバイル向けに新しいサービスをローンチしました。GoogleのアプリケーションであるGoogle CalendarとGmail Contactsを同期するGoogle syncです。
 

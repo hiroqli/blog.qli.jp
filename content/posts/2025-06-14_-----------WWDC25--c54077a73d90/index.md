@@ -4,7 +4,7 @@ description: 今年も6月がきて、久しぶりの寝不足の朝を経験し
 date: '2025-06-14T03:01:40.332Z'
 categories: []
 keywords: []
-slug: "%E6%A2%85%E9%9B%A8%E3%81%A8%E6%B0%B4%E6%BB%B4%E3%81%A8%E3%82%AB%E3%82%99%E3%83%A9%E3%82%B9%28WWDC25%29"
+slug: "d98ef98a-ad6b-4a8e-a226-1fd338502eef"
 ---
 ![](1__gK8nwoohOAbSZuJyMcyIdA.jpeg)
 

@@ -4,7 +4,7 @@ description: ''
 date: '2013-07-08T20:14:26.000Z'
 categories: []
 keywords: []
-slug: websig+vol%2E33+%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%9F
+slug: "117cb2e1-7dd7-4002-8df1-6deac949d427"
 ---
 すっかり書くのを忘れていたのですが、6/29 に開催された WebSig vol.33 に参加しました。
 

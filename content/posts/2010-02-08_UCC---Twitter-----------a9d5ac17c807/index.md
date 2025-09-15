@@ -4,7 +4,7 @@ description: ''
 date: '2010-02-08T14:05:42.000Z'
 categories: []
 keywords: []
-slug: UCC+%E3%81%A8+Twitter%E3%81%AB%E3%82%88%E3%82%8B%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0
+slug: "16fe3a39-c9ad-4507-9a26-f1284ab3ed3f"
 ---
 先日のUCCの件、さがすといろんなブログで書かれていますね。その後、どうやら代理店経由ではなく、UCCが直でやったことらしいというところまで聞こえてきます。その後、[UCCは公式アカウントをきちんと立ち上げました](http://twitter.com/ueshimacoffee)。
 

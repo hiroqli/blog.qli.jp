@@ -4,7 +4,7 @@ description: ''
 date: '2009-01-15T13:56:37.000Z'
 categories: []
 keywords: []
-slug: Jaiku%E3%81%A8DodgeBall%E3%81%AE%E4%BA%8B%E5%AE%9F%E4%B8%8A%E3%81%AE%E5%87%8D%E7%B5%90
+slug: "0716ff42-85c4-4dd6-b9a4-4e52a030ec64"
 ---
 GoogleがGoogle Code Blogにて[驚きのポスト](http://google-code-updates.blogspot.com/2009/01/changes-for-jaiku-and-farewell-to.html)をしています。
 

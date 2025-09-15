@@ -4,7 +4,7 @@ description: ''
 date: '2014-03-06T13:15:45.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%96%E3%83%AD%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E8%AA%BF%E6%9F%BB%E4%B8%AD"
+slug: "dc7b7cb5-51e2-44f9-bf50-541ba9c8f860"
 ---
 最近あちらこちらのブログサービスを調べている。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2007-08-25T17:09:34.000Z'
 categories: []
 keywords: []
-slug: On+Vox%3A+%E5%88%A5%E5%86%8A%E3%82%AB%E3%83%89%E3%82%AB%E3%83%AF+apbank+fes%E2%80%9907%E7%89%B9%E9%9B%86%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A0
+slug: "528900df-0223-4660-82b2-11e40235f956"
 ---
 class=”enclosure enclosure-left enclosure-small book-enclosure”  
 style=”text-align: center; float: left;”>

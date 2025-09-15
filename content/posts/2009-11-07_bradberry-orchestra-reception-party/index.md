@@ -4,7 +4,7 @@ description: ''
 date: '2009-11-07T17:46:22.000Z'
 categories: []
 keywords: []
-slug: BradBerry+Orchestra+Reception+Party
+slug: "80369213-660f-4080-a268-5a9ef39a47f1"
 ---
 BBO、BradBerry Orchestra Reception Partyに行ってきました。場所は東京ミッドタウンにある、ビルボード東京。ビルボード東京初のオールナイト公演だったらしいです。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2025-01-24T15:02:13.469Z'
 categories: []
 keywords: []
-slug: OmniFocus%E3%81%A8OpenGPT%E3%82%92%E9%80%A3%E6%90%BA%E3%81%95%E3%81%9B%E3%82%8B%E8%A9%B1
+slug: "77719e56-9bd4-4d2c-93f8-105c1e409d6a"
 ---
 前回のブログでは、久しぶりにOmniFocusの使い方についてまとめました。しかし、そこでは書ききれなかったこぼれ話があります。今回はそれを取り上げたいと思います。
 

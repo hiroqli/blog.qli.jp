@@ -4,7 +4,7 @@ description: ''
 date: '2010-10-09T23:12:02.000Z'
 categories: []
 keywords: []
-slug: IS03%E3%82%92%E8%A7%A6%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F+%28+at+CEATEC+JAPAN+2010+%29
+slug: "fde77e51-9d3a-4477-bbf9-2f8bbc7f0ab6"
 ---
 CEATEC JAPANの一般公開日にいってきました。今回は携帯電話に関する話題が多くて、Wimax2やドコモのXiとGalaxy S/Tab、シャープのガラパゴス、そしてIS03です。
 

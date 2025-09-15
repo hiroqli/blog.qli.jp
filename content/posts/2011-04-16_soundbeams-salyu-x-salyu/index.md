@@ -4,7 +4,7 @@ description: ''
 date: '2011-04-16T08:40:39.000Z'
 categories: []
 keywords: []
-slug: s%28o%29un%28d%29beams+%3A%3A+salyu+x+salyu
+slug: "88d78a5a-93fe-49d1-8848-188512d4b7ea"
 ---
 Salyuさんがコーネリアスと始めた salyu x salyu プロジェクト。アルバム s(o)un(d)beams という形でまとめられたわけですが、震災の影響を受けながらも、やっと発売されました。そして、昨日4月15日にはリリースパーティがありました。
 

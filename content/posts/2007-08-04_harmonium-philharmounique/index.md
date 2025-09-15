@@ -4,7 +4,7 @@ description: ''
 date: '2007-08-04T00:15:04.000Z'
 categories: []
 keywords: []
-slug: HarmoNium+%3A+PhilHarmoUniQue
+slug: "3dfac77c-b1a4-4d53-b37e-96014328b10f"
 ---
 いろいろ新しい音楽が最近入荷していて、あわただしい（毎日音楽聞いていたい！）感じなのですが、そんな中でも思わずはまってしまった1枚をご紹介。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-13T06:15:52.000Z'
 categories: []
 keywords: []
-slug: iPod%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E4%B8%80%E6%96%B0
+slug: "5fb301f0-82fd-496c-b37b-3517822cb509"
 ---
 新しいiPod nano, IPod 80G, そして予想だにしなかった新しいiPod shuffleが登場しました。
 

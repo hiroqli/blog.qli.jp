@@ -4,7 +4,7 @@ description: ''
 date: '2012-06-12T08:46:22.000Z'
 categories: []
 keywords: []
-slug: WWDC2012+Keynote
+slug: "47693a0a-cf2a-4ff8-8321-857d829a6a29"
 ---
 2012年6月12日2:00am JST、今年の1大イベントであるWWDC2012 Keynoteが行われました。
 

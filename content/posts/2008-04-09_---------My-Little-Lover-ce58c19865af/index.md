@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-09T20:54:38.000Z'
 categories: []
 keywords: []
-slug: "%E3%82%A4%E3%83%8B%E3%82%B7%E3%83%A3%E3%83%AB+%3A%3A+My+Little+Lover"
+slug: "323ca911-814e-4a09-9214-aa99d615ac3f"
 ---
 アルバム先行シングルなのであえて紹介するつもりはなかったけど、びっくりしたのでご紹介。
 

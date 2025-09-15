@@ -4,7 +4,7 @@ description: ''
 date: '2014-05-18T22:38:02.000Z'
 categories: []
 keywords: []
-slug: "%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3%3A+Getting+Started+with+Things"
+slug: "78eb42e6-90e8-4b5b-abc0-6dd67f4eb252"
 ---
 Thingsの開発元である cultured codeが “Getting Started with Things" というページを公開しています。
 

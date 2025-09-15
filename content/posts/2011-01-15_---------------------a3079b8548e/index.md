@@ -4,7 +4,7 @@ description: ''
 date: '2011-01-15T15:25:26.000Z'
 categories: []
 keywords: []
-slug: "%E6%98%A0%E7%94%BB+%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+%E3%82%92%E8%A6%8B%E3%81%A6%..."
+slug: "99f9239e-b7d6-47fa-b223-c0d5e6be97eb"
 ---
 公開初日のレイトショー第２弾というわけで。
 

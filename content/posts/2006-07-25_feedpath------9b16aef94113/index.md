@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-25T14:53:04.000Z'
 categories: []
 keywords: []
-slug: feedpath%E3%81%B8%E3%81%AE%E3%81%94%E8%A6%81%E6%9C%9B
+slug: "4549bb04-024d-4a1a-bd92-9e748fb7c13f"
 ---
 そういえば、続きネタでひとつ。feedpathへの追加要望を。(ないって言ったくせに)
 

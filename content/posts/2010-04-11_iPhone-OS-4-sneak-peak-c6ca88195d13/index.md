@@ -4,7 +4,7 @@ description: ''
 date: '2010-04-11T09:11:51.000Z'
 categories: []
 keywords: []
-slug: iPhone+OS+4+sneak+peak
+slug: "c4bb7c33-85d7-4d57-bc90-058bedce5d58"
 ---
 2010年4月8日（日本時間2010年4月9日）、iPhone OSの次のメジャーバージョンアップである iPhone OS 4 が発表されたのはご存じの通り。iPhone OS 4 for iPhone / iPod Touchは今夏、for iPad は今秋のリリースと宣言されました。
 

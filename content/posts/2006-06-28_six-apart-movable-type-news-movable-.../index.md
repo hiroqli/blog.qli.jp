@@ -4,7 +4,7 @@ description: ''
 date: '2006-06-28T21:36:24.000Z'
 categories: []
 keywords: []
-slug: Six+Apart+%E2%80%94+Movable+Type+News%3A+Movable+Type+3%2E3+%E6%AD%A3%E5%BC%8F%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9
+slug: "a273d310-898d-45ec-87d5-c03a65484a2b"
 ---
 リンク: [Six Apart — Movable Type News: Movable Type 3.3 正式リリース](http://www.sixapart.jp/movabletype/news/2006/06/28-1948.html "Six Apart - Movable Type News: Movable Type 3.3 正式リリース").
 

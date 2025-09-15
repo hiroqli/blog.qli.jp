@@ -4,7 +4,7 @@ description: ''
 date: '2014-03-10T10:08:53.000Z'
 categories: []
 keywords: []
-slug: JR%E6%9D%B1%E6%97%A5%E6%9C%AC%E3%81%8C%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9
+slug: "49735a57-c9c4-4f53-b9de-943859b2613d"
 ---
 JR東日本が、公式アプリを出した。
 

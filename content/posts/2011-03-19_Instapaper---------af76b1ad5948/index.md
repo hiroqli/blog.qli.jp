@@ -4,7 +4,7 @@ description: ''
 date: '2011-03-19T12:52:56.000Z'
 categories: []
 keywords: []
-slug: Instapaper%E3%81%AB%E5%85%B1%E6%9C%89%E6%A9%9F%E8%83%BD%E3%81%8C%E8%BF%BD%E5%8A%A0
+slug: "725fbce7-458a-4eaa-88d4-01b2fb170a5d"
 ---
 iPadユーザーになってから、instapaperをよく使っています。簡単に説明すると、あとで読みたいWEBページのURLを登録しておくと、読みやすい形で読めるようにするというサービスです。たとえばモバイルで読みやすい形にテキストベースに変換してくれますし、PCからだと通常のリンク集のように使えます。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2007-07-02T00:23:36.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%87%E3%82%B8%E3%82%AB%E3%83%A1+DSC-T100"
+slug: "59de9127-50cf-4171-85cc-5fb277ecd547"
 ---
 デジカメ買いました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2007-02-15T21:47:11.000Z'
 categories: []
 keywords: []
-slug: "%E5%A4%9A%E3%81%8F%E5%A4%89%E6%9B%B4%E3%81%8C%E6%96%BD%E3%81%95%E3%82%8C%E3%81%9FWindows+Vista"
+slug: "d053649a-b8a0-4085-abdf-ca660e4af8d5"
 ---
 メインをWindowsからMacに移行してすでに一年以上がたちますが、それでもメインの開発機は開発環境が整えやすいwindowsのままです。もっとも、XAMPPとEclipseが動けばいいので、プラットフォームは問わないはずなんですけどね。でも、EclipseをMacでさわると違和感を感じてしまう。  
   

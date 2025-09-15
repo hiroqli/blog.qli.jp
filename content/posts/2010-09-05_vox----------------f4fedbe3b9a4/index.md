@@ -4,7 +4,7 @@ description: ''
 date: '2010-09-05T20:09:33.000Z'
 categories: []
 keywords: []
-slug: vox%E3%81%AE%E9%96%89%E9%8E%96%E3%81%AB%E6%80%9D%E3%81%86%E3%80%81%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E7%AB%8B%E3%81%A1%E4%BD%8D%E7%BD%AE
+slug: "9b37a643-1654-4692-8639-26b9198ce62c"
 ---
 9月3日、シックスアパートが全世界でのVox終了を宣言した。
 

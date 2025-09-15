@@ -4,7 +4,7 @@ description: ''
 date: '2025-03-01T03:02:22.169Z'
 categories: []
 keywords: []
-slug: Things%E3%81%AE%E3%82%BF%E3%82%AF%E3%82%99%E3%80%81%E3%81%A8%E3%82%99%E3%81%86%E4%BD%BF%E3%81%86%3F
+slug: "16523aae-31b4-4af2-a26f-79d3b459b1d3"
 ---
 OmniFocusについてよく書いているが、実はThingsの方が好きだ。Thingsはタッチパネルネイティブなアプリで、OmniFocusはキーボードネイティブなアプリだと感じている。手書きの使いやすさも加えて、iPadでの操作性はとてもよい。
 

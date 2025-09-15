@@ -4,7 +4,7 @@ description: ''
 date: '2014-08-21T09:00:23.000Z'
 categories: []
 keywords: []
-slug: Hello%2C+Ghost
+slug: "12dc8983-55b1-4af6-9b97-fd41eaafe225"
 ---
 ついにブログプラットフォームをGhostに移行しました。Kickstarterでもいくらか応援していたのですが、まだGhost自体は internationalize ができておらず（次のバージョンの予定）、まだいろいろ日本語環境からだと不便はあるのですが、思い切って移行することにしました。
 

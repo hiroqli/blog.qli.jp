@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-30T09:58:06.000Z'
 categories: []
 keywords: []
-slug: iPhone%E3%81%AB%2Emac+sync%E3%81%8C%E8%BF%BD%E5%8A%A0%E3%81%95%E3%82%8C%E3%82%8B%EF%BC%9F
+slug: "896f15b9-e68c-4ae9-a638-5ed94060e4ad"
 ---
 これまでのiPodでも、iTunesを解析して、iPodに追加されるらしい新機能を予想していたわけですが、iPhone SDKに対しても同じことが行われているようです。
 

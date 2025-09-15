@@ -4,7 +4,7 @@ description: ''
 date: '2007-08-04T23:48:56.000Z'
 categories: []
 keywords: []
-slug: backpack%E3%82%92%E8%A7%A6%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F
+slug: "d47f3ddf-82ab-4417-a086-7c958a275e4c"
 ---
 久しぶりに面白いWEBサービスをさわったので軽くレビュー。
 

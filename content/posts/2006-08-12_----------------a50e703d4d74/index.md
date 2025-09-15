@@ -4,7 +4,7 @@ description: ''
 date: '2006-08-12T21:42:59.000Z'
 categories: []
 keywords: []
-slug: "%E8%87%AA%E4%BD%9C%E3%82%A2%E3%83%97%E3%83%AA%E5%85%AC%E9%96%8B%EF%BC%81%E3%83%BB%E3%83%BB%E3%83%BB%E3%81%AE%E3%81%AF%E3%81%9A%E3%81%8C"
+slug: "55c3f8c8-a379-467b-82f0-e12ed2cf3003"
 ---
 今日は朝から週次レビューの日・・・のはずが朝寝坊してしまいました。
 

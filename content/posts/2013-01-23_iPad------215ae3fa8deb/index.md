@@ -4,7 +4,7 @@ description: ''
 date: '2013-01-23T22:55:00.000Z'
 categories: []
 keywords: []
-slug: iPad+%E3%81%AE%E4%BD%BF%E3%81%84%E9%81%93
+slug: "6a22b7c2-df12-4567-877d-b344eae25b1a"
 ---
 iPad miniを毎日持ち歩いていますが、使わないこともしばしば。そこで、iPadの使い道ってどこなんだっけ？っていうのを考えてみることにしました。ここではiPhoneよりもiPadだからこそやることをまとめてみることにします。
 

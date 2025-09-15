@@ -4,7 +4,7 @@ description: ''
 date: '2013-03-04T20:28:26.000Z'
 categories: []
 keywords: []
-slug: LISMO+WAVE+for+iOS+%E3%81%8C%E7%99%BB%E5%A0%B4
+slug: "501b46ec-5679-412c-aa0a-e51b76d43e5b"
 ---
 本日3月4日、au の LISMO WAVEがiOSに対応しました([公式サイト](http://www.au.kddi.com/iphone/service/app/lismo-wave/))。
 

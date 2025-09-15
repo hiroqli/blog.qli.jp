@@ -4,7 +4,7 @@ description: ''
 date: '2007-12-05T07:54:17.000Z'
 categories: []
 keywords: []
-slug: "%E3%81%A4%E3%81%84%E3%81%AB%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9FGTalk+%2B+AIM%E3%81%AE%E9%80%A3%E6%90%BA"
+slug: "5f242bb2-9a54-4bed-9018-013dd17e9949"
 ---
 Google TalkとAIMの連携については、以前[こちら](http://blog.qli.jp/2007/11/google_talkaim_1ad9.html)でもお伝えしましたが、公式ブログによるとすでに実装されているようです。GmailにログインするとChatコンタクトリストの下に”Options▼”というリンクが増えています。ここから自由にGTalk/AIMのログイン・ログアウトができるようになりました。試しにAIMと共通のシステム基盤を使っているDotMacアカウントでログインしてみたところ、ログイン可能でした。
 

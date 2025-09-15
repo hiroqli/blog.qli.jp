@@ -4,7 +4,7 @@ description: ''
 date: '2007-10-10T06:29:37.000Z'
 categories: []
 keywords: []
-slug: "%E6%96%B0%E3%81%97%E3%81%84MacBook%E3%81%8C11%E6%9C%88%E3%81%AB%EF%BC%9F"
+slug: "adce243c-b388-4a77-a17a-fd632ee476c6"
 ---
 Mac Rumorsによると、今月末Leopardがリリースされた後、11月の上旬にはMacBookが新しくなるという噂があるようです。 前回のリニューアルで見送られたSanta Roseの搭載が目玉になるようです。
 

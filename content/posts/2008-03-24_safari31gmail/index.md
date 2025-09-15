@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-24T23:55:55.000Z'
 categories: []
 keywords: []
-slug: Safari3%2E1%E3%81%A7Gmail%E3%81%8C%E4%B8%8D%E8%AA%BF%E3%81%AA%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B%E3%82%89%E3%81%97%E3%81%84
+slug: "d68a4edf-bc05-47e8-9ed3-8930567cf87a"
 ---
 どうやらSafari3.1をインストールした方々から、
 

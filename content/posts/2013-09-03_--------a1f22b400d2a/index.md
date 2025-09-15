@@ -4,7 +4,7 @@ description: ''
 date: '2013-09-03T20:06:02.000Z'
 categories: []
 keywords: []
-slug: "%E8%AA%A4%E9%80%81%E4%BF%A1%E3%81%84%E3%82%8D%E3%81%84%E3%82%8D"
+slug: "537e1d19-3a52-4110-9c63-f72978e36a1d"
 ---
 自分はTwitter Idが @hiro なのだけれども、短いTwitter ID使っているといろいろな誤送信がやってくる。
 

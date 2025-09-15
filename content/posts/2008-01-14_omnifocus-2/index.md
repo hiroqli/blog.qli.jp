@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-14T00:25:39.000Z'
 categories: []
 keywords: []
-slug: Omnifocus%E3%81%AE%E3%82%BF%E3%82%B9%E3%82%AF%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E3%82%92%E8%A7%A3%E6%B1%BA%E3%81%99%E3...
+slug: "aedc6368-8cf1-4d93-8ada-7d40dd97f9fb"
 ---
 OmniFocusに関するブログの記事があまりないのですが、日本語圏のMacユーザのどのくらいの方が利用されているのでしょうかね。
 

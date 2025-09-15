@@ -4,7 +4,7 @@ description: ''
 date: '2007-10-16T22:27:42.000Z'
 categories: []
 keywords: []
-slug: Mac+OS+X+10%2E5+Leopard%E3%81%8C%E6%AD%A3%E5%BC%8F%E3%81%AB%E7%99%BA%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81
+slug: "c07a6203-099c-4939-ab1f-77eb4fe2fadb"
 ---
 やっとやっとやっと…。
 

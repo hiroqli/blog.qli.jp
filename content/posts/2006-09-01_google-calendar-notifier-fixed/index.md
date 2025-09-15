@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-01T07:36:14.000Z'
 categories: []
 keywords: []
-slug: Google+Calendar+Notifier+fixed%2E
+slug: "99cabf59-a5a3-4322-b8d8-232337d2a8c4"
 ---
 先日、[こちら](http://blog.qli.jp/2006/08/gmail_notifier_7ba3.html)でお伝えしたGoogle Notifierですが、あちこちで
 

@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-21T15:57:53.000Z'
 categories: []
 keywords: []
-slug: Firefox3+beta5%E3%81%AF%E4%B8%80%E8%88%AC%E3%83%A6%E3%83%BC%E3%82%B6%E3%81%AB%E3%82%82%E8%A7%A3%E7%A6%81
+slug: "05356a8c-be67-4b61-a91c-9bced5349033"
 ---
 Firefox3がbeta5にて一般ユーザに解禁されるそうです。
 

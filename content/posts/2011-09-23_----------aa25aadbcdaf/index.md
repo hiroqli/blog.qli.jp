@@ -4,7 +4,7 @@ description: ''
 date: '2011-09-23T08:08:57.000Z'
 categories: []
 keywords: []
-slug: "%E5%AE%9F%E5%90%8D%E3%81%A8%E3%83%8B%E3%83%83%E3%82%AF%E3%83%8D%E3%83%BC%E3%83%A0"
+slug: "d3ddb5d3-9d1d-4fd1-adf7-edaba4d0580f"
 ---
 (この記事は他所で投稿したものですが、思うところによりこちらにも転記しておきます）
 

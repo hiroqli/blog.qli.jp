@@ -4,7 +4,7 @@ description: 新しく登場したMarshall Headphone MAJOR V をレビューし�
 date: '2024-05-11T03:02:39.796Z'
 categories: []
 keywords: []
-slug: introduce+new+my+gear%2C+Marshall+Headphone+MAJOR+V
+slug: "5e46d524-c591-405b-b194-a7e7603bcbb1"
 ---
 Covid-19が5類に移行して初めてのGWということで、この機会を使って帰省したという人も多いんでしょうね。自分はどちらかというと、音楽三昧な日々を過ごしていた気がします。GWという言葉を生んだ映画ももちろん見てきましたし、国立新美術館や東京タワーに行ったりもしました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2010-12-30T00:41:11.000Z'
 categories: []
 keywords: []
-slug: Google+Latitude%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%A6
+slug: "4a7ef89e-9848-4f05-b78f-1687dc1672ec"
 ---
 iPhone版のGoogle Latitudeアプリが12月14日に公開されました。常時位置情報をgoogleのサーバに送っている状態で、約半月くらい使ってみています。
 

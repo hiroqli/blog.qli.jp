@@ -4,7 +4,7 @@ description: ''
 date: '2015-08-15T01:40:42.000Z'
 categories: []
 keywords: []
-slug: "%E3%81%99%E3%81%A3%E3%81%8B%E3%82%8A%E5%AE%9A%E4%BD%8D%E7%BD%AE%E3%82%92%E7%A2%BA%E4%BF%9D%E3%81%97%E3%81%9F+Apple+Watch"
+slug: "a7cf6b75-c657-4d77-b238-85d3596c2e51"
 ---
 ### 背景
 

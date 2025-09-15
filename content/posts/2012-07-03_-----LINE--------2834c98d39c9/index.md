@@ -4,7 +4,7 @@ description: ''
 date: '2012-07-03T21:06:43.000Z'
 categories: []
 keywords: []
-slug: "%E2%80%9C%E6%AC%A1%E3%81%AE+%23LINE+%E2%80%9C+%E3%81%AB%E6%B7%BB%E3%81%88%E3%81%A6"
+slug: "ecc090fd-1052-40fe-a48e-557c3c1775e6"
 ---
 NAVERも3周年過ぎたし、LINEも次のステージへと高らかに宣言したみたいなので、ここらでLINEについて少し書き殴っておきます。
 

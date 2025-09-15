@@ -4,7 +4,7 @@ description: ''
 date: '2006-11-13T21:26:59.000Z'
 categories: []
 keywords: []
-slug: moo%2Ecom+with+skype+%E3%82%84%E3%81%A3%E3%81%A8%E5%B1%8A%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F
+slug: "edbf8fb4-a2e0-4466-9fd1-33b13fa8a866"
 ---
 以前このブログでもお知らせしたmoo.comのskypeキャンペーンで応募したカードがやっと届きました。
 

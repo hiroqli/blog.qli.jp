@@ -4,7 +4,7 @@ description: ''
 date: '2008-08-29T11:58:10.000Z'
 categories: []
 keywords: []
-slug: "%E3%81%AF%E3%81%A6%E3%81%AA%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BC%E3%81%8CAtom%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9F"
+slug: "ad38e26a-2207-46ed-8962-b681f6c32c2b"
 ---
 はてなダイアリーがAtomに対応しました。
 

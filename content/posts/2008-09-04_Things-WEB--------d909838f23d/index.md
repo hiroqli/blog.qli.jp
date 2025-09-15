@@ -4,7 +4,7 @@ description: ''
 date: '2008-09-04T12:48:39.000Z'
 categories: []
 keywords: []
-slug: Things%E3%81%ABWEB%E7%89%88%E3%81%8C%E5%87%BA%E6%9D%A5%E3%81%A6%E3%81%84%E3%81%9F
+slug: "df8947ca-6efb-4434-aea8-fff70f6483c1"
 ---
 ここでThingsというWEBサービスが紹介されていました。
 

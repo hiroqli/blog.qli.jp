@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-26T09:37:00.000Z'
 categories: []
 keywords: []
-slug: to+U+%3A+bank+band+with+salyu
+slug: "d26d0230-e65d-4c7e-b198-3bfb83942142"
 ---
 **楽曲/アルバムタイトル:** [to U](http://www.amazon.co.jp/exec/obidos/ASIN/B000FUU140/mrchildrenonl-22/ref=nosim/)
 

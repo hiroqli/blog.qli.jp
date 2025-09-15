@@ -4,7 +4,7 @@ description: ''
 date: '2012-01-18T21:16:37.000Z'
 categories: []
 keywords: []
-slug: "%23Xperia+%E3%83%96%E3%83%AD%E3%82%AC%E3%83%BC%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%9F"
+slug: "e7a31bfd-ff90-43fe-aaf7-ab14ae488b14"
 ---
 Xperiaのブロガーミーティングがあるというので参加してきました。場所は都内某所、ベルサール半蔵門のワンフロアでした。
 

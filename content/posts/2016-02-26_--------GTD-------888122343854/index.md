@@ -4,7 +4,7 @@ description: ''
 date: '2016-02-26T14:56:46.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A8GTD%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88"
+slug: "29b14435-fb0a-4785-8a95-aadbab844afb"
 ---
 リモートワークのようなものを体験する機会があった。
 

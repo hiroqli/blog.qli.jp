@@ -4,7 +4,7 @@ description: スムーズに機種変更を済ませて、新しい生活を
 date: '2020-10-22T05:13:56.621Z'
 categories: []
 keywords: []
-slug: "%E6%96%B0%E3%81%97%E3%81%84iPhone%E3%81%AB%E4%B9%97%E3%82%8A%E6%8F%9B%E3%81%88%E3%82%8B%E6%99%82%E3%81%AE%E6%B3%A8%E6%84%8F%E7%82%B9+Oct%2E+2020"
+slug: "fdf9fdd8-52d3-48fe-acfe-c9946fd02a68"
 ---
 Thingsのログブックを探したら、去年の機種変更した時の手順が残っていました。
 

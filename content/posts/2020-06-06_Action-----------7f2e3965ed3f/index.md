@@ -5,7 +5,7 @@ description: 多くのProductivityツールで、Action にタグをつけられ
 date: '2020-06-06T05:04:49.204Z'
 categories: []
 keywords: []
-slug: Action%E3%81%AB%E3%81%A4%E3%81%91%E3%82%8B%E3%82%BF%E3%82%B0%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB
+slug: "b1c2f94b-4564-4ac0-a86b-dd06d0787eef"
 ---
 多くのProductivityツールで、Action にタグをつけられるケースがよくあります。Actionにタグをつけて管理する手法の発端がどこかはわかりませんが、個人的に初めて知ったのは Getting Things Done で紹介されたコンテキストです。
 

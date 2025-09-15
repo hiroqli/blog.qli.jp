@@ -4,7 +4,7 @@ description: ''
 date: '2009-03-02T09:52:59.000Z'
 categories: []
 keywords: []
-slug: Tweet+O%E2%80%99clock%E3%82%92%E8%87%AA%E5%88%86%E3%81%AE%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A7%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF...
+slug: "623d82f5-0385-4630-95a3-21ba2fa6d5ce"
 ---
 100shikiさんで紹介されていたtweet o’clockをさっそく試してみた。
 

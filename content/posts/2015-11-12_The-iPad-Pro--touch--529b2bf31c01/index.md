@@ -4,7 +4,7 @@ description: ''
 date: '2015-11-12T13:17:50.000Z'
 categories: []
 keywords: []
-slug: The+iPad+Pro+%28touch%29
+slug: "acadbaf6-5e89-41d6-bd53-faf097928e66"
 ---
 11/11からオンラインで販売が開始されたiPad Proですが、11/12にApple Store店頭でもディスプレイされたということで触ってきました。店頭在庫はキーボードカバーもApple Pencilもなくなったようでした。
 

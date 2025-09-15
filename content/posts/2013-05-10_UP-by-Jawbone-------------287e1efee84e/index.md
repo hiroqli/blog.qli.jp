@@ -4,7 +4,7 @@ description: ''
 date: '2013-05-10T20:47:40.000Z'
 categories: []
 keywords: []
-slug: UP+by+Jawbone%E3%81%A7%E9%A3%9F%E4%BA%8B%E3%81%AE%E8%A8%98%E9%8C%B2%E3%82%92%E5%85%A5%E3%82%8C%E3%81%A6%E3%81%BF%E3%81%9F
+slug: "8ad3eaa9-be75-4318-906d-d516fdefdee8"
 ---
 UP を使い始めてもうずいぶんたちました。UPを充電している時、iPhoneにつなげている時、そして、お風呂に入っている時以外は、ずっとつけている生活を続けています。
 

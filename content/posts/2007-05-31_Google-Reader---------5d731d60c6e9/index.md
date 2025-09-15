@@ -4,7 +4,7 @@ description: ''
 date: '2007-05-31T08:40:17.000Z'
 categories: []
 keywords: []
-slug: Google+Reader%E3%81%AB%E6%96%B0%E6%A9%9F%E8%83%BD%E3%81%8C%E8%BF%BD%E5%8A%A0%EF%BC%81
+slug: "791e9fb5-9336-412d-8cca-4083454cc01e"
 ---
 Google Readerに新機能が２つ追加されました。一つめは厳密には新機能ではないですが、Google Reader Trendsです。今回正式にメニューに追加されました。この機能を使って自分がよく読んでいるフィード、なかなか更新されないフィードなどを参照することが出来ます。
 

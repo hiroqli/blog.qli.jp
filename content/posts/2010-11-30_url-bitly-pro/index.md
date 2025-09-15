@@ -4,7 +4,7 @@ description: ''
 date: '2010-11-30T21:45:00.000Z'
 categories: []
 keywords: []
-slug: "%E8%87%AA%E5%88%86%E3%81%AE%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%A7%E7%9F%AD%E7%B8%AEURL%E3%82%92%E4%BD%9C%E3%82%8B+%28bit%2Ely+pro%29"
+slug: "e3f3f8cd-dde3-479d-8b26-36d24a20e733"
 ---
 ここ数日、たまに以下のようなURLを含んだtweetをしています。
 

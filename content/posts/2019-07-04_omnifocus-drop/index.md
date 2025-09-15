@@ -4,7 +4,7 @@ description: OmniFocusがバージョンアップして、”Drop”機能がつ
 date: '2019-07-04T14:07:28.205Z'
 categories: []
 keywords: []
-slug: OmniFocus+%E3%81%AB+%E2%80%9CDrop%E2%80%9D+%E6%A9%9F%E8%83%BD%E3%81%8C%E3%81%A4%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F
+slug: "29812e3e-ba5c-4579-bd87-ce05424e3956"
 ---
 OmniFocusがバージョンアップして、”Drop”機能がつきました。これは Public Test でテストされていた機能です。
 

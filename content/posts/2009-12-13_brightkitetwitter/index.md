@@ -4,7 +4,7 @@ description: ''
 date: '2009-12-13T10:41:39.000Z'
 categories: []
 keywords: []
-slug: brightkite%E3%81%AEtwitter%E6%8A%95%E7%A8%BF%E3%81%8C%E3%82%B8%E3%82%AA%E3%82%BF%E3%82%AE%E3%83%B3%E3%82%B0%E5%AF%BE%E5%BF%9C%E3%81%AB
+slug: "3c18e4ed-8669-4550-bbe3-03c5d6a98f74"
 ---
 当然の対応といえば当然の対応なのですが、brightkite のTwitter投稿がジオタギング対応になりました。すべてのbrightkite経由のポストにジオタギングがつきます。( via [brightkite blog](http://blog.brightkite.com/2009/12/11/how-to-geotag-your-brightkite-posts-on-twitter/))
 

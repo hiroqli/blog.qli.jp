@@ -4,7 +4,7 @@ description: 2015年にサービスインしたApple Music。New Music Mix、Fav
 date: '2018-02-17T06:44:56.214Z'
 categories: []
 keywords: []
-slug: "%E3%81%9A%E3%81%A3%E3%81%A8%E9%9F%B3%E6%A5%BD%E3%82%92%E5%9E%82%E3%82%8C%E6%B5%81%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B"
+slug: "dee1efe2-e694-4ee2-ae34-e17cd4d5f3a0"
 ---
 2015年にサービスインしたApple Music。New Music Mix、Favorites Mixといったもの以外にも、「オルタナティブヒッツ」や「ロックファンのためのJ-Pop」「ヲタバレしないアニソンカラオケ」など、プレイリストを用意していて、時間のあるときにシャッフルで聞くことがある。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2006-06-28T12:45:24.000Z'
 categories: []
 keywords: []
-slug: Google+Reader+%E3%81%8C%E3%81%8B%E3%81%AA%E3%82%8A%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%A6%E3%81%9F
+slug: "619df333-98c7-41e5-a43e-34cca4c3cf51"
 ---
 feedpathのおかげであまり使わないRSSリーダー（そういえば使ってるってひとをあまり知らない)Google Readerなのですが、久しぶりにアクセスしてみると、かなり変わってました。バージョンアップというよりも、仕様変更という感じ。  
 というのも、画面遷移が、gmailやらgoogle calendarにずいぶん似たものになってました。これはもしかして、gmailアプリケーショングループ(gmail, google calender, google talk)の仲間入りをするのかなぁという憶測が、勝手な憶測が出てきてしまいます。

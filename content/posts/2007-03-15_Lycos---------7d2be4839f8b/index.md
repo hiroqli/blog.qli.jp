@@ -4,9 +4,8 @@ description: ""
 date: "2007-03-15T23:31:18.000Z"
 categories: []
 keywords: []
-slug: Lycos+%E3%81%8C%E6%88%BB%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8B%EF%BC%9F
+slug: "42dcb295-5d13-40a5-9c5c-573ff7a9711d"
 ---
-
 ![]()
 
 米国 Lycos でごたごたが続き、完全子会社を持っていなかった日本からはブランドの撤退、サービスの Infoseek/楽天への移行を行っていたライコスが復活するそうです。

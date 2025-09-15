@@ -4,7 +4,7 @@ description: ''
 date: '2011-04-19T11:00:43.000Z'
 categories: []
 keywords: []
-slug: Things+Cloud+Sync%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8BFAQ
+slug: "1e5ac890-c795-4c97-adf5-de8b1c680920"
 ---
 Cultured Code社が[Clound syncのためのFAQ](http://culturedcode.com/things/wiki/index.php/Frequently_Asked_Questions_%28Cloud_Sync%29)を公開しています。というわけで、勝手に超訳してみたいと思います。毎回のことではありますが、この日本語訳は参考のために行うもので、英語版と内容が異なることがないという保証はしません。
 

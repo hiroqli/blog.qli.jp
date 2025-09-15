@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-02T23:25:49.000Z'
 categories: []
 keywords: []
-slug: "%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AEiPod%E3%81%AB%E3%81%AF%E4%BD%95%E3%81%8B%E3%81%8C%E8%A6%86%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8..."
+slug: "8d0d102c-b86e-4869-9b8f-d2f3b2068a9a"
 ---
 ちょっと気になったのでエントリー。
 

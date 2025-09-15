@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-15T16:25:35.000Z'
 categories: []
 keywords: []
-slug: Flickr%E7%94%BB%E5%83%8F%E6%8A%95%E7%A8%BF%E3%81%AETips
+slug: "841f54c7-004d-4c32-abce-2b9aeff5ffd6"
 ---
 Flickrのメールで画像を投稿するときのTips。ヘルプページにのってても以外と読んでないのでメモ代わりに。3連休の前に頭にたたき込んでおきましょう。
 

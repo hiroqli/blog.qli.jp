@@ -4,7 +4,7 @@ description: ''
 date: '2007-10-10T05:51:19.000Z'
 categories: []
 keywords: []
-slug: Google%E3%81%8CJaiku%E3%82%92%E8%B2%B7%E5%8F%8E
+slug: "3c5dcf9b-340c-4ccb-bbb8-449a610c2247"
 ---
 本当にさえずりのようにtwitterにはまっている人は多いと思いますが、そのtwitterのライバルとして有名だった(そして常にtwitterの次点サイトとして紹介されてきた)Jaikuをgoogleが買収しました。しばらくは、通常通り使えると思いますが、Googleアカウントとの統合が始まるものと思われます。個人的には開発者が去った同じようなサービスである、Dodgeballとの統合を期待したいと思います。
 

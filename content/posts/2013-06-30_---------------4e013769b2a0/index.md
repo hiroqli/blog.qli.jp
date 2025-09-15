@@ -4,7 +4,7 @@ description: ''
 date: '2013-06-30T20:45:30.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%86%E3%83%BC%E3%83%9E%E3%82%92%E6%8C%81%E3%81%A4%E3%81%93%E3%81%A8%E3%81%A8%E6%BC%94%E3%81%98%E3%82%8B%E3%81%93%E3%81%A8"
+slug: "6bf3fa67-a4e9-4399-9977-891caac555a9"
 ---
 どこを起点にしているのかよくわかりませんが、今年がブログ10周年、だそうで([参考:AMN](http://agilemedia.jp/pressrelease/bloggersummit-20130611.html))。10年前、2003年ってのは、MovableTypeがもてはやされた年という印象が強いので、そんなに的外れでもないような気がしています。
 

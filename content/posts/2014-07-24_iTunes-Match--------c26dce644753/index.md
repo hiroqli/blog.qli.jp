@@ -4,7 +4,7 @@ description: ''
 date: '2014-07-24T22:28:09.000Z'
 categories: []
 keywords: []
-slug: iTunes+Match%E3%81%A8%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88
+slug: "e1d6c154-e142-4599-bf30-0506d0df49c4"
 ---
 iTunes Matchを便利に使っている。とはいえ、CDを買ってきてリッピングするたびに、マッチング処理が終わらないと、iPhoneからアクセスできないタイムラグはちょっとつらいときがある。普段は問題ないのだけど、たまに処理がStuckしたりする。
 

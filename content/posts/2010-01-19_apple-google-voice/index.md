@@ -4,7 +4,7 @@ description: ''
 date: '2010-01-19T09:22:25.000Z'
 categories: []
 keywords: []
-slug: Apple%E3%81%8C+Google+Voice%E7%9A%84%E3%81%AA%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E5%A7%8B%E3%82%81%E3%82%8B%EF%BC%9F
+slug: "e07b4e59-57d4-41c4-832b-fd3da09fc918"
 ---
 気になる記事があったのでご紹介
 

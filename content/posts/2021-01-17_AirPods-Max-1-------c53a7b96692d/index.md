@@ -4,7 +4,7 @@ description: AirPods Maxが発売されて1ヶ月が経った、ということ�
 date: '2021-01-17T15:00:11.958Z'
 categories: []
 keywords: []
-slug: AirPods+Max+1%E3%83%B6%E6%9C%88%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC
+slug: "ff9e8bfc-017b-4e2a-ba5d-94af1529261f"
 ---
 ![](1__qy7sAwjjNwYynxlG8P234Q.jpeg)
 

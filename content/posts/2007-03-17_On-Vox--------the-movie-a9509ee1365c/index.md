@@ -4,7 +4,7 @@ description: ''
 date: '2007-03-17T12:02:57.000Z'
 categories: []
 keywords: []
-slug: On+Vox%3A+%E3%82%A2%E3%83%B3%E3%83%95%E3%82%A7%E3%82%A2+the+movie
+slug: "bd1c9448-d384-4849-b69d-02b72c268c5c"
 ---
 アンフェア見てきました。公開初日初回8時50分上映開始、朝早いよ。  
 というわけで、これから寝ようかと（笑）

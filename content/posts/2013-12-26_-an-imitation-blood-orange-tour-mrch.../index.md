@@ -4,7 +4,7 @@ description: ''
 date: '2013-12-26T21:20:35.000Z'
 categories: []
 keywords: []
-slug: "%E6%98%A0%E5%83%8F%E4%BD%9C%E5%93%81+%5B%28an+imitation%29+blood+orange%5D+Tour+%23mrchildren"
+slug: "0bd3c959-a6a4-4a59-a4c2-5543abac786d"
 ---
 Mr.Childrenの最新映像作品 \[(an imitation) blood orange\] Tour を見ました。これは、2012.12.15の京セラドームを皮切りに、2013.5.30の大阪城ホール、そして2013.6.8/9 の沖縄までのツアーを代表して、2013.5.12 盛岡市アイスアリーナで行われたライブを収録してあるライブ映像作品です。
 

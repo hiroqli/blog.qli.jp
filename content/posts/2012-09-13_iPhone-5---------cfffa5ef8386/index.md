@@ -4,7 +4,7 @@ description: ''
 date: '2012-09-13T05:18:18.000Z'
 categories: []
 keywords: []
-slug: iPhone+5%E3%81%8C%E7%99%BA%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F
+slug: "c6a86365-a7a1-4ea7-aebd-a9ed603d04a0"
 ---
 Appleの年末商戦の施策である iPhone / iPod ファミリーが発表されました。今回発表されたのは
 

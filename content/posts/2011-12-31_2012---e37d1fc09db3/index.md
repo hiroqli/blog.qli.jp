@@ -4,7 +4,7 @@ description: ''
 date: '2011-12-31T14:55:09.000Z'
 categories: []
 keywords: []
-slug: 2012%E5%B9%B4%E3%81%B8
+slug: "d1e36ce5-f7d1-4a2c-a644-19db04cb4ea7"
 ---
 昨日、ストレイテナーのライブを見ていた。その時ふと頭をよぎったこと。
 

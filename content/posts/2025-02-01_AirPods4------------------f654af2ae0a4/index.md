@@ -4,7 +4,7 @@ description: ''
 date: '2025-02-01T03:02:03.504Z'
 categories: []
 keywords: []
-slug: AirPods4+%E4%BB%8A%E3%81%93%E3%82%99%E3%82%8D%EF%BC%91%E3%83%B6%E6%9C%88%E4%BD%BF%E3%81%A3%E3%81%A6%E3%82%8F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%93%E3...
+slug: "6a143bcd-0b98-4c3f-87a3-731facc3ba40"
 ---
 ![](1__LlGtZyhF4bpjJwAJgtie3Q.jpeg)
 

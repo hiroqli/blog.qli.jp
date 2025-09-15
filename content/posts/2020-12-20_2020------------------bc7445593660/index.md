@@ -4,7 +4,7 @@ description: 2020年シーズンが終わった。アビスパ福岡は、目標
 date: '2020-12-20T13:47:49.241Z'
 categories: []
 keywords: []
-slug: 2020%E5%B9%B4%E3%81%AE%E6%9C%80%E5%BE%8C%E3%81%AB%E6%B7%BB%E3%81%88%E3%81%A6%28%E3%82%A2%E3%83%93%E3%82%B9%E3%83%91%E7%A6%8F%E5%B2%A1%E7%B7%A8%29
+slug: "3378cdbe-daa1-4962-97c2-4d016de0e7de"
 ---
 ![](1__gCxMa2h8f9ENw8NCywg3Ig.jpeg)
 

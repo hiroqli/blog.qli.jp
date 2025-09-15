@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-05T11:29:57.000Z'
 categories: []
 keywords: []
-slug: WILLCOM%EF%BD%9CW-ZERO3%5Bes%5D
+slug: "a00c3b7e-6efd-4e1a-ac9d-519a56990401"
 ---
 すでに昨日の発表から、この商品のエントリーが猛烈な勢いで増えていると思います。
 

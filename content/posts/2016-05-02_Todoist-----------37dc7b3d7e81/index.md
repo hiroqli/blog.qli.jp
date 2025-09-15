@@ -4,7 +4,7 @@ description: ''
 date: '2016-05-02T03:58:42.000Z'
 categories: []
 keywords: []
-slug: Todoist%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9
+slug: "278ba9e4-b6d2-4088-a11a-a95044ff3243"
 ---
 Todoistをpremium契約するまで使ってしまったので、Todoistを使う上で気をつけるべきことを３つ書き出してみた。
 

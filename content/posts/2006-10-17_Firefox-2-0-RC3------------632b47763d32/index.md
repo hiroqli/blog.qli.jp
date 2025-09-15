@@ -4,7 +4,7 @@ description: ''
 date: '2006-10-17T23:50:41.000Z'
 categories: []
 keywords: []
-slug: Firefox+2%2E0+RC3+%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%EF%BC%81
+slug: "121a8e4f-20ca-4bc9-b50c-73260049e69f"
 ---
 お久しぶりです  
   

@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-30T21:00:33.000Z'
 categories: []
 keywords: []
-slug: WEB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%A7%E7%9F%A5%E3%82%8A%E5%90%88%E3%81%A3%E3%81%9F%E4%BA%BA%E5%90%8C%E5%A3%AB%E3%81%A7%E4%BD%9C%E3%82%8C...
+slug: "5a563e6a-c7f0-4fa4-a1e6-d711838d7a44"
 ---
 急にtwitterではやり始めた[Ripplex](http://www.ripplex.com/jpn/)。まぁ微妙なはやり方ではありますが。
 

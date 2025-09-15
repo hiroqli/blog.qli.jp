@@ -4,7 +4,7 @@ description: ''
 date: '2010-10-21T09:50:34.000Z'
 categories: []
 keywords: []
-slug: Back+to+the+Mac
+slug: "1d50d7e0-2a00-4ee2-97d7-8d2a51abe0dc"
 ---
 日本時間21日午前2時。Appleによる発表会が行われました。タイトルは”Back to the Mac”。Macに戻ろう。
 

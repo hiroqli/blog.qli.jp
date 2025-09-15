@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-24T08:49:49.000Z'
 categories: []
 keywords: []
-slug: Santa+Rosa%E3%81%8C%E3%81%84%E3%82%88%E3%81%84%E3%82%88%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%8C%E3%82%8B
+slug: "6f913d85-f64c-40c6-9f2b-12ee6f6e8328"
 ---
 こういう記事を書くときはmacブログみたいになっていますが、おつきあいくださいませ。
 

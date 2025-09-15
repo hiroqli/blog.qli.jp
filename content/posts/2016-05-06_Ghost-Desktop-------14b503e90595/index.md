@@ -4,7 +4,7 @@ description: ''
 date: '2016-05-06T02:52:30.000Z'
 categories: []
 keywords: []
-slug: Ghost%E3%81%AEDesktop%E3%82%A2%E3%83%97%E3%83%AA%E3%81%8C%E7%99%BB%E5%A0%B4
+slug: "27d70c86-c505-498a-a938-abd1c2a84678"
 ---
 このブログはGhost Proというサービスを使っている。そのGhostのデスクトップアプリが、  
 4月27日、日本ではGWの直前に登場した。詳細はGhostの公式ブログをどうぞ。

@@ -4,7 +4,7 @@ description: ''
 date: '2015-01-04T01:58:15.000Z'
 categories: []
 keywords: []
-slug: RX1%E3%82%92%E3%83%89%E3%83%8A%E3%83%89%E3%83%8A%E3%81%97%E3%81%9F%E8%A9%B1
+slug: "ad998176-365a-46d6-b9c7-f3e8eca6b3c8"
 ---
 年末にRX1を手放しました。
 

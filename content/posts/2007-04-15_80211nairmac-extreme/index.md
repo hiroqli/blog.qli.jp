@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-15T23:47:46.000Z'
 categories: []
 keywords: []
-slug: 802%2E11n%E5%AF%BE%E5%BF%9CAirMac+Extreme%E8%B2%B7%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F
+slug: "a4e2e910-7242-448a-b075-fbd9a3106da7"
 ---
 登場したタイミングではスルーしちゃったんですけどね。
 

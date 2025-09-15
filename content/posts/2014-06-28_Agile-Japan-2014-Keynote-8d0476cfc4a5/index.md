@@ -4,7 +4,7 @@ description: ''
 date: '2014-06-28T11:24:41.000Z'
 categories: []
 keywords: []
-slug: Agile+Japan+2014+Keynote
+slug: "6356f6c0-7a1d-40c6-beb9-53e1b4fe2dc7"
 ---
 Agile Japan 2014に行ってきた。基調講演にて、GT-Rの開発責任者だった水野 和敏さんのお話を聞いてきたので、だらだらと書いてみます。
 

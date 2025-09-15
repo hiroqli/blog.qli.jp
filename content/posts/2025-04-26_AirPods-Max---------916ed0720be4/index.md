@@ -4,7 +4,7 @@ description: ''
 date: '2025-04-26T03:02:30.126Z'
 categories: []
 keywords: []
-slug: AirPods+Max%E3%81%AF%E4%B8%80%E4%BD%93%E8%AA%B0%E3%81%AE%E3%82%82%E3%81%AE%E3%81%8B
+slug: "c851c060-ce50-446e-9d1a-57e0cc7d13ca"
 ---
 AirPods MaxをLightningからUSB-Cに変更しました。AirPods Max Lightningは初回注文数が限られていて、まさに争奪戦でした。そのときは色を選ぶ余裕もなく、実はずっと「別の色を使ってみたい」と思っていました。USB-C DAC機能が正式に解放されたのを機に、思い切って某所に溜まっていて忘れかけていたポイントを使うことにしました。
 

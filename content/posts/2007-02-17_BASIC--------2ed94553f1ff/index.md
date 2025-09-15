@@ -4,7 +4,7 @@ description: ''
 date: '2007-02-17T01:00:38.000Z'
 categories: []
 keywords: []
-slug: BASIC%E3%81%A3%E3%81%A6%E4%BD%95%E3%81%A0%E3%81%A3%E3%81%91%EF%BC%9F
+slug: "de468bac-314c-4f6c-a1bb-103b807d4dcd"
 ---
 百式さんで”Run Baisc”なるものが紹介されていました。
 

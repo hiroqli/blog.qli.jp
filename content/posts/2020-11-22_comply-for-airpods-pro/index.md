@@ -4,7 +4,7 @@ description: ComplyのAirPods Pro モデルを導入したので、簡単に使�
 date: '2020-11-22T06:26:52.418Z'
 categories: []
 keywords: []
-slug: Comply+for+AirPods+Pro+%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%9F
+slug: "b15705b9-6841-4094-b86e-534471656b2d"
 ---
 ComplyのAirPods Pro モデルを導入したので、簡単に使ってみた感想を。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2012-05-20T00:21:07.000Z'
 categories: []
 keywords: []
-slug: "%E6%98%A0%E7%94%BB+%E3%83%9D%E3%83%86%E3%83%81"
+slug: "aa58c4fe-6c68-441b-bdf9-124acb4d5ad9"
 ---
 [映画ポテチ](http://potechi-movie.jp/) を見に行った。スクリーンはその映画館でも席数が少ないところで、それでも半分が埋まってた程度。
 

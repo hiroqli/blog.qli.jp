@@ -4,7 +4,7 @@ description: ''
 date: '2013-02-27T23:28:50.000Z'
 categories: []
 keywords: []
-slug: CHEESE+CAKE+%E3%81%AB%E5%87%BA%E4%BC%9A%E3%81%86
+slug: "c903941f-f6b1-4860-9e46-d6bfb69df80b"
 ---
 福岡県から４人組のバンドがデビューするというのでiTunes Storeで買ってみました。バンドの名前は CHEESE CAKE ([@cheesecake\_f](http://twitter.com/cheesecake_f) )。
 

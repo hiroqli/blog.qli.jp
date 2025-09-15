@@ -4,7 +4,7 @@ description: ''
 date: '2014-05-15T21:53:46.000Z'
 categories: []
 keywords: []
-slug: iTunes+Match%E3%81%AF%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%EF%BC%9F
+slug: "b9be209e-df03-41b9-b04e-40e136d33f26"
 ---
 iTunes Matchの登録が完了して1週間以上が経った。その間新しい曲を買ったり、追加したりということもなかったので、自分としては特段変わったという感じではなかった。
 

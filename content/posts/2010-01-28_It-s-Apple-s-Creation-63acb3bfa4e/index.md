@@ -4,7 +4,7 @@ description: ''
 date: '2010-01-28T06:05:15.000Z'
 categories: []
 keywords: []
-slug: It%E2%80%99s+Apple%E2%80%99s+Creation
+slug: "103c9d80-f3e8-4f4d-bd26-c8fced1c3353"
 ---
 Appleの”Creation”が発表されました。それはまさにタブレット。簡単におさらいを。スペックその他は[Apple USのWEBサイトで公開](http://www.apple.com/ipad/)されていますので参照してください。
 

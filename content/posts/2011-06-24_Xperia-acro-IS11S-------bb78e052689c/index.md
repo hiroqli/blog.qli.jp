@@ -4,7 +4,7 @@ description: ''
 date: '2011-06-24T23:54:52.000Z'
 categories: []
 keywords: []
-slug: Xperia+acro+IS11S%E3%82%92%E8%B2%B7%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F
+slug: "5c2a336a-1e8d-438b-ab21-8960e24df410"
 ---
 ６月２４日に発売になったXperia acroに機種変更してきました。
 

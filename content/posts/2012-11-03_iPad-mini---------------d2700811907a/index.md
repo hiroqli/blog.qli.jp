@@ -4,7 +4,7 @@ description: ''
 date: '2012-11-03T22:06:24.000Z'
 categories: []
 keywords: []
-slug: iPad+mini+%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3
+slug: "c422be5b-a7f8-482b-9658-7fec0433a6fb"
 ---
 Twitterにも書いたけど改めて。iPad miniのファーストインプレッションを記しておくことにする。
 

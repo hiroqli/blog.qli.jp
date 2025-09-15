@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-19T10:09:00.000Z'
 categories: []
 keywords: []
-slug: freshmeeting+%E8%A3%BD%E5%93%81%E7%89%88%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%EF%BC%81
+slug: "0a76e9a9-22a9-4a5e-b41b-a2d01f08a0f6"
 ---
 freshmeeting製品版がリリースされたようです。  
 これって他のIMとは別にイントラネット内で利用できる、とか、利用するのに難しい知識がいらない(httpで動いているだけですし)、とかいっぱい利点がありますよね。  

@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-18T15:57:00.000Z'
 categories: []
 keywords: []
-slug: remember+the+milk+%E2%80%94+%E5%AE%89%E5%AE%9A%E9%81%8B%E7%94%A8%E7%B7%A8
+slug: "bf313dea-c0bf-4d77-9b94-1a4543c9f4cc"
 ---
 タスク管理ツール”remember the milk”の運用が安定してきたので、書き込み。  
 とりあえずリストを以下のように作ってみた。

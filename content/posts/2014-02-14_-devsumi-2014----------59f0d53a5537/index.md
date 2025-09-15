@@ -4,7 +4,7 @@ description: ''
 date: '2014-02-14T20:49:18.000Z'
 categories: []
 keywords: []
-slug: "%23devsumi+2014+%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F"
+slug: "61138e99-dc75-4a57-b872-ec1bdddce569"
 ---
 ![](0__nh0M__wGsTeRizAxn.JPG)
 

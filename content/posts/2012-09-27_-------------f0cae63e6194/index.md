@@ -4,7 +4,7 @@ description: ''
 date: '2012-09-27T19:45:47.000Z'
 categories: []
 keywords: []
-slug: "%E6%9C%80%E9%81%A9%E3%81%AA%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%99%82%E6%9C%9F%E3%82%92%E6%8E%A2%E3%82%8B"
+slug: "fad133fe-3851-4036-83ee-c8cf34e333d9"
 ---
 今日はおもしろい記事がtechcrunchにあがっていた。
 

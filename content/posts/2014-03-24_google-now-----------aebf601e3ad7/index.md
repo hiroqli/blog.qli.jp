@@ -4,7 +4,7 @@ description: ''
 date: '2014-03-24T20:42:05.000Z'
 categories: []
 keywords: []
-slug: google+now+%E3%81%AE%E6%8C%99%E5%8B%95%E3%82%92%E6%AF%94%E3%81%B9%E3%81%A6%E3%81%BF%E3%82%8B
+slug: "4c8ab277-50cb-443b-b281-af0f3163cc6c"
 ---
 たまたまAndroidとiOSの最新版があるのでgoogle nowの挙動の違いみたいなものをまとめてみる。
 

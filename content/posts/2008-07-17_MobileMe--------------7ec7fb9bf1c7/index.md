@@ -4,7 +4,7 @@ description: ''
 date: '2008-07-17T09:28:51.000Z'
 categories: []
 keywords: []
-slug: MobileMe%E3%81%8B%E3%82%89%E3%82%84%E3%81%A3%E3%81%A8%E5%B1%8A%E3%81%84%E3%81%9F%E5%AE%8C%E4%BA%86%E3%83%A1%E3%83%BC%E3%83%AB
+slug: "0a7c2d11-b4ad-4bc0-af8c-d76b2b18f919"
 ---
 さきほど、MobileMeから移行完了メールがやっと届きました。作業開始してから1週間。なかなかスリリングな出来事でした。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2016-03-19T00:51:38.000Z'
 categories: []
 keywords: []
-slug: Todoist%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F
+slug: "86595beb-c1e9-4f84-a006-3cbe101ad127"
 ---
 Things Loverではありますが、２年経っても何の情報も出てこないThings 3を待っていても仕方がないので、Todoistを使ってみることにしました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2010-05-20T08:38:24.000Z'
 categories: []
 keywords: []
-slug: Twitter+for+iPhone+%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%95%E3%82%8C%E3%81%9F
+slug: "8e5f5ad2-ff9f-444b-b034-1f4700c2f4ef"
 ---
 これがTwitterにとってひとつのマイルストーンになると思います。TwitterのiPhone版公式アプリ Twitter for iPhone がリリースされました。
 

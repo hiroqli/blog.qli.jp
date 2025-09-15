@@ -4,7 +4,7 @@ description: ''
 date: '2015-10-30T14:38:09.000Z'
 categories: []
 keywords: []
-slug: Apple+TV+4th+Gen%E3%81%8C%E5%B1%8A%E3%81%84%E3%81%9F
+slug: "691b089e-69c8-4779-a676-ce46716cd320"
 ---
 Apple TV 第４世代 64GBが届きました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2012-08-07T08:34:50.000Z'
 categories: []
 keywords: []
-slug: "%E4%BD%9C%E3%82%8A%E5%87%BA%E3%81%95%E3%82%8C%E3%81%9F+Apple+vs+Google%E3%81%AE%E6%A7%8B%E5%9B%B3"
+slug: "f4f52b6e-d830-44a3-bfe5-92b8544206e3"
 ---
 なぜ、対立構造を作りたいのか分からないし、結局何がしたいのか分からない。
 

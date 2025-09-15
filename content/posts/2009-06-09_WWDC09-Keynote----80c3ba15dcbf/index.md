@@ -4,7 +4,7 @@ description: ''
 date: '2009-06-09T23:26:12.000Z'
 categories: []
 keywords: []
-slug: WWDC09+Keynote%E3%82%92%E8%A6%8B%E3%81%9F
+slug: "af9e8d60-2b9f-4074-80c8-2e5e6ee9a05a"
 ---
 毎回恒例のWWDC09 keynoteのストリーミング配信を見終わったので、簡単に感想をまとめておきます。本当はPodcast配信を待っていたのだけど、今回はまだ配信されていません。
 

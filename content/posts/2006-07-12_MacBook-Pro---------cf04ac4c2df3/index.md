@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-12T14:17:37.000Z'
 categories: []
 keywords: []
-slug: MacBook+Pro+%E5%86%8D%E8%A8%AD%E8%A8%88%E3%83%A2%E3%83%87%E3%83%AB%EF%BC%9F
+slug: "98580805-03c1-4ff5-8aeb-f15bf75295f8"
 ---
 来月のWWWDに向けて、なのか分かりませんが、Core 2 Duoの発表日の情報も流れつつあり、って状態でAppleにも気になる情報。
 

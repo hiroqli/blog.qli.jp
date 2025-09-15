@@ -4,7 +4,7 @@ description: ''
 date: '2007-02-13T11:58:34.000Z'
 categories: []
 keywords: []
-slug: Getting+Things+Done+with+Remeber+the+Milk
+slug: "7eeeae75-9ddd-4f8f-ab34-e8674a0b5de2"
 ---
 ちょっと古い記事なのだけど（1ヶ月経つと古いって言っていいですよね？）、Remember the milkでGTDをする(GTD with RTM)ときのTipsがまとめられていたのでご紹介。
 

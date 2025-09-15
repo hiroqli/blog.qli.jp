@@ -4,7 +4,7 @@ description: ''
 date: '2009-01-07T09:55:16.000Z'
 categories: []
 keywords: []
-slug: Skype+2%2E8+beta+for+Mac%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9
+slug: "b7029387-c793-4129-a7a3-84bd134d8277"
 ---
 [Skype 2.8 beta for Macがリリースされました](http://share.skype.com/sites/mac/2009/01/skype_28_beta_for_mac.html)。今回の特徴は、Skype AccessとScreen Sharingですね。
 

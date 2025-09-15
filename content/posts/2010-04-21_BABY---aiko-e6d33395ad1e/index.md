@@ -4,7 +4,7 @@ description: ''
 date: '2010-04-21T08:19:47.000Z'
 categories: []
 keywords: []
-slug: BABY+%3A+aiko
+slug: "8b52dff1-2ee4-446d-83a3-589c7c2cf195"
 ---
 aikoさんの久しぶりのアルバム。シングルはぽつぽつ出されていたみたいですが、シングルはあまり買わない主義なので、買っていません。このアルバムのあとに、すぐシングル”[向かいあわせ](http://www.amazon.co.jp/gp/product/B003DRVHJ0?ie=UTF8&tag=qli-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B003DRVHJ0)“が出ていますが、おそらく買いません。
 

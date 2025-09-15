@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-06T17:10:00.000Z'
 categories: []
 keywords: []
-slug: "%28%E3%81%93%E3%81%AE%29%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E4%BF%A1%E9%A0%BC%E5%BA%A6"
+slug: "94224832-d35f-44a0-8c72-6680c42656ee"
 ---
 以前取り上げた「[そんなに口コミが信頼できない？](http://blog.qli.jp/2006/09/post_477f.html)」にも通じる記事ですが、このような記事を見つけました。
 

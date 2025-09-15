@@ -4,7 +4,7 @@ description: WWDC20の最中ですね。WWDCはいつも多くのセッション
 date: '2020-06-24T08:53:28.285Z'
 categories: []
 keywords: []
-slug: macOS+Big+Sur+%E3%81%AFiOS%E6%99%82%E4%BB%A3%E3%81%AEmacOS
+slug: "05126abe-83f6-4ae1-9835-fe42472461f2"
 ---
 WWDC20の最中ですね。WWDCはいつも多くのセッションがありますが、今年は物理的な制約がなくなったせいか、いつもよりもセッション数が多い感覚があります。
 

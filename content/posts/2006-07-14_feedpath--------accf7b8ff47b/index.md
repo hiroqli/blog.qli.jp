@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-14T09:38:00.000Z'
 categories: []
 keywords: []
-slug: feedpath+%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB
+slug: "8fe3d17e-60fe-4193-b48c-8934997acdb7"
 ---
 feedpathがリニューアルしました。  
 主な変更点は次の通り(だと思う)

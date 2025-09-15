@@ -4,7 +4,7 @@ description: ''
 date: '2011-05-06T23:34:31.000Z'
 categories: []
 keywords: []
-slug: salyu+x+salyu+s%28o%29un%28d%29beams+tour
+slug: "a82adc91-90ee-45b3-82f1-70952005226b"
 ---
 Salyu x Salyuの初ツアーである、s(o)un(d)beamsツアーに行ってきました。今回はGWを利用して、福岡と中野の2公演に行ってきました。福岡がドラムロゴスという福岡では有名なライブハウスでのオールスタンディングライブ、そして中野は中野サンプラザというホールでのライブでした。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2023-07-08T03:02:21.315Z'
 categories: []
 keywords: []
-slug: Threads%E3%81%AFInstagram%E3%81%AE%E5%86%8D%E7%99%BA%E6%98%8E%E3%81%9F%E3%82%99%E3%81%A8%E6%80%9D%E3%81%86
+slug: "a1aed150-c051-432f-b783-9215aca478b3"
 ---
 7月6日、かねてからニュースが飛び交っていたサービス Threads がリリースされた。誰が言い出したのかは分からないが、Twitterライクなサービスと理解され、Twitterの再発明だというような言及が飛び交っていた。
 

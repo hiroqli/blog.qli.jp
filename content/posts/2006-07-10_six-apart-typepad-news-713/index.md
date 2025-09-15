@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-10T14:57:04.000Z'
 categories: []
 keywords: []
-slug: Six+Apart+%E2%80%94+TypePad+news%3A+%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%81%AE%E3%81%8A%E7...
+slug: "6da47c0f-1a5d-4a97-b8d5-6c78d93262f5"
 ---
 このブログは独自ドメインをマッピングしているので分かりづらいですが、Typepadです。(テンプレートとかで分かると思いますが)
 

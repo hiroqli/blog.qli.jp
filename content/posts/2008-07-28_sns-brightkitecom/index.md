@@ -4,7 +4,7 @@ description: ''
 date: '2008-07-28T22:17:02.000Z'
 categories: []
 keywords: []
-slug: "%E4%BD%8D%E7%BD%AE%E6%83%85%E5%A0%B1SNS%E3%81%AF%E7%9B%9B%E3%82%8A%E4%B8%8A%E3%81%8C%E3%82%8B%E3%81%8B+%3A+brightkite%2Ecom"
+slug: "732575f8-854c-42a6-8f04-75e3b203e7ca"
 ---
 今日、[brightkite](http://brightkite.com/) というサービスの招待状が届きました。このサービスはFriendFeedでも早い時期から対応していて、かつtwitterでも英語圏のユーザだとわりと使っているみたいだったので気になっていました。あとは仕事柄”位置情報”ってのが気になっていたというのもあります。 クローズドベータなので、招待状をリクエストしてひたすら待っていました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2008-09-23T10:20:24.000Z'
 categories: []
 keywords: []
-slug: iPhone+x+W61S%28au%29+%E3%81%AE2%E3%83%B6%E6%9C%88%E9%96%93
+slug: "60063ddf-c416-47c9-babd-99842d8d1457"
 ---
 iPhone 3Gが発表されて3ヶ月。購入してから2ヶ月が経過した。自分はauとの併用にしたのだけど、今の2台体制の利用感を書いておきたいと思う。
 

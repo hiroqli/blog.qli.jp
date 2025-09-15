@@ -4,7 +4,7 @@ description: OmniFocusの設定変えたら、手に馴染む感じだったの�
 date: '2020-04-21T14:39:01.616Z'
 categories: []
 keywords: []
-slug: OmniFocus+%E3%81%AE%E8%A8%AD%E5%AE%9A+%28Apr%2E+2020%29
+slug: "a2644138-a6f0-4b89-a656-a1a08ce4d457"
 ---
 OmniFocusの設定変えたら、手に馴染む感じだったので淡々と書き残しておく。
 

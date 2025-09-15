@@ -4,7 +4,7 @@ description: ''
 date: '2012-03-26T12:33:33.000Z'
 categories: []
 keywords: []
-slug: "%E6%98%A0%E7%94%BB+%E9%AB%98%E6%A0%A1%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC"
+slug: "d0605635-ec0e-4f8f-8a4c-c1a1a0cd8773"
 ---
 映画 高校デビューみました。
 

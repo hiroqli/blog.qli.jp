@@ -4,7 +4,7 @@ description: ''
 date: '2009-05-23T22:28:37.000Z'
 categories: []
 keywords: []
-slug: icon+mobile%E3%82%92%E8%B2%B7%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F
+slug: "afe51eda-ee0b-4235-a6bf-8dacdbc8e57e"
 ---
 先日、HD555というゼンハイザーのヘッドフォンを買いまして。それから、ヘッドフォンアンプというものがあることを知りました。で、買ったのがこれ、icon mobileという製品。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2011-05-08T21:30:35.000Z'
 categories: []
 keywords: []
-slug: iPad%E3%81%A8iPhone%E3%81%AE%E9%80%A3%E4%BF%82%E3%83%97%E3%83%AC%E3%82%A4
+slug: "9cd13be5-5ded-4d87-9d32-21bb891a2997"
 ---
 毎年のようにGWは出かけていたわけです。去年のGWと違うのは、iPad 2 があったこと。去年のGWにはiPadが発売されていませんでしたからね。（昨年の5月10日がiPad予約開始日でした）
 

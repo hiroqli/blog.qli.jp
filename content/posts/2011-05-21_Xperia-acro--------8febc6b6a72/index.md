@@ -4,7 +4,7 @@ description: ''
 date: '2011-05-21T23:55:16.000Z'
 categories: []
 keywords: []
-slug: Xperia+acro+%E3%81%AB%E8%A7%A6%E3%82%8C%E3%81%A6%E3%81%BF%E3%81%9F
+slug: "d0aaa2be-d13c-45d8-a91a-567225f3dbb1"
 ---
 原宿にあるKDDIデザイニングスタジオで夏モデルとして発表された、Xperia acroを触ってみました。  
   

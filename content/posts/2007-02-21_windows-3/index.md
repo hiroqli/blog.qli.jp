@@ -4,7 +4,7 @@ description: ''
 date: '2007-02-21T18:16:29.000Z'
 categories: []
 keywords: []
-slug: windows+%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%E3%82%B5%E3%83%BC%E3%83%81%E3%81%8C%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%...
+slug: "a5355d1e-4e8c-4c1c-ac91-d0389214adb7"
 ---
 小ネタに近いですが。
 

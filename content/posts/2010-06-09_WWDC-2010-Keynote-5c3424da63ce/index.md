@@ -4,7 +4,7 @@ description: ''
 date: '2010-06-09T20:48:03.000Z'
 categories: []
 keywords: []
-slug: WWDC+2010+Keynote
+slug: "77297d9c-9a8d-4996-a662-721e79cbaf52"
 ---
 今年もWWDCの季節になりました。ということで、keynoteの発表を中心に。
 

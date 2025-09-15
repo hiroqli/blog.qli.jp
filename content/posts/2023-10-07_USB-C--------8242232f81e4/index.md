@@ -4,7 +4,7 @@ description: ''
 date: '2023-10-07T03:01:35.842Z'
 categories: []
 keywords: []
-slug: USB-C%E3%81%A6%E3%82%99%E3%81%86%E3%82%8C%E3%81%97%E3%81%84%EF%BC%9F
+slug: "06e0689f-2dd7-448f-8a5b-744de505e885"
 ---
 先週はiPhone15 Proの話を書いたのですが、USB-Cのことを書いていなかったことに気づきました。
 

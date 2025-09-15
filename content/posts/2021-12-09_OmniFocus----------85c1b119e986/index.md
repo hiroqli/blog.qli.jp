@@ -4,7 +4,7 @@ description: 先日、TwitterでOmniFocusは古いという話を見かけまし
 date: '2021-12-09T14:37:33.068Z'
 categories: []
 keywords: []
-slug: OmniFocus%E3%81%AF%E6%99%82%E4%BB%A3%E9%81%85%E3%82%8C+%E3%81%AA%E3%81%AE%E3%81%8B
+slug: "4aead447-5b21-4e7a-a571-068085092070"
 ---
 ![](0__ZX0ivPZ0lkWPqqwQ.jpg)
 

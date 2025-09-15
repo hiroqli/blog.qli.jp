@@ -4,7 +4,7 @@ description: ''
 date: '2009-06-28T10:45:49.000Z'
 categories: []
 keywords: []
-slug: "%E2%80%9C%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E2%80%9D%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9FiPhone+3GS"
+slug: "36cc4b10-3bf4-486e-90c0-674f8f9d4e91"
 ---
 さっくりと乗り換えましたよ。
 

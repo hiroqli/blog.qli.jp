@@ -4,9 +4,8 @@ description: ""
 date: "2006-11-07T23:00:22.000Z"
 categories: []
 keywords: []
-slug: GTD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%8E%9F%E5%89%87%E3%82%92%E8%A6%8B%E7%9B%B4%E3%81%99+%E2%80%94+GTD%E5%8E%9F%E7%90%86%E4%B8%BB%E7%BE%A9%EF%...
+slug: "6ed75b5c-94a1-4f22-a6ec-1a40430d8405"
 ---
-
 突然ですが、GTD で大切な”ハコ”は、
 
 - @Inbox

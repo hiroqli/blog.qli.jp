@@ -4,7 +4,7 @@ description: ''
 date: '2006-10-02T10:11:13.000Z'
 categories: []
 keywords: []
-slug: rmilk%E3%81%A7%E3%81%AE%E8%A4%87%E6%95%B0%E3%82%BF%E3%82%B9%E3%82%AF%E3%83%A1%E3%83%BC%E3%83%AB%E7%99%BB%E9%8C%B2%E6%B3%95
+slug: "225cbcb5-4af1-4055-bc57-f6e81aca30cf"
 ---
 非常に高機能で使い勝手がいいRemember the milk。僕がcheck\*padに戻った理由の１つに、複数タスクを気軽にメールで入れられないという問題があった。  
 ところが、rmilkには実装されていたらしい。こういう奥が深いところ、rmilkっぽいです。

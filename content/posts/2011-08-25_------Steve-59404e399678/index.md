@@ -4,7 +4,7 @@ description: ''
 date: '2011-08-25T20:36:23.000Z'
 categories: []
 keywords: []
-slug: "%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%80%81Steve"
+slug: "e231b2ac-7514-4c6d-9ecf-2059334d32c2"
 ---
 今日は、どことなくAppleコミュニティが暗かった気がします。
 

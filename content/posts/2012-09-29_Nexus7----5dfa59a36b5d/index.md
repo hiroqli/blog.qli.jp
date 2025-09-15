@@ -4,7 +4,7 @@ description: ''
 date: '2012-09-29T22:20:24.000Z'
 categories: []
 keywords: []
-slug: Nexus7%E3%81%A8%E3%81%A9%E3%81%8F
+slug: "e895dddb-fe82-48f5-abfb-16cd6ddff5e4"
 ---
 Nexus7が届きました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-13T23:58:14.000Z'
 categories: []
 keywords: []
-slug: OmniFocus%E3%82%92%E6%9C%AC%E6%A0%BC%E7%9A%84%E3%81%AB%E4%BD%BF%E3%81%84%E5%87%BA%E3%81%97%E3%81%A6%E6%B0%97%E3%81%A5%E3%81%84%E3%81%9F%E3%81%93%E3...
+slug: "6c567d13-cf71-4966-ae8f-40a68697da92"
 ---
 MacBook Airにして変えたことが一つあって、今まで使えていなかったOmniFocusを使ってみるってことでした。
 

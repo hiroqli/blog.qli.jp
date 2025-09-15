@@ -4,7 +4,7 @@ description: ''
 date: '2007-05-01T12:17:45.000Z'
 categories: []
 keywords: []
-slug: iGoogle+%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9
+slug: "1ce42122-3dd9-4c23-b551-64bb60a82963"
 ---
 Google パーソナライズページがiGoogleという新しいブランドで再出発しました。これまで英語版だけで使えたテーマも日本語版で使えるようになっています。
 

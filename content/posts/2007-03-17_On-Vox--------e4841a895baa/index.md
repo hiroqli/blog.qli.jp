@@ -4,7 +4,7 @@ description: ''
 date: '2007-03-17T12:18:32.000Z'
 categories: []
 keywords: []
-slug: On+Vox%3A+%E8%AA%AD%E3%81%BF%E9%80%83%E3%81%92%EF%BC%81
+slug: "bae403f3-f689-41e6-9c3a-1aae7c3ed8f4"
 ---
 なんだか「読み逃げ」という言葉があるらしい。
 

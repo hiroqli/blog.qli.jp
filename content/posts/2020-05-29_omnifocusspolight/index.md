@@ -4,7 +4,7 @@ description: OmniFocus 3.8 がリリースされました。今回の主なト�
 date: '2020-05-29T12:17:03.202Z'
 categories: []
 keywords: []
-slug: OmniFocus%E3%81%AE%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%A8Spolight%E6%A4%9C%E7%B4%A2
+slug: "79c222a7-c9b1-4e91-b5c8-afc0e5c88e28"
 ---
 OmniFocus 3.8 がリリースされました。今回の主なトピックは Omni Automation。 JavaScript で項目を自動生成したりすることができる機能で、OmniGroupの他のアプリには導入されているものです。
 

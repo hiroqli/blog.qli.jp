@@ -4,7 +4,7 @@ description: ''
 date: '2008-02-13T22:45:03.000Z'
 categories: []
 keywords: []
-slug: WEB%E3%81%A7%E4%BD%95%E3%82%92%E3%82%84%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%E3%82%92%E5%91%8A%E7%9F%A5%E3%81%99%E3%82%8B%E3%82%B5%E3%83%BC...
+slug: "593a9731-84a2-4abb-b459-32df2bad3140"
 ---
 TechCrunchで紹介されていたImintaというサービスに申し込んだら、まだinviteの待ち行列がなかったせいか今日の朝に早速招待メールが届いていました。imintaというのは最近にわかに流行りつつあるもので、TechCrunchの紹介を引用すると
 

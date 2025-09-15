@@ -4,7 +4,7 @@ description: ''
 date: '2013-09-12T10:55:05.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%89%E3%82%B3%E3%83%A2%E3%81%8B%E3%82%89iPhone%E3%81%8C%E5%87%BA%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8"
+slug: "80488728-5604-4ff6-9017-ef0e8635c0ac"
 ---
 今年リリースされるiPhoneをもって、iPhoneが ntt docomo / au / Softbank の3キャリアで取り扱われることになります。
 

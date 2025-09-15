@@ -4,7 +4,7 @@ description: ''
 date: '2016-11-06T01:56:30.000Z'
 categories: []
 keywords: []
-slug: Apple+Pay%3A+Two+weeks+impression+in+Japan
+slug: "7b129bac-9081-4c07-948d-9e49e2ffcd96"
 ---
 Apple Payがサービスインして2週間経ったので、今の状況を簡単にまとめておく。
 

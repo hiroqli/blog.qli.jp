@@ -4,7 +4,7 @@ description: AppleからApple Special Eventの予告がありました。10月30
 date: '2018-10-19T10:55:44.136Z'
 categories: []
 keywords: []
-slug: Apple+Special+Event+%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%83%AA%E3%83%B3%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B
+slug: "861ab129-ed6e-4f0b-b6c6-f13bfafdc0d7"
 ---
 AppleからApple Special Eventの予告がありました。10月30日朝10時(EDT)に開始されます。場所はなんとニューヨーク、ブルックリンです。
 

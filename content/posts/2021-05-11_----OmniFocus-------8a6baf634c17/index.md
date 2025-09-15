@@ -4,7 +4,7 @@ description: ''
 date: '2021-05-11T12:40:06.078Z'
 categories: []
 keywords: []
-slug: "%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%81%AEOmniFocus%E3%81%8C%E7%99%BA%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%9F"
+slug: "c98e4585-85d7-4218-8f79-d743df38a623"
 ---
 OmniFocus 4 が開発されていることが 開発元である The OmniGroupから発表されました。Swift UIを使って書き直されたそうです。
 

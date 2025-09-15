@@ -4,7 +4,7 @@ description: 2018年のタスク管理ツールの一年をまとめてみる。
 date: '2018-12-30T13:47:43.224Z'
 categories: []
 keywords: []
-slug: 2018%E5%B9%B4%E3%81%AE%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86%E3%83%84%E3%83%BC%E3%83%AB
+slug: "a25b9891-ddc0-451d-bf4b-c83139542813"
 ---
 2018年のタスク管理ツールの一年をまとめてみる。タスク管理ツールもいろいろあるけど、比較的ウォッチしている、OmniFocus、Things、Todoistのみ。
 

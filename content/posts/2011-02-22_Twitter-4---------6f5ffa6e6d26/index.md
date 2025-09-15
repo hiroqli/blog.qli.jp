@@ -4,7 +4,7 @@ description: ''
 date: '2011-02-22T21:58:15.000Z'
 categories: []
 keywords: []
-slug: Twitter+4%E5%91%A8%E5%B9%B4%E3%82%92%E8%BF%8E%E3%81%88%E3%81%BE%E3%81%97%E3%81%9F
+slug: "f671c774-28c1-46c1-9fdc-78b4715f6ff6"
 ---
 Twitterを始めたのは2007年2月22日、つまり今日で4周年を迎えました。
 

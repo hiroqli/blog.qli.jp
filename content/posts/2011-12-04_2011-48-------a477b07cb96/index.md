@@ -4,7 +4,7 @@ description: ''
 date: '2011-12-04T12:04:18.000Z'
 categories: []
 keywords: []
-slug: 2011%E5%B9%B448%E9%80%B1%E7%9B%AE%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96
+slug: "328aa2b5-d342-4d15-b75f-788f2cc1bc5a"
 ---
 今年は本当に数多くのライブに行きました。今年も残り１ヶ月となりましたが、新しく２つのライブに行ってきました。11月30日 minima @ 国際フォーラム by Salyu x Takeshi kobayashi と 12月2日 4Union @ 下北沢 CLUB251 by lego big morl。みんな同じ事務所ですが、ライブは両極端なものになりました。
 

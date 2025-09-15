@@ -4,7 +4,7 @@ description: ''
 date: '2008-08-09T15:10:05.000Z'
 categories: []
 keywords: []
-slug: OmniFocus+for+iPhone
+slug: "6fc6e098-1ad5-4bf1-82d7-e410517ded9f"
 ---
 書きたいとは思いつつも、遅くなってしまいました。
 

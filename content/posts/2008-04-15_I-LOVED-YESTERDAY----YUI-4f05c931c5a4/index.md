@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-15T21:37:16.000Z'
 categories: []
 keywords: []
-slug: I+LOVED+YESTERDAY+%3A%3A+YUI
+slug: "80687636-62d3-47b9-adc9-410a3d0cf281"
 ---
 先週発売になって、ほぼ毎日聞いてます。YUIさんのアルバム”I LOVED YESTERDAY”。
 

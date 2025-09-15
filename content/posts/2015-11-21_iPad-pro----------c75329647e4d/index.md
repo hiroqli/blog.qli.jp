@@ -4,7 +4,7 @@ description: ''
 date: '2015-11-21T02:03:00.000Z'
 categories: []
 keywords: []
-slug: iPad+pro+%E3%81%AB%E7%BD%AE%E3%81%8D%E6%8F%9B%E3%82%8F%E3%82%8A%E3%81%9D%E3%81%86
+slug: "e02440b3-e165-4fe4-ae68-66af0a755059"
 ---
 iPad PROを購入して、1週間がたった。仕事に行くときや大きめの鞄で出かけるときは、MacBookか、iPad Airをだいたい持ち歩いていた。
 

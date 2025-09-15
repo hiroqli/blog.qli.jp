@@ -4,7 +4,7 @@ description: ''
 date: '2006-10-23T11:28:01.000Z'
 categories: []
 keywords: []
-slug: YouTube%E3%81%AF%E5%80%8B%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%EF%BC%9F
+slug: "0f5d4c23-edee-4eaa-bec2-f3ef709bab05"
 ---
 YouTubeの話題ですが。
 

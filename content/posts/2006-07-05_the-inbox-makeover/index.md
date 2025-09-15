@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-05T00:21:54.000Z'
 categories: []
 keywords: []
-slug: The+Inbox+Makeover%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8D%E3%81%84%E3%82%8D%E3%81%84%E3%81%84%E6%84%9F%E3%81%98
+slug: "efac0db9-d025-4a0f-9e92-15c6a8422181"
 ---
 先ほどの書き込み「[i d e a \* i d e a — The Inbox Makeoverですっきり](http://blog.qli.jp/2006/07/i_d_e_a_i_d_e_a_8496.html)」の続き。
 

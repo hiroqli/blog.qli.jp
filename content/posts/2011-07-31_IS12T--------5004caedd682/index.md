@@ -4,7 +4,7 @@ description: ''
 date: '2011-07-31T21:26:21.000Z'
 categories: []
 keywords: []
-slug: IS12T%E3%82%92%E4%BD%93%E9%A8%93%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F
+slug: "5d0e4b5b-3254-4434-bca4-6a574003aa1b"
 ---
 Windows Phone IS12T の展示が始まったということで、KDDIスタジオにさわりに行ってきました（写真はありません）
 

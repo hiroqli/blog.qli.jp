@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-23T01:27:33.000Z'
 categories: []
 keywords: []
-slug: 802%2E11n%E3%81%AF%E9%80%9F%E3%81%84%E3%81%A7%E3%81%99
+slug: "04d524d4-1f04-4d3c-9f4d-d0219edf29e0"
 ---
 普段の無線はAirMac Extreme(802.11n/100Base Etherモデル)で接続しています。先日の投稿の通り今はこいつにもともとつないであった外付けHDDにTime Machineのデータが保存しています。
 

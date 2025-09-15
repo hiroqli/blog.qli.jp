@@ -4,7 +4,7 @@ description: ''
 date: '2006-11-05T02:09:27.000Z'
 categories: []
 keywords: []
-slug: Myspace%E3%81%AB%E7%99%BB%E9%8C%B2%E3%81%97%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F
+slug: "b483a8a1-d13d-44b4-a172-d50b64db274c"
 ---
 Typepadがずいぶん長いメンテナンスをやっていたのでやっと投稿できました。
 

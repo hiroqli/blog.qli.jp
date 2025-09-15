@@ -4,7 +4,7 @@ description: ''
 date: '2009-06-24T22:13:30.000Z'
 categories: []
 keywords: []
-slug: iPhone+3GS%E7%94%A8%E5%8B%95%E7%94%BB%E6%8A%95%E7%A8%BF%E3%82%B5%E3%82%A4%E3%83%88%EF%BC%81
+slug: "316bd856-a8fa-4a34-8ee0-89f3bcf7800e"
 ---
 最近アグレッシブなPosterousがやっぱりやってくれました。ビデオ投稿に対応したそうです。
 

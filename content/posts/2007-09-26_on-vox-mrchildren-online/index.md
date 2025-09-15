@@ -4,7 +4,7 @@ description: ''
 date: '2007-09-26T14:46:00.000Z'
 categories: []
 keywords: []
-slug: On+Vox%3A+Mr%2EChildren+online%E3%81%AE%E9%96%89%E9%8E%96%E5%AE%A3%E8%A8%80
+slug: "1b6ed6e4-5c34-4742-ab06-c281b1df1a0f"
 ---
 ブログではあまり触れないようにしていたのだけど、もうかれこれ10年近くMr.Children onlineというサイトを運営している。この間、そちらで「近い将来閉鎖します」という閉鎖宣言をした。
 

@@ -4,7 +4,7 @@ description: iPhone 11 Proに移行しました。Apple Storeで購入するこ�
 date: '2019-09-22T11:41:28.671Z'
 categories: []
 keywords: []
-slug: iPhone+11+Pro+%E3%81%AB%E7%A7%BB%E8%A1%8C%E3%81%97%E3%81%9F
+slug: "5133c590-fd6e-4bce-9bde-d60f9bf8d8a6"
 ---
 iPhone 11 Proに移行しました。Apple Storeで購入することが多かったのですが、今回はのんびり配送を選びました。
 

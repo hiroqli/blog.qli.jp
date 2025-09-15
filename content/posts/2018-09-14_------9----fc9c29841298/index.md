@@ -4,7 +4,7 @@ description: 9月第2週は、iPhone発表・予約週。ということで、�
 date: '2018-09-14T11:19:00.836Z'
 categories: []
 keywords: []
-slug: "%E3%82%8A%E3%82%93%E3%81%94%E9%80%B1%E9%96%93%EF%BC%889%E6%9C%88%E7%B7%A8%EF%BC%89"
+slug: "93ba23c8-81fa-424a-bf76-7c31ac67db0c"
 ---
 9月第2週は、iPhone発表・予約週。ということで、来週金曜日の予定はお決まりでしょうか。
 

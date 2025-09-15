@@ -4,7 +4,7 @@ description: ''
 date: '2015-02-07T03:19:28.000Z'
 categories: []
 keywords: []
-slug: Mr%2EChildren+REFLECTION+Live+film
+slug: "863ecf57-37fc-458b-893e-2297e2c3b4d8"
 ---
 Mr.Children REFLECTION Live filmを、公開前日2/6に六本木で見てきた。「前夜祭」と銘打たれた TOHO シネマズ六本木ヒルズでの先行上映は、スクリーン全部をミスチルという、かつてない規模で行われた。
 

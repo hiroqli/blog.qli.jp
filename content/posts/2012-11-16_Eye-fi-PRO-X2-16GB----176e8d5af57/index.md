@@ -4,7 +4,7 @@ description: ''
 date: '2012-11-16T22:18:28.000Z'
 categories: []
 keywords: []
-slug: Eye-fi+PRO+X2+16GB%E3%82%92%E8%B3%BC%E5%85%A5
+slug: "4da88a52-3dfa-41a6-acdd-5a0d9534ffbe"
 ---
 [**IMG\_1742**  
 _Explore hiro.qli's photos on Flickr. hiro.qli has uploaded 2785 photos to Flickr._www.flickr.com](http://www.flickr.com/photos/beyondmywish/8190916338/ "http://www.flickr.com/photos/beyondmywish/8190916338/")[](http://www.flickr.com/photos/beyondmywish/8190916338/)

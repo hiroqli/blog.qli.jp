@@ -4,7 +4,7 @@ description: Appleの発表会が行われた。今回の発表会で大きい�
 date: '2015-03-10T11:47:17.770Z'
 categories: []
 keywords: []
-slug: Apple%E3%81%AE%E6%98%A5%E5%BE%85%E3%81%A4%E6%81%AF%E5%90%B9
+slug: "7c0b2ea7-85bb-4948-a6e7-0339d3422647"
 ---
 Appleの発表会が行われた。今回の発表会で大きいものは、なんといっても、Apple WatchとMacBookだ。
 

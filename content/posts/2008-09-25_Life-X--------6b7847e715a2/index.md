@@ -4,7 +4,7 @@ description: ''
 date: '2008-09-25T23:44:24.000Z'
 categories: []
 keywords: []
-slug: Life-X%E3%81%AB%E7%99%BB%E9%8C%B2%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F
+slug: "0e2ae5a2-a177-4b54-821b-371ea8373658"
 ---
 Twitterのタイムラインで知ったSONYが展開する”[Life-X](http://life-x.jp/)”。ベータプログラムに応募していたのですが、当選メールが今日やってきましたのでさっそく登録しました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2008-02-01T22:23:32.000Z'
 categories: []
 keywords: []
-slug: NetScape%E3%83%A6%E3%83%BC%E3%82%B6%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%A7%BB%E8%A1%8C%E3%82%AC%E3%82%A4%E3%83%89
+slug: "919f1dd1-cc21-4e82-a946-913130567359"
 ---
 Mozilla Japanがすでに開発が終了し、3月1日でサポートが終了するNetscapeユーザのための移行ガイドを公開しています。
 

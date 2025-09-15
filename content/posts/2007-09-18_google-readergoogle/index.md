@@ -4,7 +4,7 @@ description: ''
 date: '2007-09-18T14:10:45.000Z'
 categories: []
 keywords: []
-slug: Google+Reader%E3%81%8CGoogle+%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82
+slug: "0d1ff8de-0dcb-45e9-b6f1-e7dd9e8d4ebf"
 ---
 Google Readerが先ほど日本語化されました。URLに変更はありません。いつも使っているURLで、いつも読んでいるフィードが日本語UIとなったGoogle Readerで読めます。
 

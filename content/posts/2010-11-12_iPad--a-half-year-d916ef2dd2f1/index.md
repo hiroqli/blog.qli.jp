@@ -4,7 +4,7 @@ description: ''
 date: '2010-11-12T20:54:00.000Z'
 categories: []
 keywords: []
-slug: iPad%2C+a+half+year
+slug: "ca7401c3-ba7e-4a1b-95a3-dcfe689050dc"
 ---
 iPadが日本で発売になったのが5月28日。それから約半年が経過しようとしている。この半年間に何が起こっただろうか。
 

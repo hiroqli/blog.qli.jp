@@ -4,7 +4,7 @@ description: ''
 date: '2011-10-06T10:55:38.000Z'
 categories: []
 keywords: []
-slug: Steve+Jobs+passed+away
+slug: "71beca8c-529e-4b7f-b610-db62e78a7394"
 ---
 ![](0__UOm5b5CACEOR0zJC.jpg)
 

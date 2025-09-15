@@ -4,7 +4,7 @@ description: ''
 date: '2006-06-21T08:56:18.000Z'
 categories: []
 keywords: []
-slug: "%E3%81%8D%E3%82%85%E3%83%BC%E3%82%8A%2Ejp%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%94%E6%8C%A8%E6%8B%B6"
+slug: "1ce7e387-3ff2-4e53-a061-2ecf157c2bd3"
 ---
 というわけで、始めてみました”きゅーり.jp”です。
 

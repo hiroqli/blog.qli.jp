@@ -4,7 +4,7 @@ description: ''
 date: '2011-10-28T21:41:37.000Z'
 categories: []
 keywords: []
-slug: iPhone%E3%81%AE%E5%BA%AD
+slug: "c1a9e7ba-248f-4a1c-8841-9f67805e3d6e"
 ---
 au iPhoneを使い始めて２週間が経とうとしています。Softbank iPhone4よりも全然快適です。Softbank iPhone4Sでもずいぶん改善が見られているようですね。ネット上ではどうやらau派とsoftbank派の宗教戦争がたびたび起きたりしているようですが。
 

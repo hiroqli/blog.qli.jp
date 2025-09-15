@@ -4,7 +4,7 @@ description: ''
 date: '2007-03-15T20:23:33.000Z'
 categories: []
 keywords: []
-slug: On+Vox%3A+%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%83%A0+%3A+%E3%83%AC%E3%83%9F%E3%82%AA%E3%83%AD%E3%83%A1%E3%83%B3
+slug: "f4104db8-c221-44f4-b43b-27a607c884f0"
 ---
 [レミオロメン キットカット](http://qli.vox.com/library/photo/6a00c225200a1d549d00cd971a64164cd5.html "レミオロメン キットカット")
 

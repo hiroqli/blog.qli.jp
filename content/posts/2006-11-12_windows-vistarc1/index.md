@@ -4,7 +4,7 @@ description: ''
 date: '2006-11-12T23:58:34.000Z'
 categories: []
 keywords: []
-slug: "%E3%81%84%E3%81%BE%E3%81%95%E3%82%89Windows+Vista%28RC1%29%E3%82%92%E3%81%BE%E3%81%98%E3%82%81%E3%81%AB%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%9..."
+slug: "9af9c167-48a7-452e-9716-6fbecf6c37a2"
 ---
 今頃書かなくてもいいと思われるかもしれませんが、意外とVistaのまじめなレビューってあんまりなかったような気もするので、書いておきます。MacBook(Intel Core Duo) + BootCamp + Windows Vista RC1という環境となります。
 

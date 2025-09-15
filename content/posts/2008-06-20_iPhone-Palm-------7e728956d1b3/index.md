@@ -4,7 +4,7 @@ description: ''
 date: '2008-06-20T12:28:44.000Z'
 categories: []
 keywords: []
-slug: iPhone%E3%81%AFPalm%E3%81%AE%E5%A4%A2%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90
+slug: "4740803b-b5d8-4af0-b06a-9b172d17f536"
 ---
 Firefox3そっちのけでiPhoneづくしです。というのも”WebとMacと音楽と”をキーフレーズにしているこのブログでは、iPhoneほど取り上げるのにぴったりなデバイスって他にないのです。
 

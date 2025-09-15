@@ -4,7 +4,7 @@ description: ''
 date: '2015-06-11T10:11:42.000Z'
 categories: []
 keywords: []
-slug: Lean+UX+%E3%81%A8%E3%81%84%E3%81%86%E4%BA%A4%E5%B7%AE%E7%82%B9
+slug: "b5b8e82d-f53f-4f80-a57c-0d7c95e68db1"
 ---
 Lean UXという言葉がある。よく考えてみると、Lean Startupと何が違うのかわかりにくい言葉だ。
 

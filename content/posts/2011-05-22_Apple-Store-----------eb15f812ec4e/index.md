@@ -4,7 +4,7 @@ description: ''
 date: '2011-05-22T19:19:40.000Z'
 categories: []
 keywords: []
-slug: Apple+Store+%E3%81%8C%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97
+slug: "e4ea9e5c-2f69-427f-a411-03ec584116c0"
 ---
 Apple Store 銀座に行ってきました（写真はありません）
 

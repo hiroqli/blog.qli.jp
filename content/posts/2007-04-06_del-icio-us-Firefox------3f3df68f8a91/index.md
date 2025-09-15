@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-06T08:13:16.000Z'
 categories: []
 keywords: []
-slug: del%2Eicio%2Eus%E3%81%AEFirefox%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3
+slug: "4355db9d-b229-47a7-8236-e342b26a90d6"
 ---
 先日から[clipmarks](http://clipmarks.com/)を使い始めていて、clipmarksとde.icio.usの連携が秀逸なので、[Bluedot.us](http://bluedot.us/) から [del.icio.us](http://del.icio.us/)の出戻りを考えていましたが、今回のdel.icio.usのプラグインでほぼ決定的となりました。  
   

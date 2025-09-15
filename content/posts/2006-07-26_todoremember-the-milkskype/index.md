@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-26T00:10:17.000Z'
 categories: []
 keywords: []
-slug: ToDo%E7%AE%A1%E7%90%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%80%8CRemember+The+Milk%E3%80%8D%E3%81%8CSkype%E3%81%AB%E5%AF%BE%E5%BF%9C
+slug: "55bdef0a-c7b9-4550-9a4d-032dc063f82f"
 ---
 すごく重要な情報を見つけてしまいました。というか見逃してました。  
   

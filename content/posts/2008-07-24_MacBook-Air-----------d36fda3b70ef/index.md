@@ -4,7 +4,7 @@ description: ''
 date: '2008-07-24T21:35:32.000Z'
 categories: []
 keywords: []
-slug: MacBook+Air%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%B3%E3%82%A2%E5%8C%96%E5%95%8F%E9%A1%8C
+slug: "6934b4f1-57df-4dd9-9821-a4070f7b812b"
 ---
 MacBook Airを買って、約4ヶ月。性能には問題は感じていないのですが、問題点がひとつありました。それはCPUのシングルコア化です。
 

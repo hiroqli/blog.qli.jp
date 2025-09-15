@@ -4,7 +4,7 @@ description: ''
 date: '2007-09-17T20:19:14.000Z'
 categories: []
 keywords: []
-slug: Remember+The+Milk+%E3%81%AB%E6%96%B0%E3%81%97%E3%81%84%E6%A9%9F%E8%83%BD%E3%81%8C%EF%BC%92%E3%81%A4
+slug: "22affbeb-d3da-40e1-8609-6171c1a38c07"
 ---
 Remember the milkから素晴らしいニュースが届いたので、お知らせ。1件目は初のProアカウントのサービスであるMilkSync。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2010-06-20T21:58:48.000Z'
 categories: []
 keywords: []
-slug: iPad%E4%BD%BF%E7%94%A8%E6%AD%B4%EF%BC%91%E3%83%B6%E6%9C%88
+slug: "2dce3b7b-93bb-494a-aeb5-f87fa3ff27d1"
 ---
 明日６月２１日にはiOS4の公開、そして木曜日６月２４日にはiPhone 4の発売とiPhone weekとも言える一週間になりそうなのですが、iPadが日本で発売されてもうすぐ１ヶ月が経つことも忘れてはいけません。というわけで、一ヶ月ほどiPadを使ってみての感想などを書いていきたいと思います。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-11T11:13:08.000Z'
 categories: []
 keywords: []
-slug: remember+the+milk+%E2%80%94+%E9%81%8B%E7%94%A8%E7%B7%A8
+slug: "d1d0b56c-8566-41ac-bd8f-d9dfbaf572c0"
 ---
 前述したとおり、最近Remember the milkを使い始めてみた。(GTDの説明は割愛)  
 ちょっと使い方に悩んだのだが、ネットで検索すると、「Home」「personal」「work」などというリストを作っている人が多いようだったので、その通りにしてみたのだが、なんとも使いづらい。

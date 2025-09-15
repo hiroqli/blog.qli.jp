@@ -4,7 +4,7 @@ description: ''
 date: '2011-12-25T01:39:56.000Z'
 categories: []
 keywords: []
-slug: salyu+x+salyu+in+DOMMUNE
+slug: "0ee8487a-5bda-4b7e-8cd0-0832635ede3f"
 ---
 DOMMUNEさんのイベントで salyu x salyu のステージがあるというので見てきました。もちろんDOMMUNEなのでUstreamでも配信されていました。あ、そうそうDOMMUNEという番組は自分自身ほとんど見たことがありません。なんだろ、セレクトされている話題とかがあまりひっかかってこないというのが、大きな理由かな。
 

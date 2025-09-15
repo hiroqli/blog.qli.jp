@@ -4,7 +4,7 @@ description: ''
 date: '2010-04-13T22:47:01.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%9E%E3%83%AB%E3%83%81%E3%82%BF%E3%82%B9%E3%82%AF%E3%81%84%E3%82%89%E3%81%AA%E3%81%84%E6%B4%BE%E3%81%AEiPhone+OS+4+%E3%83%9E%E3%83%AB%E3%83%81..."
+slug: "509af6fd-e1ee-4768-aded-17d3ad27ab08"
 ---
 自分はiPhoneにはマルチタスクがいらない派だった。でも、iPhone OS 4 にはマルチタスクが導入されることが発表された。iPhone OS 4にマルチタスクが入って気に入らないとは思っていない。むしろ歓迎している。
 

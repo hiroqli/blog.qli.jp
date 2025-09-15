@@ -4,9 +4,8 @@ description: ""
 date: "2006-11-19T23:08:35.000Z"
 categories: []
 keywords: []
-slug: "%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%96%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%AF+BlueDot"
+slug: "271fd076-7136-4e1a-80b7-3403c69a5e73"
 ---
-
 ![]()
 
 BlueDot というソーシャルブックマークサービスを使ってみてます(via [さりさら @vox](http://sarisara.vox.com/library/post/%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%96%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%AF%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F.html))。メインは POOKMARK Airlines なので、こちらからブックマークを移行してみてました。Pookmark Airlines のはき出すエクスポートファイルは、Mozilla 系に準拠したものなので、移行も楽でした。おまけに BlueDot で文字化けすることはありませんでした(どうやら 2 バイト文字の処理もきちんとされているようです)。

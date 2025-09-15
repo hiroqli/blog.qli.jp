@@ -4,7 +4,7 @@ description: ''
 date: '2009-12-03T12:38:49.000Z'
 categories: []
 keywords: []
-slug: geo-tweeter%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F
+slug: "7c21c891-ebba-409b-b575-6cef52e650a3"
 ---
 TwitterのタイムラインAPIに障害が起きているようで、クライアントからはtwitterが楽しめない最悪のタイミングなのですが、[geo-tweeter](http://geo-tweeter.qli.jp/)というものをつくってみたのでお知らせです。
 

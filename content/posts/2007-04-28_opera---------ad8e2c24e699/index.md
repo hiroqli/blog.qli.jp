@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-28T23:38:23.000Z'
 categories: []
 keywords: []
-slug: opera%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E6%80%9D%E3%81%84%E5%85%A5%E3%82%8C
+slug: "58a8f191-2844-441f-85b2-98778fd7d0fb"
 ---
 Twitter経由でこういうエントリーがあったので反応してみる。
 

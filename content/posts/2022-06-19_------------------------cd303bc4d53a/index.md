@@ -4,7 +4,7 @@ description: Mr.Children 30周年をお祝いするツアー「半世紀への�
 date: '2022-06-19T08:22:58.707Z'
 categories: []
 keywords: []
-slug: "%E6%9C%AA%E6%9D%A5%E3%81%B8%E3%81%AE%E3%82%A8%E3%83%B3%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AB%E3%81%AF%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3..."
+slug: "4852fd46-41ab-4142-99c9-3e6b2c228925"
 ---
 ![](1__OfTor4DRedzxA__R67YQwKA.jpeg)
 

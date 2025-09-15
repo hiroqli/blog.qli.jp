@@ -4,7 +4,7 @@ description: ''
 date: '2008-06-08T11:49:51.000Z'
 categories: []
 keywords: []
-slug: WWDC%E3%81%B8%E3%81%AE%E6%BA%96%E5%82%99%E3%81%AF%E9%80%B2%E8%A1%8C%E4%B8%AD
+slug: "b4ebc3ce-ca60-4f9a-b9a6-c5bf56023974"
 ---
 Apple WWDCの舞台となるモスコミューンセンターでも着々と準備が進行しているようです。建物の中のバナーには”OS X Leopard”・”OS X iPhone”と書かれた2つのバナーがあるそうです。
 

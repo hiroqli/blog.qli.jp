@@ -4,7 +4,7 @@ description: ''
 date: '2006-08-27T20:00:35.000Z'
 categories: []
 keywords: []
-slug: chicappa%E3%82%B5%E3%83%BC%E3%83%90%E3%81%A7%E3%81%AEFeed%E5%8F%96%E5%BE%97
+slug: "0757c832-25d5-4c6d-b75c-072ea88d350b"
 ---
 [以前の書き込み](http://blog.qli.jp/2006/08/post_4f49.html)で
 

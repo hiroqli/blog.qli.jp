@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-21T22:36:18.000Z'
 categories: []
 keywords: []
-slug: "%E3%82%AF%E3%83%AF%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%E3%83%AB%E3%83%BC%E3%83%A0%E3%81%AB%E3%82%88%E3%81%86%E3%81%93%E3%81%9D"
+slug: "9c1957d5-3307-4b98-9551-d1e3193784f9"
 ---
 [クワイエットルームにようこそ 特別版 (初回限定生産2枚組)](http://www.amazon.co.jp/exec/obidos/ASIN/B0011JPENC/sixapart-vox1-22 "クワイエットルームにようこそ 特別版 (初回限定生産2枚組)")
 

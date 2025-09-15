@@ -4,7 +4,7 @@ description: 重すぎたレビューを見直して軽くした話
 date: '2022-04-07T13:20:07.540Z'
 categories: []
 keywords: []
-slug: "%E6%AF%8E%E9%80%B1%E3%81%AE%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%82%92%E8%BB%BD%E3%81%8F"
+slug: "fb8f7cdb-27c4-4752-a099-ef17847cf8cc"
 ---
 つい先日、こういう記事を見つけました。
 

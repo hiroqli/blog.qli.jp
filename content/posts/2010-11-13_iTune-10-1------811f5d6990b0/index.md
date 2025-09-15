@@ -4,7 +4,7 @@ description: ''
 date: '2010-11-13T08:47:16.000Z'
 categories: []
 keywords: []
-slug: iTune+10%2E1%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9
+slug: "7ddd519c-90a1-4da6-8f6f-fcf8a92da50b"
 ---
 先日のOS X 10.6.5リリースに続き、iOS4.2へのマイルストーンであるiTunes 10.1がリリースされました。今回のリリースはiOS4.2対応、AirPlayの動画対応が主な内容になります。
 

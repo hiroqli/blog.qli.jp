@@ -4,7 +4,7 @@ description: ''
 date: '2007-11-07T22:56:39.000Z'
 categories: []
 keywords: []
-slug: "%E9%9F%B3%E6%A5%BD%E6%83%85%E5%A0%B1%E3%81%8C%E9%A3%9B%E3%81%B3%E8%BE%BC%E3%82%93%E3%81%A7%E3%81%8D%E3%81%9F"
+slug: "e39c68fc-2317-449d-b8c2-fcd2e376e0ac"
 ---
 いくつかまとまって話が飛び込んできました。
 

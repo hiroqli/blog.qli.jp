@@ -4,7 +4,7 @@ description: ''
 date: '2007-03-29T18:49:27.000Z'
 categories: []
 keywords: []
-slug: MailFetcher%E3%81%8C%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AB%E3%82%82%E8%BF%BD%E5%8A%A0
+slug: "5032e1bd-2884-4535-978b-57375913c909"
 ---
 Gmailのヘルプにこういう項目が追加されていた。
 

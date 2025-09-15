@@ -4,7 +4,7 @@ description: ''
 date: '2007-09-18T18:40:10.000Z'
 categories: []
 keywords: []
-slug: Thunderbird%E3%81%AFMozilla%E3%81%8B%E3%82%89%E9%9B%A2%E3%82%8C%E3%82%8B
+slug: "0c283d5c-fad7-4af4-a88e-b82ecf3b8529"
 ---
 GeckoエンジンとFirefoxを開発しているmozillaは、メールとコミュニケーションに関する新しい組織を設立することにしたそうです。これによりMozillaはFirefoxに専念し、新組織がthunderbirdを担当することになります。  
 Sunbirdがどういった形になるかは不透明（Tbのプラグイン要素が強いので新組織かも)ですが、この動きには今までFirefoxのリリースの度に進捗が遅れていたThunderbirdの開発進度を考えると納得できることだと思います。  

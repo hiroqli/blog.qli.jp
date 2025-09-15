@@ -4,7 +4,7 @@ description: ''
 date: '2011-07-23T10:38:29.000Z'
 categories: []
 keywords: []
-slug: OS+X+Lion%E3%81%8C%E7%99%BA%E5%A3%B2%E3%81%95%E3%82%8C%E3%81%9F
+slug: "b09ffa45-b805-4df5-9a77-b25f49eca547"
 ---
 7月20日、百獣の王、LionがついにAppleの檻の中に入ってきました。
 

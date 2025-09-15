@@ -4,7 +4,7 @@ description: ''
 date: '2008-08-14T23:26:11.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%96%E3%83%AD%E3%82%B0%E3%83%91%E3%83%BC%E3%83%84%E3%82%92%E6%95%B4%E7%90%86%E3%81%A8%E3%81%8B%E3%81%97%E3%81%A6%E3%81%BE%E3%81%97%E3%81%9F"
+slug: "827ae99f-b3ed-4f6c-9675-4da3ec144c29"
 ---
 先ほど気づいたのですが、このブログにも設置している[track feed](http://trackfeed.com/)というサービスが新しくなっていました。
 

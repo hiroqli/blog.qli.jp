@@ -4,7 +4,7 @@ description: ''
 date: '2012-03-13T08:28:47.000Z'
 categories: []
 keywords: []
-slug: au+iPhone+%E3%81%AB%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A1%E3%83%BC%E3%83%AB
+slug: "dc9d80d2-aecf-4728-bb9c-79025cfb46fe"
 ---
 auの提供するキャリアメールがiPhoneでリアルタイム受信メールになりました。
 

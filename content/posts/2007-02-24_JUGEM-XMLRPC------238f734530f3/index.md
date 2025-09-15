@@ -4,7 +4,7 @@ description: ''
 date: '2007-02-24T15:01:38.000Z'
 categories: []
 keywords: []
-slug: JUGEM%E3%81%8CXMLRPC%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9F
+slug: "62d1c119-c9ae-4ccd-bd5c-70d74c9c3504"
 ---
 JugemがやっとXML-RPCに対応した。
 

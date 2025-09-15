@@ -4,7 +4,7 @@ description: ''
 date: '2012-09-16T08:16:25.000Z'
 categories: []
 keywords: []
-slug: Wordcamp+Tokyo%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6
+slug: "a4abeeab-b17c-4fb7-8c64-a1466c44ec1b"
 ---
 ![](0__AE5UkN5ZZvOK65ev.jpg)
 

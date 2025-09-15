@@ -4,7 +4,7 @@ description: ''
 date: '2008-10-20T08:57:09.000Z'
 categories: []
 keywords: []
-slug: Return+the+simple
+slug: "67472452-f0a1-4938-8a17-9d92c248f61f"
 ---
 思うところあって、広告を中心にブログパーツをもろもろ外してみました。feedburnerで配信していた、googleの広告も外しました。デザインも出来る限りシンプルなものに変更しました。以前使っていたものですね。
 

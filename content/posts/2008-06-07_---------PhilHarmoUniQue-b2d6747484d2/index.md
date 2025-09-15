@@ -4,7 +4,7 @@ description: ''
 date: '2008-06-07T15:55:41.000Z'
 categories: []
 keywords: []
-slug: "%E5%84%AA%E3%81%97%E3%81%84%E9%9F%BF%E3%81%8D+%3A%3A+PhilHarmoUniQue"
+slug: "309e870e-c703-440a-9b1c-1c16ef4f3b00"
 ---
 PhilHarmoUniQueの記念すべきファーストシングル。ミニアルバムでデビューしているので、CDとしてはこれが2枚目ですね。
 

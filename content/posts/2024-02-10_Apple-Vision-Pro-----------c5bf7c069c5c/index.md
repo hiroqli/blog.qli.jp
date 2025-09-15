@@ -4,7 +4,7 @@ description: Apple Vision Pro を見ながら、大企業がどうやってア�
 date: '2024-02-10T03:01:31.373Z'
 categories: []
 keywords: []
-slug: Apple+Vision+Pro%E3%81%AB%E3%81%BF%E3%82%8B%E5%A4%A7%E4%BC%81%E6%A5%AD%E3%81%AE%E6%88%A6%E3%81%84%E6%96%B9
+slug: "a37c92f0-d6b2-47cc-a5d2-47e2c26d1844"
 ---
 最近２つのライブに行ってきました。2月3日のChilli Beans at 日本武道館、そして、2月6日のLaura day romance at LIQUIDROOM。どちらのバンドもキャリアハイのキャパでのワンマンだったと思います。どちらも捨て曲がないくらい好きなバンドなので、どのセットリストで来られてもベスト盤っていうくらい好きなのですが、サイコーでした。本当に好きなものには語彙力なんか吹っ飛びます。
 

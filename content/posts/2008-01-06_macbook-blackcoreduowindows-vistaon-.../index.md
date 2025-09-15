@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-06T12:17:30.000Z'
 categories: []
 keywords: []
-slug: MacBook+Black%28CoreDuo%29%E3%81%A7Windows+Vista%E3%82%92%E5%8B%95%E4%BD%9C%E3%81%95%E3%81%9B%E3%81%A6%E3%81%BF%E3%81%9F%28on+VMware+Fusion%29
+slug: "b04acf91-5083-4950-a0ab-eb8c58f71e67"
 ---
 うちにはメインであるMacBookと、そしてサブ機として自作PC(Windows Vista)があります。もともとサブ機はWindows時代のメイン機で、当時はWindowsでゲーム(FPSとか）もやっていたので、ミドルハイエンドくらいのスペックがあったりします。で、せっかくMacでWindowsが動くようになったのだから動かしたいと思っていたのですよ。もうゲームはXBOX360で満足していて、Windowsで動かす必要性もないので。
 

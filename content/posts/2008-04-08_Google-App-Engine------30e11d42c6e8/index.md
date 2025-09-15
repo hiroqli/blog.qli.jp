@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-08T12:35:34.000Z'
 categories: []
 keywords: []
-slug: Google+App+Engine%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F
+slug: "348226b3-38b1-4fce-bf44-dcf7d3db0404"
 ---
 Google App Engineがリリースされました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2008-10-21T13:04:48.000Z'
 categories: []
 keywords: []
-slug: brightkite+for+iPhone
+slug: "1fe2e345-3ca4-448b-b3c4-499201f83496"
 ---
 [以前紹介した](http://blog.qli.jp/2008/07/sns-brightkitec.html)ロケーションベースサービスである [brightkite](http://brightkite.com/)。まだクローズドベータの状態が続いていますが、iPhone用のアプリがついにリリースされました。[こちらです。](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=294178808&mt=8)
 

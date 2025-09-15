@@ -4,7 +4,7 @@ description: ''
 date: '2015-12-04T15:01:00.000Z'
 categories: []
 keywords: []
-slug: iPad+Pro+%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE+Apple+Pencil+%E3%82%92%E5%85%A5%E6%89%8B%E3%81%97%E3%81%9F
+slug: "f54c18ec-2f2f-4c20-b4bc-19d2eacd2513"
 ---
 「iPad ProのためのApple Pencil」を入手しました。
 

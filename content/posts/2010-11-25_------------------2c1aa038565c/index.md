@@ -4,7 +4,7 @@ description: ''
 date: '2010-11-25T21:06:44.000Z'
 categories: []
 keywords: []
-slug: "%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B0%E3%83%A9%E3%83%95%E3%81%AF%E2%80%9D%E3%83%AA%E3%82%A2%E3%83%AB%E2%80%9D%E3%81%8C%E5%BC%B7%E3..."
+slug: "226e6eb8-8c84-47bc-bac6-70c9857be02e"
 ---
 Techwaveの２つの記事
 

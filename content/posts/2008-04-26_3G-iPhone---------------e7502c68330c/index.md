@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-26T00:00:40.000Z'
 categories: []
 keywords: []
-slug: 3G+iPhone%E3%81%AF%EF%BC%96%E6%9C%88%EF%BC%99%E6%97%A5%E3%81%AB%E7%99%BA%E8%A1%A8%E3%81%95%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F
+slug: "84000eb3-8236-4f9b-b327-c266167732e9"
 ---
 mixxをのぞいていたらこんな記事がありました。
 

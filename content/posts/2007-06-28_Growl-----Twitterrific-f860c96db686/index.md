@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-28T18:12:10.000Z'
 categories: []
 keywords: []
-slug: Growl%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9FTwitterrific
+slug: "06873d6c-53c1-4fed-82ba-21ff6231e1ba"
 ---
 TwitterのAPI制限に伴ってTwitなどクライアント側が対応されていますが、そんな中Mac用クライアントである[Twitterrific](http://iconfactory.com/software/twitterrific)がバージョンアップしていたのに気づきました。バージョンアップ版Ver2.1が公開されていたのが6月7日でしたので、ずいぶん気づかなかったことになります。
 

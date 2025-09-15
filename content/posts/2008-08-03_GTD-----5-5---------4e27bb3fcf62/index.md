@@ -4,7 +4,7 @@ description: ''
 date: '2008-08-03T01:30:16.000Z'
 categories: []
 keywords: []
-slug: GTD%E5%8B%89%E5%BC%B7%E4%BC%9A+%285%2E5%29+%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F
+slug: "ff04367f-fedd-4749-9434-08489c873a4e"
 ---
 GTD勉強会というものに行ってきました。
 

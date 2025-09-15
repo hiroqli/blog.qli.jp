@@ -4,7 +4,7 @@ description: ブログにはあまり書いてこなかったけど、Nature Rem
 date: '2019-04-14T05:10:13.406Z'
 categories: []
 keywords: []
-slug: Nature+Remo%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E3%81%BE%E3%81%A8%E3%82%81
+slug: "214de52d-73d3-406a-b64e-1c77fb14d1e5"
 ---
 ブログにはあまり書いてこなかったけど、Nature Remoの使い方をまとめて書いておきます。
 

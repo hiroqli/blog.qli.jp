@@ -4,7 +4,7 @@ description: ''
 date: '2016-04-25T10:31:00.000Z'
 categories: []
 keywords: []
-slug: "%E6%82%A9%E3%81%BE%E3%81%97%E3%81%84%E4%BD%8D%E7%BD%AE%E6%83%85%E5%A0%B1%E9%80%9A%E7%9F%A5+%23Todoist+%23OmniFocus"
+slug: "a256fced-fdd9-4c7a-b074-eb946dbd2288"
 ---
 駄文だけど、書いておく。
 

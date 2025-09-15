@@ -4,7 +4,7 @@ description: ''
 date: '2011-12-20T20:28:16.000Z'
 categories: []
 keywords: []
-slug: au+wifi+SPOT%E3%81%8Cau+iPhone%E5%90%91%E3%81%91%E3%81%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B
+slug: "9b471f85-e3c8-4b71-876f-45c7d0ba3b48"
 ---
 au がひっそりと au wifi SPOT の iPhone向けサービスを開始しました。[auの利用ガイド](http://www.au.kddi.com/iphone/support/guide/auwifispot.html)を見ながら設定すると使えるようになります。au wifi SPOT とは、 UQ Wifi + wi2 みたいですね。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2006-11-19T11:37:31.000Z'
 categories: []
 keywords: []
-slug: mylo%E3%81%AB%E8%A7%A6%E3%82%8C%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F
+slug: "dcb0cce2-c405-4c6c-b8dd-336c583d861e"
 ---
 さっそくですが、触ってきましたよ。mylo。こういうときに写真を撮る癖がないので、写真は他のレビュー([Google ブログ検索](http://blogsearch.google.co.jp/blogsearch?hl=ja&q=mylo&btnG=%E3%83%96%E3%83%AD%E3%82%B0%E6%A4%9C%E7%B4%A2&lr=lang_ja))を参考にしてみてください。まぁこういうところで写真を撮る人たちを少しひいた目で見てしまう方なんですけどね。それはそうと、PS3の発売にあわせて一応Bluerayの広告やっているんですよね。あんまり積極的ではないですけど。
 

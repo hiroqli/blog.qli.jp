@@ -4,7 +4,7 @@ description: OmniFocusの制作元である OmniGroupが、昨年のまとめと
 date: '2017-01-28T03:05:59.894Z'
 categories: []
 keywords: []
-slug: OmniFocus%E3%81%AB%E3%82%BF%E3%82%B0%E3%81%8C%E3%82%84%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8B
+slug: "297a8c90-915e-42db-a48c-507da0ac9c50"
 ---
 OmniFocusの制作元である OmniGroupが、昨年のまとめと今年の展望を発表している。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-13T19:36:00.000Z'
 categories: []
 keywords: []
-slug: Skype+for+mac+2%2E0%2E0%2E2+beta+with+video+chat
+slug: "2faf79d4-9952-4988-9a44-4f4b5c23d39f"
 ---
 今日はiPodだけでもApple系の方々は浮き足立っているところですが、Skype for macも新たな進展がありました。
 

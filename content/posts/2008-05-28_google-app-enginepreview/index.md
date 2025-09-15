@@ -4,7 +4,7 @@ description: ''
 date: '2008-05-28T09:46:18.000Z'
 categories: []
 keywords: []
-slug: Google+App+Engine%E3%81%8CPreview%E3%81%8B%E3%82%89%E8%84%B1%E3%81%99%E3%82%8B%EF%BC%9F
+slug: "7d43b915-cf94-4ca5-9071-d861fbaa340c"
 ---
 サイボウズラボの秋元さんのブログに、Google App Engineの新展開について記述がありました。
 

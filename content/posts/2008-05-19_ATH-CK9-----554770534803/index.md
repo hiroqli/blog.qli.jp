@@ -4,7 +4,7 @@ description: ''
 date: '2008-05-19T21:25:23.000Z'
 categories: []
 keywords: []
-slug: ATH-CK9%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC
+slug: "50cae37d-894a-481b-903f-33dfff64aaf6"
 ---
 ATH-CK9を買いました。1週間くらい経っていて音になれてきた感じがします。
 

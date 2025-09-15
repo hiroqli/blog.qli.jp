@@ -4,7 +4,7 @@ description: ''
 date: '2023-02-13T14:42:50.810Z'
 categories: []
 keywords: []
-slug: Things+%E3%81%AE%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%85%A5%E5%8A%9B%E3%82%92%E8%A6%8B%E3%81%A6%E3%81%BF%E3%82%8B
+slug: "4e60ad12-65fb-48c6-a46a-c5a7c7c0506c"
 ---
 Cultured Code社が作るリマインダーアプリ Things for Macには、日付を自然言語で入力できる機能があります。Cultured Code では、入力例が提示されていますが、Thingsを日本語環境で使っていると、この入力例が使えません。
 

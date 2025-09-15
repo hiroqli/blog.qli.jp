@@ -4,9 +4,8 @@ description: ""
 date: "2007-04-04T23:43:52.000Z"
 categories: []
 keywords: []
-slug: Google%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97+Mac%E7%89%88%E7%99%BB%E5%A0%B4%EF%BC%81
+slug: "0c3d6a91-37a3-4249-a90d-64a98e1df54d"
 ---
-
 ちょっと興奮してます。  
 ついに、Mac 版 Google Desktop がリリースされました！
 

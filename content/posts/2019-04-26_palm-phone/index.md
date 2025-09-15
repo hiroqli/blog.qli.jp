@@ -4,7 +4,7 @@ description: Palm Phoneをちょっと使って旅行してきたので、簡単
 date: '2019-04-26T23:32:33.086Z'
 categories: []
 keywords: []
-slug: Palm+Phone%E3%81%AF%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%81%AB%E5%8F%8E%E3%81%BE%E3%82%8B%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%83%87%E...
+slug: "9d8f9cdd-a5d4-4cf7-ad9c-4b44d668fdf3"
 ---
 Palm Phoneをちょっと使って旅行してきたので、簡単なレビューを。
 

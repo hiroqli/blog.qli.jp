@@ -4,7 +4,7 @@ description: ''
 date: '2007-07-08T19:13:03.000Z'
 categories: []
 keywords: []
-slug: Pownce%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F
+slug: "10dcb4e3-6d7c-4ec3-bf5a-a7558e2662a3"
 ---
 Technoratiを見てると、遅ればせながら、といった感じかもしれませんが、今日やっとinvite頂いたので試してみました。Pownceです。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2010-03-25T09:43:08.000Z'
 categories: []
 keywords: []
-slug: MAIDEN+VOYAGE+%3A%3A+Salyu
+slug: "730ba8db-06b7-4bd5-8afc-9c66a396eae6"
 ---
 前回のオリジナルアルバムから約３年。アルバムを作っているという話はずっと聞こえていたのですが、やっと発売されました。”ON A NIGHT LIKE THIS for HAITI”を取り上げるときにも書いたように、あの夜の次の日に完成した（はず）の音源。
 

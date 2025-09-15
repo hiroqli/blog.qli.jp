@@ -4,7 +4,7 @@ description: 誰も予想しなかったタイミングで、MacBookラインナ
 date: '2019-07-13T02:43:00.165Z'
 categories: []
 keywords: []
-slug: "%E6%97%A5%E6%9C%AC%E3%81%AB+HomePod+%E3%81%8C%E3%82%84%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8B"
+slug: "448c3df3-2819-47e1-a4b8-f1d34b0f5ad6"
 ---
 誰も予想しなかったタイミングで、MacBookラインナップの整理が行われ、そしてそのなかでHomePodが日本に来ることが発表されました。
 

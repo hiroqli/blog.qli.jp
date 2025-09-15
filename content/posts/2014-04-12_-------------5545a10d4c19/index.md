@@ -4,7 +4,7 @@ description: ''
 date: '2014-04-12T09:00:40.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%A6%E3%83%BC%E3%82%B6%E8%BE%9E%E6%9B%B8%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%81%AE%E6%9A%B4%E8%B5%B0"
+slug: "53d2ec3d-a986-4987-82cb-0f493565b4a9"
 ---
 OS X mavericks上で、TwitterアプリやSafariを使っていてレインボーサークルが頻発していました。そこでなんとなくアクティビティモニタを開いてみたところ、あるプロセスが暴走していることが判明しました。
 

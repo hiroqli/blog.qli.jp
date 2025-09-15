@@ -4,7 +4,7 @@ description: ''
 date: '2011-10-12T19:37:13.000Z'
 categories: []
 keywords: []
-slug: au+%E3%81%8C+iPhone+4S+%E3%81%AE+%E2%80%9C%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E2%80%9D%E3%82...
+slug: "461a0d8d-6ee9-486e-90f6-bd2c4f7c847c"
 ---
 auがiPhone4Sに関する”よくあるお問い合わせ”を公開しました（[リンク](http://www.au.kddi.com/iphone/faq/))。というわけで、すこし見ていきましょう。
 

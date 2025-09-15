@@ -4,9 +4,8 @@ description: ""
 date: "2006-07-27T17:21:00.000Z"
 categories: []
 keywords: []
-slug: "%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E7%B3%BB%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88"
+slug: "3329cece-0d46-4370-a7c3-f4ddbdc19c7b"
 ---
-
 ついに日本語の digg っぽいサイトがお目見えしました。その名も [newsing](http://newsing.jp/) です。
 
 ![]()

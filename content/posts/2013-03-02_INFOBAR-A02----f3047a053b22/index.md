@@ -4,7 +4,7 @@ description: ''
 date: '2013-03-02T13:30:53.000Z'
 categories: []
 keywords: []
-slug: INFOBAR+A02%E3%82%92%E8%B3%BC%E5%85%A5
+slug: "60428c84-b982-4015-a7e3-a4d4a9c81d75"
 ---
 INFOBAR A02を購入しました。セルラーの時代からずっとauを使ってきていますが、INFOBARには縁がなく、意外にもこれが初INFOBAR、とはいえ、もはやINFOSLATEみたいな感じになってしまっていますが。
 

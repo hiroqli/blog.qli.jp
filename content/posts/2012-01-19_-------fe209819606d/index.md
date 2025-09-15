@@ -4,7 +4,7 @@ description: ''
 date: '2012-01-19T11:45:05.000Z'
 categories: []
 keywords: []
-slug: "%E6%83%85%E5%A0%B1%E3%81%AE%E5%91%BC%E5%90%B8%E6%B3%95"
+slug: "525557b0-17b6-4d12-b0f7-b6a7c54abc1f"
 ---
 津田さんの「情報の呼吸法」を読みました。
 

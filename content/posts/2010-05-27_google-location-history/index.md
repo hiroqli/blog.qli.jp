@@ -4,7 +4,7 @@ description: ''
 date: '2010-05-27T08:34:14.000Z'
 categories: []
 keywords: []
-slug: Google+Location+History+%E3%81%8C%E3%81%B2%E3%81%A3%E3%81%9D%E3%82%8A%E3%81%A8%E7%99%BB%E5%A0%B4
+slug: "4be4ec9c-4f4b-4ff5-bee1-6ebc6db26a2d"
 ---
 [Google Location History](https://www.google.com/latitude/apps/history/dashboard) というのが気がついたら登場していました。
 

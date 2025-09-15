@@ -4,7 +4,7 @@ description: ''
 date: '2009-01-29T23:46:58.000Z'
 categories: []
 keywords: []
-slug: Google+Chrome+Out+of+Beta+Perty
+slug: "36f639c7-46d4-43e0-bfe4-5f345a8b2060"
 ---
 GoogleがChromeのイベントをやるというので、行ってきました。場所はセルリアンタワー7FのGoogleオフィス。普段カフェテリアとして使っている場所だそうです。
 

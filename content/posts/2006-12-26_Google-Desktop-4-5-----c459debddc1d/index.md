@@ -4,7 +4,7 @@ description: ''
 date: '2006-12-26T17:05:21.000Z'
 categories: []
 keywords: []
-slug: Google+Desktop+4%2E5%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88
+slug: "cbdb0b8b-4851-4147-9428-56880b47ca43"
 ---
 すでに知っている人ばかりだと思いますが、Google Desktop 4.5 日本語版をサンタが届けてくれました（笑）今回の主な更新点は、見た目の一新と最新アプリ(Fx2.0, WinVista, Office2007)対応なのだけど、この透明なサイドバーをWindows XPの2Dデスクトップで実現するのって、なんだかすっごいマシンパワー使うんじゃないかって気がしてます。透明なのはWindowsXP標準の機能で実現は出来るのですが。
 

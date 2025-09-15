@@ -4,7 +4,7 @@ description: ''
 date: '2013-06-21T07:42:49.000Z'
 categories: []
 keywords: []
-slug: 7th
+slug: "d6d24c60-6df9-4135-ae4e-628f003e3e92"
 ---
 今日は夏至。このブログ、きゅーり.jp を始めた日なんですが、どうやら7年目を迎えたようです。
 

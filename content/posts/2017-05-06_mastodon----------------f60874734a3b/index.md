@@ -4,7 +4,7 @@ description: mastodonブームみたいな状態も少し落ち着いてきた�
 date: '2017-05-06T07:15:22.883Z'
 categories: []
 keywords: []
-slug: mastodon%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%87%AA%E5%88%86%E3%81%AA%E3%82%8A%E3%81%AB%E6%95%B4%E7%90%86%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B
+slug: "a97eab16-c4f1-41ee-875e-442efe107b52"
 ---
 [**tootsuite/mastodon**  
 _mastodon - A GNU Social-compatible microblogging server_github.com](https://github.com/tootsuite/mastodon "https://github.com/tootsuite/mastodon")[](https://github.com/tootsuite/mastodon)

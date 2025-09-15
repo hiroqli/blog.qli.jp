@@ -4,7 +4,7 @@ description: ''
 date: '2008-08-23T14:28:10.000Z'
 categories: []
 keywords: []
-slug: MacBook+Air+%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%82%BF+%E7%99%BB%E5%A0%B4
+slug: "8dbd933e-58fc-48a2-b024-3007dd64da21"
 ---
 本日、Macbook Air アップデータがでました。内容は
 

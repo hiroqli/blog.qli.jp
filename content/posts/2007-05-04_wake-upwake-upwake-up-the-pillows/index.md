@@ -4,7 +4,7 @@ description: ''
 date: '2007-05-04T09:44:48.000Z'
 categories: []
 keywords: []
-slug: Wake+up%21Wake+up%21Wake+up%21+%3A+the+pillows
+slug: "7937bcb2-2d3c-4b10-a1bb-bc50d6d488d6"
 ---
 CDショップ行って見つけてきたので買ってきました。こういう発見があるのがおもしろいですね。（って自分がチェックしてなさすぎなだけですが）
 

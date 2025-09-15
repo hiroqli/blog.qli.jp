@@ -4,7 +4,7 @@ description: ''
 date: '2007-10-31T17:49:19.000Z'
 categories: []
 keywords: []
-slug: Gmail+IMAP%E3%81%AE%E4%BD%BF%E3%81%84%E5%BF%83%E5%9C%B0%E3%81%AF%EF%BC%9F
+slug: "f7c58576-c06a-4b06-8f6c-9c4daea3526e"
 ---
 まだまだ全アカウントには到達し切れていないようですが、自分のアカウントにはGmailのアカウント、Google Appsのアカウントともに先週末のLeopard祭りのさなかにやってきました。GmailのアカウントはさっそくMail.appに設定していますので、その雑感を。
 

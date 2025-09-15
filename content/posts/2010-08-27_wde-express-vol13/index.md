@@ -4,7 +4,7 @@ description: ''
 date: '2010-08-27T00:17:49.000Z'
 categories: []
 keywords: []
-slug: WDE+express+vol%2E13+%E2%80%9C%E6%9B%B8%E7%B1%8D%E3%81%A8%E5%87%BA%E7%89%88%E3%81%AE%E6%9C%AA%E6%9D%A5%E2%80%9D
+slug: "90cd82a2-fdfe-4678-8e9b-b88c727e96ae"
 ---
 日本語がうまい、Craig Modさんの講演。
 

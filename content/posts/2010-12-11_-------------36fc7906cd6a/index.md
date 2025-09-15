@@ -4,7 +4,7 @@ description: ''
 date: '2010-12-11T12:32:02.000Z'
 categories: []
 keywords: []
-slug: "%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B0%E3%83%A9%E3%83%95%E3%81%A8%E5%A4%9A%E9%9D%A2%E6%80%A7"
+slug: "6884267a-cec5-47e2-843e-816990c7b51e"
 ---
 \[長文注意\]
 

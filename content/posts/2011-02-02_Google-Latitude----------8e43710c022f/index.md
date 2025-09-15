@@ -4,7 +4,7 @@ description: ''
 date: '2011-02-02T10:00:10.000Z'
 categories: []
 keywords: []
-slug: Google+Latitude%E3%81%AB%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%82%A4%E3%83%B3%E6%A9%9F%E8%83%BD
+slug: "f70a9122-c6aa-4965-9e6a-98c22e04eed3"
 ---
 Google Latitudeにチェックイン機能が付きました([Official Google Blog](http://googleblog.blogspot.com/2011/02/check-in-with-google-latitude.html))。AndroidではGoogleマップのアップデートをすればすぐに、iPhoneはGoogle Latitudeアプリのアップデートが待って使えるようになれます。
 

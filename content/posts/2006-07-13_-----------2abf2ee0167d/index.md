@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-13T16:20:52.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E7%A6%85%E5%95%8F%E7%AD%94%E3%81%AE%E7%B6%9A%E3%81%8D"
+slug: "5ff12ea3-0362-4726-b92e-88bae8a52ade"
 ---
 このブログからこのブログへのツッコミ。
 

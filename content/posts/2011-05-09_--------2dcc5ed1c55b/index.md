@@ -4,7 +4,7 @@ description: ''
 date: '2011-05-09T14:45:37.000Z'
 categories: []
 keywords: []
-slug: "%E6%98%A0%E7%94%BB+%E9%98%AA%E6%80%A5%E9%9B%BB%E8%BB%8A"
+slug: "c462bc84-9314-4066-b8a8-4b6c40a8d01d"
 ---
 5月9日、GW終了初日。
 

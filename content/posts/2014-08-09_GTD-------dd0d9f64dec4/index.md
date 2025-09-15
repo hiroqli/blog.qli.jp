@@ -5,7 +5,7 @@ description: 表題通り。GTDをやめることにしました。若干釣り�
 date: '2014-08-09T04:07:01.103Z'
 categories: []
 keywords: []
-slug: GTD%E3%82%92%E3%82%84%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F
+slug: "db4993a1-7422-4f9a-a73f-b8bec1cd2acf"
 ---
 ![](1__u1__DYp0__hn__kz__cewYVQAA.jpeg)
 

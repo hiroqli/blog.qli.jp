@@ -5,7 +5,7 @@ description: MacBook Pro 14" (M1 Pro/2021) を導入して、２週間経った�
 date: '2021-12-19T05:02:07.428Z'
 categories: []
 keywords: []
-slug: "%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3+of+MacBook+Pro+14%22+%282021%29"
+slug: "2f36ac3e-65aa-40bb-a19c-af7963de78cf"
 ---
 MacBook Pro 14" (M1 Pro/2021) を導入して、２週間経ったので、今の時点での感想をまとめておきたいと思います。MacBook Pro 16" (2019) からの乗り換えです。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2011-10-03T21:09:25.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%91%E3%82%A4%E3%82%AA%E3%83%8B%E3%82%A2%E3%81%8CAirPlay%E5%AF%BE%E5%BF%9C%E3%82%A2%E3%83%B3%E3%83%97%E3%82%92%E7%99%BA%E8%A1%A8"
+slug: "56acc34e-2840-4c6f-b285-d9e894a2c636"
 ---
 パイオニアがAirPlay対応アンプを発表した（[ITmedia](http://plusd.itmedia.co.jp/lifestyle/articles/1110/03/news011.html))。iTunes、iPad、iPhoneから無線で音楽を飛ばして再生させることができる。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2007-10-30T18:35:33.000Z'
 categories: []
 keywords: []
-slug: Gmail%E3%81%8C%E5%A4%A7%E3%81%8D%E3%81%8F%E5%A4%89%E3%82%8F%E3%82%8B%EF%BC%9F
+slug: "e7cc2eb0-a8a7-46b3-b01c-b87cf246d8d6"
 ---
 先日IMAPに対応し、また公式Googleブログで[GmailのSPAMフィルタの有効性が発表](http://googleblog.blogspot.com/2007/10/its-not-about-spam.html)されたり、ウワサによると、google提供の複数のサービスを巻き込んだSNS構想が発表されるらしいともあり、なんだか賑やかになってきたGmailとその周辺なのですが、今日Gmail公式ブログにて興味深い発表がなされました。
 

@@ -4,7 +4,7 @@ description: Amazon unlimitedが始まったとのことで、改めて購読型
 date: '2016-08-13T03:54:19.341Z'
 categories: []
 keywords: []
-slug: "%E6%9C%883000%E5%86%86%E3%81%AE%E8%B3%BC%E8%AA%AD%E5%9E%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9"
+slug: "c36afd18-e503-4976-abdf-87e5e3641253"
 ---
 Amazon unlimitedが始まったとのことで、改めて購読型サービスの料金を調べて見ることにした。というか、このツイートの裏どりがしたかっただけなのだけど。
 

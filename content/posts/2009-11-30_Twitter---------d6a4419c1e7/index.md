@@ -4,7 +4,7 @@ description: ''
 date: '2009-11-30T10:08:32.000Z'
 categories: []
 keywords: []
-slug: Twitter%E3%81%A7%E6%84%9F%E3%81%98%E3%82%8B%E3%81%93%E3%81%A8%E9%9B%91%E8%A8%98
+slug: "d23cafaf-fc81-4b55-9b40-a25b958689ad"
 ---
 いくつか思うことがあったので、雑記感覚で書いてみよう。
 

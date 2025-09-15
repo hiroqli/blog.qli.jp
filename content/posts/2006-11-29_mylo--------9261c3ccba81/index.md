@@ -4,7 +4,7 @@ description: ''
 date: '2006-11-29T22:23:02.000Z'
 categories: []
 keywords: []
-slug: mylo%E7%99%BD%E6%97%A5%E6%9C%AC%E3%81%A7%E3%82%82%E7%99%BB%E5%A0%B4
+slug: "80c6e91b-0a70-47d5-a7af-210d0edfe0f5"
 ---
 あの”mylo”の白がやっぱり発売になるそうで、んで値下げを行うんだそうで。いや、Sonyマーケティングはがんばってるなぁって感じがしますね。
 

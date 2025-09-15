@@ -4,7 +4,7 @@ description: ''
 date: '2014-09-10T01:11:16.000Z'
 categories: []
 keywords: []
-slug: iPhone+6%E3%81%A8Apple+Watch%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%81%9D%E3%81%AE%E3%81%BB%E3%81%8B
+slug: "5678d151-1db0-494c-832e-a5bcf7018793"
 ---
 Appleがメディアイベントを行い、iPhone 6、Apple Watchを発表しました。
 

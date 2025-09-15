@@ -4,7 +4,7 @@ description: 年が明けてApple TV 4Kを買ったのでその話
 date: '2018-02-09T01:08:24.623Z'
 categories: []
 keywords: []
-slug: Apple+TV+4K%E3%82%92%E8%B2%B7%E3%81%A3%E3%81%9F%E8%A9%B1
+slug: "67e5aa8e-de25-4b41-9895-124152bd9e2d"
 ---
 年が明けてApple TV 4Kを買ったのでその話
 

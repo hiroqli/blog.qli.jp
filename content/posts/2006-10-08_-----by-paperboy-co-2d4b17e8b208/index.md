@@ -4,9 +4,8 @@ description: ""
 date: "2006-10-08T00:15:21.000Z"
 categories: []
 keywords: []
-slug: "%E3%82%AD%E3%83%8C%E3%82%AC%E3%82%B5+by+paperboy%26co"
+slug: "b21b763a-d387-42fd-ac20-68b47e8e5ef9"
 ---
-
 SNS って使ってますか？
 
 最近は、mixi が大きくなりすぎたおかげで、たとえば仲間うちで専用の SNS を立ち上げたりってこともあるらしいです。GPL ライセンスで SNS プログラムをダウンロードして、自前のサーバで SNS を構築したり出来る時代ですからね。

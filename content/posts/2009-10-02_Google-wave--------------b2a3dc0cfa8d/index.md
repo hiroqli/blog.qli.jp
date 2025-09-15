@@ -4,7 +4,7 @@ description: ''
 date: '2009-10-02T08:47:12.000Z'
 categories: []
 keywords: []
-slug: Google+wave+%E3%81%AE%E6%8B%9B%E5%BE%85%E7%8A%B6%E3%81%8C%E9%85%8D%E5%B8%83%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B
+slug: "b1b93d10-2168-4ffd-9679-cd5b96dbdf30"
 ---
 今年のgoogle I/Oで発表された、まさに今年のgoogleの一つの注目すべきプロジェクトである、Google wave がpreview releaseされました。あわせて、10万人に招待状が送られているそうです。
 

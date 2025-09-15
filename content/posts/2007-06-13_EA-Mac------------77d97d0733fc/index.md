@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-13T18:02:09.000Z'
 categories: []
 keywords: []
-slug: EA%E3%81%8CMac%E7%94%A8%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%92%E5%AE%A3%E8%A8%80
+slug: "8bf3c57b-a20a-4dd1-ac51-6f4a72219068"
 ---
 WWDCで発表されたニュースのうち、これが今のところ気になるニュースなのです。
 

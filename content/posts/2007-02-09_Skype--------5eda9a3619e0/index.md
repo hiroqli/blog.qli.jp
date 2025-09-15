@@ -4,7 +4,7 @@ description: ''
 date: '2007-02-09T23:48:28.000Z'
 categories: []
 keywords: []
-slug: Skype%E3%81%AE%E9%9A%A0%E3%81%97%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89
+slug: "f0f31fd9-e6be-47fb-948f-12d2084a75ec"
 ---
 久しぶりにITmediaから。Skypeに隠しコマンドがあるらしい。
 

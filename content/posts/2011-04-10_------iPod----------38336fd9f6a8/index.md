@@ -4,7 +4,7 @@ description: ''
 date: '2011-04-10T23:33:50.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%AD%E3%83%83%E3%82%AF%E7%94%BB%E9%9D%A2%E3%81%AEiPod%E6%BC%94%E5%A5%8F%E4%B8%AD%E6%9B%B2%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88"
+slug: "4c820dfa-34cc-4350-9ba3-6079e7c42213"
 ---
 いつごろから忘れたけれども、iPhoneには新しくiTunesで同期してもってきた音楽のジャケットをロック画面では表示できないという問題があるようだ。(iPhone 4 + iOS4.3.1で確認済み)
 

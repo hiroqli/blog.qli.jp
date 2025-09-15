@@ -4,7 +4,7 @@ description: ''
 date: '2012-03-10T12:31:54.000Z'
 categories: []
 keywords: []
-slug: Friends+after+3%2E11+%E5%8A%87%E5%A0%B4%E7%89%88
+slug: "03d98e8a-bc89-4255-be14-70eea3a046e2"
 ---
 Friends after 3.11 劇場版を見に行った。
 

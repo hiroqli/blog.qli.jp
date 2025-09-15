@@ -4,7 +4,7 @@ description: ''
 date: '2009-04-01T13:39:57.000Z'
 categories: []
 keywords: []
-slug: iPhone+for+everybody%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E6%83%85%E5%A0%B1%E8%BF%BD%E5%8A%A0
+slug: "0858b6e0-dc0c-46a0-905f-3c5574c0a69d"
 ---
 以前、こんな記事を書きました。
 

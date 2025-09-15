@@ -4,7 +4,7 @@ description: ''
 date: '2006-12-12T13:51:48.000Z'
 categories: []
 keywords: []
-slug: mylo+black%E7%99%BA%E5%A3%B2%E6%97%A5%E3%81%A7%E3%81%99%EF%BC%81
+slug: "c3ba0fe1-5e3f-4d82-9549-030d32c10771"
 ---
 注文しました。  
 一応ちゃんとした発売みたいですね。発送は２月になりますって感じの。

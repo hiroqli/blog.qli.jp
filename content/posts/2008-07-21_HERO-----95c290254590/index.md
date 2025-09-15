@@ -4,7 +4,7 @@ description: ''
 date: '2008-07-21T06:15:53.000Z'
 categories: []
 keywords: []
-slug: HERO+%E6%98%A0%E7%94%BB%E7%89%88
+slug: "eb4a79d9-9ff0-4d91-a555-faca3744a493"
 ---
 [HERO スタンダード・エディション](http://www.amazon.co.jp/exec/obidos/ASIN/B0011Z7ERK/sixapart-vox1-22 "HERO スタンダード・エディション")
 

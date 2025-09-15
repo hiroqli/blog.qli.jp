@@ -4,7 +4,7 @@ description: ''
 date: '2007-05-30T19:38:02.000Z'
 categories: []
 keywords: []
-slug: Oorong+Records%21
+slug: "312fe1d5-adc2-49e2-b43f-f78a7fe8a6d5"
 ---
 小林さん率いる音楽集団Oorong-shaが音楽レーベルOorong  
 Recordsを立ち上げることになった。レーベルはあくまでもレーベルなので、実際どのレコード会社のプレス工場を借りるのか、とかその辺までは詳細が伝わらないのだけど、これでOorong-shaという企業は今後も（おそらくいつか来るはずの小林さんが引退後も！）音楽に真摯に向き合い発信していく  

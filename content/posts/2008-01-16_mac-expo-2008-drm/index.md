@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-16T23:07:21.000Z'
 categories: []
 keywords: []
-slug: Mac+Expo+2008+%3A+%E6%98%A0%E7%94%BB%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%81%A8DRM%E3%81%A8%E6%96%B0%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2
+slug: "498812fa-e68e-4f7d-96c3-411406b5b995"
 ---
 日本ではまだ提供されないことからあまりニュースになっていないiTunes Movie Rentalですが、これ結構画期的なことだと思います。
 

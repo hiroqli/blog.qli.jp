@@ -4,7 +4,7 @@ description: ''
 date: '2007-01-23T18:27:41.000Z'
 categories: []
 keywords: []
-slug: Wordpress+2%2E1%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%21
+slug: "10b62e9b-ee08-42af-8fea-4dd71a7bd0b9"
 ---
 リンク: [Development Blog › WordPress 2.1 Ella](http://wordpress.org/development/2007/01/ella-21/ "Development Blog › WordPress 2.1 Ella").
 

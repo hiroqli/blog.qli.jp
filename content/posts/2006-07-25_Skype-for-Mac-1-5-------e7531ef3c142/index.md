@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-25T20:37:05.000Z'
 categories: []
 keywords: []
-slug: Skype+for+Mac+1%2E5+%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%EF%BC%81
+slug: "1360e0ff-6afd-4854-837b-1b22beb793f1"
 ---
 Skype 1.5 beta for macがリリースされました！日本語も大丈夫なようです。
 

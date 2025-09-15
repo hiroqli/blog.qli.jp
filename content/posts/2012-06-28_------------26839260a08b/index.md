@@ -4,7 +4,7 @@ description: ''
 date: '2012-06-28T06:35:52.000Z'
 categories: []
 keywords: []
-slug: "%E3%81%84%E3%82%88%E3%81%84%E3%82%88%E5%A7%8B%E3%81%BE%E3%82%8B%E6%AD%A3%E9%9D%A2%E8%A1%9D%E7%AA%81"
+slug: "c7b4e902-7691-4a32-8f6d-6c15bfa99b3a"
 ---
 GoogleがGoogle I/O 2012を開始しました。基調講演で多くのものが発表されたのですが、個人的にとても興味深かったのは、Google+イベント([公式リリース](http://googlejapan.blogspot.jp/2012/06/googlegoogle.html))。
 

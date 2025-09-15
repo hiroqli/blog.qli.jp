@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-20T11:40:34.000Z'
 categories: []
 keywords: []
-slug: Time+Capsule%E8%B2%B7%E3%82%8F%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82Wireless+Time+Machine
+slug: "1c323db1-d351-4774-87cc-add28d88a0d7"
 ---
 もしかすると前の記事の続きかもしれないですが。
 

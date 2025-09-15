@@ -4,7 +4,7 @@ description: ''
 date: '2007-01-29T11:16:44.000Z'
 categories: []
 keywords: []
-slug: Vista%E6%9C%80%E6%96%B0%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E4%B8%80%E8%A6%A7
+slug: "31c41911-4c29-40c3-8a9d-e76fa1cdec63"
 ---
 昨日、思い切ってWindowsのメインとして使っているPCにVista RC1を入れてみました。ドライバを含めて問題なく試用できるかの試験テスト。平日にバタバタしたくないですからね。
 

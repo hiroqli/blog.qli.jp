@@ -4,7 +4,7 @@ description: ''
 date: '2006-10-21T20:55:25.000Z'
 categories: []
 keywords: []
-slug: IE7%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%92%E6%8F%9B%E6%80%A7%E5%95%8F%E9%A1%8C
+slug: "f6bf2daf-41ec-4cf4-81e6-5fb2ccd8d597"
 ---
 Inernet Explorer 7における互換性の問題はこれだと思う。
 

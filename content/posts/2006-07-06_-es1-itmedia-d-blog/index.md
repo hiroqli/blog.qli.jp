@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-06T14:35:32.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E7%B7%A8%E9%9B%86%E9%83%A8%E3%80%81%E3%81%9F%E3%81%A0%E3%81%84%E3%81%BE%E5%8F%96%E6%9D%90%E4%B8%AD%3A+es%E3%81..."
+slug: "a36f24a0-a0c7-42e9-93f9-3c45d2a91b19"
 ---
 リンク: [モバイル編集部、ただいま取材中: esにいろいろ驚いた1日 \[ITmedia D Blog\]](http://plusdblog.itmedia.co.jp/ksaito/2006/07/es1__49a3.html "モバイル編集部、ただいま取材中: esにいろいろ驚いた1日 [ITmedia  D Blog]").
 

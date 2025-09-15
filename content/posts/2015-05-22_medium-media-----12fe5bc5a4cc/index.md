@@ -4,7 +4,7 @@ description: 記事に必要なのは執筆者のみ
 date: '2015-05-22T08:06:26.729Z'
 categories: []
 keywords: []
-slug: medium%E3%81%AFmedia%E3%81%AE%E8%A4%87%E6%95%B0%E5%BD%A2
+slug: "97b19fd3-1e7a-4ff5-aae4-6ac5bfa91941"
 ---
 ### 記事に必要なのは執筆者のみ
 

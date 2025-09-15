@@ -4,7 +4,7 @@ description: ''
 date: '2010-09-21T13:34:55.000Z'
 categories: []
 keywords: []
-slug: "%E6%98%A0%E7%94%BB+%E6%82%AA%E4%BA%BA"
+slug: "37f8e035-8b0f-4704-a04e-8f26f049c584"
 ---
 映画 悪人 を見てきたので感想
 

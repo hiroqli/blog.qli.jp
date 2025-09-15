@@ -4,7 +4,7 @@ description: ZV-1の新しいファームウェアが発表され、USBストリ
 date: '2021-02-09T11:28:05.938Z'
 categories: []
 keywords: []
-slug: "%E5%8B%95%E7%94%BB%E6%92%AE%E5%BD%B1%E3%81%A8ZV-1"
+slug: "7d31f336-8114-4e73-a491-cbcce6940adf"
 ---
 ZV-1の新しいファームウェアが発表され、USBストリーミング機能が提供されました。簡単にいうと、Zoomのカメラにできる機能です。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2011-02-02T22:32:49.000Z'
 categories: []
 keywords: []
-slug: "%E3%81%8D%E3%82%85%E3%83%BC%E3%82%8A%2Ejp+%E3%81%AE%E3%81%A4%E3%81%8F%E3%82%8A%E3%81%8B%E3%81%9F"
+slug: "9a69b43b-118a-4f9c-83a5-fb6becb325a7"
 ---
 たまたまTwitterで目についた記事で「[あなたのBlog術教えてください！](http://rashita.net/blog/?p=5206)」という企画をされていたので、参加してみることにしました。自分を振り返るいい機会にもなりますし。
 

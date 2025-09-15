@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-15T11:32:09.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E6%95%B4%E7%90%86%E8%A1%93%28svn%E7%B7%A8%29"
+slug: "ec6e1a10-c931-4ebd-a6dd-24357e2f46bf"
 ---
 ファイル整理術のもう一個、svn編。これはドキュメント作成時なんかに役に立つはずです。
 

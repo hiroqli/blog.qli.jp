@@ -4,7 +4,7 @@ description: ''
 date: '2008-02-07T23:35:16.000Z'
 categories: []
 keywords: []
-slug: iPod+Shuffle+%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88+from+Apple
+slug: "a3d04bcf-0096-479d-abd5-a7fb31c75fe4"
 ---
 今日の朝、アップルからアンケートメールが来ていました。iPod Shuffle購入者に対してのアンケートでした。聞かれたことはざっくりと次の通りの内容でした。
 

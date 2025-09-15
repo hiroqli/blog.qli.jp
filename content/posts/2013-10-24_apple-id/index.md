@@ -4,7 +4,7 @@ description: ''
 date: '2013-10-24T21:51:19.000Z'
 categories: []
 keywords: []
-slug: "%E2%80%9CApple+ID+%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%81%AE%E5%86%8D%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95%E3%80%82%E2%80%9D%E3%83%A1%E3..."
+slug: "0554c1c6-7772-47ea-ac5f-f2e916a15d98"
 ---
 Appleさんから ユーザーに向けて送られるメールのひとつに、「Apple ID パスワードの再設定方法。」というメールがありまして。
 

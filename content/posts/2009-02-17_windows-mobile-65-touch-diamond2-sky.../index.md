@@ -4,7 +4,7 @@ description: ''
 date: '2009-02-17T09:30:11.000Z'
 categories: []
 keywords: []
-slug: Windows+Mobile+6%2E5%2C+Touch+Diamond2%2C+Skype+2%2E5+for+WM
+slug: "a0945039-d559-4b87-adcd-2b8649d39e17"
 ---
 スペインで行われているMobile World Congressにて、Windows Mobile関連で新しいものがぞくぞくと発表されました。というわけで、興味を持ったものをまとめてみます。
 

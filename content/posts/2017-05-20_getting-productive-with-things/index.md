@@ -4,7 +4,7 @@ description: Things3のリリースに合わせて、使い方のドキュメン
 date: '2017-05-20T02:20:51.669Z'
 categories: []
 keywords: []
-slug: Getting+Productive+with+Things+%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88
+slug: "373dbb15-685e-4fad-a8dd-e8634e6f7b9a"
 ---
 Thingsは、あなたがやることすべてのためのアプリだ。このアプリを使うことで、あなたの生活を全ての側面（毎日のルーティンから、長期間で成し遂げる目標まで）から整理することができ、次に何をやるべきかを明確に知ることができる。
 

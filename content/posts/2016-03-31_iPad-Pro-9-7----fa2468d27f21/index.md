@@ -4,7 +4,7 @@ description: ''
 date: '2016-03-31T11:58:09.000Z'
 categories: []
 keywords: []
-slug: iPad+Pro+9%2E7%E3%82%A4%E3%83%B3%E3%83%81
+slug: "4f63aa96-6bd5-405e-a924-da4812752c55"
 ---
 iPad Pro 12.9インチに続けて、9.7インチを買った。
 

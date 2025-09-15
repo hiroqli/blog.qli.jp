@@ -4,7 +4,7 @@ description: ''
 date: '2011-06-05T22:26:25.000Z'
 categories: []
 keywords: []
-slug: iPhone%E3%82%A2%E3%83%97%E3%83%AA+Qik+Video+%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E7%A7%BB%E8%A1%8C
+slug: "085a677b-2645-4f7b-99c1-09eaebaec06b"
 ---
 iPhoneアプリである Qik Video が6月4日付けでバージョンアップしていました。Qik Video というのは、Qikというモバイル専用ライブストリーミングサービスのアプリです。
 

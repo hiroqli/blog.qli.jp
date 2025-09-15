@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-27T15:41:49.000Z'
 categories: []
 keywords: []
-slug: AirMacExtreme%287%2E2%2E1%29%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8BUSB%E6%8E%A5%E7%B6%9A%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%81%AE%E5%95%8F%E9%A1%8C
+slug: "1e41601f-70f4-4d85-afe4-f0ae03b5dd73"
 ---
 AirMac Extreme ファームウェア:7.2.1のAirMacDiskのトラブルについては以前より触れていますが、再度詳細を報告しておきたいと思います。
 

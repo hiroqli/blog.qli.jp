@@ -4,7 +4,7 @@ description: ''
 date: '2010-02-28T15:57:37.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%9D%E3%81%A3%E3%81%B7+%3A%3A+%E9%98%BF%E5%80%8D%E7%9C%9F%E5%A4%AE+-+ABBOT+KINNEY+%3A%3A+LOVE+PHYCHEDELICO"
+slug: "80d8244d-3313-4658-bcb2-411b2a5ae90a"
 ---
 買ったCDのレビューとか長いこと書いていなかったようなので、まとめて。
 

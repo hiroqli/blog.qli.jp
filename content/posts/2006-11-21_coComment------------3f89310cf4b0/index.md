@@ -4,7 +4,7 @@ description: ''
 date: '2006-11-21T10:26:01.000Z'
 categories: []
 keywords: []
-slug: coComment%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88%E3%81%8C%E7%99%BB%E5%A0%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F
+slug: "c19b76ec-fff0-4940-9716-394173a544b5"
 ---
 以前、coCommentというコメント管理サービスを紹介していました。
 

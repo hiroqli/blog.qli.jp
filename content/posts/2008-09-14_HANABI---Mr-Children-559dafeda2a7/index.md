@@ -4,7 +4,7 @@ description: ''
 date: '2008-09-14T16:50:33.000Z'
 categories: []
 keywords: []
-slug: HANABI+%3A+Mr%2EChildren
+slug: "5b2fa3b7-f2d6-4215-b83a-8019ec634f84"
 ---
 GIFT、LIVE DVDと続く、三ヶ月連続リリース最後を飾ったのは、シングル「HANABI」。
 

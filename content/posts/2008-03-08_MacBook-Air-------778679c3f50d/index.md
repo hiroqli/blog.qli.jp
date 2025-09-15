@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-08T10:52:43.000Z'
 categories: []
 keywords: []
-slug: MacBook+Air%E3%82%92%E8%B2%B7%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F
+slug: "2aadebe7-f37f-4929-b24a-41feaefb6790"
 ---
 MacBook Airを買いました。これを買うまでのノイズはいろいろあって、でも新しいPenryn搭載のMacBook/MacBook Proよりも明らかに所有欲は高かったのが一番大きかったです。
 

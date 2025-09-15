@@ -4,7 +4,7 @@ description: ''
 date: '2008-08-23T20:32:05.000Z'
 categories: []
 keywords: []
-slug: Shure+SE310
+slug: "141a9175-e07b-4087-b252-e1062dc5636a"
 ---
 いつも使っているイヤフォンを変えました。ATH-CK9 → SE310 への変更です。というわけで、SE310のレビューを書いておきます。
 

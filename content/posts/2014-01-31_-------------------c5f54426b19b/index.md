@@ -4,7 +4,7 @@ description: ''
 date: '2014-01-31T11:25:24.097Z'
 categories: []
 keywords: []
-slug: "%E6%9C%9F%E6%97%A5%E5%89%8D%E6%8A%95%E7%A5%A8%E3%81%AB%E8%A1%8C%E3%81%93%E3%81%86+%23%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9F%A5%E4%BA%8B%E9%81%B8%E6%8C%99"
+slug: "9840671f-3c78-4591-916f-feb82ddf17e6"
 ---
 ![](1__1ovxoGewMpNcfj3ruZxTmg.jpeg)
 

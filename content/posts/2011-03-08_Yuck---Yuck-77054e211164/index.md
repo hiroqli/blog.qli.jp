@@ -4,7 +4,7 @@ description: ''
 date: '2011-03-08T22:18:36.000Z'
 categories: []
 keywords: []
-slug: Yuck+%3A+Yuck
+slug: "288036c9-2fa6-4491-8109-24b0fc54f0f6"
 ---
 たまたまTwitterで踏んだリンクの先にあるブログにあった別の記事、くらいだったと思うけど、要するにWEBの隅っこでYuckというバンドが紹介されていました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2006-08-16T17:08:41.000Z'
 categories: []
 keywords: []
-slug: "%E3%82%B0%E3%83%BC%E3%82%B0%E3%83%AB%E3%80%81%E3%80%8CBlogger%E3%80%8D%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB+%E2%80%94+%E3..."
+slug: "bdec32bc-e387-4bb7-a372-477c2a6b3704"
 ---
 ネットを徘徊しているとこういうニュースを発見してしまいました。
 

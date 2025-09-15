@@ -4,7 +4,7 @@ description: ''
 date: '2015-01-23T15:29:20.000Z'
 categories: []
 keywords: []
-slug: Kindle+%E3%81%A8+iBooks
+slug: "f1bd2a8d-da24-49d3-bd24-3e9d00078b4d"
 ---
 KindleとiBooksの比較論争はもう落ち着いたように見える。iBooks Storeが日本で登場した当初、日本語の本もあまり多くなかったのも手伝って、Kindleの勝利で終わっている気がする。
 

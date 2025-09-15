@@ -4,7 +4,7 @@ description: ''
 date: '2010-11-17T00:51:02.000Z'
 categories: []
 keywords: []
-slug: New+Facebook+Message+%E3%81%A8+%E3%82%B1%E3%83%BC%E3%82%BF%E3%82%A4%E6%96%87%E5%8C%96
+slug: "e0a78ced-6328-4f9d-89a5-da345a0c20e5"
 ---
 Facebookが新しいメッセージシステムを発表した。どうやらこれから順に使えるようになるらしい。詳しくは、Facebookが公開した説明用ビデオを見てもらうとして、個人的に気になった感想を少し書いておきたい。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2006-12-07T15:23:50.000Z'
 categories: []
 keywords: []
-slug: Picasa%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B
+slug: "f729eb24-bd0e-4d96-b90f-b3b398b2c675"
 ---
 Picasa日本語版が始まったそうです。  
 flickrは日本語化する可能性は低そうだし、Picasa派も結構でてくるのかなと思います。  

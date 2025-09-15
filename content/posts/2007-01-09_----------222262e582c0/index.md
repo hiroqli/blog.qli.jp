@@ -4,7 +4,7 @@ description: ''
 date: '2007-01-09T12:01:04.000Z'
 categories: []
 keywords: []
-slug: "%E5%8F%A3%E3%82%B3%E3%83%9F%E3%81%A7%E5%BA%83%E3%81%8C%E3%82%8B%E6%98%A0%E7%94%BB"
+slug: "7d81cfd8-ab05-404b-9f17-c1f65179367d"
 ---
 百式さんのブログpopxpopのエントリーから。
 

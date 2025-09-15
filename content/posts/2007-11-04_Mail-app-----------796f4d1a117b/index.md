@@ -4,7 +4,7 @@ description: ''
 date: '2007-11-04T17:01:18.000Z'
 categories: []
 keywords: []
-slug: Mail%2Eapp%E3%82%92%E3%81%A4%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86
+slug: "a488e568-d702-43c4-b5ea-d69b89e4dac9"
 ---
 Leopardになっての最大の変更点はiChatを中心とした共有機能、そしてMail.app/iCalの連係機能だと思う。Mail.app/iCal/.Mac mailを使うことでタスク管理が簡単にできるようになった。
 

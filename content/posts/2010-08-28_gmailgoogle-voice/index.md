@@ -4,7 +4,7 @@ description: ''
 date: '2010-08-28T09:38:04.000Z'
 categories: []
 keywords: []
-slug: Gmail%E3%81%AB%E9%9B%BB%E8%A9%B1%E6%A9%9F%E8%83%BD%E3%81%8C%E3%81%A4%E3%81%84%E3%81%9F%28Google+voice%E3%81%8C%E7%B5%B1%E5%90%88%E3%81%95%E3%82%8C%...
+slug: "1e2342d8-fd05-4a68-ab2d-f500454f7fac"
 ---
 8月25日に[GoogleがGmailに電話機能をつけることを発表](http://gmailblog.blogspot.com/2010/08/call-phones-from-gmail.html)しました([機能の公式サイト](http://gmail.com/call))。それから、しばらく段階的リリースが行われていたようで、昨日（27日）になってようやく自分のアカウントにも”Call Phone”があらわれました。公式ブログによると、すべてのリリース作業はすでに完了したそうです。なお、今回は英語版UIのみのリリースとなり、それ以外の言語ではリリースされていないようです。
 

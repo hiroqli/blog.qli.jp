@@ -4,7 +4,7 @@ description: ''
 date: '2007-09-27T22:10:39.000Z'
 categories: []
 keywords: []
-slug: my+room+with+lingr
+slug: "7b1bb3b6-dd1d-47af-8c7c-2750b1e73f64"
 ---
 遊びですが、自分専用チャットルームを作ってみました。よろしく。
 

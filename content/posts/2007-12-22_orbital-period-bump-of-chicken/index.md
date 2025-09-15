@@ -4,7 +4,7 @@ description: ''
 date: '2007-12-22T22:30:50.000Z'
 categories: []
 keywords: []
-slug: orbital+period+%3A%3A+BUMP+OF+CHICKEN
+slug: "56c7dad5-7a47-475a-b57e-40491ed1a7be"
 ---
 先週ついに発売になったバンプオブチキンのアルバム。長らくシングルすらも出ていない時期があって、結構心配したりしてました。それでも忘れられないのが彼らのすごさなんだと思います。
 

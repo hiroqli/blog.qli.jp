@@ -4,7 +4,7 @@ description: ''
 date: '2008-02-20T07:58:01.000Z'
 categories: []
 keywords: []
-slug: iPod+Shuffle+2GB%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E8%BF%BD%E5%8A%A0
+slug: "fb73e265-061f-4d37-9c6d-c5c5b851f04c"
 ---
 iPod Shuffleが増量し、2GBモデルが追加されました。既存1GBモデルは値下げ。2GBになっても既存よりも若干安めです。
 

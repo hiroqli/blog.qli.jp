@@ -4,7 +4,7 @@ description: 考えていることをつらつらと書いてみる
 date: '2020-05-25T10:45:12.552Z'
 categories: []
 keywords: []
-slug: 2020%E5%B9%B45%E6%9C%88%E6%9C%AB%E3%81%AE%E9%9B%91%E8%A8%98
+slug: "861ee8a5-6bec-47fd-8722-454b14bd2b1a"
 ---
 COVID-19が蔓延していろいろあった。
 

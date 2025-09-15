@@ -4,7 +4,7 @@ description: ''
 date: '2007-03-05T00:10:33.000Z'
 categories: []
 keywords: []
-slug: Fool+on+the+planet+%3A+the+pillows
+slug: "02abbba4-13f3-4a8c-8c48-2df6ad116a8e"
 ---
 新しい音楽に関して妙にどん欲な感じの今日この頃。いくつかAmazonのお世話になったので、続けてエントリーします。ちなみに、1記事1レビューという形で書いていこうかなと。
 

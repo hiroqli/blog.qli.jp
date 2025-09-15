@@ -4,7 +4,7 @@ description: ''
 date: '2006-11-21T00:51:50.000Z'
 categories: []
 keywords: []
-slug: mylo%3Dmy+life+online+%E3%81%A8+clie
+slug: "62e6552f-f66b-4644-9493-6d97e648ef78"
 ---
 今日もネットでmylo探索。もう、このデバイスにはまっているようです。
 

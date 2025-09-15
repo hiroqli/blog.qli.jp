@@ -4,7 +4,7 @@ description: ''
 date: '2013-04-23T20:34:59.000Z'
 categories: []
 keywords: []
-slug: cookoo+watch+for+iOS+v1%2E2+%E3%81%8C%E5%87%BA%E3%81%9F
+slug: "8ff30de9-6aab-4c27-8035-02f367f613d2"
 ---
 COOKOO Watch App for iOSがバージョンアップされ、version 1.2 になりました([公式リリース](http://www.cookoowatch.com/Product_Updates.html))。主な変更点は、アプリ内Notification Centerの追加、Twitterサポートの追加です。
 

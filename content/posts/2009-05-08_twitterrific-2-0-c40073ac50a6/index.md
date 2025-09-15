@@ -4,7 +4,7 @@ description: ''
 date: '2009-05-08T21:45:06.000Z'
 categories: []
 keywords: []
-slug: twitterrific+2%2E0
+slug: "026d8604-f737-408f-b65e-33ffd8ead1e8"
 ---
 大好きなTwitterクライアントのひとつであるTwitterrificがアップデートしました。iPhone版の話ですけれども。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2007-12-13T00:32:00.000Z'
 categories: []
 keywords: []
-slug: FOOTMARK%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81
+slug: "6749a522-c8ea-4977-8b42-e9df5e7d17c2"
 ---
 さっきライブから帰ってきました。
 

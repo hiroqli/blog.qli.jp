@@ -4,7 +4,7 @@ description: ''
 date: '2012-02-22T00:26:31.000Z'
 categories: []
 keywords: []
-slug: Twitter%E3%81%A8Facebook%E3%81%AF%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%8F%E5%88%A5
+slug: "1cc1d5d8-0da0-4551-91d2-372e0f1ba9ec"
 ---
 今某ファンサイトを運営している。ファンサイトについては、公表している情報だし、調べれば分かるのだけど、今回はそれが本題ではないのであえてぼかしておく。
 

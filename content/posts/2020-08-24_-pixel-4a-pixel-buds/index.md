@@ -4,7 +4,7 @@ description: 新しいスマホと新しいヘッドフォンを手に入れま�
 date: '2020-08-24T10:15:13.268Z'
 categories: []
 keywords: []
-slug: "%E6%B0%97%E8%BB%BD%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B+Pixel+4a+%26+Pixel+Buds"
+slug: "121a0377-dd54-4b9e-a74a-51e939e36406"
 ---
 新しいスマホと新しいヘッドフォンを手に入れました。まずはファーストインプレッションです。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2011-09-15T22:12:10.000Z'
 categories: []
 keywords: []
-slug: yuck+at+Shibuya
+slug: "533b6603-d9ae-4f9a-83eb-d8296598706a"
 ---
 yuck の来日ライブ＠渋谷 Duo Exchange に行ってきました。渋谷Duo ExchangeはGAKU-MCさん主催のFOOTMARKで来て以来、本当に久しぶりのハコ。本当に柱が邪魔なハコでした（笑）yuckのサウンドを聞いてライブに行きたくなって、約半年。その間震災とか本当にいろんなことがあったけど、まさか今年中に叶うとは思いませんでした。
 

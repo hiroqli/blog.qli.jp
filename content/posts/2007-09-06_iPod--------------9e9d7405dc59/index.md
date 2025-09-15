@@ -4,9 +4,8 @@ description: ""
 date: "2007-09-06T03:23:03.000Z"
 categories: []
 keywords: []
-slug: iPod%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%81%8C%E4%B8%80%E6%96%B0%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F
+slug: "f379d4ca-b72a-40bd-8d4d-f9ff9717c1ad"
 ---
-
 ![](0__vK9BWfkZawBjwquO.jpg)
 ![]()
 

@@ -4,7 +4,7 @@ description: WWDC19 基調講演にて、iTunesのリタイアが発表された
 date: '2019-06-04T00:22:31.097Z'
 categories: []
 keywords: []
-slug: Good+bye+iTunes
+slug: "445cca2e-0c08-4cf5-95ea-81a1193f929e"
 ---
 WWDC19 基調講演にて、iTunesのリタイアが発表された。macOSの次のバージョンである、macOS Catalina には iTunesは搭載されない。
 

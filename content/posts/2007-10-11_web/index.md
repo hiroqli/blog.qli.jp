@@ -4,7 +4,7 @@ description: ''
 date: '2007-10-11T23:08:45.000Z'
 categories: []
 keywords: []
-slug: "%5B%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%5D%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A8%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E5%91%A8%E3%82%8A%E3%81..."
+slug: "97ffa8f6-2cde-43c3-a95e-b00fa06d36ba"
 ---
 googleによるjaiku買収劇で、jaikuもわりと賑やかになって、メッセージの流れ方をみていると、twitterのサーバ障害でアメリカの有名ブロガーがjaikuに移った頃の賑やかさをjaiku全体に感じたりするのですが、ふと気になったのは、いくらmixiを知っている人がいても、自分の周りではGmailやtwitterすらもよくわからない、知らないひとが多いこと。
 

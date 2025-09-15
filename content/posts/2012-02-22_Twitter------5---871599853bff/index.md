@@ -4,7 +4,7 @@ description: ''
 date: '2012-02-22T00:00:56.000Z'
 categories: []
 keywords: []
-slug: Twitter+%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%885%E5%91%A8%E5%B9%B4
+slug: "e01cdd59-c817-49be-a92b-19e07c33ad35"
 ---
 気がついたらTwitterのアカウントを作って5周年になってしまったらしい。
 

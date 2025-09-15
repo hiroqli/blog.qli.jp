@@ -4,7 +4,7 @@ description: ''
 date: '2012-03-17T23:18:09.000Z'
 categories: []
 keywords: []
-slug: AppleTV%E3%81%A8iPad
+slug: "73879864-905a-4d63-b937-e2fed9e068de"
 ---
 iPad 3rd generationとApple TV 2nd generationを買いました。
 

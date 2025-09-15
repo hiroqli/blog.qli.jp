@@ -4,7 +4,7 @@ description: ''
 date: '2008-08-09T11:39:57.000Z'
 categories: []
 keywords: []
-slug: TimeMachine%E3%81%8B%E3%82%89%E5%AE%8C%E5%85%A8%E5%BE%A9%E5%85%83
+slug: "d6157135-0341-4a9c-9c6f-f5f55b62cb6c"
 ---
 8月5日に、iPhoneの母艦用になっているMacBookのHDDが突然壊れて起動しなくなりました。ディスクユーティリティをかけると、論理的には直せないエラーだったのでフォーマットしようとすると「input/output error」。もう物理的にダメということのようでした。
 

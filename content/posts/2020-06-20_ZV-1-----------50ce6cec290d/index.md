@@ -4,7 +4,7 @@ description: いよいよ発売になったZV-1。iPhoneで動画を作ろうと
 date: '2020-06-20T14:01:04.206Z'
 categories: []
 keywords: []
-slug: ZV-1%E3%81%A7%E5%8B%95%E7%94%BB%E3%82%92%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F
+slug: "63558fd6-3eed-49f1-9b05-2bb781aca863"
 ---
 いよいよ発売になったZV-1。iPhoneで動画を作ろうと思ったことはないのですが、ZV-1で動画を作ってみました。
 

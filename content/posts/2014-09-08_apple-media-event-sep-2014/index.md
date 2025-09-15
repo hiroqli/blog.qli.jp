@@ -4,7 +4,7 @@ description: ''
 date: '2014-09-08T21:30:30.000Z'
 categories: []
 keywords: []
-slug: Apple+Media+Event+%E3%81%A7%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%93%E3%81%A8%28Sep+2014%29
+slug: "33d909a8-7ab3-420b-a322-5eabc61e5bea"
 ---
 いよいよ日本時間明日、今年のApple Media Eventが始まる。今年はAppleからメディアへの招待状の送付が例年以上にはやく、そしていつも直前にアナウンスされる”ライブ中継”もとても早めに発表された。Appleのうわさによる報道も過熱を増している。どうやらAppleは今回の発表内容に自信を持っているようだ。
 

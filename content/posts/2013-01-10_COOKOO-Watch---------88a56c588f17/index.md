@@ -4,7 +4,7 @@ description: ''
 date: '2013-01-10T21:23:17.000Z'
 categories: []
 keywords: []
-slug: COOKOO+Watch%E3%81%A8%E9%81%8E%E3%81%94%E3%81%97%E3%81%9F%EF%BC%92%E9%80%B1%E9%96%93
+slug: "0971dd7d-9dd3-420c-8643-60392e46a8ff"
 ---
 昨年が終わる前に届いたCOOKOO Watch。CES2013で正式に発表され、Gizmodoでもとりあげられたみたいですね([リンク](http://www.gizmodo.jp/2013/01/_ces2013cookooces_2013.html))。
 

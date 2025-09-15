@@ -4,7 +4,7 @@ description: ''
 date: '2007-11-30T23:00:03.000Z'
 categories: []
 keywords: []
-slug: Gmail+IMAP%E3%81%AF%E5%BF%AB%E9%81%A9%E3%81%A7%E3%81%99%E3%80%82
+slug: "cad7f6a3-e079-4ba1-bce0-340781b12673"
 ---
 以前、[Gmail IMAPに関する話](http://blog.qli.jp/2007/10/gmail_imap_cc24.html)を書いたけれども、いろいろ使ってみて分かったことがあるので、修正＋補足を。
 

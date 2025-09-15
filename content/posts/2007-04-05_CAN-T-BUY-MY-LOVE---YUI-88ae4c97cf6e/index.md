@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-05T22:08:29.000Z'
 categories: []
 keywords: []
-slug: CAN%E2%80%99T+BUY+MY+LOVE+%3A+YUI
+slug: "39a132ea-7c59-4da0-b0e4-535531f65acf"
 ---
 今週もCDを買ったのでレビューを。
 

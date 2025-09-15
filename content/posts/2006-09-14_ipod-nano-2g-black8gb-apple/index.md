@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-14T20:14:17.000Z'
 categories: []
 keywords: []
-slug: iPod+nano+2G+Black%288GB%29+%3A%3A+Apple
+slug: "7a55d177-69bc-41c8-bfd4-16f08956eff7"
 ---
 iPod nano 2nd genが届きました。買ったのは8GB, クロ。全面アルミになったということで色の付き具合もまさにiPod miniのような状況。で、工場出荷版よりも新しいファームがすでに出ているようで、iPod Updaterが統合されたiTunes 7のおかげでなんなくインストールできました。統合されたっていうのはうれしいですね。分からない人ははまりますから。iTunes以外にもう一個ソフトがいるとは誰もおもわないっしょ、ふつう。
 

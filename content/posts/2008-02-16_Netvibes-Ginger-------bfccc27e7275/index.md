@@ -4,7 +4,7 @@ description: ''
 date: '2008-02-16T09:09:21.000Z'
 categories: []
 keywords: []
-slug: Netvibes+Ginger%E3%81%AB%E6%8B%9B%E5%BE%85%E3%81%95%E3%82%8C%E3%81%9F
+slug: "11742812-9d9f-4cfb-8068-c5691dc773ea"
 ---
 Netvibesというサービスを知っていますか？簡単に言うとちょうどiGoogleのようなスタートページを作れるサービスなのですが、iGoogleがどちらかといえばgoogleサービスが充実しているのに対して、Netvibesはコンテンツプロバイダにこだわらず、かつ外部に情報を公開していて、ガジェットのエコシステムが充実しているのが特徴でしょうか。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2012-02-22T09:44:22.000Z'
 categories: []
 keywords: []
-slug: Things+Cloud+Sync+%E3%81%8C%E3%81%99%E3%81%90%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB
+slug: "ff44f3c9-b0b1-4c3b-9f29-043a42681463"
 ---
 独 Cultured Code社が タスク管理ソフト Things の次バージョンの機能である Things Cloud Sync のクローズドベータを続けていたのですが、このたび、Things Cloud がパブリックベータになることが発表されました（[リンク](http://culturedcode.com/things/blog/2012/02/things-cloud-public-beta.html)）。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2012-08-09T20:32:22.000Z'
 categories: []
 keywords: []
-slug: "%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%81Things+2"
+slug: "cfa5697e-8523-4881-85bd-0c3439b71784"
 ---
 Things 2 がリリースされました。
 

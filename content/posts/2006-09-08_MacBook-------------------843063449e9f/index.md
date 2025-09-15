@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-08T00:07:00.000Z'
 categories: []
 keywords: []
-slug: MacBook%E3%81%8C%E2%80%9D%E6%96%AD%E7%B6%9A%E7%9A%84%E3%81%AB%E3%82%B7%E3%83%A3%E3%83%83%E3%83%88%E3%83%80%E3%82%A6%E3%83%B3%E3%81%99%E3%82%8B%E2%8...
+slug: "a62a5b17-8627-43d0-bfa2-1ead93ebc546"
 ---
 リンク: [MacBook: 断続的にシャットダウンする](http://docs.info.apple.com/article.html?artnum=304308-ja "MacBook: 断続的にシャットダウンする").
 

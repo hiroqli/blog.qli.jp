@@ -4,7 +4,7 @@ description: ''
 date: '2008-11-23T10:54:29.000Z'
 categories: []
 keywords: []
-slug: Tomorrow+Knows+Yesterday+%3A%3A+Sotte+Bosse
+slug: "75778e1d-887e-4aed-876b-e36be8556d26"
 ---
 突然ですが、Last.fmというサービスがとっても大好きです。Last.fmは、聴いている音楽の履歴を送信して、どんな音楽をよく聴いていたかという履歴をためることが出来て、それが属性となってコミュニケーションを図るツールです。機能面からSNSといってもいいかもしれません。日本でもPlaylogという同種のサービスがあったりしますし、mixiミュージックもこれに入ります。
 

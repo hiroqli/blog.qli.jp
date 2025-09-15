@@ -4,7 +4,7 @@ description: ''
 date: '2008-02-28T07:58:16.000Z'
 categories: []
 keywords: []
-slug: iPhone+SDK%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BD%95%E3%81%8B%E3%81%8C%E8%AA%9E%E3%82%89%E3%82%8C%E3%82%8B%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88
+slug: "54d9f8d7-643e-48da-b54f-e6ddebbed6af"
 ---
 2月に発表すると行っていたiPhone SDKですが、2月も残り2日となって、iPhoneに関するイベントの情報が入ってきました。
 

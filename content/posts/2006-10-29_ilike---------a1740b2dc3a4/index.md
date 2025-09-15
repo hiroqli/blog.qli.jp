@@ -4,9 +4,8 @@ description: ""
 date: "2006-10-29T15:11:43.000Z"
 categories: []
 keywords: []
-slug: ilike%E3%82%82%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F
+slug: "bdc6b00f-02e7-426d-8959-31b054e6e0b1"
 ---
-
 ![]()
 
 音楽系ＳＮＳ第２弾という感じですが。playlog は一週間くらいつかったんですが、ilike は昨日登録したばっかです。

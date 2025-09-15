@@ -4,7 +4,7 @@ description: ''
 date: '2008-05-25T12:55:21.000Z'
 categories: []
 keywords: []
-slug: iPhone+%E6%97%A5%E6%9C%AC%E7%99%BA%E5%A3%B2%E3%81%8C%E7%86%B1%E3%82%92%E5%B8%AF%E3%81%B3%E3%81%A6%E3%81%8D%E3%81%9F
+slug: "57938f30-c52f-4be4-bf77-e4abeb150f9b"
 ---
 このブログでは閑話休題のような話題になってしまいますが、にわかに熱を帯びてきた日本のiPhone発売について、Apple製品のレビューなどでおなじみの林さんの予想がのっていました。
 

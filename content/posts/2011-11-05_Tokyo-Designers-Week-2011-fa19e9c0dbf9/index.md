@@ -4,7 +4,7 @@ description: ''
 date: '2011-11-05T23:23:52.000Z'
 categories: []
 keywords: []
-slug: Tokyo+Designers+Week+2011
+slug: "d0afc812-36f7-4f4a-ada3-3d924c1e388e"
 ---
 今日は、東京デザイナーズウィークに行ってきました。lego big morl と 藤巻亮太さんのライブを見てきました。
 

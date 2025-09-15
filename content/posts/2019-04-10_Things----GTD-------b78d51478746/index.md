@@ -4,7 +4,7 @@ description: 今回はGTDのお話。最近SubscriptionがリリースされたO
 date: '2019-04-10T13:03:58.167Z'
 categories: []
 keywords: []
-slug: Things%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9FGTD%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%95%E3%83%AD%E3%83%BC
+slug: "da7d5264-4485-4439-8d06-e25d4359aa07"
 ---
 今回はGTDのお話。最近SubscriptionがリリースされたOmniFocusではなく、Thingsの方です。
 

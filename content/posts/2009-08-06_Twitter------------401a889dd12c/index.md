@@ -4,7 +4,7 @@ description: ''
 date: '2009-08-06T22:07:07.000Z'
 categories: []
 keywords: []
-slug: Twitter%E5%B9%B4%E4%BB%A3%E5%88%A5%E6%AF%94%E7%8E%87%E8%AA%BF%E6%9F%BB%E7%B5%90%E6%9E%9C%E5%A0%B1%E5%91%8A
+slug: "1a4d9e0e-82a3-45df-b489-571e41fe8f79"
 ---
 今週初めにやった[Twitter年代別比率調査](http://blog.qli.jp/2009/08/twitter%E3%81%AE%E3%83%A6%E3%83%BC%E3%82%B6%E5%B1%A4%E3%81%A3%E3%81%A6%E3%81%A9%E3%81%86%E3%81%AA%E3%81%AE%E3%81%A0%E3%82%8D%E3%81%86.html)の結果についてです。前回のiPhoneについてのアンケートの回答数がふるわなかったので、今回もあまり期待していなかったのですが、なんと予想を上回る123名の方に回答して頂きました。ありがとうございます。
 

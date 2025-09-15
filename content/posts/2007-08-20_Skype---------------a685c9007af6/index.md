@@ -4,7 +4,7 @@ description: ''
 date: '2007-08-20T19:08:29.000Z'
 categories: []
 keywords: []
-slug: Skype%E5%A4%A7%E9%9A%9C%E5%AE%B3%E3%81%AE%E8%A9%B3%E7%B4%B0%E3%81%8C%E5%A0%B1%E5%91%8A%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F
+slug: "e40a5efc-ca05-4318-b18b-2910cec62c48"
 ---
 このブログでは特に取り扱わなかったのですが、先日発生したSkypeの大規模障害について詳細が明かされました。
 

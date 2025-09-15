@@ -4,7 +4,7 @@ description: ''
 date: '2012-04-07T15:00:51.000Z'
 categories: []
 keywords: []
-slug: "%E6%98%A0%E7%94%BB+%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E3%83%9C%E3%82%AF%E3%81%AF%E3%82%84%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%84"
+slug: "f3eea4e5-3d1b-498f-ae5c-0fd49b1d625d"
 ---
 ここ最近テレビ番組が特番体制になってつまらないので、ついついAppleTVの映画に手が伸びる毎日です。
 

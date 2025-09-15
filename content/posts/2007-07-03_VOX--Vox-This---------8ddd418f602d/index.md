@@ -4,7 +4,7 @@ description: ''
 date: '2007-07-03T21:06:56.000Z'
 categories: []
 keywords: []
-slug: VOX%E3%81%AB%E2%80%9DVox+This%E2%80%9D%E3%81%8C%E7%99%BB%E5%A0%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F
+slug: "9b5b6e9d-b89c-4033-92d9-7f46e8f0d41e"
 ---
 Voxでブックマークレット、”Vox This”が登場しました。VOXはFlickrやyoutubeと連携しているわけですが、これらの画像や動画をアイテムとしてコレクションすることができます。もちろん通常のWEBサイトもリンクとして登録されます。
 

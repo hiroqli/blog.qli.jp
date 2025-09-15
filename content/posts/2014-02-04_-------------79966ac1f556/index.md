@@ -4,7 +4,7 @@ description: ''
 date: '2014-02-04T13:54:52.000Z'
 categories: []
 keywords: []
-slug: "%E9%AB%98%E3%81%84%E5%A3%81%E3%82%92%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%81%A7%E8%B6%8A%E3%81%88%E3%82%8B"
+slug: "10c5fc40-85ec-47d6-8bc2-de566bfe5bac"
 ---
 Tweetした内容が思いの外RTされたりファボさられているようなので、少し捕捉しておく。このTweet。
 

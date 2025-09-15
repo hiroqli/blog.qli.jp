@@ -4,7 +4,7 @@ description: ''
 date: '2011-01-23T16:51:58.000Z'
 categories: []
 keywords: []
-slug: Twitter%E3%81%A8URL%E3%81%AE%E8%A9%B1
+slug: "a5469b01-4099-41fa-8dea-f586df65b3d6"
 ---
 今回はtwitterの話。Twitterって本当に”インフラ”で様々なデバイスで使えますよね。New Twitterではデバイス名が目立たないところでしか表示されなくなりましたけど、iPhone、Android、Mac、Windows、そして、もばついなどのWEBクライアント、本当にさまざまなクライアント・デバイス経由で使われています。
 

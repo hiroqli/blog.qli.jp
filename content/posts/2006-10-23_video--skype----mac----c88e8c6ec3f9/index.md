@@ -4,7 +4,7 @@ description: ''
 date: '2006-10-23T21:22:00.000Z'
 categories: []
 keywords: []
-slug: video%E5%AF%BE%E5%BF%9Cskype%E3%81%8C%E3%81%A4%E3%81%84%E3%81%ABmac%E3%81%AB%E3%82%82%EF%BC%81
+slug: "f9a0c326-77ad-4b65-9545-764542dee7ce"
 ---
 videoに対応したmac版Skype, skype 2.0 for macがついに正式版となりました。
 

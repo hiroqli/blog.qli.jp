@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-13T21:42:41.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%AC%E3%83%9F%E3%82%AA%E3%83%AD%E3%83%A1%E3%83%B3%E3%81%8CiTunes+Store%E3%81%A7%E8%B2%A9%E5%A3%B2%E3%81%95%E3%82%8C%E3%82%8B"
+slug: "8dba7a09-8b7a-4afe-a749-993940573cfc"
 ---
 レミオロメンの楽曲がiTunes Storeにて販売されていました。販売されていたのはレミオロメンがインディーズ時代にリリースした（と思われる）波という楽曲。
 

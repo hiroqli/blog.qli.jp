@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-09T22:32:20.000Z'
 categories: []
 keywords: []
-slug: OmniFocus+1%2E0+%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82
+slug: "661496ab-785b-461c-b839-b1041cd7df81"
 ---
 長い開発期間を経て、OmniFocus 1.0がリリースされました。OS問わず、私が知る限り、タスク管理のアプリケーションとしては、素晴らしい製品だと思います。思いついたらすぐにキャプチャできるQuickEntry、タスクを細かく分解して整理できるPlaining Mode View、そして場所によってやることを一覧に表示できるContext Mode Viewという２つのViewを中心に整理、表示、管理ができるようよく考えられています。
 

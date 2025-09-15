@@ -4,7 +4,7 @@ description: ''
 date: '2012-03-22T20:18:48.000Z'
 categories: []
 keywords: []
-slug: Sparrow%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8BiCloud%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E5%95%8F%E9%A1%8C
+slug: "893fe058-c1b8-43e4-91ca-5d7f6b055b04"
 ---
 Appleコミュニティで有名なサードパーティ製のメールクライアントといえばSparrowだ。これまでのメールクライアントの概念をとっぱらって、作られたメールクライアントだ。Gmailの”Inbox Zero”の思想を見事にアプリで再現したと言える。
 

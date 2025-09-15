@@ -4,7 +4,7 @@ description: ''
 date: '2006-08-03T15:39:00.000Z'
 categories: []
 keywords: []
-slug: "%3EGoogle%E3%81%AE%E5%86%99%E7%9C%9F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%8CMac%E3%81%AB%E5%AF%BE%E5%BF%9C"
+slug: "0e1cb2b8-c5ab-401f-ad38-56077efecae7"
 ---
 Google、ナイスな判断ですね。
 

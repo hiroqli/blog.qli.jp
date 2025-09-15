@@ -4,7 +4,7 @@ description: ''
 date: '2011-06-05T10:52:58.000Z'
 categories: []
 keywords: []
-slug: Mzone%E3%82%92%E8%A7%A3%E7%B4%84%E3%81%97%E3%81%9F
+slug: "fa83575e-9f75-465b-931e-510c309ed7e5"
 ---
 いつから契約していたのか、いまではさっぱり分からなくなってしまいましたが、[Mzone](http://www.nttdocomo.co.jp/service/data/mzone/bill_plan/mzone/index.html)を解約してきました。
 

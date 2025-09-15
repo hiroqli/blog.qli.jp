@@ -4,7 +4,7 @@ description: 2025年が始まりました。「1年の区切りなんて人工�
 date: '2025-01-04T03:01:41.577Z'
 categories: []
 keywords: []
-slug: COUNTDOWN+JAPAN+24-25
+slug: "119d849b-fd96-4454-a368-bdfad4457673"
 ---
 ![](1__vuNJpwIaM5PMQRoexUqQ2w.jpeg)
 

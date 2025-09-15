@@ -4,7 +4,7 @@ description: ''
 date: '2016-05-22T01:34:05.000Z'
 categories: []
 keywords: []
-slug: omnifocus%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9
+slug: "951a4206-d37e-4f81-ab12-ce803db0bfdb"
 ---
 [Todoistのベストプラクティス](https://qli.jp/todoistのベストプラクティス-37dc7b3d7e81)\]を書いたのだけど、Omnifocusについても書いておく。
 

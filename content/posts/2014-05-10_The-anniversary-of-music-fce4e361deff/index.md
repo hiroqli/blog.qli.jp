@@ -4,7 +4,7 @@ description: ''
 date: '2014-05-10T17:10:33.000Z'
 categories: []
 keywords: []
-slug: The+anniversary+of+music
+slug: "496d3986-1756-41bd-a172-b4729689dc8f"
 ---
 今日は 5月10日。 22年前、1992年5月10日、Toy’s Factoryという、当時はそれほど知られていなかった音楽出版会社から1枚のCDが発売された。”Everything”、ありふれた英単語をタイトルにもつアルバムは、その後よく知られるようになるバンド Mr.Children のアルバムだった。
 

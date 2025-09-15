@@ -4,7 +4,7 @@ description: ''
 date: '2009-08-19T08:01:26.000Z'
 categories: []
 keywords: []
-slug: "%E5%BE%8C%E7%99%BA%E7%B5%84+GTD%E3%83%84%E3%83%BC%E3%83%AB+The+Hit+List"
+slug: "790baf8d-d746-4abc-a7be-bcfeb97314b1"
 ---
 Tweetで知ったのですが、Mac用の第３のGTDツールとして The Hit List (THL)が開発中でベータ版が公開されているみたいですね。（[The Hit List オフィシャルサイト](http://www.potionfactory.com/thehitlist/)）
 

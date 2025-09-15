@@ -4,7 +4,7 @@ description: ''
 date: '2006-08-11T10:58:02.000Z'
 categories: []
 keywords: []
-slug: Gmail%E3%81%AEFrom%E9%81%B8%E6%8A%9E%E6%A9%9F%E8%83%BD
+slug: "8a5a7772-3103-4c32-9cca-1e02f41109c9"
 ---
 まぁ、ご存じの方も多いGmailのFrom選択機能。メールによる本人確認方法でパスすれば、Fromが選択できるという機能。  
   

@@ -4,7 +4,7 @@ description: ''
 date: '2008-02-02T01:36:06.000Z'
 categories: []
 keywords: []
-slug: Stating+Over+%3A%3A+Elephant+Kashimashi
+slug: "f9f26770-90b0-4a10-afc6-ef94a47a5d59"
 ---
 エレファントカシマシが新盤を出しました。ということでレビューを。他にも一青窈さんやthe pillowsのシングルも買いましたがそちらは割愛で。
 

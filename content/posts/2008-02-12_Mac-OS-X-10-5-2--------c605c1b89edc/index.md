@@ -4,7 +4,7 @@ description: ''
 date: '2008-02-12T21:42:51.000Z'
 categories: []
 keywords: []
-slug: Mac+OS+X+10%2E5%2E2+%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88
+slug: "10f6e014-c602-4967-9cd1-e15ba78e3d9f"
 ---
 Mac OS X Leopard最新アップデート、OS X 10.5.2がリリースされました。
 

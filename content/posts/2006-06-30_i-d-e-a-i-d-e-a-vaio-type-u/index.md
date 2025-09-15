@@ -4,7 +4,7 @@ description: ''
 date: '2006-06-30T11:19:56.000Z'
 categories: []
 keywords: []
-slug: i+d+e+a+*+i+d+e+a+%E2%80%94+%E3%82%BC%E3%83%AD%E3%82%B9%E3%83%94%E3%83%B3%E3%83%89%E3%83%AB%EF%BC%81%EF%BC%88VAIO+type+U%E3%82%92%E8%A6%8B%E3%81%A6...
+slug: "d0648d2a-62c2-4421-ba84-303c5fd76302"
 ---
 リンク: [i d e a \* i d e a — ゼロスピンドル！（VAIO type Uを見てきたよの巻）](http://www.ideaxidea.com/archives/2006/06/vaio_type_u.html "i d e a * i d e a - ゼロスピンドル！（VAIO type Uを見てきたよの巻）").
 

@@ -4,7 +4,7 @@ description: ''
 date: '2013-01-06T23:37:02.000Z'
 categories: []
 keywords: []
-slug: ANA%E3%81%AEPassbook%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F
+slug: "bd020776-f001-47d9-a374-cdcec20e5525"
 ---
 もうだいぶ話題としては古いと思うのだけれども、ANAがPassbookに対応してから飛行機にのる機会がやっと訪れたので、ANAのPassbookチケットを使ってみることにした。(というか普段飛行機会社を選ばないんだけどこのためだけにANAを選んでみた)
 

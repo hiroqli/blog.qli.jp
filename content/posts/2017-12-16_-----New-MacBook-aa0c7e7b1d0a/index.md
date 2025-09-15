@@ -4,7 +4,7 @@ description: MacBookを新調しました。2017年モデルのCabyLakeです。
 date: '2017-12-16T11:29:59.345Z'
 categories: []
 keywords: []
-slug: "%E3%82%88%E3%81%86%E3%81%93%E3%81%9D+New+MacBook"
+slug: "fea72655-16b5-4590-bbce-184f49e84d03"
 ---
 MacBookを新調しました。2017年モデルのCabyLakeです。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2006-08-05T20:11:19.000Z'
 categories: []
 keywords: []
-slug: check*pad%E3%81%8C%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%8F%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F
+slug: "49c4cf33-f12c-4897-b90f-f0037ecef422"
 ---
 Remember the milkを使ったタスク管理を実践してきましたが、実はそれまではcheck\*pad使ってました。で、こんなエントリーを発見！
 

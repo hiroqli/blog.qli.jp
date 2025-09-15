@@ -4,7 +4,7 @@ description: ''
 date: '2012-12-14T21:36:07.000Z'
 categories: []
 keywords: []
-slug: "%E5%86%99%E7%9C%9F%E3%81%A8%E5%9C%B0%E5%9B%B3"
+slug: "d4442aa1-05a9-4bea-bfc0-f7322a8de0b2"
 ---
 ひさしぶりにWEBっぽいことを書こうと思う。
 

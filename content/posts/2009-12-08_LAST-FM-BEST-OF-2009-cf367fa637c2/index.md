@@ -4,7 +4,7 @@ description: ''
 date: '2009-12-08T23:13:21.000Z'
 categories: []
 keywords: []
-slug: LAST%2EFM+BEST+OF+2009
+slug: "7ba43f66-a67d-4f64-a3de-1d95e5cf1357"
 ---
 LAST.FMが今年聴かれた音楽のベスト40をやっています。([LAST.FM BEST OF 2009](http://www.last.fm/bestof/2009/chart/))
 

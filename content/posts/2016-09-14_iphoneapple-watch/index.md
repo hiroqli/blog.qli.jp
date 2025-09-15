@@ -4,7 +4,7 @@ description: ''
 date: '2016-09-14T14:02:00.000Z'
 categories: []
 keywords: []
-slug: iPhone%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E5%89%8D%E3%81%ABApple+Watch%E3%81%AE%E3%83%9A%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E8%A7%A3%E9%...
+slug: "15eaf602-25d9-435a-b7ba-b429b1070ef9"
 ---
 Appleは、Apple Watchとともに使っているiPhoneを新しいiPhoneに変更する前に、Apple Watchのペアリング解除が必要になると案内しています。
 

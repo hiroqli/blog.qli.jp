@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-28T22:59:38.000Z'
 categories: []
 keywords: []
-slug: Google+%E3%82%B0%E3%83%83%E3%82%BA
+slug: "9e83ae5d-9f07-46aa-8993-b5cc2f52fbdb"
 ---
 先週までやっていたiGoogle Cafeですが、Googleグッズをプレゼントするというのがメインイベントだったようで。そこで一緒に行った人にGoogleグッズならいっぱい持ってますよという話をしたので、エントリーしてみることにしました。詳細は写真見てもらえれば分かるかと。
 

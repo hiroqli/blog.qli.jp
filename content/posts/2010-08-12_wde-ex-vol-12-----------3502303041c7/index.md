@@ -4,7 +4,7 @@ description: ''
 date: '2010-08-12T21:04:13.000Z'
 categories: []
 keywords: []
-slug: wde+ex+vol%2E12+%E2%80%9C%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%81%AE%E6%9C%AA%E6%9D%A5%E2%80%9D
+slug: "caffae42-09bf-4059-bdd4-d4f70f08a475"
 ---
 wde ex vol.12 “電子書籍の未来”に行ってきました。今回は、iPhoneアプリ AiR に関わられた、中村祐介さんのお話を聞いてきました。
 

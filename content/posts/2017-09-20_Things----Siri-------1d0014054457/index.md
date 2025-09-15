@@ -5,7 +5,7 @@ description: iOS11のリリースに合わせて、Things 3.2がリリースさ�
 date: '2017-09-20T15:19:36.581Z'
 categories: []
 keywords: []
-slug: Things%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9ESiri%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E4%B8%80%E8%A6%A7
+slug: "917a3077-0447-47f5-a5e8-ab7f929e352d"
 ---
 iOS11のリリースに合わせて、Things 3.2がリリースされました。これはiOS11への対応のバージョンとなりますが、特にSiri IntegratedとDrag & Drop の対応がメインとなります。なお、Things for Mac 3.2はHigh Sierra対応リリースのため、来週リリースの予定です。
 

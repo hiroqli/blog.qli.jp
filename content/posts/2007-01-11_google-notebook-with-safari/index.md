@@ -4,7 +4,7 @@ description: ''
 date: '2007-01-11T23:53:25.000Z'
 categories: []
 keywords: []
-slug: Google+Notebook+with+Safari
+slug: "b8f4853b-c0bd-470d-837b-477702dd5bcc"
 ---
 今回は久しぶりにectoからの投稿。ectoはレジストしたけど、なんとなく使わなくなっていたのだけど、今回は久しぶりに。使い勝手が悪いというわけではなくて、なんとなくクライアントツールからの投稿って手軽でもない気がしていたので…。
 

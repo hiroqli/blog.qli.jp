@@ -4,7 +4,7 @@ description: ''
 date: '2008-11-21T00:53:04.000Z'
 categories: []
 keywords: []
-slug: "%E3%81%AF%E3%81%A6%E3%81%AA%E9%96%A2%E4%BF%82%E3%82%92%E3%81%A4%E3%81%91%E3%81%BE%E3%81%97%E3%81%9F"
+slug: "d2680603-99ed-4ffe-bda2-f340c5100cc3"
 ---
 これまで簡易的な設置しかしていなかった[はてなスター](http://s.hatena.ne.jp/)と[はてなブックマーク](http://b.hatena.ne.jp/)をつけました。これでほぼ完全な状態になったと思います。最近いじりまくっているJQuery(hosted by google)のお世話になりました。
 

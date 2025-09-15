@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-16T04:17:16.000Z'
 categories: []
 keywords: []
-slug: "%E5%AE%9F%E7%89%A9%E8%A6%8B%E3%82%8B%E5%89%8D%E3%81%AEfirst+impression"
+slug: "27d93b36-4646-416d-8159-ad6a2308fb8c"
 ---
 あとでということにするつもりだったのですが、今回はAppleのWEBサイトの更新が異常に早く、MacBook Airのガイドツアービデオも公開されていたので、まだ実物を見ていないですがFirst Impressionを。
 

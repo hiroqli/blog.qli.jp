@@ -4,7 +4,7 @@ description: ''
 date: '2009-12-19T22:25:54.000Z'
 categories: []
 keywords: []
-slug: Atomic+Floyd+HiDefDrum
+slug: "c32d4c11-7dd5-4d31-bdb0-54d724e812c4"
 ---
 [idea\*ideaでも紹介があった](http://www.ideaxidea.com/archives/2009/12/hidefdrum.html)HiDefDrumを買ってみました。もともと大分で行われたAUGM(Apple User Group Meeting)にて、日本での販売元になるフォーカルの恩田さんが紹介されていたイヤホンで、AUGMをTwitterで流し読みしていたときからわりと評判になっていたのを知っていたのですが、まぁ、まさかidea\*ideaで目にするとは。
 

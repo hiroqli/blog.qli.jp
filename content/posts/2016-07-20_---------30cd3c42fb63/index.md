@@ -5,7 +5,7 @@ description: Yen Town Bandは、1995年初めてのアルバム"MONTAGE"をリ�
 date: '2016-07-20T14:22:37.470Z'
 categories: []
 keywords: []
-slug: "%E3%81%9D%E3%82%8C%E3%81%AF%E5%A4%A7%E5%9C%B0%E3%82%92%E5%94%84%E3%81%86"
+slug: "7b762803-b6dd-47ab-933f-d72ad741d960"
 ---
 Yen Town Bandは、1995年初めてのアルバム"MONTAGE"をリリースした。それは映画「スワロウテイル」で出てくる通り、まさに西洋なのか東洋なのかわからない、もはやボーダレスな 3rd Culture Musicだった。
 

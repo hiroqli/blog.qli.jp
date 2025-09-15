@@ -4,7 +4,7 @@ description: ''
 date: '2009-02-06T23:56:54.000Z'
 categories: []
 keywords: []
-slug: Amazon+Web+Service%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F
+slug: "26738fd9-393b-4821-b665-b1c2af67484b"
 ---
 Amazon Web Serviceを使う機会がありました。使ったサービスはAmazon EC2とAmazon S3です。それ以外にもAmazon SQSとか使いましたが、ここでは詳しくは取り上げないことにします。（それから具体的な使い方というのもここでは細かくはとりあげません）
 

@@ -4,7 +4,7 @@ description: ''
 date: '2009-01-07T22:18:10.000Z'
 categories: []
 keywords: []
-slug: "%E6%AC%A1%E3%81%AF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E7%95%AA+%3A+MacWorld+Expo+2009+Keynote"
+slug: "1af6e8e9-7919-4d0e-8e67-9983f16ea38f"
 ---
 フィルシラー氏による最初で最後の基調講演＠MacWorld Expoが終了しました。今回はさまざまな憶測が飛び交いましたが、発表されたのは
 

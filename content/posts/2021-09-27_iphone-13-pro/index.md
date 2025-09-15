@@ -4,7 +4,7 @@ description: iPhone 13 Pro を金曜日に手に入れました。今回は配�
 date: '2021-09-27T12:08:54.313Z'
 categories: []
 keywords: []
-slug: iPhone+13+Pro%E3%81%AE%E3%81%A8%E3%81%A6%E3%82%82%E7%B0%A1%E5%8D%98%E3%81%AA%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A4%E3%83%B3%E3%83%9...
+slug: "9605b78c-928d-41e4-8bc6-e528f83bacba"
 ---
 iPhone 13 Pro を金曜日に手に入れました。今回は配送ではなく、Apple Storeでの受け取りにしました。
 

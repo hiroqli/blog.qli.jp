@@ -4,7 +4,7 @@ description: ''
 date: '2012-12-13T21:45:14.000Z'
 categories: []
 keywords: []
-slug: salyu+x+salyu+in+Thailand
+slug: "32f8dba1-e339-4ddd-98c6-82bd8b29417d"
 ---
 Salyuさんが小山田さんとはじめたプロジェクト、salyu x salyu。ボーカルを楽器としてとらえることでかなでるハーモニーが本当に美しいものがあります。
 

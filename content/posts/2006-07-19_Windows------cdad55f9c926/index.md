@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-19T09:01:00.000Z'
 categories: []
 keywords: []
-slug: Windows%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83
+slug: "97b75157-2dc9-40c2-9d3a-d6f97b6900b2"
 ---
 Windowsの開発環境を書いておく。  
 基本的に、PHPやらperlやらはエディタがあれば十分なので、[MKEditor](http://www.mk-square.com/home/software/mkeditor/)を使用している。これを選んだ基準は色分けの柔軟さと機能の豊富さ。こいつが持っているGrep機能は意外と使うことが多い。本当はPHPだと専用エディタとかもあるんだけど、それほど使えていない + 高機能なものはいらない。  

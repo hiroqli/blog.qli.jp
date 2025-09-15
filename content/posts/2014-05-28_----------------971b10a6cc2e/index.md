@@ -4,7 +4,7 @@ description: ''
 date: '2014-05-28T21:42:57.000Z'
 categories: []
 keywords: []
-slug: "%E9%9F%B3%E6%A5%BD%E3%82%92%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B%E7%92%B0%E5%A2%83%E3%82%92%E8%AA%9E%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B"
+slug: "d5dc114e-0ced-4c1b-b9de-557b4629519a"
 ---
 スガシカオさんのTweetがいろんなところで反響を呼んでいるようで。
 

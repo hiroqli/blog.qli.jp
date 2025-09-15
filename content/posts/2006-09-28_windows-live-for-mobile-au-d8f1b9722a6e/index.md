@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-28T15:31:01.000Z'
 categories: []
 keywords: []
-slug: windows+live+for+mobile+au
+slug: "2e54e5f5-92c3-442c-801b-b32803acbe5a"
 ---
 iアプリ版は出ていたんですが、早速Ezweb版(というかEzアプリ版)が提供されました。
 

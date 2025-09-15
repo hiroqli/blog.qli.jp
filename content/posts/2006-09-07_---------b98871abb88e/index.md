@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-07T20:03:00.000Z'
 categories: []
 keywords: []
-slug: "%E6%89%8B%E5%B8%B3%E3%81%A3%E3%81%A6%E5%AE%9A%E7%BE%A9%E3%81%AF%EF%BC%9F"
+slug: "5fb1e1ed-f604-46f7-a00a-23f0980f7b14"
 ---
 ITmedia Biz.IDからまたこのような記事が。  
 ブログのネタを与えてくれるだけでもありがたい（汗）

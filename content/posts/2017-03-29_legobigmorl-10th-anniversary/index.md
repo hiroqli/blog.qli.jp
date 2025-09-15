@@ -4,7 +4,7 @@ description: LEGO BIG MORLの10周年イヤーは、新木場スタジオコー�
 date: '2017-03-29T12:32:11.163Z'
 categories: []
 keywords: []
-slug: "%23LEGOBIGMORL+10th+Anniversary"
+slug: "0a4f10de-20a0-465c-8cb7-0f05777a4fc6"
 ---
 LEGO BIG MORLの10周年イヤーは、新木場スタジオコーストの2時間のライブで終わりを告げた。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2006-06-22T19:25:29.000Z'
 categories: []
 keywords: []
-slug: "%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80+%E3%82%B0%E3%83%83%E3%82%BA%E5%88%B0%E7%9D%80%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F"
+slug: "7f757563-c6ad-444e-8507-4f67c5525291"
 ---
 .flickr-photo { }  
   

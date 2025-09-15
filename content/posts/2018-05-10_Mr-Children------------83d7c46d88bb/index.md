@@ -4,7 +4,7 @@ description: Ya Ya Ya とかいいません
 date: '2018-05-10T11:08:39.993Z'
 categories: []
 keywords: []
-slug: Mr%2EChildren%E3%81%8C%E9%9F%B3%E6%A5%BD%E9%85%8D%E4%BF%A1%E3%81%AB%E3%82%84%E3%81%A3%E3%81%A6%E6%9D%A5%E3%81%9F
+slug: "c1286840-f0d5-45c6-929a-8f9c5ca63a17"
 ---
 ![](1__1s3GYs__1LuD__IVor3__eS7A.jpeg)
 

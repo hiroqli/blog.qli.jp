@@ -4,7 +4,7 @@ description: Cultured Code が出している Things 3 で気になる会話が�
 date: '2021-01-23T10:19:42.312Z'
 categories: []
 keywords: []
-slug: Things+3+%E3%81%AE%E3%80%8C%E4%BB%8A%E6%97%A5%E3%80%8D%E3%81%8C%E3%81%82%E3%81%B5%E3%82%8C%E3%81%A6%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%EF%BC%9F
+slug: "1f133dbe-4fbf-4a51-88d5-b4e28d1df4c8"
 ---
 Cultured Code が出している Things 3 で気になる会話があったので、雑談的な感じでまとめも兼ねて書いてみる。
 

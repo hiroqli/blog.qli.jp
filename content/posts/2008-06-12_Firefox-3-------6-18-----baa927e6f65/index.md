@@ -4,7 +4,7 @@ description: ''
 date: '2008-06-12T11:51:03.000Z'
 categories: []
 keywords: []
-slug: Firefox+3+%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%97%A5%E3%81%AF6%E6%9C%8818%E6%97%A5%E3%81%AB%E6%B1%BA%E5%AE%9A
+slug: "26e61d5e-f567-4593-960e-fb92cc9d220b"
 ---
 本日、RC3がリリースされたFx3ですが、リリース日が6月18日に決定しました。おそらくRC3がそのまま正式版になるのだと思います。
 

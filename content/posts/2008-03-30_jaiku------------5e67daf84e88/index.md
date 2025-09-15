@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-30T20:05:02.000Z'
 categories: []
 keywords: []
-slug: jaiku%E3%81%AE%E6%8B%9B%E5%BE%85%E5%8F%AF%E8%83%BD%E6%95%B0%E3%81%8C%E5%BE%A9%E6%B4%BB%E3%81%97%E3%81%9F
+slug: "94f2a5b3-4078-4b0a-ad53-1b5b5f47c22b"
 ---
 Googleに買収され、招待制になってしまったjaikuですが、そんなjaikuの招待可能数が復活していました。
 

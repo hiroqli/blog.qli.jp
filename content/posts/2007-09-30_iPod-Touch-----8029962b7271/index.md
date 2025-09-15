@@ -4,7 +4,7 @@ description: ''
 date: '2007-09-30T15:03:47.000Z'
 categories: []
 keywords: []
-slug: iPod+Touch%E4%BD%BF%E7%94%A8%E6%97%A5%E8%AA%8C
+slug: "c40f84fe-e1f6-404d-b812-b5077822ae4b"
 ---
 iPod Touchを使ってみて１週間程度になるのですが、外でのWEB環境を整えようと、mzoneにつないでみました。もともと、CLIEだったり、myloだったりでWiFi機器所有歴だけは長いので、WiFiサービスは契約していたりします。
 

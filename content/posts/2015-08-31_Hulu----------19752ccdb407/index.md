@@ -4,7 +4,7 @@ description: ''
 date: '2015-08-31T13:50:03.000Z'
 categories: []
 keywords: []
-slug: Hulu%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%8B%95%E7%94%BB%E3%81%AE%E4%B8%96%E7%95%8C
+slug: "a87ddf56-769b-4b87-94f5-154b3d61d693"
 ---
 アメリカでは「あたりまえ」になった感もあるNetflixがやっと日本に上陸するとか（ただしソフトバンクと組んで）、TSUTAYAが動画配信に重い腰を上げたような感じがあり、LINE MUSIC / Apple Music で盛り上がった音楽に続いて、動画にも本格的なサブスクリプションモデルの競争が始まろうとしています。
 

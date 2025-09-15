@@ -4,7 +4,7 @@ description: ''
 date: '2008-07-12T15:42:09.000Z'
 categories: []
 keywords: []
-slug: Re%3A+iPhone+3G%E3%81%AB%E3%81%AFPC-Mac%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%A7%E3%81%99
+slug: "67dcbc6e-9deb-4ed0-a455-79b3e8627a3a"
 ---
 [こちらでiPhone発売前にいろいろ注意すべきことを書いていた](http://blog.qli.jp/2008/07/iphone-3gpcmac-.html)のだけど、実際に購入してそれに対する回答という形で書きたい。ただ注意して欲しいのは、自分が購入したのはSoftbank mobileがフラグシップ店として構える表参道店での購入であって、他のショップではこの通りの対応が必ずしも行われていないと思える点のみ、です。
 

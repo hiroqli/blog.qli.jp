@@ -4,7 +4,7 @@ description: ''
 date: '2008-02-19T21:02:47.000Z'
 categories: []
 keywords: []
-slug: mylo2%E7%99%BA%E8%A1%A8
+slug: "b2bc0bb0-4f90-4b1a-8ac7-d5bcd6db0bc8"
 ---
 米Sonyから発表されていて、日本での発表が待ち望まれていたmylo2がついに発表されました。
 

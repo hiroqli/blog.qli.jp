@@ -4,7 +4,7 @@ description: ''
 date: '2007-11-10T11:52:16.000Z'
 categories: []
 keywords: []
-slug: MacBook-MacBook+Pro%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F
+slug: "73abc496-24f6-4efb-90c3-c1ad08ed11f2"
 ---
 このブログで取り上げていなかったけれども、先週MacBook/MacBook Proがサイレントアップデートした。本当に”サイレント”で、実はまだ公式なプレスリリースが何もない状況なのだ。
 

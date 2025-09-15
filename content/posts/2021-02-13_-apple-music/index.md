@@ -4,7 +4,7 @@ description: Mr.Children の最新作 SOUNDTRACKS が、2月14日に Apple Music
 date: '2021-02-13T15:07:22.971Z'
 categories: []
 keywords: []
-slug: "%E2%80%9C%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E6%B8%88%E3%81%BF%E2%80%9D+%E3%82%92+%E2%80%9C%E3%83%9E%E3%83%83%E3%83%81%E2%80%9D+..."
+slug: "e168c413-8fa6-4e28-9c35-7de916ab84c5"
 ---
 Mr.Children の最新作 SOUNDTRACKS が、2月14日に Apple Musicをはじめとするサブスクリプションサービスで配信開始となりました。12月2日の発売から74日。半年くらい待たされるかなと思っていたので、正直驚きの速さでした。
 

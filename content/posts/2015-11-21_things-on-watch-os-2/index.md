@@ -4,7 +4,7 @@ description: ''
 date: '2015-11-21T12:15:00.000Z'
 categories: []
 keywords: []
-slug: Things+on+Watch+OS+2+%E3%81%8C%E6%B0%97%E6%8C%81%E3%81%A1%E3%81%84%E3%81%84
+slug: "8c028877-ad28-4ea8-a68e-f2995497c4e4"
 ---
 Things on Watch OS 2がリリースされました。使っていてとても気持ちがよかったです。Watch OS 2に対応したアプリは、出てきていると思いますが、使う回数の多いアプリが対応してくれると、嬉しいものではあります。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2010-11-27T12:24:08.000Z'
 categories: []
 keywords: []
-slug: Twitter%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC%E3%82%92%E8%80%83%E3%81%88%E3%82%8B
+slug: "2980cef1-ba7a-4d2a-9f98-b29ef14a64fc"
 ---
 [http://rcm-jp.amazon.co.jp/e/cm?lt1=\_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B0047O3XHC](http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B0047O3XHC "http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=qli-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=B0047O3XHC")
 

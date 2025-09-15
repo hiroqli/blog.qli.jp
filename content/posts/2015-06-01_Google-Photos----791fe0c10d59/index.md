@@ -4,7 +4,7 @@ description: ''
 date: '2015-06-01T12:56:30.000Z'
 categories: []
 keywords: []
-slug: Google+Photos%E3%82%92%E8%A9%A6%E3%81%99
+slug: "11003a8d-352a-4bfd-ab96-79fdbbd7e916"
 ---
 ### 背景
 

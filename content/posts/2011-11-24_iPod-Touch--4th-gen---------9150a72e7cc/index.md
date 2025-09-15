@@ -4,7 +4,7 @@ description: ''
 date: '2011-11-24T21:36:42.000Z'
 categories: []
 keywords: []
-slug: iPod+Touch+%284th+gen%29+%E3%82%92%E8%B2%B7%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F
+slug: "12d7e2eb-18eb-4c27-ab0a-da67de9dfecd"
 ---
 いろいろ思うところもあり、かつ、ちょっとおもちゃとしてのiOSデバイスも欲しかったので、iPod Touchを買いました。買ったのは8GBのホワイトモデル。
 

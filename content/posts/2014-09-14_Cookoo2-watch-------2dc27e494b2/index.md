@@ -4,7 +4,7 @@ description: ''
 date: '2014-09-14T23:44:51.000Z'
 categories: []
 keywords: []
-slug: Cookoo2+watch%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F
+slug: "2981d1cf-cd17-4a76-90ca-ecbacd4803de"
 ---
 iPhone 6/6 Plusの予約祭りだったり、Apple Watchが注目を浴びたりする中で、Cookoo2 Watchがついに届きました。出荷されて10日かかったので、とても長い旅をしてきたようです。
 

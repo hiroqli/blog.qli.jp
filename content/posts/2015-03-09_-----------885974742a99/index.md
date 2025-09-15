@@ -4,7 +4,7 @@ description: J2リーグが開幕した。今年からJリーグ Div 2ではな�
 date: '2015-03-09T01:11:22.946Z'
 categories: []
 keywords: []
-slug: "%E3%82%A2%E3%83%93%E3%82%B9%E3%83%91%E3%83%9B%E3%83%BC%E3%83%A0%E9%96%8B%E5%B9%95%E6%88%A6"
+slug: "f6d8ceb2-23e1-4e62-b913-3ebc798cfdde"
 ---
 ![](1__7eqlMPFqsXNE6G2idifoCw.jpeg)
 

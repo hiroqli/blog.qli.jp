@@ -4,7 +4,7 @@ description: ''
 date: '2006-08-27T00:47:03.000Z'
 categories: []
 keywords: []
-slug: Skype+for+mac+%E3%81%8C%E3%83%AA%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%81%97%E3%81%A6%E3%81%BE%E3%81%97%E3%81%9F
+slug: "ea9ec153-87a4-42da-bf3e-904d5f071f59"
 ---
 Skype for macが[1.5.0.60](http://skype.com/intl/ja/download/skype/macosx/), [1.5.0.61 Video Preview](http://skype.com/intl/ja/download/skype/macosx/videopreview.html)にバージョンアップしてました。
 

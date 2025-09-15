@@ -4,7 +4,7 @@ description: ''
 date: '2015-05-01T03:18:49.000Z'
 categories: []
 keywords: []
-slug: "%E2%80%9C%E6%99%82%E9%96%93%E3%82%92%E7%9F%A5%E3%82%8B%E2%80%9D%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8"
+slug: "e120d3f5-7ead-4889-952c-19b8edfec63d"
 ---
 AppleがApple Watchを発表し、発売に向けて全容が分かってくるにつれてわかってきたのは、”AppleはApple Watchを「通知デバイス」として売ることはしない”ということだった。
 

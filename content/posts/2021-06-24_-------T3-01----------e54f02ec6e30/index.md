@@ -4,7 +4,7 @@ description: Apple Musicにロスレスがきて、Work From Home している�
 date: '2021-06-24T11:13:05.512Z'
 categories: []
 keywords: []
-slug: "%E3%83%98%E3%83%83%E3%83%89%E3%83%95%E3%82%A9%E3%83%B3+T3%E2%80%9301+%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3"
+slug: "4e3ef0b8-faca-4b08-8452-8c250ba18703"
 ---
 Apple Musicにロスレスがきて、Work From Home している間、ONKYO DA-10 を使って音楽を聴きまくっているのですが、もっといい音で聴きたくなりました。
 

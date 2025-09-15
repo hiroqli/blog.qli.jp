@@ -4,7 +4,7 @@ description: ''
 date: '2011-02-09T23:22:05.000Z'
 categories: []
 keywords: []
-slug: "%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%BD%E3%83%95%E3%83%88+Sparrow"
+slug: "f1701aac-bb32-48f6-94ab-39fd5ee1efb1"
 ---
 ずいぶん長い間開発が続けられていた、Sparrow というメールソフトが今日Mac App Storeにて公開されました。
 

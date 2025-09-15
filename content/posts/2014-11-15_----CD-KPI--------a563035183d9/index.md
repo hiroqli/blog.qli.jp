@@ -4,7 +4,7 @@ description: ''
 date: '2014-11-15T00:17:10.000Z'
 categories: []
 keywords: []
-slug: "%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%ABCD%E3%81%AFKPI%E3%81%AB%E3%81%AA%E3%82%8A%E5%BE%97%E3%82%8B%E3%81%AE%E3%81%8B"
+slug: "21288662-3ebc-47ad-afa2-674a7ccecda7"
 ---
 記事自体スルーしてしまおうかと思ったけど、いい機会なので言及する形で書いておくことにする。という記事はこちら。
 

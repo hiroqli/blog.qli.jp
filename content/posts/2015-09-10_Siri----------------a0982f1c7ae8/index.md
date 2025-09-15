@@ -4,7 +4,7 @@ description: ''
 date: '2015-09-10T02:55:50.000Z'
 categories: []
 keywords: []
-slug: Siri%E3%81%AB%E3%83%92%E3%83%B3%E3%83%88%E3%82%92%E3%82%82%E3%82%89%E3%81%88%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E7%99%BA%E8%A1%A8%E4%BC%9A
+slug: "87c56d06-e2a8-429e-b1f9-35d53049ad47"
 ---
 Appleイベント”Hey Siri, Give us a hint”が終わりました。
 

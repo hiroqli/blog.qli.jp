@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-08T21:12:05.000Z'
 categories: []
 keywords: []
-slug: Google+App+Engine%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F
+slug: "8319d0fb-fa62-4dbe-a52b-edacc4106063"
 ---
 Google App Engineがリリースされて、軽くさわってみましたのでレビューというかそんな感じで書きたいと思います。なお、ソースその他はここでは載せませんのでご了承ください。([こちら](http://hiroqli.blogspot.com/2008/04/google-app-engine.html)に書きました)
 

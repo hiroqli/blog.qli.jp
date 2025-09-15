@@ -4,7 +4,7 @@ description: ''
 date: '2009-12-07T22:20:57.000Z'
 categories: []
 keywords: []
-slug: WEB%E5%AD%A6%E4%BC%9A%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A0%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%9F
+slug: "8233a4d3-0d65-4c57-ae85-b5967a4d4ee5"
 ---
 WEB学会シンポジウムに参加した。内容はともかくとして雑感を少し。
 

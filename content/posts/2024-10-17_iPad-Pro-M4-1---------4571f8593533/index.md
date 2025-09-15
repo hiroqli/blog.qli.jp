@@ -4,7 +4,7 @@ description: iPad Pro 11インチ M4 を受け取って、1ヶ月（ともう少
 date: '2024-10-17T11:43:14.561Z'
 categories: []
 keywords: []
-slug: iPad+Pro+M4+1%E3%83%B6%E6%9C%88%E4%BD%BF%E7%94%A8%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC
+slug: "26b72245-a759-46ad-a517-5d3e3602a307"
 ---
 iPad Pro 11インチ M4 を受け取って、1ヶ月（ともう少し）が過ぎました。今の状況を簡単にメモしておきます。
 

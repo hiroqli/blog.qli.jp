@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-20T09:30:32.000Z'
 categories: []
 keywords: []
-slug: "%E7%B6%9A%E5%A0%B1%C2%B2%EF%BC%9AAirMacExtreme%287%2E2%2E1%29%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8BUSB%E6%8E%A5%E7%B6%9A%E3%83%87%E3%82%A3%E3%82%B9%E..."
+slug: "1b509fdb-9a6c-472f-aa33-b60591f2765f"
 ---
 個人的に追い続けているこの問題についてです。
 

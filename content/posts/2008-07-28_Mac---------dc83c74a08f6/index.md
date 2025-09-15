@@ -4,7 +4,7 @@ description: ''
 date: '2008-07-28T23:07:02.000Z'
 categories: []
 keywords: []
-slug: Mac%E3%81%A7%E4%BD%BF%E3%81%86%E4%B8%BB%E3%81%AA%E3%82%A2%E3%83%97%E3%83%AA
+slug: "2ff83a7c-0b5a-4491-b0b4-f96c124ee6c1"
 ---
 Twitterやらでお世話になっているveadarさんが面白い記事を書いていました。
 

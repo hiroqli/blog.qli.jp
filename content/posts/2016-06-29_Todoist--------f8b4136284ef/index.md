@@ -4,7 +4,7 @@ description: ''
 date: '2016-06-29T14:20:41.000Z'
 categories: []
 keywords: []
-slug: Todoist%E3%81%8C%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88
+slug: "012cec1f-d2c8-4096-bf6b-fdc12916af9e"
 ---
 今日はTodoistのアップデートとほぼ同時にEvernoteのプラン変更のニュースが飛び込んできて、そちらのほうがニュースバリューとして高かったようです。そちらについては、Lifehacking.jpで扱われていますので、どうぞ。
 

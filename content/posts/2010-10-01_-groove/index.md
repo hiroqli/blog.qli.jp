@@ -4,7 +4,7 @@ description: ''
 date: '2010-10-01T20:26:31.000Z'
 categories: []
 keywords: []
-slug: "%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D%E3%81%84%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E5%86%8D%E7..."
+slug: "6db9c35b-ab66-4314-a4a8-53f34876c9c6"
 ---
 実はよく知らなかったのですが、[groove](http://www.zikeragroove.com/) という iPhoneアプリがありまして。簡単に書けばプレイリストを自動的に作って再生してくれるアプリです。
 

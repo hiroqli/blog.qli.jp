@@ -4,7 +4,7 @@ description: ''
 date: '2012-10-24T03:55:52.000Z'
 categories: []
 keywords: []
-slug: iPad+mini+%E7%99%BB%E5%A0%B4
+slug: "986f972b-bbf0-434e-91d8-39abc97e3295"
 ---
 Appleのメディアイベントが行われました。今回はSafariでの中継、そしてAppleTVでの中継が行われました。ので、これを見ながらTwitterしていた人も多かったのだと思います。ストリーミングはたびたび止まることはあっても全く見れなくなることはなかった。
 

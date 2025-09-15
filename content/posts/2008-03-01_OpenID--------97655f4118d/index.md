@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-01T01:06:59.000Z'
 categories: []
 keywords: []
-slug: OpenID%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E8%80%83%E5%AF%9F
+slug: "50b5faa2-bcf3-41e8-b7d4-03ddd34f64e1"
 ---
 先日Voxに以下のような記事が掲載されていました。
 

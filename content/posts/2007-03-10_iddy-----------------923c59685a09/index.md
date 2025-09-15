@@ -4,7 +4,7 @@ description: ''
 date: '2007-03-10T21:38:12.000Z'
 categories: []
 keywords: []
-slug: iddy%E3%83%97%E3%83%AD%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%80%82
+slug: "995b2ab1-8c95-490f-bd99-5db159e8aa63"
 ---
 いつも密かに読ませていただいている、lomoさんのブログでiddyが紹介されていたので、早速登録してみた。
 

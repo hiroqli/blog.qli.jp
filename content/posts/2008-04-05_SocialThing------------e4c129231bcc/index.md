@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-05T00:37:38.000Z'
 categories: []
 keywords: []
-slug: SocialThing%21%E3%81%AE%E6%8B%9B%E5%BE%85%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%8C%E5%B1%8A%E3%81%84%E3%81%9F
+slug: "c245d0ce-6746-4bb0-a94a-f96be6524648"
 ---
 こちらはTechCrunchで紹介されてわりと長い間待ったんですが、やっと今日届いて使い始めている感じです。そもそも使いたいと思ったのは
 

@@ -4,7 +4,7 @@ description: ''
 date: '2008-09-16T07:05:47.000Z'
 categories: []
 keywords: []
-slug: Gears+for+Safari%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F
+slug: "fe1a56ba-9153-482c-9b14-4a84ee7a9f09"
 ---
 GoogleのMac関連の動きは久しぶりなのですが、ついにSafari版の[Gears](http://gears.google.com)がリリースされました。
 

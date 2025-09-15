@@ -4,7 +4,7 @@ description: ''
 date: '2010-03-14T11:04:50.000Z'
 categories: []
 keywords: []
-slug: Things+1%2E3+%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9
+slug: "776e09c4-2046-4831-b7af-df3f433008db"
 ---
 タスク管理ツール Things Mac 1.3 がリリースされました([from Cultured Code](http://culturedcode.com/things/blog/2010/03/things-1-3-brings-support-for-mixed-projects.html))。今回は併せて Things Touchのアップデートもされています。
 

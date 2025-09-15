@@ -4,7 +4,7 @@ description: ''
 date: '2009-01-03T22:07:44.000Z'
 categories: []
 keywords: []
-slug: "%E6%83%85%E5%A0%B1%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%E3%82%92%E8%A1%8C%E3%81%86%E3%81%93%E3%81%A8"
+slug: "7eff13b2-7243-4300-abfd-2af68c0a5284"
 ---
 情報ダイエット仕事術を読みました。この本はLifehacking.jpでおなじみのmehoriさんこと、堀さんが書かれた本です。
 

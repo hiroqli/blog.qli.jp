@@ -4,7 +4,7 @@ description: ''
 date: '2014-02-22T23:21:09.000Z'
 categories: []
 keywords: []
-slug: Adobe+Revel+%E3%82%92%E4%BD%BF%E3%81%86
+slug: "972cf512-96ec-477f-bf87-00725a486492"
 ---
 Adobe Revelをしばらく使ってみています。
 

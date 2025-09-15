@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-25T09:52:43.000Z'
 categories: []
 keywords: []
-slug: "%E6%8D%A8%E3%81%A6%E3%82%89%E3%82%8C%E3%81%9F%E6%83%85%E5%A0%B1%E3%81%9F%E3%81%A1"
+slug: "ac2bd088-1a0a-435c-becb-1e01320ed664"
 ---
 久々に面白い記事を見つけたので紹介。（こういうのが web logというのかな)
 

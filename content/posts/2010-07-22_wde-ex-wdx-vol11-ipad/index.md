@@ -4,7 +4,7 @@ description: ''
 date: '2010-07-22T08:33:31.000Z'
 categories: []
 keywords: []
-slug: WDE-ex+%23wdx+Vol%2E11+%E2%80%9CiPad+%E3%81%AE%E3%82%A6%E3%82%A7%E3%83%96%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%EF%BC%9A%E7%A7%81%E3%81%9F%E3%81%A1%E...
+slug: "723fd845-8493-40b8-928c-d9ccfef04ac3"
 ---
 久しぶりにApple Store Ginzaでのセミナーに行ってきました。テーマは”[iPadのデザイン](http://east.webdirections.org/blog/wde-ex11/)”。講師は iA CEOのOliver Reichensteinさん。名前はドイツ語読みなのかな。
 

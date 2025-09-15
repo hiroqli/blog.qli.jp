@@ -4,7 +4,7 @@ description: ''
 date: '2014-09-19T01:58:47.000Z'
 categories: []
 keywords: []
-slug: iPhone6+%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3
+slug: "faad5b7c-ea38-48ed-8c08-95ab8c2bb695"
 ---
 Apple Store Onlineの方ではなく、Apple Storeの店頭受け取り予約を9月12日に行い、いま受け取りに行ってきました。  
 受け取り前に、iTunesで暗号化バックアップをしていたため、書き戻しました。  

@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-12T21:00:21.000Z'
 categories: []
 keywords: []
-slug: Jaiku%E3%82%92%E3%81%A4%E3%81%8B%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F
+slug: "33b7b7e5-dea0-40bf-a266-6f651f34d426"
 ---
 いろんなところで紹介されていたのでJaikuを使ってみました。もうtwitterも２ヶ月くらいつかってるし、ってことで。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2009-01-20T23:35:08.000Z'
 categories: []
 keywords: []
-slug: jaiku%E3%81%AF%CE%BC%E3%83%96%E3%83%AD%E3%82%B0%E7%95%8C%E3%81%AEWordpress%E3%81%AB%E3%81%AA%E3%82%8C%E3%82%8B%E3%81%8B
+slug: "9ec51cd7-0e87-4f65-bee3-c589e9ee361d"
 ---
 あちこちで多くの人がビックリした、Jaikuのオープンソース化について。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-18T10:04:07.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%96%E3%83%AD%E3%82%B0+%3D+%3F"
+slug: "7adff494-6333-4753-86ac-ae7f7c3e0f85"
 ---
 リンク: [ドコモ・ライブドア提携 「ｉモード」に検索機能 — CNET Japan](http://japan.cnet.com/news/media/story/0,2000056023,20172387,00.htm?ref=rss "ドコモ・ライブドア提携　「ｉモード」に検索機能 - CNET Japan").
 

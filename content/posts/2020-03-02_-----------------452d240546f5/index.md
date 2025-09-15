@@ -4,7 +4,7 @@ description: 2020年2月23日、ミクニワールドスタジアムで開催さ
 date: '2020-03-02T10:58:31.691Z'
 categories: []
 keywords: []
-slug: "%E4%BB%8A%E5%B9%B4%E3%81%AE%E3%82%A2%E3%83%93%E3%82%B9%E3%83%91+%E3%81%AF%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%A8%E9%81%95%E3%81%86"
+slug: "2ed11348-ced7-4d0b-96dd-b607d8c7edd4"
 ---
 ![](1__9kuIwzWm4NtLY0W781cf__g.png)
 

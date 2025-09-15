@@ -4,7 +4,7 @@ description: ''
 date: '2009-06-30T12:19:44.000Z'
 categories: []
 keywords: []
-slug: "%E2%80%9C%E3%82%BF%E3%82%B0%E2%80%9D%E3%80%81%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F"
+slug: "0c9e8bee-a194-4daf-ade1-aeedb7b9aa28"
 ---
 RSSリーダーはGoogle Readerを使っているのですが、突然思い立って、タグを全部削除してしまいました。もともとタグは新しいFeedを購読する度に設定はしていたのですが、左側のFeedリストビューを非表示で使っているので、ほとんど意識すらしていなかったのです。
 

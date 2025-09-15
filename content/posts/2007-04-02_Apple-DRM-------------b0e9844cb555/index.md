@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-02T21:43:23.000Z'
 categories: []
 keywords: []
-slug: Apple%E3%81%8CDRM%E3%83%95%E3%83%AA%E3%83%BC%E8%B2%A9%E5%A3%B2%E3%82%92%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F
+slug: "3a8e36e9-9b58-4185-989e-67b68d62494b"
 ---
 Appleは、DRMフリーの楽曲をiTunesStoreで販売することを発表しました。最初に提供されるのは、EMIの楽曲です。あわせてビットレートも上げられます。  
 今よりも高音質の音楽をITunesStoreで買って、ソニーのウォークマンにも入れられます。

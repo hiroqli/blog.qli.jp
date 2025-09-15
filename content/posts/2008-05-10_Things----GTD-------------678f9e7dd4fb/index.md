@@ -4,7 +4,7 @@ description: ''
 date: '2008-05-10T12:31:01.000Z'
 categories: []
 keywords: []
-slug: Things+%3A%3A+GTD%E3%81%AB%E5%BF%A0%E5%AE%9F%E3%81%AA%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86%E3%82%BD%E3%83%95%E3%83%88
+slug: "349bfc58-18e7-49e8-9d12-17164d04b5de"
 ---
 タスク管理ソフト、英語ではProductivityというカテゴリだったりしますが、これまで、[CheckPad](http://www.checkpad.jp/)、[Remember the Milk](https://www.rememberthemilk.com/)、[OmniFocus](http://www.omnigroup.com/applications/omnifocus/)と試してきました。ここにきてまた新しいソフトウェアにたどり着きました。それが[Things](http://culturedcode.com/things/)です。
 

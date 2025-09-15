@@ -4,7 +4,7 @@ description: ''
 date: '2011-04-21T23:42:25.000Z'
 categories: []
 keywords: []
-slug: MobileMe%E3%81%A8Gmail%E3%81%A8iPhone%E3%81%A8
+slug: "e18a22f4-c187-4974-a42f-f9d78631a16e"
 ---
 MobileMeに届いたメールをGmailに転送して使っている。Gmailに転送してチェックすることで、iPhoneでもIS03でもメールの確認が可能だし、iPhoneでもIs03でも読んだメールを”アーカイブ”することが可能になる。メールをチェックするという行動において、読んだらすぐアーカイブというこの行為がとても気持ちがいい。
 

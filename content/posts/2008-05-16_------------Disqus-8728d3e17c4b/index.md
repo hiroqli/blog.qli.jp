@@ -4,7 +4,7 @@ description: ''
 date: '2008-05-16T22:05:11.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%93%E3%83%87%E3%82%AA%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9FDisqus"
+slug: "dee1179b-4b72-4494-a952-89c18c0e37e3"
 ---
 ブログにスレッド式のコメント投稿を追加する[Disqus](http://disqus.com/)が人気らしいです。
 

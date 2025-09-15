@@ -4,9 +4,8 @@ description: ""
 date: "2006-10-29T14:23:07.000Z"
 categories: []
 keywords: []
-slug: playlog%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F
+slug: "47160325-fa3a-4951-91c7-32a23dc4532c"
 ---
-
 ![]()
 
 Sony が（というよりも、ソニーマーケティングが)、日本での発売を決めた Sony mylo が Playlog 対応を謳っているのを見て、playlog に入ってみました。実は、以前 otolog を使っていた時期があって、otolog 経由で playlog という存在は知っていたのですが、その当時は otolog で満足していたのもあってあまり興味を持ちませんでした。

@@ -4,7 +4,7 @@ description: ''
 date: '2009-10-21T08:07:01.000Z'
 categories: []
 keywords: []
-slug: "%E6%96%B0%E3%81%97%E3%81%84%E3%83%AA%E3%83%B3%E3%82%B4%E3%81%9F%E3%81%A1%282009%E5%B9%B4%E6%9C%AB%E7%89%88%EF%BC%89"
+slug: "d0f6e2ab-f2d7-49a6-9d2b-f6af2d729df4"
 ---
 AppleのLate 2009モデルの発表がありました。発表されたのは、全部で４つ。iMac、Mac mini、Apple Remote、Magic Mouseです。それ以外にも価格が更新されたりしています。
 

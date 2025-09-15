@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-15T12:17:59.000Z'
 categories: []
 keywords: []
-slug: FriendFeed%E3%81%8C%E3%82%82%E3%82%8A%E3%81%82%E3%81%8C%E3%82%8B
+slug: "8342b7ec-054c-4fc7-9ee4-1fdeef609e27"
 ---
 今年のSxSWが無事終わったそうで。去年のSxSWではtwitterが大注目を浴び、[それをきっかけとして僕もtwitterを始めた](http://blog.qli.jp/2008/02/twitter-7ef3.html)わけですが、今年のSxSWではFriendfeedが注目を浴びたそうで、次のtwitterになりえるかという議論が盛んに行われているようです。
 

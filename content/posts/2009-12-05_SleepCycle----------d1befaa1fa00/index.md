@@ -4,7 +4,7 @@ description: ''
 date: '2009-12-05T09:42:03.000Z'
 categories: []
 keywords: []
-slug: SleepCycle%E3%81%AB%E7%9D%A1%E7%9C%A0%E6%99%82%E9%96%93%E3%83%AD%E3%82%B0%E6%A9%9F%E8%83%BD
+slug: "8fe1f6ab-a802-4d6c-b2d4-b4cbd14eca87"
 ---
 結構話題になって使ってみた人も多いんじゃないかと思うアプリがSleepCycle。時間をセットして寝ると、その時間付近で寝返りをうったときの振動を感知して、起こしてくれるアプリです。
 

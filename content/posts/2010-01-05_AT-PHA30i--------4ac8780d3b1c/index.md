@@ -4,7 +4,7 @@ description: ''
 date: '2010-01-05T18:26:08.000Z'
 categories: []
 keywords: []
-slug: AT-PHA30i+%E3%82%92%E8%B2%B7%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F
+slug: "6c80566b-6f90-47a6-9ecc-fa9eab00f780"
 ---
 オーディオテクニカが出したiPhone用モバイルアンプ。
 

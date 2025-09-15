@@ -4,7 +4,7 @@ description: ''
 date: '2008-02-13T23:48:40.000Z'
 categories: []
 keywords: []
-slug: MacBook+Air%E3%81%A8Leopard%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%88%E3%81%9F%E7%9F%9B%E7%9B%BE%E7%82%B9
+slug: "20fe519b-dbd9-452d-816b-3acaf3d6c6b4"
 ---
 MacBook Airの店頭入荷が始まっているようです。本格的に衝動買いできる日も近づいているようです。
 

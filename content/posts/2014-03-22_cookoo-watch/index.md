@@ -4,7 +4,7 @@ description: ''
 date: '2014-03-22T00:52:11.000Z'
 categories: []
 keywords: []
-slug: COOKOO+Watch%E3%81%AE%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88...
+slug: "1f0e2508-9021-416d-9bd5-36c50fa71bba"
 ---
 COOKOO Watch は、iOS7対応にあわせて、アプリをそれまでのものではなく、COOKOO Lifeという新しいものをリリースしています。新しいアプリのリリースとともに、実はiPhoneの通知センターに対応し、iPhoneで通知があると、それをCOOKOO Watchで知らせてくれるようになったのです。
 

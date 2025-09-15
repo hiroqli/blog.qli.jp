@@ -4,7 +4,7 @@ description: ''
 date: '2010-10-14T06:58:52.000Z'
 categories: []
 keywords: []
-slug: Apple%E3%81%8C%E2%80%9DBack+to+the+Mac%E2%80%9D%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%9220%E6%97%A5%E3%81%AB%E9%96%8B%E5%82%AC
+slug: "4ed08600-12bd-4412-817f-b79c69a54b69"
 ---
 Appleが現地時間20日10時（日本時間21日2時）に “Back to the Mac”と題したイベントを開催するそうです。
 

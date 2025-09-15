@@ -4,7 +4,7 @@ description: ''
 date: '2008-12-02T08:53:01.000Z'
 categories: []
 keywords: []
-slug: Pownce%E3%81%8C%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%81%9C%E6%AD%A2%E3%82%92%E8%A1%A8%E6%98%8E
+slug: "2b3d34dc-dc88-4747-acac-5aff3c3526c7"
 ---
 Pownceが公式ブログにて、Six Apartに買収されたこと、そしてPownceのサービス停止をアナウンスしました。
 

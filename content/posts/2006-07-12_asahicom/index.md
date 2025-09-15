@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-12T09:17:34.000Z'
 categories: []
 keywords: []
-slug: asahi%2Ecom%EF%BC%9A%E6%96%B0%E5%B9%B9%E7%B7%9A%E3%81%AE%E3%81%94%E3%81%BF%E7%AE%B1%E3%80%81%EF%BC%92%E5%B9%B4%E3%81%B6%E3%82%8A%E5%86%8D%E9%96%8B%...
+slug: "4a598e96-e79f-4fdc-8ddf-5d1e3b7618a3"
 ---
 リンク: [asahi.com：新幹線のごみ箱、２年ぶり再開へ ＪＲ東が苦情受け�-�社会](http://www.asahi.com/national/update/0712/TKY200607110653.html?ref=rss "asahi.com：新幹線のごみ箱、２年ぶり再開へ　ＪＲ東が苦情受け�-�社会").
 

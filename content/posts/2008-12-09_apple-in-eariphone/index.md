@@ -4,7 +4,7 @@ description: ''
 date: '2008-12-09T22:58:16.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%9E%E3%82%A4%E3%82%AF%E4%BB%98%E3%81%8DApple+In+Ear%E3%81%AFiPhone%E3%81%A7%E3%82%82%E4%BD%BF%E3%81%88%E3%82%8B%E3%81%8C%EF%BD%A5%EF%BD%A5%EF..."
+slug: "863d017d-8108-4b30-b39d-7ae2ec3acdbc"
 ---
 新iPodシリーズとともに発表された[Apple In-Ear Headphones with Remote and Mic](http://store.apple.com/jp/product/MA850G/A?mco=Mjg3OTcwOQ)。２つのドライバを使い、マイク付きのヘッドフォンが１万円程度で販売されるとあって、注目している商品のひとつだったんですが、発売がとても遅れています。
 

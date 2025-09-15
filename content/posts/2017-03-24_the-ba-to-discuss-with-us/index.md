@@ -4,7 +4,7 @@ description: 本格的に"アジャイル"に向き合い始めて随分時間�
 date: '2017-03-24T04:56:34.861Z'
 categories: []
 keywords: []
-slug: The+Ba%28%E5%A0%B4%29+to+discuss+with+us
+slug: "1387027f-114b-49d7-bcaf-2b42aecdbfe3"
 ---
 本格的に"アジャイル"に向き合い始めて随分時間が経った。アジャイルといっても、アジャイル実践ではなく、アジャイルを広める活動のことだ。
 

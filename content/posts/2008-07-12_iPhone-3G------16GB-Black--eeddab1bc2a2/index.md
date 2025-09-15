@@ -4,7 +4,7 @@ description: 本当はMobileMeやら iPhone OS 2.0を入れたiPod…
 date: '2008-07-12T13:02:09.000Z'
 categories: []
 keywords: []
-slug: iPhone+3G+%E8%B3%BC%E5%85%A5%E8%A8%98+%2816GB+Black%29
+slug: "14557ae1-fa50-4992-ba51-271ca8b94cb6"
 ---
 本当はMobileMeやら iPhone OS 2.0を入れたiPod Touchやらのレビュー記事を先に書きたかったんですが、MobileMeはいつまでたってもメンテナンスから復帰しなくて、復帰した現在もすべての作業が完了したかどうかが分からずという状況でレビューを書いていいか分からず、iPod Touch formware 2.0はいつリリースされるのかも分からない状況で困っています。
 

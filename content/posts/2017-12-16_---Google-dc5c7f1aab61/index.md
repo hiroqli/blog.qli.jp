@@ -5,7 +5,7 @@ description: Google Home miniを入手しました。Amazon Echo Dotと入れ替
 date: '2017-12-16T11:42:25.990Z'
 categories: []
 keywords: []
-slug: "%E3%81%AD%E3%81%87%E3%80%81Google"
+slug: "fa4d027a-bab5-43a3-a6fc-76e199f176b6"
 ---
 Google Home miniを入手しました。Amazon Echo Dotと入れ替える形で設置しました。au回線をずっと契約して行くと最近au wallet ポイントが勝手に溜まるのですが、それで支払ったので、実質費用はかかっていません。
 

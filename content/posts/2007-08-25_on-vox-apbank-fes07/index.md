@@ -4,7 +4,7 @@ description: ''
 date: '2007-08-25T17:09:34.000Z'
 categories: []
 keywords: []
-slug: On+Vox%3A+%E5%88%A5%E5%86%8A%E3%82%AB%E3%83%89%E3%82%AB%E3%83%AF+apbank+fes%E2%80%9907%E7%89%B9%E9%9B%86%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A0
+slug: "978476ac-da15-4856-90f7-8c10490ee322"
 ---
 [別冊カドカワ(総力特集)ap bank fes’07―音楽が地球のためにできること。 (カドカワムック 258)](http://qli.vox.com/library/book/6a00c225200a1d549d00e398a107af0002.html "別冊カドカワ(総力特集)ap bank fes’07―音楽が地球のためにできること。 (カドカワムック 258)")
 

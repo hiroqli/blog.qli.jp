@@ -4,7 +4,7 @@ description: ''
 date: '2006-11-25T09:46:17.000Z'
 categories: []
 keywords: []
-slug: "%E3%82%BF%E3%82%A4%E3%83%A8%E3%82%A6%E3%81%AE%E3%81%86%E3%81%9F"
+slug: "92964cc1-5287-4efd-b7db-60e4943ef5c7"
 ---
 [タイヨウのうた スタンダード・エディション](http://www.amazon.co.jp/exec/obidos/ASIN/B000I8OB3Q/sixapart-vox1-22 "タイヨウのうた スタンダード・エディション")
 

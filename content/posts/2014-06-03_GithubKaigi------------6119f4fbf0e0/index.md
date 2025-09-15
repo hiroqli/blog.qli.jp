@@ -4,7 +4,7 @@ description: ''
 date: '2014-06-03T00:38:05.000Z'
 categories: []
 keywords: []
-slug: GithubKaigi+%E3%81%AF%E3%81%A8%E3%81%A6%E3%82%82%E3%81%84%E3%81%84%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88
+slug: "8cfb01b7-13ba-4518-b252-05848bd92df3"
 ---
 6月1日に GithubKaigi に参加してきました。というわけで、空気を読んで、感想でも書き残しておきます。
 

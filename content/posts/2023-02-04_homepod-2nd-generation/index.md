@@ -4,7 +4,7 @@ description: ''
 date: '2023-02-04T03:09:35.576Z'
 categories: []
 keywords: []
-slug: HomePod+2nd+Generation+%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3
+slug: "91d12992-6ec8-4b9e-b117-ca0e44e9a9b0"
 ---
 HomePod（第二世代）のステレオペアに差し替えしました。いろんな意見があるようですが、端的に言えば、自分は買い替えてよかったと思っています。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2009-06-20T22:24:20.000Z'
 categories: []
 keywords: []
-slug: Twitter+%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3
+slug: "6e3e75d5-e438-4e9e-bc94-f6c96b5897a3"
 ---
 ふらっと目にした記事なのだけど、琴線に触れたので簡単に。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2007-12-15T23:57:16.000Z'
 categories: []
 keywords: []
-slug: Google%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AB%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E6%A9%9F%E8%83%BD%E3%82%92%E8%BF%BD%E5%8A%A0
+slug: "ca05853e-f206-4f4b-8b20-c5d658e64e98"
 ---
 つい先日Googleリーダーが正式版となり、国際化しましたが、実はかねてよりGoogleのウワサでは、GmailやGoogleリーダーといったものをソーシャル化、つまり他の人とのつながりを持たせる機能を付加するのではないかとの憶測が出回っていました。
 

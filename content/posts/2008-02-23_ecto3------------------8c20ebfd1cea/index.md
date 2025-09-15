@@ -4,7 +4,7 @@ description: ''
 date: '2008-02-23T22:36:32.000Z'
 categories: []
 keywords: []
-slug: ecto3+%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88%E3%81%8C%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E5%8F%AF%E8%83%BD%E3%81%A7%E3%81%99%E3%80%82
+slug: "88bab900-5443-4a4c-a557-27ff34558fd9"
 ---
 先日の下記の書き込みの続きです。
 

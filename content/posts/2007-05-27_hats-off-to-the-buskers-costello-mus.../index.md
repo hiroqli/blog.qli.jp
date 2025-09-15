@@ -4,7 +4,7 @@ description: ''
 date: '2007-05-27T21:20:34.000Z'
 categories: []
 keywords: []
-slug: Hats+Off+To+The+Buskers%2C+Costello+Music%2C+These+Things+Move+In+Threes
+slug: "b7374f40-6559-4e34-8a7f-4b6e6458120b"
 ---
 Twitterのおかげで「ブログ記事にまでふくらますちょっとしたアイデア」がtwitterに流れていって記事になっていない気がします。
 

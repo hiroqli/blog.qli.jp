@@ -4,7 +4,7 @@ description: ''
 date: '2013-03-16T10:28:01.000Z'
 categories: []
 keywords: []
-slug: "%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A%E6%B8%8B%E8%B0%B7%E9%A7%85%E3%83%9B%E3%83%BC%E3%83%A0%E5%9C%B0%E4%B8%8B%E5%8C%96%E3%81%AB%E6%B7%BB%E3..."
+slug: "76bb9e8f-6ed0-4c4f-8afb-f53a80756876"
 ---
 東急東横線渋谷駅のホームが今日から地下に潜った。地上2階から地下5階への大移動。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2012-01-21T11:37:35.000Z'
 categories: []
 keywords: []
-slug: Apple%E3%81%8C%E6%95%99%E7%A7%91%E6%9B%B8%E3%82%92%E5%86%8D%E5%AE%9A%E7%BE%A9
+slug: "6fd298a4-394b-4939-82e0-cb55118ac2a8"
 ---
 Appleがイベントを行い、教科書を再定義したことを発表しました（[公式プレスリリース](http://www.apple.com/jp/pr/library/2012/01/19Apple-Reinvents-Textbooks-with-iBooks-2-for-iPad.html)）。といっても、まずはアメリカ国内のみに注力しているというのはいつもどおり。
 

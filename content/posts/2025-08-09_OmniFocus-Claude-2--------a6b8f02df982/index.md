@@ -4,7 +4,7 @@ description: ''
 date: '2025-08-09T03:01:47.953Z'
 categories: []
 keywords: []
-slug: OmniFocus%E3%81%A8Claude%E3%82%922%E3%83%B6%E6%9C%88%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%A6
+slug: "f24bdf02-b8ec-4d1a-a32b-37e021fd8b51"
 ---
 OmniFocus-mcpについて最初に書いてから2ヶ月くらい経ちました。本格的に使ってみようと思って、Claude Proを使っています。
 

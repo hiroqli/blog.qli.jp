@@ -4,7 +4,7 @@ description: ''
 date: '2010-05-14T08:23:19.000Z'
 categories: []
 keywords: []
-slug: "%E6%96%B0%E3%81%97%E3%81%84MobileMe+Mail%E3%81%AE%E7%99%BB%E5%A0%B4%E3%81%A7%E3%81%99"
+slug: "73811c98-29d2-4e6a-9b52-cb48171a7cf6"
 ---
 昨日突然発表されたのが、MobileMeの新しいMailインターフェイス（ベータ版）。設定画面を英語にして、MobileMe Mailの画面を表示させると左下に invite ボタンがあったので申し込んでみたのですが、すると今日の朝にはすでに使える状態になっていました。
 

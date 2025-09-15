@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-06T12:38:00.000Z'
 categories: []
 keywords: []
-slug: "%3E+Armchair+travel+with+Google+Pack"
+slug: "66c9031b-b2cd-4ae7-ab23-15143e80e945"
 ---
 全国のgoogle crazyが待望していたgoogle pack 日本語版が登場です。
 

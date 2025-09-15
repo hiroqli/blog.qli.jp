@@ -4,7 +4,7 @@ description: ''
 date: '2008-02-13T21:20:50.000Z'
 categories: []
 keywords: []
-slug: Firefox+3+beta+3%E3%81%8C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82
+slug: "99f3bee4-5ab3-4357-8d70-9c2158160800"
 ---
 Firefoxの次世代版であるFirefox 3のベータ版がリリースされました。
 

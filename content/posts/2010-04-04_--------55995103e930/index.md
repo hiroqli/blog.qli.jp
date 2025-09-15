@@ -4,7 +4,7 @@ description: ''
 date: '2010-04-04T03:18:27.000Z'
 categories: []
 keywords: []
-slug: "%E6%98%A0%E7%94%BB+%E3%82%BD%E3%83%A9%E3%83%8B%E3%83%B3"
+slug: "ac53979c-5883-49f7-98f1-67af8c06c9f5"
 ---
 “ソラニン”を見た。   
 [http://solanin-movie.jp/](http://solanin-movie.jp/)

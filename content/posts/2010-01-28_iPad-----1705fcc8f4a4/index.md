@@ -4,7 +4,7 @@ description: ''
 date: '2010-01-28T21:21:16.000Z'
 categories: []
 keywords: []
-slug: iPad%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B
+slug: "e7f2ddbe-92a0-45af-86cb-dc7ae7b55b20"
 ---
 「時間に余裕があって、ふっとカフェに行ったとき、あなたはカバンから何を取り出しますか？」
 

@@ -4,7 +4,7 @@ description: ''
 date: '2008-11-13T00:09:10.000Z'
 categories: []
 keywords: []
-slug: "%E7%A7%BB%E8%A1%8C%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B"
+slug: "f2f6c32c-9e50-45b0-84c4-832780a253cb"
 ---
 突然ですが「きゅーり.jp」は移行しました。
 

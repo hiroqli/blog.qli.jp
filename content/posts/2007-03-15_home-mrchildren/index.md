@@ -4,7 +4,7 @@ description: ''
 date: '2007-03-15T13:04:20.000Z'
 categories: []
 keywords: []
-slug: HOME+%3A+Mr%2EChildren%2C+%E8%8C%9C%E7%A9%BA+%3A+%E3%83%AC%E3%83%9F%E3%82%AA%E3%83%AD%E3%83%A1%E3%83%B3
+slug: "c14743e0-2d95-4d74-877e-25f93b9a31c8"
 ---
 AmazonからHOMEが送られてきた。佐川急便のメール便って都内輸送でも丸二日かかるみたいね。たぶん、発売日に「お急ぎ便」で頼んだのと同じタイミングで到着したのでは？
 

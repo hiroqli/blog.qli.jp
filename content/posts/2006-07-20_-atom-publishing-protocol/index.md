@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-20T09:22:07.000Z'
 categories: []
 keywords: []
-slug: "%E6%A8%99%E6%BA%96%E5%8C%96%E6%81%90%E3%82%8B%E3%81%B9%E3%81%97+%3A+Atom+publishing+protocol"
+slug: "2d550496-4b8d-4593-972a-9dd9c1294a94"
 ---
 興味があって、というか”息抜きの”(←ここ重要)ネットをしてたら、microformats wikiにたどり着いた。そこには[hatom](http://microformats.org/wiki/hatom "hatom - Microformats")なるものがあった。  
   

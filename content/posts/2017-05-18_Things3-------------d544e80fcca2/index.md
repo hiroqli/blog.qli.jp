@@ -4,7 +4,7 @@ description: Finally!
 date: '2017-05-18T15:05:16.216Z'
 categories: []
 keywords: []
-slug: Things3+%E3%81%8C%E3%81%A4%E3%81%84%E3%81%AB%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%95%E3%82%8C%E3%81%9F
+slug: "cf0990fc-987c-4378-bbf9-9d8bf85395fa"
 ---
 ![](1__PI4cdEvuyD7u3JA6RPnyVg.png)
 

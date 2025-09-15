@@ -4,7 +4,7 @@ description: ''
 date: '2007-01-25T09:03:36.000Z'
 categories: []
 keywords: []
-slug: QuietPoint%E8%A9%A6%E7%94%A8%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F
+slug: "3c48ec71-a192-4ad0-83ec-08e3fb861439"
 ---
 ついに発売日が発表されたオーディオテクニカのNCヘッドフォンですが、試用レビューがのっていました。
 

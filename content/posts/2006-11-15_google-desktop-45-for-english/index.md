@@ -4,7 +4,7 @@ description: ''
 date: '2006-11-15T13:57:36.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%EF%BC%9AGoogle+Desktop+4%2E5+for+English"
+slug: "48b1b049-1ba0-4fba-b304-dd5651b92892"
 ---
 Google Descktop Searchがリフレッシュされました。今回はメジャー級マイナーバージョンアップです。
 

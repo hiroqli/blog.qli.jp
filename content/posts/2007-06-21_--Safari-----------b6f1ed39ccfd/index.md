@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-21T20:44:34.000Z'
 categories: []
 keywords: []
-slug: "%E5%83%95%E3%81%8CSafari%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E7%90%86%E7%94%B1"
+slug: "320391e9-f8d7-4c7f-86fa-a7dd967c8341"
 ---
 Macを使い出して、もう1年以上。最初はこだわってSafariを使っていたのだけど、今は完全にFirefoxに乗り換えてしまいました。
 

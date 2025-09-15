@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-28T12:44:55.000Z'
 categories: []
 keywords: []
-slug: Twitter%E3%81%AFSNS%3F+%E3%83%9F%E3%83%8B%E3%83%96%E3%83%AD%E3%82%B0%3F
+slug: "eb997619-b1d8-459e-a7d6-e4cf91edcd9b"
 ---
 最近、ちょこちょこTwitterの類似品を見かけるようになった。それでもfeed吐いてなかったり、APIがなかったりするので、すでにエコシステムが盛り上がっているTwitterにかなうはずもないのだけど。
 

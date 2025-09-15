@@ -4,7 +4,7 @@ description: ''
 date: '2015-04-18T03:36:20.000Z'
 categories: []
 keywords: []
-slug: "%E6%9C%AC%E3%82%92%E8%B2%B7%E3%81%86%E3%81%A8%E3%81%8D%E3%81%AE%E4%BD%93%E9%A8%93%E3%81%AE%E8%A9%B1"
+slug: "58f06688-42ba-4792-8f82-46218865de5b"
 ---
 本を本屋で買いました。
 

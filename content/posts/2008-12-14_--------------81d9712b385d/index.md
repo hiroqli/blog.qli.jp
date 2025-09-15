@@ -4,7 +4,7 @@ description: ''
 date: '2008-12-14T21:54:49.000Z'
 categories: []
 keywords: []
-slug: "%E5%88%A5%E5%86%8A%E3%82%AB%E3%83%89%E3%82%AB%E3%83%AF+%E5%B0%8F%E6%9E%97%E6%AD%A6%E5%8F%B2%E7%89%B9%E9%9B%86"
+slug: "58cce1cc-12c8-425a-a87b-c9709969f68f"
 ---
 小林武史さんの特集ってことで別冊カドカワを買いました。
 

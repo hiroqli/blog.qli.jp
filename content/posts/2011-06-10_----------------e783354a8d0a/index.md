@@ -4,7 +4,7 @@ description: ''
 date: '2011-06-10T07:56:08.000Z'
 categories: []
 keywords: []
-slug: "%E5%BC%B7%E5%88%B6%E3%82%A2%E3%83%83%E3%83%97%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88"
+slug: "2de2181f-6ece-4ddf-b13b-3789828cd7bf"
 ---
 さきほど、AppleからMobileMeユーザーへの告知メールがきました。それによると、MobileMeは2012年6月30日でサービス停止となるようです。
 

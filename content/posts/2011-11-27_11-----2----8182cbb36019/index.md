@@ -4,7 +4,7 @@ description: ''
 date: '2011-11-27T00:08:18.000Z'
 categories: []
 keywords: []
-slug: 11%E6%9C%88%E3%81%AE%E4%B8%8B%E5%8C%97%E6%B2%A22%E3%83%A9%E3%82%A4%E3%83%96
+slug: "a57bdcfe-e0b2-4dde-95c7-e9afcf93da17"
 ---
 下北沢のライブハウスでのライブを２つここ最近で見てきました。
 

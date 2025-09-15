@@ -4,7 +4,7 @@ description: ''
 date: '2014-10-20T13:09:08.000Z'
 categories: []
 keywords: []
-slug: TDD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E8%AD%B0%E8%AB%96%E3%81%A7%E6%84%9F%E3%81%98%E3%82%8B%E3%81%93%E3%81%A8
+slug: "c62ec8cb-ac10-4cc7-b677-b779a13c1d47"
 ---
 「TDD is dead」以降、TDDの議論が再燃していて、その中で Rspec の使用を見直す動きが一部であるらしい。  
 Twitterのタイムラインとかでつまみ読みしているだけなのだけど、この流れには違和感を覚えることが多い。

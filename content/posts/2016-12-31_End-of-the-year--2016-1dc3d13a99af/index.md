@@ -4,7 +4,7 @@ description: 大晦日ということで今年を振り返ってみる。
 date: '2016-12-31T00:37:08.879Z'
 categories: []
 keywords: []
-slug: End+of+the+year%2C+2016
+slug: "6f8abb41-8560-4d63-8caf-07d63522c175"
 ---
 ![](1__dM4d72EHFcmCzNc24ykEsg.jpeg)
 

@@ -4,7 +4,7 @@ description: ''
 date: '2010-09-18T23:40:41.000Z'
 categories: []
 keywords: []
-slug: RSS%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%A8iPad
+slug: "1688f69e-a21a-4aa5-b1fd-3af8bf10d57e"
 ---
 Bloglinesというサービスが閉鎖することが先日発表されて、TwitterをはじめとしてWEBで驚きの声が上がってましたね。もしかするとBloglinesというサービスは使ったことがない人も多いのかもしれないけれども、自分も今使っているGoogleリーダーを使う前に使っていたサービスです。
 

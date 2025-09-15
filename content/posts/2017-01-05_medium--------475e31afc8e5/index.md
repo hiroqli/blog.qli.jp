@@ -4,7 +4,7 @@ description: "（この投稿はGhostとmediumの両方に投稿されていま�
 date: '2017-01-05T02:44:47.000Z'
 categories: []
 keywords: []
-slug: medium%E3%81%AB%E7%A7%BB%E8%A1%8C%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F
+slug: "420f016d-7e96-4fec-9165-081fe6dcde1c"
 ---
 （この投稿はGhostとmediumの両方に投稿されています)
 

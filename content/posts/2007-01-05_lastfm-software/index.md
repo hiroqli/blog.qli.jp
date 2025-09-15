@@ -4,7 +4,7 @@ description: ''
 date: '2007-01-05T02:10:01.000Z'
 categories: []
 keywords: []
-slug: Last%2Efm+Software+%E8%8B%B1%E8%AA%9E%E7%89%88%E3%81%A7%E3%81%86%E3%81%BE%E3%81%8F%E6%9B%B2%E6%83%85%E5%A0%B1%E3%82%92%E6%B8%A1%E3%81%9B%E3%81%AA%E...
+slug: "fdd1281b-30a8-4cd3-a90b-8c6783eb26df"
 ---
 うーん、今頃になって気づいてしまった…。
 

@@ -4,7 +4,7 @@ description: 'Apple 秋の収穫祭 2020 #2 “High, Speed” が開催されま
 date: '2020-10-16T12:17:28.233Z'
 categories: []
 keywords: []
-slug: 1014+Apple+%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88+%E2%80%9CHigh%2C+Speed%E2%80%9D
+slug: "d80c9030-88fc-4e3d-9d4c-e38c916683ed"
 ---
 Apple 秋の収穫祭 2020 #2 “High, Speed” が開催されました。
 

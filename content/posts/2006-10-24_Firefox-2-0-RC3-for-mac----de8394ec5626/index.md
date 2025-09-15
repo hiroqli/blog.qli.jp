@@ -4,7 +4,7 @@ description: ''
 date: '2006-10-24T22:00:19.000Z'
 categories: []
 keywords: []
-slug: Firefox+2%2E0+RC3+for+mac%E3%82%92%E4%BD%BF%E3%81%86
+slug: "112ee560-a1b8-4439-944e-0bfa7da75419"
 ---
 実は”常用してはいけない”とリリースノートに書いてあるFirefox2.0 RC3を使用しています。明日の６時に正式版リリースですので、一応気づいたことを書いておきます。
 

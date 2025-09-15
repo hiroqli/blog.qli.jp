@@ -4,7 +4,7 @@ description: ''
 date: '2006-08-28T11:54:00.000Z'
 categories: []
 keywords: []
-slug: Google+Apps+for+Your+Domain
+slug: "66089b1a-78c6-4be4-915e-b7b998f01ae8"
 ---
 ついにgoogleがASPモデル/SaaSモデルでのサービスを開始しましたね。広告モデルのみからの脱却があるのかどうかが1つの注目点ですね。
 

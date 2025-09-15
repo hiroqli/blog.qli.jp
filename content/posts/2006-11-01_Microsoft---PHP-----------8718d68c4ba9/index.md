@@ -4,7 +4,7 @@ description: ''
 date: '2006-11-01T08:47:42.000Z'
 categories: []
 keywords: []
-slug: Microsoft+%2B+PHP%E3%81%AE%E3%82%B3%E3%83%A9%E3%83%9C%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%9F
+slug: "31921e69-a30d-4ece-9e4c-f718833fdd6d"
 ---
 MicrosoftとZend(PHPのコア部分となるZend Engine開発元)が提携するそうです。これはかなり大きな出来事です。PHPはおそらくインタプリタ言語の中での存在感を増していくだろうし、Microsoftも軽量、手軽なプログラム言語を主軸にしていくことで幅広い展開が出来るだろうから。
 

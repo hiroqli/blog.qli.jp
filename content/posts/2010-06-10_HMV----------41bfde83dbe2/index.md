@@ -4,7 +4,7 @@ description: ''
 date: '2010-06-10T22:19:10.000Z'
 categories: []
 keywords: []
-slug: HMV+%E6%B8%8B%E8%B0%B7%E3%81%AE%E9%96%89%E5%BA%97%E3%81%AE%E8%A1%9D%E6%92%83
+slug: "08df042b-7e54-40be-8d9f-e387c2151305"
 ---
 「HMV渋谷が閉店するらしいよ」
 

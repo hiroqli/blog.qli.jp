@@ -4,7 +4,7 @@ description: ''
 date: '2006-11-06T00:40:16.000Z'
 categories: []
 keywords: []
-slug: iPod+Shuffle+2G%E3%82%92%E8%B2%B7%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F
+slug: "dfc5d033-5d36-4909-9b9c-0e960e91153b"
 ---
 昨日(日付的には一昨日ですか)に、早速iPod Shuffle 2Gを買いました。iPod nano Product REDもそうですが、最近のAppleはずいぶん在庫を準備して発売することにしたんでしょうかね。バカ売れしていそうですが、ずいぶん在庫がある様子でした。
 

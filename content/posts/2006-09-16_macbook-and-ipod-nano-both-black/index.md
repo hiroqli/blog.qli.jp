@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-16T20:55:35.000Z'
 categories: []
 keywords: []
-slug: MacBook+and+iPod+nano+%28+Both+Black%29
+slug: "d2357cb3-61e6-474f-a86c-a4a002932a64"
 ---
 iPod nano のBlackだけ容量が大きいのは、MacBookと同じで”スペシャル”の意味があるんでしょうかね。そういえば今回のBlackの色はMacbook Blackの色と合わせて作られているのだとか( via [ITmedia](http://plusd.itmedia.co.jp/lifestyle/articles/0609/16/news002.html))。そこまでしてもらえるのであれば、ぜひUSBケーブルとかDockとかもBlackを作って欲しいなって思っちゃいますね。
 

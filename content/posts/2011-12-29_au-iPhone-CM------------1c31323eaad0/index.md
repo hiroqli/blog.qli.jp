@@ -4,7 +4,7 @@ description: ''
 date: '2011-12-29T09:05:59.000Z'
 categories: []
 keywords: []
-slug: au+iPhone+CM+%E3%80%8C%E3%82%82%E3%81%A3%E3%81%A8%E3%81%A4%E3%81%AA%E3%81%8C%E3%82%8A%E3%82%92%E3%80%8D
+slug: "8f4687d5-9f19-4bbd-98ad-42c90533d886"
 ---
 auがiPhoneを使ったCMを公開していました([KDDIアドギャラリー](http://www.kddi.com/ad/index.html?bid=we_au_pn_0046#/cm/iphone/motto_tsunagariwo/))。
 

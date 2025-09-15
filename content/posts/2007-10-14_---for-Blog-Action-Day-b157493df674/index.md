@@ -4,7 +4,7 @@ description: ''
 date: '2007-10-14T23:13:56.000Z'
 categories: []
 keywords: []
-slug: "%E7%92%B0%E5%A2%83+for+Blog+Action+Day"
+slug: "49005125-45da-47bb-bda6-599d104786d2"
 ---
 今日はBlog Action Dayということで、テーマ「環境」について。
 

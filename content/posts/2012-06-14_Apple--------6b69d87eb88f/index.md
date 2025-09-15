@@ -4,7 +4,7 @@ description: ''
 date: '2012-06-14T21:34:13.000Z'
 categories: []
 keywords: []
-slug: Apple%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AE%E6%86%82%E9%AC%B1
+slug: "d9d4a82d-3e57-48ae-974c-54d2e82ef9ab"
 ---
 WWDC2012キーノートから数日。多くの熱狂的なAppleユーザーから聞こえるため息
 

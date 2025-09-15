@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-26T22:07:41.000Z'
 categories: []
 keywords: []
-slug: W61SA%E3%81%A8W61S%E3%82%92%E8%A7%A6%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F
+slug: "8da18241-d138-4144-880d-3bd1db953dec"
 ---
 渋谷に行ったついでにW61SAとW61Sを触ってきました。といっても、モックですけど。
 

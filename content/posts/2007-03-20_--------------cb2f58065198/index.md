@@ -4,7 +4,7 @@ description: ''
 date: '2007-03-20T19:03:28.000Z'
 categories: []
 keywords: []
-slug: "%E3%82%AE%E3%83%BC%E3%82%AF%E3%81%8C%E6%9C%9B%E3%82%80%E8%81%B7%E5%A0%B4%E7%92%B0%E5%A2%83%E3%81%A8%E3%81%AF%EF%BC%9F"
+slug: "1be594d2-07a9-4ddb-ab17-c6df9f705f5b"
 ---
 なかなかおもしろかったので取り上げてみる。
 

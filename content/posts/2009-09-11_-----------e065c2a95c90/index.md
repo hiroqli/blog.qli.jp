@@ -4,7 +4,7 @@ description: ''
 date: '2009-09-11T08:21:53.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%AD%E3%83%83%E3%82%AF%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%AB%E3%81%A0%E3%81%91%EF%BC%9F"
+slug: "46cce0ee-7b16-4dd3-96da-14d93bc3e9a1"
 ---
 遅くなりましたが、現地時間10月9日10時からAppleがメディアイベント”It’s only rock and roll, but we like it.”を行い、iPodそしてiTunes9を発表しました。簡単にまとめると次の通り：
 

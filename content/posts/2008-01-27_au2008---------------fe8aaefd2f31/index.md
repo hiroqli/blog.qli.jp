@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-27T11:16:51.000Z'
 categories: []
 keywords: []
-slug: au2008%E5%B9%B4%E6%98%A5%E3%83%A2%E3%83%87%E3%83%AB%E7%99%BA%E8%A1%A8%E4%BC%9A%E3%81%8C%E3%82%82%E3%81%86%E3%81%99%E3%81%90%EF%BC%81
+slug: "96b91662-7b1e-48a3-b44c-5a018fb955de"
 ---
 最近のトピックとしては、MacBook AirのCM解禁、OSX10.5.2リリース間近、MacBook Proモデルチェンジのウワサ、とApple関連が多いのですが、ふと足下を見てみると、いよいよ明日、auの春モデル発表会があったりします。
 

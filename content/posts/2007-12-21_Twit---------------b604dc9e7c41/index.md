@@ -4,7 +4,7 @@ description: ''
 date: '2007-12-21T22:12:11.000Z'
 categories: []
 keywords: []
-slug: Twit%E3%81%8C%E7%AA%93%E3%81%AE%E6%9D%9C%E9%87%91%E8%B3%9E%E3%82%92%E5%8F%97%E8%B3%9E%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F
+slug: "784b84e4-c6f1-4380-8227-c227dd0244ff"
 ---
 今年1年のWEBサービスを振り返れば、もうtwitterしかないといっても言い過ぎではないと思いますが、先日ソフトウェアカタログである窓の杜にて毎年恒例の窓の杜大賞が行われて、Windows用Twitterクライアントである[Twit](http://cheebow.info/chemt/archives/2007/04/twitterwindowst.html)が窓の杜金賞を受賞されました。おめでとうございます！
 

@@ -4,7 +4,7 @@ description: ''
 date: '2008-05-06T08:47:43.000Z'
 categories: []
 keywords: []
-slug: Google+Reader%E3%81%AEShared%E6%A9%9F%E8%83%BD%E3%81%8C%E5%BC%B7%E5%8C%96%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F
+slug: "b95bae2c-755a-4dd8-9cb6-4c39688d6150"
 ---
 Google Readerに新機能が追加されました。追加された機能は全部で３点。順を追って見ていきたいと思います。
 

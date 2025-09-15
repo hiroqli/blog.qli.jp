@@ -4,7 +4,7 @@ description: ''
 date: '2008-08-15T14:25:44.000Z'
 categories: []
 keywords: []
-slug: Blog+Action+Day+2008
+slug: "51dcd01d-0046-483a-968b-53a7e6568537"
 ---
 今年も[Blog Action Day](http://blogactionday.org/)を行うことが決定したそうです。昨年は”環境”をテーマにさまざまな記事が書かれました。もちろんこのブログも参加してみました。
 

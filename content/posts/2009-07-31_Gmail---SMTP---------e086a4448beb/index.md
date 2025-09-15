@@ -4,7 +4,7 @@ description: ''
 date: '2009-07-31T23:03:33.000Z'
 categories: []
 keywords: []
-slug: Gmail%E3%81%8C%E5%A4%96%E9%83%A8SMTP%E3%82%B5%E3%83%BC%E3%83%90%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88
+slug: "0dc0cd33-ee10-4c94-a5af-43f5789eac48"
 ---
 意外に話題にならないようなのですが、Gmailが外部のSMTPサーバをサポートしました。([Gmail blog](http://gmailblog.blogspot.com/2009/07/send-mail-from-another-address-without.html))
 

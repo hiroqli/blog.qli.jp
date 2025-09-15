@@ -4,7 +4,7 @@ description: TwitterでAirPodsが発売されているニュースを見てす�
 date: '2016-12-20T11:15:21.444Z'
 categories: []
 keywords: []
-slug: AirPods%E3%81%AE%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3
+slug: "7432fa9d-2a7b-4ea8-8391-1c5e6daf1e81"
 ---
 TwitterでAirPodsが発売されているニュースを見てすぐに注文したAirPodsが届いたのが12月19日。なんとかクリスマスには間に合った格好だ。12月19日にはApple Store店頭で発売され、行列までできて完売したとのこと。ただしネット注文組第２弾にはすでに配送が行われているらしい。
 

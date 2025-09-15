@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-02T11:09:48.000Z'
 categories: []
 keywords: []
-slug: "%E3%81%9D%E3%82%93%E3%81%AA%E3%81%AB%E5%8F%A3%E3%82%B3%E3%83%9F%E3%81%8C%E4%BF%A1%E9%A0%BC%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%EF%BC%9F"
+slug: "aee5b02b-5e6c-474e-bb99-f51507432f0b"
 ---
 興味深い記事があったのでエントリー。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-08T16:58:30.000Z'
 categories: []
 keywords: []
-slug: Twitter%E3%81%AF%E3%81%9F%E3%81%B6%E3%82%93%E4%BD%95%E4%B8%87%E3%83%89%E3%83%AB%E3%81%8B%E3%81%AE%E6%90%8D%E5%A4%B1%E3%82%92%E7%94%9F%E3%82%93%E3%8...
+slug: "1a6d2665-c7d5-49dd-83bd-ecb9f2b343b8"
 ---
 caramel\*vanillaで日本語のtwitterツールが紹介されていました。lomoさんとはネット上で話したこともないはず（だけどわりとチェックしてますし、MyBloglogでもお見かけします)
 

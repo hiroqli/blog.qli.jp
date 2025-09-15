@@ -4,7 +4,7 @@ description: ''
 date: '2008-12-13T00:13:46.000Z'
 categories: []
 keywords: []
-slug: SUPERMARKET+FANTASY+%3A+Mr%2EChildren
+slug: "19ffb036-e30a-4a10-8f7c-97843ed96fe5"
 ---
 Supermarket Fantasy。ジャケットはこれまでと同じ森本千絵さんの作品ながら、ピンク色でキラキラしていて、度肝を抜かされました。
 

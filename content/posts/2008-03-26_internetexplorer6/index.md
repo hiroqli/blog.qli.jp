@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-26T12:01:16.000Z'
 categories: []
 keywords: []
-slug: InternetExplorer6%E3%82%92%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%AF%E5%8D%B3%E5%88%BB%E5%81%9C%E6%AD%A2%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%...
+slug: "33e23610-9413-40e7-b46c-0c7ddfd897b8"
 ---
 かの諸悪の根源、InternetExplorer6(およびそれ以前)を使うのをやめてくださいというキャンペーン。
 

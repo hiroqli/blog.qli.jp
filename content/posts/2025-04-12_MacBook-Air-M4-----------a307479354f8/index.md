@@ -4,7 +4,7 @@ description: ''
 date: '2025-04-12T03:02:50.369Z'
 categories: []
 keywords: []
-slug: MacBook+Air+M4+%E3%81%AB%E3%82%A2%E3%83%83%E3%83%95%E3%82%9A%E3%83%86%E3%82%99%E3%83%BC%E3%83%88
+slug: "37c542b6-be4c-4350-822e-bc7770192cc2"
 ---
 ![](1__eN1Hw8yrcM2fTDS7Nl1eAg.png)
 

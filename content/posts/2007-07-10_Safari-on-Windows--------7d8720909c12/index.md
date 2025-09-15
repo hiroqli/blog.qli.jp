@@ -4,7 +4,7 @@ description: ''
 date: '2007-07-10T09:21:17.000Z'
 categories: []
 keywords: []
-slug: Safari+on+Windows%E3%81%AE%E6%96%87%E5%AD%97%E5%8C%96%E3%81%91%E5%95%8F%E9%A1%8C
+slug: "ccc5a161-8191-475f-9eb1-7a6a1add76e9"
 ---
 たびたび取り上げてきたSafari 3.0.2 on Windows XPでの文字化けに関する情報。どうやらMSがリリースしているJIS2004対応パッチが良くなかったらしい。このJIS2004対応パッチ、XPとVistaの文字コードの違いをXP側で吸収するために作られた親切なものなのだけど、これが仇に。
 

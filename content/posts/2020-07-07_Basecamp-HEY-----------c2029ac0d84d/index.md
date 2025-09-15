@@ -4,7 +4,7 @@ description: Basecampが用意している HEYのTour featuresをきちんと読
 date: '2020-07-07T13:22:52.425Z'
 categories: []
 keywords: []
-slug: Basecamp%E3%81%8CHEY%E3%81%A7%E8%A7%A3%E6%B1%BA%E3%81%97%E3%81%9F%E3%81%84%E8%AA%B2%E9%A1%8C%E3%81%A8%E3%81%AF
+slug: "63c4c74f-a6e7-4420-941b-5defc93f5e47"
 ---
 Basecampが用意している HEYのTour featuresをきちんと読んでおこうと思いまして。だったらついでにブログに雑にまとめていこうと、そういう趣旨の記事です。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2006-08-29T23:55:44.000Z'
 categories: []
 keywords: []
-slug: ITmedia+Biz%2EID%EF%BC%9APDA%E3%80%81%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F
+slug: "859ac964-d45b-40d8-ae5a-342f61c63652"
 ---
 早めに寝ようと思うとこういうのを発見してしまうんだな。
 

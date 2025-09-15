@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-22T21:02:07.000Z'
 categories: []
 keywords: []
-slug: Windows+XP%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB
+slug: "fcfa4359-bf97-4026-8e76-7b3d358789db"
 ---
 今日は思い立ってWindowsのクリーンインストールをしてみました。単なるクリーンインストールではなく、もともと２年前に旧規格の寄せ集めで作ったマシンだったので、思い切って今の最新システムとアップグレードさせてみました。  
 なので、今のWindowsマシンは、Intel Core 2 Duo + nVidia 7600GT というシステムになっています。（旧マシンは AthlonXP + nVidia 6600GT AGP)

@@ -4,7 +4,7 @@ description: 今やるべきタスクを教えてくれる相棒として、Thin
 date: '2018-09-11T14:05:31.327Z'
 categories: []
 keywords: []
-slug: OmniFocus+3+%E3%81%AF%E3%82%B9%E3%83%88%E3%83%AC%E3%82%B9%E3%83%95%E3%83%AA%E3%83%BC%E3%81%AA%E3%82%BF%E3%82%B9%E3%82%AF%E3%83%84%E3%83%BC%E3%83%AB
+slug: "1a3efb37-a936-46e5-8ec0-4abae71d00ae"
 ---
 今やるべきタスクを教えてくれる相棒として、Things を使っていましたが、最近はOmniFocus 3が中心となっています。
 

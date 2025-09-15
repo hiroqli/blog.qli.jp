@@ -4,7 +4,7 @@ description: WWDC2017 Keynoteで発表された、macOS High Sierra。早速Appl
 date: '2017-06-07T13:58:10.555Z'
 categories: []
 keywords: []
-slug: High+Sierra+%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+%E3%81%A7%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%93%E3%81%A8
+slug: "e8416744-6ce0-4181-8da6-3d8ab10de4d4"
 ---
 WWDC2017 Keynoteで発表された、macOS High Sierra。早速Appleのサイトにプロモページが立ち上がりました。
 

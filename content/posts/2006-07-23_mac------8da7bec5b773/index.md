@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-23T23:33:44.000Z'
 categories: []
 keywords: []
-slug: mac%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83
+slug: "60ccbb23-d802-4f83-a3ec-c5fb1154a525"
 ---
 久々にectoから書き込み。
 

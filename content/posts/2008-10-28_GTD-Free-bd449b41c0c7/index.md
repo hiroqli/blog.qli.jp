@@ -4,7 +4,7 @@ description: ''
 date: '2008-10-28T22:50:07.000Z'
 categories: []
 keywords: []
-slug: GTD+Free
+slug: "7a8e33ea-5da0-4b86-8b65-2caeea860449"
 ---
 日本語版が始まったのになかなかここで取り上げなかったライフハッカーですが、面白いツールが発表されていました。
 

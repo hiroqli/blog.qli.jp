@@ -4,7 +4,7 @@ description: ''
 date: '2012-02-22T12:10:33.000Z'
 categories: []
 keywords: []
-slug: iTunes+Store+Japan+%E3%81%8C%E5%A4%A7%E3%81%8D%E3%81%AA%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E...
+slug: "571eed3e-bd1f-4470-91e5-3b3ee6ca8f33"
 ---
 iTunes Store Japanがサイレントアップデートを行いました。詳細は[AppleWebサイト](http://www.apple.com/jp/itunes/whats-new/)にてまとめられています。
 

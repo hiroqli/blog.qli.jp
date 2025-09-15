@@ -4,7 +4,7 @@ description: ''
 date: '2006-11-05T16:35:06.000Z'
 categories: []
 keywords: []
-slug: 1%E8%A8%98%E4%BA%8B%EF%BC%9D1%E3%83%88%E3%83%94%E3%83%83%E3%82%AF
+slug: "85204c50-c702-4575-922a-1a0497ddb4b8"
 ---
 とある場所でブログを売り込むきっかけがあった。  
   

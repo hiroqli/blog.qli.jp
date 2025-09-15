@@ -4,7 +4,7 @@ description: ''
 date: '2009-09-06T08:44:58.000Z'
 categories: []
 keywords: []
-slug: iTunes+%E3%81%8C%E7%86%B1%E3%82%92%E5%B8%AF%E3%81%B3%E3%81%A6%E3%81%8D%E3%81%9F
+slug: "627fea9e-6401-41c4-bc0b-445ad77aa4e9"
 ---
 いよいよ今週に迫ってきたAppleのメディアイベント。iPodよりもどうやらiTunesに注目が集まっているようです。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2014-04-29T09:15:36.000Z'
 categories: []
 keywords: []
-slug: "%E6%9C%AC+%E3%80%8C%E8%A1%8C%E5%8B%95%E8%A6%B3%E5%AF%9F%E3%80%8D%E3%81%AE%E5%9F%BA%E6%9C%AC+%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7"
+slug: "490deef0-1b2f-4eac-9a9d-df6cc330dea2"
 ---
 「行動観察」の基本、という本を読みました。
 

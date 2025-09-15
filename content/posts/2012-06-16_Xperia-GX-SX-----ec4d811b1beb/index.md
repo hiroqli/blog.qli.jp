@@ -4,7 +4,7 @@ description: ''
 date: '2012-06-16T21:52:52.000Z'
 categories: []
 keywords: []
-slug: Xperia+GX-SX+%E4%BD%93%E9%A8%93%E4%BC%9A
+slug: "521fcb66-8716-41db-882f-a46342168546"
 ---
 銀座ソニービルでXperia GX/SXの先行体験会をやっているということで、行ってきました。例によって写真はないんですけどね。
 

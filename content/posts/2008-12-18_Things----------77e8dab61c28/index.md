@@ -4,7 +4,7 @@ description: ''
 date: '2008-12-18T00:04:50.000Z'
 categories: []
 keywords: []
-slug: Things%E3%82%92%E5%B8%B8%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F
+slug: "69e45051-f1b0-4c0a-85fe-318f31d75999"
 ---
 普段のやることリストにはOmniFocusをMac版・iPhone版を使っているのですが、先日思い切ってThingsだけで生活してみました。
 

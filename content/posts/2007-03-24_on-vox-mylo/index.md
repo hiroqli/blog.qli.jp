@@ -4,7 +4,7 @@ description: ''
 date: '2007-03-24T22:07:24.000Z'
 categories: []
 keywords: []
-slug: On+Vox%3A+mylo%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%...
+slug: "057249aa-8cf6-4872-ad7c-f31eb323bda6"
 ---
 myloファンミーティングというものがありまして、行ってきました。昨日当選メール頂いたので。
 

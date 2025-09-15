@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-23T23:56:33.000Z'
 categories: []
 keywords: []
-slug: seesmic%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F
+slug: "a88c9d80-f521-48a4-a123-1877e93d8cb0"
 ---
 今日朝起きたら[seesmic](http://www.seesmic.com/)というところからメールが来ていました。どうやらWEBサービスらしい。invite codeが書いてあったので、登録できるよってことだろうと思いつつ、朝登録し、そのまま会社に行ってました。
 

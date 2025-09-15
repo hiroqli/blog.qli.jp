@@ -4,7 +4,7 @@ description: ''
 date: '2011-10-12T07:32:46.000Z'
 categories: []
 keywords: []
-slug: iCloud+%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%81%A7%E6%B0%97%E3%82%92%E3%81%A4%E3%81%91%E3%81%A6%E3%81%8A%E3%81%8F%E3%81%B9%E3%8...
+slug: "fb58d3da-24f6-46f4-aab2-fc2f63039555"
 ---
 もうすぐiCloudがサービスインします。多くの方はiOS5とiCloudのバックアップ機能で提供されるPC FREEへの期待度が高いのかもしれません。
 

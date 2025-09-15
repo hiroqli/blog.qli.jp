@@ -4,7 +4,7 @@ description: ''
 date: '2008-10-06T13:08:49.000Z'
 categories: []
 keywords: []
-slug: Things+1%2E0+%E3%81%AE%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%97%A5%E3%81%8C%E6%B1%BA%E5%AE%9A
+slug: "bcc36678-ea37-4809-840f-4e0ff3f01f0c"
 ---
 このブログで何度か取り上げた、iPhoneと同期がとれるシンプルなGTDツールである[Things](http://culturedcode.com/things/)のリリース日が2009年1月6日に決定したそうです。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2015-10-17T02:33:20.000Z'
 categories: []
 keywords: []
-slug: "%E3%81%84%E3%82%88%E3%81%84%E3%82%88"
+slug: "b370dedd-08a6-4bce-a601-4f163ee5d5d5"
 ---
 いよいよである。いよいよ、Apple TVがくるはずである。Apple TVが _Late October_ とアナウンスされたのに対し、 _November_ とされた iPad Proも、どうやら _early November_ に来るのではないかと予想されている。
 

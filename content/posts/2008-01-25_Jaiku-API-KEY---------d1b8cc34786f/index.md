@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-25T07:55:00.000Z'
 categories: []
 keywords: []
-slug: Jaiku%E3%81%AEAPI+KEY%E3%81%8C%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E3%81%95%E3%82%8C%E3%81%9F
+slug: "7812b2b1-4679-4726-9835-ed3287aea18d"
 ---
 Jaikuから”API KEY をリセットしたよ”というお知らせがありました。API KEYとはサードパーティのクライアントを使うためのパスワードのようなもの。juhuやjaikurooで書き込みないと思っている方がいたら確認してみてください。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2009-08-25T21:35:24.000Z'
 categories: []
 keywords: []
-slug: Mac+OS+X+10%2E6+Snow+Leopard+Available+This+Friday+and+iPod+Family
+slug: "9263146d-26ae-43b6-8633-317836818cba"
 ---
 さて、ちょっとだけかじられたリンゴの季節がやってきたみたいですね。
 

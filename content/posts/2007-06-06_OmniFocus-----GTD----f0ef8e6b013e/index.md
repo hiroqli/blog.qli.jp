@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-06T23:16:29.000Z'
 categories: []
 keywords: []
-slug: OmniFocus%E3%81%AF%E3%82%AF%E3%83%BC%E3%83%AB%E3%81%AAGTD%E3%83%84%E3%83%BC%E3%83%AB
+slug: "b0a8c368-227e-46fe-9aaa-9a476a7c7452"
 ---
 GTD関係の情報を提供してくれる43Foldersにて Omni Groupが開発中の[OmniFocus](http://www.omnigroup.com/applications/omnifocus/)が紹介されていました。現在ベータ版を限られた人にだけ配布しているようで、使っていないのですが、製品ページにあるデモムービーを見た感じ、これこそ僕個人が求めていたGTDツールだって思いました。
 

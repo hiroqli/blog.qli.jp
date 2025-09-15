@@ -4,7 +4,7 @@ description: 2021年J1も第10節が終わったのでここで振り返りを�
 date: '2021-04-17T08:06:22.430Z'
 categories: []
 keywords: []
-slug: "%E3%82%A2%E3%83%93%E3%82%B9%E3%83%91%E7%A6%8F%E5%B2%A1+%E5%BA%8F%E7%9B%A410%E7%AF%80%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8B"
+slug: "62efb016-0eef-4c10-8714-35d7dcf05193"
 ---
 ![](1__ypfDAanQN69k__ZBr06rXbA.jpeg)
 

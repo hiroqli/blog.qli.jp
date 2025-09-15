@@ -4,7 +4,7 @@ description: ''
 date: '2010-05-22T08:41:45.000Z'
 categories: []
 keywords: []
-slug: "%E3%83%9F%E3%82%B9%E3%83%81%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88+%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB"
+slug: "d194fd4c-910f-491d-b4fb-e6df42e31e46"
 ---
 このブログでもたまに触れている話題ではありますが、このブログを始める以前から[Mr.Children online](http://mrchildren-fan.net/) というミスチルファンサイトをやっていまして、このたびリニューアルしました。というわけで、報告記事を。
 

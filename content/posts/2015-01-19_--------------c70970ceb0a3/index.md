@@ -4,7 +4,7 @@ description: ''
 date: '2015-01-19T12:39:57.000Z'
 categories: []
 keywords: []
-slug: "%E3%82%B8%E3%83%A7%E3%83%8B%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%96%E3%81%AE%E6%9C%AC%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A0"
+slug: "5340c06e-7a8b-49a5-aae1-6d3b63d307f4"
 ---
 Appleのリードデザイナー、ジョナサンアイブについての本を読んだ。
 

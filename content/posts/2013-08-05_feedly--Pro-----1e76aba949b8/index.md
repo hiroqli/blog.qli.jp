@@ -4,7 +4,7 @@ description: ''
 date: '2013-08-05T22:01:47.000Z'
 categories: []
 keywords: []
-slug: feedly%E3%81%AB+Pro+%E3%81%8C%E7%99%BB%E5%A0%B4
+slug: "7a045c1b-fae2-4b24-bf58-89dee1b021f0"
 ---
 Google Reader クロージング祭りで、そのGoogle Readerがあけた穴におさまったのがFeedlyでした。もともとFeedlyはGoogle Readerをデータソースとしたクライアントアプリでしたが、自身でデータソースとクローラーの役割を持つことになり、Google Readerに対応していたサードパーティのクライアントアプリも、Feedlyをデータソースとしたクライアントアプリとなりました。
 

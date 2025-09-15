@@ -4,7 +4,7 @@ description: ''
 date: '2010-04-29T23:44:06.000Z'
 categories: []
 keywords: []
-slug: "%E6%AD%A6%E5%A3%AB%E9%81%93%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3"
+slug: "9dfff9c7-e13c-4b81-b97d-11fca8e6a840"
 ---
 映画 武士道シックスティーンを見た。
 

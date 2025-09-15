@@ -4,7 +4,7 @@ description: ''
 date: '2008-07-04T14:54:28.000Z'
 categories: []
 keywords: []
-slug: "%5B%E7%B5%90%E6%9E%9C%E5%A0%B1%E5%91%8A%5DiPhone%E3%81%AE%E8%B3%BC%E5%85%A5%E3%81%AF%E3%81%A9%E3%81%86%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F"
+slug: "cba9f6e6-5257-4721-bfa6-198817babf3c"
 ---
 Softbank mobileから[iPhoneの詳細ページが公開](http://mb.softbank.jp/mb/iphone/index.html)され、徐々に発売に向けた準備が出来つつありますが、予約出来る/できない、など情報が錯綜しているのも事実。
 

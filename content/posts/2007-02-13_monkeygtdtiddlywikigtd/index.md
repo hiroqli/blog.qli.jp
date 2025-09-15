@@ -4,7 +4,7 @@ description: ''
 date: '2007-02-13T12:20:57.000Z'
 categories: []
 keywords: []
-slug: MonkeyGTD%28tiddlywiki%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AEGTD%E3%83%84%E3%83%BC%E3%83%AB%29
+slug: "0ecd0f01-d320-4749-8665-08d0a2828023"
 ---
 GTDが続きますが、こちらはツールのご紹介。[Tiddlywiki](http://www.tiddlywiki.com/)といえば、[GTDtiddlywiki](http://shared.snapgrid.com/)とかが有名ですが、こちらはそれとはまた別のTiddlywikiベースのGTDツール。
 

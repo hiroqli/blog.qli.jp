@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-23T00:08:44.000Z'
 categories: []
 keywords: []
-slug: Vista+Home+Edition%E3%81%8CMac%E4%B8%8A%E3%81%A7%E5%8B%95%E3%81%8B%E3%81%9B%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B%EF%BC%9F
+slug: "8dc9cd51-991d-434d-878c-59022d5277b6"
 ---
 MacBook Airという選択肢が増え、そしていよいよPenryn搭載MacBook Proの登場も近いらしいというウワサもあがってきて、いよいよノート型Macユーザの方々は”次”のことを考え始めているのではないでしょうか？そういえば今日同僚からMacの質問受けましたよ。うれしい限りです。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2023-10-14T03:01:35.685Z'
 categories: []
 keywords: []
-slug: "%E9%9F%B3%E5%A3%B0%E3%83%86%E3%82%99%E3%83%8F%E3%82%99%E3%82%A4%E3%82%B9%E3%81%AE%E6%8E%A5%E7%B6%9A%E3%81%AF%E3%81%A8%E3%81%A6%E3%82%82%E5%A4%A7%E4..."
+slug: "77d61a35-e4b7-4b17-ae30-e0a4093845d3"
 ---
 先日、Shokz OPENCOMMのレビューを書きました。先日といっても、6月のことでした。
 

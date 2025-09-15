@@ -4,7 +4,7 @@ description: ''
 date: '2013-10-23T20:28:23.000Z'
 categories: []
 keywords: []
-slug: Apple%E3%81%8C%E8%AA%9E%E3%82%8A%E5%B0%BD%E3%81%8F%E3%81%9B%E3%81%AA%E3%81%84%E3%81%BB%E3%81%A9%E8%AA%9E%E3%81%A3%E3%81%9F
+slug: "bf4ab6dd-8f79-4da0-88da-7b1657111257"
 ---
 Appleのメディア発表会が、日本時間23日2am からありました。AppleTVやOS X/iOSのSafari向けに生中継が行われ、AppleTVで見ていました。今回の中継は大きなトラブルもなく安定してみることができました。
 

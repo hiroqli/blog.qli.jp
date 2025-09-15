@@ -4,7 +4,7 @@ description: ''
 date: '2015-04-30T11:00:28.000Z'
 categories: []
 keywords: []
-slug: Apple+Watch%E3%81%A8MacBook%E3%82%92%E6%9C%AC%E6%A0%BC%E4%BD%BF%E7%94%A8%E9%96%8B%E5%A7%8B
+slug: "3833bbeb-38f9-4bd4-8e69-03f54fbc3f22"
 ---
 MacBookの初回Time Machineバックアップも終わり（長かった）、Apple WatchとMacBookともに快適に使っています。
 

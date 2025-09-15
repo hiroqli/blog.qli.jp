@@ -4,7 +4,7 @@ description: ''
 date: '2009-03-18T23:25:02.000Z'
 categories: []
 keywords: []
-slug: iPhone+OS+3%2E0+Press+Release
+slug: "5a98a370-af0e-42e2-ba02-af036829c679"
 ---
 iPhone OS 3.0が予定通りプレスリリースされました。iPhone OS 3.0ベータ、そして対応したSDKは今日から利用できるようです。iPhone OS 3.0のリリースは今年夏頃。3世代目iPhoneについては何も言及がなかったとのこと。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2014-12-23T01:31:48.000Z'
 categories: []
 keywords: []
-slug: 2014%E5%B9%B4%E3%81%AB%E8%BF%BD%E5%8A%A0%E3%81%97%E3%81%9F%E6%A5%BD%E6%9B%B2%E3%81%9F%E3%81%A1
+slug: "8e888ec7-cd1c-4245-ae25-b6c102d58ce3"
 ---
 うわさによると、今年があと1週間で終わりらしいので、区切りということで、今年をまとめてみる。
 

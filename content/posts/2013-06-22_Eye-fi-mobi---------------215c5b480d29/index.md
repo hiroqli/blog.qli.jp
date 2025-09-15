@@ -4,7 +4,7 @@ description: ''
 date: '2013-06-22T10:39:19.000Z'
 categories: []
 keywords: []
-slug: Eye-fi+mobi%E3%82%92%E8%B2%B7%E3%82%8F%E3%81%AA%E3%81%84%E3%81%9F%E3%81%A3%E3%81%9F%E3%81%B2%E3%81%A8%E3%81%A4%E3%81%AE%E7%90%86%E7%94%B1
+slug: "dee39557-a68a-4e1c-ba3b-dd3cf68885b2"
 ---
 Eye-Fi Mobiというのが先日発売されました。これまで、ユーザーからのフィードバックからなのか、徐々にダイレクトモードを試行していたEye-Fiが、思い切ってダイレクトモードに完全に舵を切った製品です。これにより、Eye-Fiカードのラインナップは、Eye-Fi Mobi(8GB/16GB)とEye-Fi Pro X2(16GB)の３つに整理されました（[比較表](http://www.eye.fi/jp/products))。
 

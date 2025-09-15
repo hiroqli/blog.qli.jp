@@ -4,7 +4,7 @@ description: ''
 date: '2016-09-25T04:11:11.000Z'
 categories: []
 keywords: []
-slug: Apple+W1%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E4%BD%93%E9%A8%93%E3%81%97%E3%81%9F
+slug: "fe96df8e-7fb8-4a88-8db9-a5aebb744454"
 ---
 iPhone発表会で発表された中で、とても興味を持ったのが「W1チップ」だった。
 

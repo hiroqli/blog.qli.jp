@@ -4,7 +4,7 @@ description: ''
 date: '2006-12-27T19:27:07.000Z'
 categories: []
 keywords: []
-slug: mylo%E4%B8%8D%E6%84%8F%E6%89%93%E3%81%A1
+slug: "d81e2356-9534-4ddf-a0bb-c26be7607c76"
 ---
 仕事中にISOからCDを作る作業をしていて暇なのでfeed読んでたらこんな記事が。
 

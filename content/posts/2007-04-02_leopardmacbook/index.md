@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-02T22:30:46.000Z'
 categories: []
 keywords: []
-slug: Leopard%E7%99%BB%E5%A0%B4%E3%81%AE%E2%80%9D%E6%98%A5%E2%80%9D%E3%81%ABMacBook%E3%81%AE%E6%9B%B4%E6%96%B0%E3%81%AF%E3%81%82%E3%82%8B%E3%81%AE%E3%81%...
+slug: "d9414beb-27f4-4252-a40b-74adbe83a113"
 ---
 Steve Jobsの大きな偉業が吉と出ることを祈っておりますが、心配なのがLeopardのリリース時期。すでにBootcamp betaはVistaも対応し、着々と準備が進んでいるようですが、発表時期はWWDCが開催される6月と言われています。
 

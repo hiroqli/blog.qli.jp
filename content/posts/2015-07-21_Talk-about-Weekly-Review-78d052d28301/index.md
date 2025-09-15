@@ -4,7 +4,7 @@ description: ''
 date: '2015-07-21T02:29:54.000Z'
 categories: []
 keywords: []
-slug: Talk+about+Weekly+Review
+slug: "09c89f4a-a80c-4fab-bb3a-4fbe9c314c6e"
 ---
 Getting Things Done (GTD) で定義されているレビューは週次レビューだけだ。というわけで、今回は週次レビューについて書いてみたいと思う。
 

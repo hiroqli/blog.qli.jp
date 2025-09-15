@@ -4,7 +4,7 @@ description: ''
 date: '2006-10-23T21:25:36.000Z'
 categories: []
 keywords: []
-slug: moo%2Ecom%E3%81%8Cskype%E3%81%A8%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%21
+slug: "00b84b15-26ea-48be-b0b0-f124752f25c4"
 ---
 Flickrとキャンペーンしていたのでこういうブログをごらんになっている方ならどこかで情報を仕入れているかと思いますが、名刺を作れるmoo.comがskypeとのキャンペーンを始めたそうです。
 

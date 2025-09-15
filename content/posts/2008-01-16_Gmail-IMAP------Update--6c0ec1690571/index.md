@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-16T08:02:17.000Z'
 categories: []
 keywords: []
-slug: Gmail+IMAP%E3%81%AE%E6%8C%99%E5%8B%95%E5%A4%89%E6%9B%B4%5BUpdate%5D
+slug: "b41c63e2-02be-461f-adec-98c095e27564"
 ---
 KeynoteにてiPhoneそしてiPod Touchのアップデートが発表されましたが、 それにあわせて、Gmail公式ブログより、メールアプリの挙動が変更されたことが発表されました。
 

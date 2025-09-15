@@ -4,7 +4,7 @@ description: ''
 date: '2011-08-31T21:51:00.000Z'
 categories: []
 keywords: []
-slug: mixi+%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%8C%E7%99%BA%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%A6
+slug: "97d163d0-3230-4aa8-9467-d4ea5b538c9c"
 ---
 mixiページというものが発表されたので、とりあえず勢いでいくつかページを作りました。
 

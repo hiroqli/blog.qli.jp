@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-04T10:50:07.000Z'
 categories: []
 keywords: []
-slug: Fedora7%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%95%E3%82%8C%E3%82%8B%E3%82%82%E3%80%82
+slug: "1874d122-4489-46ed-b30b-45c7d5092099"
 ---
 遅いニュースになってしまいますが。
 

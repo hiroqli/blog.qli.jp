@@ -4,7 +4,7 @@ description: ''
 date: '2013-11-12T21:04:17.000Z'
 categories: []
 keywords: []
-slug: iPad+Air+%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%A6
+slug: "a3936e20-9371-403b-85b5-e5ae1ce4b5e3"
 ---
 iPad Airを買って一週間が経ちました、ということで、レビューでも。
 

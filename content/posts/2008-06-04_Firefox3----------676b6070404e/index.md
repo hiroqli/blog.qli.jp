@@ -4,7 +4,7 @@ description: ''
 date: '2008-06-04T09:41:23.000Z'
 categories: []
 keywords: []
-slug: Firefox3+%E3%81%8C%E3%82%AE%E3%83%8D%E3%82%B9%E3%81%AB%E6%8C%91%E6%88%A6%EF%BC%81
+slug: "611b53ab-872b-48c1-b6a2-8236ee694f4d"
 ---
 もう遅いかと思ったのですが、さきほど確認したら、日本からは3万人弱しかいなかったので、あえてご紹介。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-18T21:39:18.000Z'
 categories: []
 keywords: []
-slug: The+Best+Damn+Thing+%3A%3A+Avril+Lavigne
+slug: "39ea45ea-fd99-43a5-b22b-279aae133e6c"
 ---
 新しいCDを買ってリッピング。先週末にiTunesの音楽ファイルはNAS上に移行したので、今回のリッピングはWi-Fiを間に挟むリッピングになりました。  
 音質とかリズム感とかに影響あるかなと心配していましたが、それほど影響なかったようで、安心しています。

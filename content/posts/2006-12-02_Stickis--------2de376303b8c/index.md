@@ -4,7 +4,7 @@ description: ''
 date: '2006-12-02T11:49:44.000Z'
 categories: []
 keywords: []
-slug: Stickis%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%E3%80%82
+slug: "e539a091-104c-496a-8462-2cf1e4450f28"
 ---
 TechCrunchで見つけたサービスを試してみました。
 
