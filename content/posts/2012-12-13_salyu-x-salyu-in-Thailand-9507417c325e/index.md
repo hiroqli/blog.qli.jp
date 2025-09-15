@@ -1,0 +1,15 @@
+---
+title: salyu x salyu in Thailand
+description: ''
+date: '2012-12-13T21:45:14.000Z'
+categories: []
+keywords: []
+slug: salyu+x+salyu+in+Thailand
+---
+Salyuさんが小山田さんとはじめたプロジェクト、salyu x salyu。ボーカルを楽器としてとらえることでかなでるハーモニーが本当に美しいものがあります。
+
+その salyu x salyu が、タイのミュージックフェス、Big Music Mountain Festival でライブをするというので見てました。タイではなく自宅で。そう、Ustreamで中継があったのです。
+
+salyu x salyuは 2011年4月18日＠渋谷WWW のリリースパーティ以来何度もそのステージを見ています。アルバムは一枚しか出していないので、聞き覚えのある曲が多いですが、何度聞いてもやっぱりすばらしいものはすばらしいですね。今回のステージでは、大野由美子さん(Buffalo Daughter) が入って以来徐々に出てきたバンド感が本当に出ていました。
+
+というライブの動画が公開されていたので貼っておきます。タイの人たちにもきっとそのすばらしさが伝わったはず！

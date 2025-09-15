@@ -1,4 +1,4 @@
-baseURL: "https://qli.jp/"
+baseURL: "https://blog.qli.jp/"
 title: "Things on a planet"
 theme: PaperMod
 languageCode: "ja"
@@ -49,7 +49,7 @@ menu:
   main:
     - identifier: blog
       name: ブログ
-      url: /archives/
+      url: /posts/
       weight: 10
     - identifier: categories
       name: カテゴリー
@@ -63,6 +63,9 @@ menu:
       name: サイト内検索
       url: /search/
       weight: 40
+
+permalinks:
+  posts: /posts/:slug/
 
 # パラメータ設定
 params:
@@ -145,3 +148,12 @@ params:
     minMatchCharLength: 0
     limit: 10
     keys: ["title", "permalink", "summary", "content"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
