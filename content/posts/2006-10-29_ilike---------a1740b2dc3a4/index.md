@@ -6,6 +6,7 @@ categories: []
 keywords: []
 slug: "bdc6b00f-02e7-426d-8959-31b054e6e0b1"
 ---
+
 ![]()
 
 音楽系ＳＮＳ第２弾という感じですが。playlog は一週間くらいつかったんですが、ilike は昨日登録したばっかです。
@@ -24,5 +25,3 @@ ilike はどうやらソーシャルではあるけど、ＳＮＳではあり�
 p.s.
 
 丁寧なレビュー記事を書かれていて、とっても恐縮です。
-
-Technorati Tags: [ilike](http://www.technorati.com/tag/ilike), [music](http://www.technorati.com/tag/music), [sns](http://www.technorati.com/tag/sns)
