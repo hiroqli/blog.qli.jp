@@ -1,21 +1,20 @@
 ---
 title: Windowsの開発環境とmacでのPHP開発
-description: ''
-date: '2006-09-24T22:42:06.000Z'
+description: ""
+date: "2006-09-24T22:42:06.000Z"
 categories: []
 keywords: []
 slug: "a8cbc530-f1a7-4949-8380-7ae301b58de1"
 ---
-今日は、Windowsの開発環境を整えていました。今回は、XAMPP+ Eclipseをベースにしてみました。世の中便利になったもんですね。ライトウェイトの開発環境なんて整えるのがヘビィな感じで、お金はかからないけど面倒っていうのがおきまりだったものですが。  
-  
-XAMPPのインストールはさくっと終了。インストーラで終わりです。そのあとEclipseをインストール。WindowsXPにはJREも付いていないので、ついでにJDKをインストール。Eclipseのプラグインはphpeclipseとsubclipseをインストールして終わりです。詳細はインターネット上にすべて情報があるので敢えて書きません。
 
-XAMPPってWindows版だけではなくて、mac版やLinux版もあるんですね。メインマシンをWindowsからmacに移動させたときに開発環境だけ移せなかったのは、tortaiseSVNの出来があまりにも良すぎたためですが、XAMPP + Eclipseという組み合わせであれば、OS選ばない状態になっちゃいますね。macだとCotEditorがかなりいい出来なので、こちらで作業したいなって思ってはいますが、EclipseのPHPエディタですませちゃうかもしれないです。
+今日は、Windows の開発環境を整えていました。今回は、XAMPP+ Eclipse をベースにしてみました。世の中便利になったもんですね。ライトウェイトの開発環境なんて整えるのがヘビィな感じで、お金はかからないけど面倒っていうのがおきまりだったものですが。
 
-あとはFTPクライアントですかね。まだmacで満足できるFTPクライアントを見つけられていないので。[こんなの](http://www.panic.com/jp/transmit/)を見つけたので試用してみようかと思っています。
+XAMPP のインストールはさくっと終了。インストーラで終わりです。そのあと Eclipse をインストール。WindowsXP には JRE も付いていないので、ついでに JDK をインストール。Eclipse のプラグインは phpeclipse と subclipse をインストールして終わりです。詳細はインターネット上にすべて情報があるので敢えて書きません。
 
-p.s.  
-  
-メモリ1GのWindowsよりも、メモリを2G積んだmacの方が、eclipseが軽快に動いている気がしなくもないです。気のせいかな？
+XAMPP って Windows 版だけではなくて、mac 版や Linux 版もあるんですね。メインマシンを Windows から mac に移動させたときに開発環境だけ移せなかったのは、tortaiseSVN の出来があまりにも良すぎたためですが、XAMPP + Eclipse という組み合わせであれば、OS 選ばない状態になっちゃいますね。mac だと CotEditor がかなりいい出来なので、こちらで作業したいなって思ってはいますが、Eclipse の PHP エディタですませちゃうかもしれないです。
 
-Technorati Tags: [eclipse](http://www.technorati.com/tag/eclipse), [xampp](http://www.technorati.com/tag/xampp)
+あとは FTP クライアントですかね。まだ mac で満足できる FTP クライアントを見つけられていないので。[こんなの](http://www.panic.com/jp/transmit/)を見つけたので試用してみようかと思っています。
+
+p.s.
+
+メモリ 1G の Windows よりも、メモリを 2G 積んだ mac の方が、eclipse が軽快に動いている気がしなくもないです。気のせいかな？

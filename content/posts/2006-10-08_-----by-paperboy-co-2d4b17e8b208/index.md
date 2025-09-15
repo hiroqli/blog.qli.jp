@@ -6,6 +6,7 @@ categories: []
 keywords: []
 slug: "b21b763a-d387-42fd-ac20-68b47e8e5ef9"
 ---
+
 SNS って使ってますか？
 
 最近は、mixi が大きくなりすぎたおかげで、たとえば仲間うちで専用の SNS を立ち上げたりってこともあるらしいです。GPL ライセンスで SNS プログラムをダウンロードして、自前のサーバで SNS を構築したり出来る時代ですからね。
@@ -23,5 +24,3 @@ SNS って使ってますか？
 p.s.
 
 あ、別にペパボの回し者ではありません･･･
-
-Technorati Tags: [kinugasa](http://www.technorati.com/tag/kinugasa), [キヌガサ](http://www.technorati.com/tag/キヌガサ), [ペパボ](http://www.technorati.com/tag/ペパボ)

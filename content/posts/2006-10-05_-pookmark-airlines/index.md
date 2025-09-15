@@ -6,6 +6,7 @@ categories: []
 keywords: []
 slug: "3c5c3b4a-f7ce-4b1b-86ea-f25eb0990441"
 ---
+
 公開されて割と日がたったんですが、どのくらい浸透してますか？個人的には、このサービスを作ったプログラマ(?)の方のブログも、デザイナの方のブログも不思議な縁で FEED で読んでいる(Google reader で！)ので、公開された直後に知りました。あ、あと個人的にペパボ好きなので。
 
 Jugemkey は持ってたんですが、なんとなく ID が気に入らなかったので、作りなおそっかなと思ったんですが、jugemkey の作成って名前の入力が必要だって事を知ってやめました。なんか「名前」を入れろって言われた瞬間に敷居の高さを感じるのは何だろ。ってか、jugemkey 利用サービスって、サービス側は ID しか知らないけど jugemkey 側は名前まで知ってるって妙に中途半端な気がしました。そういえば、jugemkey って１日ちょっとで作り上げちゃったって話を聞いたような聞かなかったような。
@@ -25,5 +26,3 @@ jugemkey 対応サービスって、FEED リーダー、ブログ（、動画投
 p.s.
 
 feedpath で投稿しようと思ったけど、なんとなく ecto にしちゃいました。microformats はすばらしいと思うんだけど、普段 feed を読まなくなると editor を立ち上げるのが手間だと感じちゃいますね。やっぱ。
-
-Technorati Tags: [pookmark airlines](http://www.technorati.com/tag/pookmark%20airlines), [bookmark](http://www.technorati.com/tag/bookmark), [social](http://www.technorati.com/tag/social), [ペパボ](http://www.technorati.com/tag/ペパボ)

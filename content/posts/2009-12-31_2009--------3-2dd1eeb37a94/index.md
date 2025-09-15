@@ -6,11 +6,12 @@ categories: []
 keywords: []
 slug: "35b13cc3-e727-40ea-a83c-160cbf9f5dee"
 ---
+
 次の振り返りは、情報整理編。実は去年の今頃に、[Lifehacking.jp](http://lifehacking.jp/)の [@mehori](http://twitter.com/mehori) さんが書かれた[情報ダイエット仕事術](http://www.amazon.co.jp/gp/product/4479771328?ie=UTF8&tag=qli-22&linkCode=as2&camp=247&creative=7399&creativeASIN=4479771328)
 
 ![]()
 
-を読んでいて、その[感想記事](http://blog.qli.jp/2009/01/%E6%83%85%E5%A0%B1%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%E3%82%92%E8%A1%8C%E3%81%86%E3%81%93%E3%81%A8.html)の中に
+を読んでいて、その[感想記事](/posts/7eff13b2-7243-4300-abfd-2af68c0a5284/)の中に
 
 > ちょうど１つの窓と反対側の窓をあけることにより建物の中の空気の流れがよくなるように、もうすこし情報のインプットと情報のアウトプットを調整して、頭の中の情報のストリームが健全かどうか常に確認してみることも必要かもしれません。
 

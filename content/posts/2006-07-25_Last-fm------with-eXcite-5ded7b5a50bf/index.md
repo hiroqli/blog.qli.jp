@@ -6,6 +6,7 @@ categories: []
 keywords: []
 slug: "11157c14-f2b9-4dc8-9ce6-0d94ceb5b1bc"
 ---
+
 ![]()
 
 Last.fm の突然のリニューアルでびっくりしていたのですが、ついにエキサイトと連動した日本語版が開始されました。  
@@ -15,5 +16,3 @@ Last.fm の突然のリニューアルでびっくりしていたのですが、
 それにしても excite ID との共存ってアカウント周りどういう設計になっているんだろうか？
 
 ちなみに、ここ数日 mixi music のクライアントがおかしくなって、サポートに連絡しても返ってこないので、Last.fm がメインになってます。
-
-technorati tags: [last.fm](http://technorati.jp/tag/last.fm) [日本語版](http://technorati.jp/tag/%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88) [excite](http://technorati.jp/tag/excite)

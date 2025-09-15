@@ -6,6 +6,7 @@ categories: []
 keywords: []
 slug: "47160325-fa3a-4951-91c7-32a23dc4532c"
 ---
+
 ![]()
 
 Sony が（というよりも、ソニーマーケティングが)、日本での発売を決めた Sony mylo が Playlog 対応を謳っているのを見て、playlog に入ってみました。実は、以前 otolog を使っていた時期があって、otolog 経由で playlog という存在は知っていたのですが、その当時は otolog で満足していたのもあってあまり興味を持ちませんでした。
@@ -17,5 +18,3 @@ playlog は実は完全なＳＮＳベースで、招待制です。今は mora(
 las.fm を SNS として比べるのであれば、日本でやっているサービスと言うこともあって登録している人はほとんど日本人だし、もちろん邦楽に強いので、安心感とかはありますね。でも、そこまでで、他のレコメンドミュージックがあるわけでもないし、ってことで、僕の中では期待はずれ感が大きいです。あと、やっぱ人口が爆発点に達していないからというのもあるかもしれないですが、なんとなく活気がない寂しい感じが残るのがとっても残念。
 
 前述したとおり、mylo でも playlog 連携があるようですが、ほとんどの音楽が iTunes(AAC)に最適化されているし、どうやら mylo と Mac とは連携できなさそうなので、mylo を音楽プレーヤーとしては使わない/使えないことが判明してます。ということで、playlog からはそのうち撤退します。多少厳しめになりましたけど、まぁ現状そんなところでしょうか。
-
-Technorati Tags: [otolog](http://www.technorati.com/tag/otolog), [playlog](http://www.technorati.com/tag/playlog), [music](http://www.technorati.com/tag/music), [sns](http://www.technorati.com/tag/sns)
