@@ -84,6 +84,8 @@ params:
   socialIcons:
     - name: twitter
       url: "https://x.com/hiro"
+    - name: instagram
+      url: https://www.instagram.com/hiro.qli/
     - name: rss
       url: "/index.xml"
 
@@ -115,15 +117,15 @@ params:
 
   # アセット設定
   assets:
-    favicon: "/favicon.ico"
-    favicon16x16: "/favicon-16x16.png"
-    favicon32x32: "/favicon-32x32.png"
-    apple_touch_icon: "/apple-touch-icon.png"
+    favicon: "/favicon/favicon.ico"
+    favicon16x16: "/favicon/favicon-16x16.png"
+    favicon32x32: "/favicon/favicon-32x32.png"
+    apple_touch_icon: "/favicon/apple-touch-icon.png"
 
   # ラベル設定
   label:
     text: "Things on a planet"
-    icon: /apple-touch-icon.png
+    icon: /favicon/apple-touch-icon.png
     iconHeight: 35
 
   # カバー画像設定
