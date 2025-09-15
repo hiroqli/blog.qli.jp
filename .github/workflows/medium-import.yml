@@ -292,6 +292,7 @@ draft: false
         echo "" >> $GITHUB_STEP_SUMMARY
         echo "インポート日時: $(date)" >> $GITHUB_STEP_SUMMARY
         echo "新規記事数: $(jq '.posts_imported' medium_import_summary.json)" >> $GITHUB_STEP_SUMMARY
+        echo "Hugoビルド: 完了" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
         echo "### インポートされた記事:" >> $GITHUB_STEP_SUMMARY
         jq -r '.posts[] | "- [\(.title)](\(.url))"' medium_import_summary.json >> $GITHUB_STEP_SUMMARY
