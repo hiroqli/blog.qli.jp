@@ -48,17 +48,17 @@ pygmentsUseClasses: true
 menu:
   main:
     - identifier: blog
-      name: ブログ
+      name: これまでの記事
       url: /posts/
       weight: 10
-    - identifier: categories
-      name: カテゴリー
-      url: /categories/
-      weight: 20
-    - identifier: tags
-      name: タグ
-      url: /tags/
-      weight: 30
+#    - identifier: categories
+#      name: カテゴリー
+#      url: /categories/
+#      weight: 20
+#    - identifier: tags
+#      name: タグ
+#      url: /tags/
+#      weight: 30
     - identifier: search
       name: サイト内検索
       url: /search/
@@ -70,15 +70,15 @@ permalinks:
 # パラメータ設定
 params:
   env: production
-  title: "Things on a planet"
+  title: Things on a planet
   description: "Just a personal blog from Fukuoka"
   keywords: [ブログ, 福岡, 個人サイト, PaperMod]
   author: "hiro"
 
   # プロフィールモード
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
+    Title: Hi there &#x1f44b;
+    Content: everyday things
 
   # ソーシャルアイコン
   socialIcons:
@@ -87,8 +87,8 @@ params:
     - name: rss
       url: "/index.xml"
 
-  # 日付フォーマット
-  DateFormat: "2006年01月02日"
+  # 日付フォーマット 時差があるので日付だけにする
+  DateFormat: "2006-01-02"
 
   # テーマ設定
   defaultTheme: auto
