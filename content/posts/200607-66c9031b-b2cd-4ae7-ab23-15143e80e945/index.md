@@ -1,0 +1,18 @@
+---
+title: "> Armchair travel with Google Pack"
+description: ""
+date: "2006-07-06T12:38:00.000Z"
+categories: []
+keywords: []
+slug: "200607-66c9031b-b2cd-4ae7-ab23-15143e80e945"
+---
+
+全国の google crazy が待望していた google pack 日本語版が登場です。
+
+> Posted by Hannah Tang, Software Engineer
+>
+> Even though I’ve lived in one city my entire life, I’ve always loved to travel and experience all the languages and cultures around the world. So it’s been exciting to be a member of the team responsible for making [Google Pack](http://pack.google.com/?utm_source=en-et-gblog&utm_medium=et&utm_campaign=en "Google Pack") available internationally.
+
+> [Armchair travel with Google Pack](http://googleblog.blogspot.com/2006/07/armchair-travel-with-google-pack.html)
+
+日本語版は[こちら](google%20pack%20in%20japanese)。

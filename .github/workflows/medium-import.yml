@@ -80,6 +80,7 @@ jobs:
                               'title': entry.title,
                               'link': entry.link,
                               'published': post_date.isoformat(),
+                              'published_date': post_date,
                               'summary': entry.summary,
                               'content': entry.get('content', [{}])[0].get('value', ''),
                               'guid': entry.guid
@@ -113,44 +114,47 @@ jobs:
               
               return markdown_content.strip()
 
-          def generate_uuid_slug():
-              """UUIDベースのslugを生成"""
-              return str(uuid.uuid4())
+          def generate_date_based_slug(post_date):
+              """日付ベース（YYYYMM-UUID）のslugを生成"""
+              uuid_part = str(uuid.uuid4())
+              date_prefix = post_date.strftime('%Y%m')
+              return f"{date_prefix}-{uuid_part}"
 
           def create_hugo_post(post, output_dir):
               """Hugo用の記事ファイルを作成"""
               try:
                   title = post['title']
-                  uuid_slug = generate_uuid_slug()
-                  date = post['published']
+                  post_date = post['published_date']
+                  date_slug = generate_date_based_slug(post_date)
+                  date_iso = post['published']
                   content = clean_medium_content(post['content'])
                   
-                  post_dir = os.path.join(output_dir, f"medium-{uuid_slug}")
+                  # ディレクトリ名もslugと同じ形式に
+                  post_dir = os.path.join(output_dir, date_slug)
                   os.makedirs(post_dir, exist_ok=True)
                   
                   # Front matterを文字列で作成（YAMLエラー回避）
                   frontmatter = '---\n'
                   frontmatter += f'title: "{title}"\n'
-                  frontmatter += f'date: "{date}"\n'
-                  frontmatter += f'slug: "{uuid_slug}"\n'
+                  frontmatter += f'date: "{date_iso}"\n'
+                  frontmatter += f'slug: "{date_slug}"\n'
                   frontmatter += 'source: "medium"\n'
                   frontmatter += f'original_url: "{post["link"]}"\n'
-                  frontmatter += f'uuid: "{uuid_slug}"\n'
                   frontmatter += 'draft: false\n'
                   frontmatter += '---\n\n'
                   
                   with open(os.path.join(post_dir, 'index.md'), 'w', encoding='utf-8') as f:
                       f.write(frontmatter + content)
                   
-                  print(f"Created post: {post_dir}/index.md with UUID: {uuid_slug}")
-                  return True, uuid_slug
+                  print(f"Created post: {post_dir}/index.md with slug: {date_slug}")
+                  return True, date_slug
                   
               except Exception as e:
                   print(f"Error creating post for '{post['title']}': {e}")
                   return False, None
 
           def main():
-              print("=== Medium Post Fetcher (UUID版) ===")
+              print("=== Medium Post Fetcher (YYYYMM-UUID版) ===")
               
               username = "hiro"
               days_back = 7
@@ -170,13 +174,14 @@ jobs:
               imported_posts = []
               
               for post in posts:
-                  success, uuid_slug = create_hugo_post(post, output_dir)
+                  success, date_slug = create_hugo_post(post, output_dir)
                   if success:
                       success_count += 1
                       imported_posts.append({
                           'title': post['title'],
                           'url': post['link'],
-                          'uuid': uuid_slug
+                          'slug': date_slug,
+                          'date': post['published']
                       })
               
               print(f"Successfully imported {success_count}/{len(posts)} posts")
@@ -231,12 +236,12 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          git add content/posts/medium-*
+          git add content/posts/*
           git add scripts/logs/medium_import_summary.json
 
           if ! git diff --cached --quiet; then
             POSTS_COUNT=$(jq '.posts_imported' scripts/logs/medium_import_summary.json)
-            git commit -m "Add $POSTS_COUNT new posts from Medium (UUID版)"
+            git commit -m "Add $POSTS_COUNT new posts from Medium (YYYYMM-UUID版)"
             git push
           else
             echo "No changes to commit"
@@ -245,11 +250,11 @@ jobs:
       - name: Create summary comment
         if: steps.check_posts.outputs.has_new_posts == 'true'
         run: |
-          echo "## 📝 Medium記事インポート完了 (UUID版)" >> $GITHUB_STEP_SUMMARY
+          echo "## 📝 Medium記事インポート完了 (YYYYMM-UUID版)" >> $GITHUB_STEP_SUMMARY
           echo "インポート日時: $(date)" >> $GITHUB_STEP_SUMMARY
           echo "新規記事数: $(jq '.posts_imported' scripts/logs/medium_import_summary.json)" >> $GITHUB_STEP_SUMMARY
-          echo "### インポートした記事のUUID:" >> $GITHUB_STEP_SUMMARY
-          jq -r '.posts[] | "- \(.title): \(.uuid)"' scripts/logs/medium_import_summary.json >> $GITHUB_STEP_SUMMARY
+          echo "### インポートした記事:" >> $GITHUB_STEP_SUMMARY
+          jq -r '.posts[] | "- **\(.title)** (`\(.slug)`)"' scripts/logs/medium_import_summary.json >> $GITHUB_STEP_SUMMARY
 
       - name: No new posts message
         if: steps.check_posts.outputs.has_new_posts == 'false'
