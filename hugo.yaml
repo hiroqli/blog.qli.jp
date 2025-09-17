@@ -49,9 +49,13 @@ pygmentsUseClasses: true
 menu:
   main:
     - identifier: blog
-      name: これまでの記事
+      name: 記事
       url: /posts/
       weight: 10
+    - identifier: archive
+      name: アーカイブ
+      url: /archives/
+      weight: 20
 #    - identifier: categories
 #      name: カテゴリー
 #      url: /categories/
@@ -73,13 +77,13 @@ params:
   env: production
   title: Things on a planet
   description: "Just a personal blog from Fukuoka"
-  keywords: [ブログ, 福岡, 個人サイト, PaperMod]
+  keywords: [ブログ, 福岡, 個人サイト, PaperMod, Apple, 映画, 音楽]
   author: "hiro"
 
   # プロフィールモード
   homeInfoParams:
     Title: Hi there &#x1f44b;
-    Content: everyday things
+    Content: Wanna chat about Apple, music, movies, and all sorts of other things on a planet?
 
   # ソーシャルアイコン
   socialIcons:
@@ -87,6 +91,8 @@ params:
       url: "https://x.com/hiro"
     - name: instagram
       url: https://www.instagram.com/hiro.qli/
+    - name: medium
+      url: "https://medium.com/@hiro"
     - name: rss
       url: "/index.xml"
 

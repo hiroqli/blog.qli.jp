@@ -1,8 +1,8 @@
 ---
-title: "検索" # in any language you want
+title: "サイト内検索" # in any language you want
 layout: "search" # necessary for search
 # url: "/archive"
-# description: "Description for Search"
+description: "サイト内を検索します"
 summary: "ブログ内を検索します"
-placeholder: "placeholder text in search input box"
+placeholder: "検索ワードを入力してください"
 ---
