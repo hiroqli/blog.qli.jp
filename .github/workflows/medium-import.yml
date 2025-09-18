@@ -114,30 +114,30 @@ jobs:
               
               return markdown_content.strip()
 
-          def generate_date_based_slug(post_date):
-              """日付ベース（YYYYMM-UUID）のslugを生成"""
+          def generate_date_based_directory(post_date):
+              """日付ベース（YYYYMM-UUID）のディレクトリ名を生成"""
               uuid_part = str(uuid.uuid4())
               date_prefix = post_date.strftime('%Y%m')
-              return f"{date_prefix}-{uuid_part}"
+              return f"{date_prefix}-{uuid_part}", uuid_part
 
           def create_hugo_post(post, output_dir):
               """Hugo用の記事ファイルを作成"""
               try:
                   title = post['title']
                   post_date = post['published_date']
-                  date_slug = generate_date_based_slug(post_date)
+                  directory_name, uuid_slug = generate_date_based_directory(post_date)
                   date_iso = post['published']
                   content = clean_medium_content(post['content'])
                   
-                  # ディレクトリ名もslugと同じ形式に
-                  post_dir = os.path.join(output_dir, date_slug)
+                  # ディレクトリ名は YYYYMM-UUID、slugはUUIDのみ
+                  post_dir = os.path.join(output_dir, directory_name)
                   os.makedirs(post_dir, exist_ok=True)
                   
                   # Front matterを文字列で作成（YAMLエラー回避）
                   frontmatter = '---\n'
                   frontmatter += f'title: "{title}"\n'
                   frontmatter += f'date: "{date_iso}"\n'
-                  frontmatter += f'slug: "{date_slug}"\n'
+                  frontmatter += f'slug: "{uuid_slug}"\n'
                   frontmatter += 'source: "medium"\n'
                   frontmatter += f'original_url: "{post["link"]}"\n'
                   frontmatter += 'draft: false\n'
@@ -146,15 +146,17 @@ jobs:
                   with open(os.path.join(post_dir, 'index.md'), 'w', encoding='utf-8') as f:
                       f.write(frontmatter + content)
                   
-                  print(f"Created post: {post_dir}/index.md with slug: {date_slug}")
-                  return True, date_slug
+                  print(f"Created post: {post_dir}/index.md")
+                  print(f"  Directory: {directory_name}")
+                  print(f"  Slug: {uuid_slug}")
+                  return True, directory_name, uuid_slug
                   
               except Exception as e:
                   print(f"Error creating post for '{post['title']}': {e}")
-                  return False, None
+                  return False, None, None
 
           def main():
-              print("=== Medium Post Fetcher (YYYYMM-UUID版) ===")
+              print("=== Medium Post Fetcher (Directory: YYYYMM-UUID, Slug: UUID) ===")
               
               username = "hiro"
               days_back = 7
@@ -174,13 +176,14 @@ jobs:
               imported_posts = []
               
               for post in posts:
-                  success, date_slug = create_hugo_post(post, output_dir)
+                  success, directory_name, uuid_slug = create_hugo_post(post, output_dir)
                   if success:
                       success_count += 1
                       imported_posts.append({
                           'title': post['title'],
                           'url': post['link'],
-                          'slug': date_slug,
+                          'directory': directory_name,
+                          'slug': uuid_slug,
                           'date': post['published']
                       })
               
@@ -241,7 +244,7 @@ jobs:
 
           if ! git diff --cached --quiet; then
             POSTS_COUNT=$(jq '.posts_imported' scripts/logs/medium_import_summary.json)
-            git commit -m "Add $POSTS_COUNT new posts from Medium (YYYYMM-UUID版)"
+            git commit -m "Add $POSTS_COUNT new posts from Medium (Dir: YYYYMM-UUID, Slug: UUID)"
             git push
           else
             echo "No changes to commit"
@@ -250,11 +253,12 @@ jobs:
       - name: Create summary comment
         if: steps.check_posts.outputs.has_new_posts == 'true'
         run: |
-          echo "## 📝 Medium記事インポート完了 (YYYYMM-UUID版)" >> $GITHUB_STEP_SUMMARY
+          echo "## 📝 Medium記事インポート完了" >> $GITHUB_STEP_SUMMARY
+          echo "ディレクトリ形式: YYYYMM-UUID, Slug形式: UUID" >> $GITHUB_STEP_SUMMARY
           echo "インポート日時: $(date)" >> $GITHUB_STEP_SUMMARY
           echo "新規記事数: $(jq '.posts_imported' scripts/logs/medium_import_summary.json)" >> $GITHUB_STEP_SUMMARY
           echo "### インポートした記事:" >> $GITHUB_STEP_SUMMARY
-          jq -r '.posts[] | "- **\(.title)** (`\(.slug)`)"' scripts/logs/medium_import_summary.json >> $GITHUB_STEP_SUMMARY
+          jq -r '.posts[] | "- **\(.title)** (Dir: `\(.directory)`, Slug: `\(.slug)`)"' scripts/logs/medium_import_summary.json >> $GITHUB_STEP_SUMMARY
 
       - name: No new posts message
         if: steps.check_posts.outputs.has_new_posts == 'false'
