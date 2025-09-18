@@ -4,7 +4,7 @@ description: ""
 date: "2006-07-05T23:05:57.000Z"
 categories: []
 keywords: []
-slug: "200607-4d331f78-500e-45c9-9a2a-29473eed662b"
+slug: "4d331f78-500e-45c9-9a2a-29473eed662b"
 ---
 
 やっぱり、Mr.Children というバンドのもつポテンシャルはスゴいなぁと思う瞬間。

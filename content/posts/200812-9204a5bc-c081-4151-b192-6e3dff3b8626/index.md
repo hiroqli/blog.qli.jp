@@ -4,7 +4,7 @@ description: ''
 date: '2008-12-04T07:15:16.000Z'
 categories: []
 keywords: []
-slug: "200812-9204a5bc-c081-4151-b192-6e3dff3b8626"
+slug: "9204a5bc-c081-4151-b192-6e3dff3b8626"
 ---
 LBS(Location Based Service)系SNSとして、個人的に注目しているBrightkiteがついにpublic betaに移行しました。
 

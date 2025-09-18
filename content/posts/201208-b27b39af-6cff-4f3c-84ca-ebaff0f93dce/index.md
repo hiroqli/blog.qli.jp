@@ -4,7 +4,7 @@ description: ''
 date: '2012-08-21T21:55:25.000Z'
 categories: []
 keywords: []
-slug: "201208-b27b39af-6cff-4f3c-84ca-ebaff0f93dce"
+slug: "b27b39af-6cff-4f3c-84ca-ebaff0f93dce"
 ---
 Eye-fiはこれまでダイレクトモードのみで使っていました。具体的には、Eye-fiから直接iPhone4Sに転送して、そこからiCloudのフォトストリームでApertureに転送していました。
 

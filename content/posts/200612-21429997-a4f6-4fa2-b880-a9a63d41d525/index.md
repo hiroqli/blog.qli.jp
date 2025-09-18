@@ -4,7 +4,7 @@ description: ''
 date: '2006-12-05T21:37:14.000Z'
 categories: []
 keywords: []
-slug: "200612-21429997-a4f6-4fa2-b880-a9a63d41d525"
+slug: "21429997-a4f6-4fa2-b880-a9a63d41d525"
 ---
 SkypeがApple Storeでイベントをするそうです。時間がある方はぜひ。行けたら行きます。
 

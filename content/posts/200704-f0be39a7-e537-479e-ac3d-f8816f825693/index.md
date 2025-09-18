@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-01T23:24:53.000Z'
 categories: []
 keywords: []
-slug: "200704-f0be39a7-e537-479e-ac3d-f8816f825693"
+slug: "f0be39a7-e537-479e-ac3d-f8816f825693"
 ---
 うちにあったパスネットを集めて撮影してみました。
 

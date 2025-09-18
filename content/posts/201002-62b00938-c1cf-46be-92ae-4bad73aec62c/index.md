@@ -4,7 +4,7 @@ description: ''
 date: '2010-02-07T21:58:58.000Z'
 categories: []
 keywords: []
-slug: "201002-62b00938-c1cf-46be-92ae-4bad73aec62c"
+slug: "62b00938-c1cf-46be-92ae-4bad73aec62c"
 ---
 やっと読み終えたのでご報告。読み終えたのは”日本を変える「知」”という本です。
 

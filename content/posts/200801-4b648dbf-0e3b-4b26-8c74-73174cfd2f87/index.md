@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-16T03:43:59.000Z'
 categories: []
 keywords: []
-slug: "200801-4b648dbf-0e3b-4b26-8c74-73174cfd2f87"
+slug: "4b648dbf-0e3b-4b26-8c74-73174cfd2f87"
 ---
 速報までに発表されたものをまとめておきます。
 

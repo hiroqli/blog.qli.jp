@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-16T04:17:16.000Z'
 categories: []
 keywords: []
-slug: "200801-27d93b36-4646-416d-8159-ad6a2308fb8c"
+slug: "27d93b36-4646-416d-8159-ad6a2308fb8c"
 ---
 あとでということにするつもりだったのですが、今回はAppleのWEBサイトの更新が異常に早く、MacBook Airのガイドツアービデオも公開されていたので、まだ実物を見ていないですがFirst Impressionを。
 

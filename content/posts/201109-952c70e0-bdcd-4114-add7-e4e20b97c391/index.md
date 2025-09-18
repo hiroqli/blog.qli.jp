@@ -4,7 +4,7 @@ description: ''
 date: '2011-09-14T20:47:19.000Z'
 categories: []
 keywords: []
-slug: "201109-952c70e0-bdcd-4114-add7-e4e20b97c391"
+slug: "952c70e0-bdcd-4114-add7-e4e20b97c391"
 ---
 MacRumorsによると、BGR reportsが”信頼できるソース”からの情報として、iOS5の今後のスケジュールを載せているそうです([リンク](http://www.macrumors.com/2011/09/13/ios-5-beta-8-on-friday-gm-on-september-23rd-carrier-approval-by-october-5th/))。それによると、iOS 5 beta 8 を９月１６日に、iOS 5 Gold Master を ９月２３日に、予定しているとのこと。さらには１０月５日にキャリアによる判断がなされたあと、10月上旬にはリリースされるだろうとのこと。次期iPhoneも10月リリースだといううわさが別の記事であがっていました。
 

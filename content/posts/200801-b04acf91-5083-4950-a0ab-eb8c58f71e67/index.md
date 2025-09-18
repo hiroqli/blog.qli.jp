@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-06T12:17:30.000Z'
 categories: []
 keywords: []
-slug: "200801-b04acf91-5083-4950-a0ab-eb8c58f71e67"
+slug: "b04acf91-5083-4950-a0ab-eb8c58f71e67"
 ---
 うちにはメインであるMacBookと、そしてサブ機として自作PC(Windows Vista)があります。もともとサブ機はWindows時代のメイン機で、当時はWindowsでゲーム(FPSとか）もやっていたので、ミドルハイエンドくらいのスペックがあったりします。で、せっかくMacでWindowsが動くようになったのだから動かしたいと思っていたのですよ。もうゲームはXBOX360で満足していて、Windowsで動かす必要性もないので。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2010-02-11T08:52:01.000Z'
 categories: []
 keywords: []
-slug: "201002-4c007d34-af8c-42da-927f-b60b58ba1d69"
+slug: "4c007d34-af8c-42da-927f-b60b58ba1d69"
 ---
 Google Buzzが始まって、自分のアカウントのGmailでもさっそく有効になっていました。Gmailのアップデートはいつも待たされることが多いのですが、今回はずいぶん早かったようです。
 

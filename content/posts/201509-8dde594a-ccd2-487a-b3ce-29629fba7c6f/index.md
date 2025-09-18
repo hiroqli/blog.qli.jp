@@ -4,7 +4,7 @@ description: ''
 date: '2015-09-20T07:34:00.000Z'
 categories: []
 keywords: []
-slug: "201509-8dde594a-ccd2-487a-b3ce-29629fba7c6f"
+slug: "8dde594a-ccd2-487a-b3ce-29629fba7c6f"
 ---
 Mr.Children REFLECTIONのアルバム発売は6月4日。  
 その前に、ファンクラブツアー、映画館での映像公開を経て、REFLECTION アリーナツアー、そして未完スタジアムツアーと続く。  

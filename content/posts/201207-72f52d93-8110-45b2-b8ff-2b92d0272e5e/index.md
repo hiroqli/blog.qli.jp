@@ -4,7 +4,7 @@ description: ''
 date: '2012-07-28T08:17:21.000Z'
 categories: []
 keywords: []
-slug: "201207-72f52d93-8110-45b2-b8ff-2b92d0272e5e"
+slug: "72f52d93-8110-45b2-b8ff-2b92d0272e5e"
 ---
 7月25日、Appleが前日に「明日リリースするよ」と言っていた、OS X Mountain Lion がリリースされました。ほぼ同時刻に Up-To-Dateプログラムも開始されました。
 

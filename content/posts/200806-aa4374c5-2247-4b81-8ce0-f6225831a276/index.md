@@ -4,7 +4,7 @@ description: ''
 date: '2008-06-06T00:18:03.000Z'
 categories: []
 keywords: []
-slug: "200806-aa4374c5-2247-4b81-8ce0-f6225831a276"
+slug: "aa4374c5-2247-4b81-8ce0-f6225831a276"
 ---
 iPhoneがSoftbankから発売されることが発表され、一夜が明けました。iPhoneは、特に次期iPhoneは、今のiPod Touchの不満点を解消する可能性が高いのです。というわけで、そのポイントを上げていきます。
 

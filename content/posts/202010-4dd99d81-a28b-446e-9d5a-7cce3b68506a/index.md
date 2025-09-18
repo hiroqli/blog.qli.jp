@@ -4,7 +4,7 @@ description: OmniFocusには「アーカイブ」というものがあります�
 date: '2020-10-23T13:07:08.416Z'
 categories: []
 keywords: []
-slug: "202010-4dd99d81-a28b-446e-9d5a-7cce3b68506a"
+slug: "4dd99d81-a28b-446e-9d5a-7cce3b68506a"
 ---
 OmniFocusには「アーカイブ」というものがあります。OmniFocusのライブラリはOmniSyncを通じて他のデバイスに「同期」されていますが、ライブラリの肥大化を防ぎ、同期を軽くするために、古い項目をライブラリから「アーカイブ」に移動させます。
 

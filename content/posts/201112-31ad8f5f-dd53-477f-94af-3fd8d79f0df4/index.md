@@ -4,7 +4,7 @@ description: ''
 date: '2011-12-01T21:27:42.000Z'
 categories: []
 keywords: []
-slug: "201112-31ad8f5f-dd53-477f-94af-3fd8d79f0df4"
+slug: "31ad8f5f-dd53-477f-94af-3fd8d79f0df4"
 ---
 12月になりました。
 

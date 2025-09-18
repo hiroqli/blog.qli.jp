@@ -4,7 +4,7 @@ description: ''
 date: '2007-02-11T02:30:44.000Z'
 categories: []
 keywords: []
-slug: "200702-60fc07b2-c80a-4f20-97bb-929e1073c5b8"
+slug: "60fc07b2-c80a-4f20-97bb-929e1073c5b8"
 ---
 先月くらいからLast.fmへの履歴転送にiScrobblerを使うようにした。
 

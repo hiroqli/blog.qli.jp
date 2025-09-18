@@ -4,7 +4,7 @@ description: 自宅にAlexaをお迎えしました。
 date: '2017-11-18T03:44:43.388Z'
 categories: []
 keywords: []
-slug: "201711-3783b589-cd71-4c9f-b88e-9f9cc2ddab50"
+slug: "3783b589-cd71-4c9f-b88e-9f9cc2ddab50"
 ---
 自宅にAlexaをお迎えしました。
 

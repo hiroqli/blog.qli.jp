@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-02T08:52:51.000Z'
 categories: []
 keywords: []
-slug: "200804-a092db52-15cf-45d5-872e-4acd7fa88174"
+slug: "a092db52-15cf-45d5-872e-4acd7fa88174"
 ---
 ウソではない昨日のニュースから。
 

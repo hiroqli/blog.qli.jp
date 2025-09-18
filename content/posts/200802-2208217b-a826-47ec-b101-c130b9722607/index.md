@@ -4,7 +4,7 @@ description: ""
 date: "2008-02-21T21:25:39.000Z"
 categories: []
 keywords: []
-slug: "200802-2208217b-a826-47ec-b101-c130b9722607"
+slug: "2208217b-a826-47ec-b101-c130b9722607"
 ---
 
 Gmail の絵文字対応が強化されました。

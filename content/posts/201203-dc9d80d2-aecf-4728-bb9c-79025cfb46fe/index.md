@@ -4,7 +4,7 @@ description: ''
 date: '2012-03-13T08:28:47.000Z'
 categories: []
 keywords: []
-slug: "201203-dc9d80d2-aecf-4728-bb9c-79025cfb46fe"
+slug: "dc9d80d2-aecf-4728-bb9c-79025cfb46fe"
 ---
 auの提供するキャリアメールがiPhoneでリアルタイム受信メールになりました。
 

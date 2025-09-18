@@ -4,7 +4,7 @@ description: ''
 date: '2007-11-27T22:28:49.000Z'
 categories: []
 keywords: []
-slug: "200711-374a3684-9b58-41ca-b939-cda6d49ecead"
+slug: "374a3684-9b58-41ca-b939-cda6d49ecead"
 ---
 今日はSalyuさんの新曲irisの発売日前夜ということで、買ってきましたよ。なんだか日本語としておかしいですが。
 

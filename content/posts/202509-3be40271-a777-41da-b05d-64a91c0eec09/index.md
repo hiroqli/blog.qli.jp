@@ -4,7 +4,7 @@ description: ''
 date: '2025-09-06T03:02:49.273Z'
 categories: []
 keywords: []
-slug: "202509-3be40271-a777-41da-b05d-64a91c0eec09"
+slug: "3be40271-a777-41da-b05d-64a91c0eec09"
 ---
 7月24日に Claude Pro を使い始め、１ヶ月が経ちました。この間に使い方が徐々に固まってきたので、記事にしようと思います。
 

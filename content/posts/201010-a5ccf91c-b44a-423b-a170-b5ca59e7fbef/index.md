@@ -4,7 +4,7 @@ description: ''
 date: '2010-10-16T10:13:25.000Z'
 categories: []
 keywords: []
-slug: "201010-a5ccf91c-b44a-423b-a170-b5ca59e7fbef"
+slug: "a5ccf91c-b44a-423b-a170-b5ca59e7fbef"
 ---
 どこが発端かというのはもはやあまり意味がない話だとは思うのですが、ようやくFacebookが日本で船出した感じがでてきました。Twitterではよく”mixiログインしてない”っていう話もチラホラ聞かれるようになった中でのできごとでした。
 

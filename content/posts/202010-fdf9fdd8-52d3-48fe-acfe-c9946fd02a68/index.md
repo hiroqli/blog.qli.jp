@@ -4,7 +4,7 @@ description: スムーズに機種変更を済ませて、新しい生活を
 date: '2020-10-22T05:13:56.621Z'
 categories: []
 keywords: []
-slug: "202010-fdf9fdd8-52d3-48fe-acfe-c9946fd02a68"
+slug: "fdf9fdd8-52d3-48fe-acfe-c9946fd02a68"
 ---
 Thingsのログブックを探したら、去年の機種変更した時の手順が残っていました。
 

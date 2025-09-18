@@ -4,7 +4,7 @@ description: ''
 date: '2007-09-06T18:25:41.000Z'
 categories: []
 keywords: []
-slug: "200709-08f7ff2e-6728-4e4e-b9b3-3f1ece4a2491"
+slug: "08f7ff2e-6728-4e4e-b9b3-3f1ece4a2491"
 ---
 なぜか検索の雄Googleのサービスなのに検索機能がなかったGoogle Readerがバージョンアップして検索機能がつきました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2009-11-01T13:51:40.000Z'
 categories: []
 keywords: []
-slug: "200911-ddcabb63-51c2-4780-b9ac-cae6073d4038"
+slug: "ddcabb63-51c2-4780-b9ac-cae6073d4038"
 ---
 ついにiMacを買いました。i5とかの選択肢もあったんですが、買ったのは21.5"のRadeonモデル。ずっと、MacBook CoreDuoが”おうちマシン”となっていたのですが、そろそろおうちマシンのアップデートが目下の悩みだったのでこのタイミングで更新できてよかったです。
 

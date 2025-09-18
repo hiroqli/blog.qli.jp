@@ -4,7 +4,7 @@ description: ''
 date: '2023-06-17T03:02:11.354Z'
 categories: []
 keywords: []
-slug: "202306-e1b69dea-c3b5-49ed-97bf-099467c7b151"
+slug: "e1b69dea-c3b5-49ed-97bf-099467c7b151"
 ---
 ![](1__gneiSTYPZ8xS3NWajwiT__Q.jpeg)
 

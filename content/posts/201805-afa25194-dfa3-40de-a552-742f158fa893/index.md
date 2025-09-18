@@ -4,7 +4,7 @@ description: OmniFocusは柔軟性のあるツールらしく、いろんなフ�
 date: '2018-05-14T12:39:23.689Z'
 categories: []
 keywords: []
-slug: "201805-afa25194-dfa3-40de-a552-742f158fa893"
+slug: "afa25194-dfa3-40de-a552-742f158fa893"
 ---
 OmniFocusは柔軟性のあるツールらしく、いろんなフローで使ってる方がいるようなので、それらをまとめてメモ
 

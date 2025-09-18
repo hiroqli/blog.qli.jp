@@ -4,7 +4,7 @@ description: ''
 date: '2010-01-22T00:03:46.000Z'
 categories: []
 keywords: []
-slug: "201001-051fadf3-c4a9-42f4-bf46-dcba5c27f66b"
+slug: "051fadf3-c4a9-42f4-bf46-dcba5c27f66b"
 ---
 Sony Ericsson XPERIA X10 がドコモから発売されることが発表されました。日本での発売は４月、名称もX10ではなく、ソニーエリクソン Xperiaとしての発売になります。([公式サイト](http://www.sonyericsson.co.jp/product/docomo/so-01b/index.html))
 

@@ -4,7 +4,7 @@ description: ""
 date: "2006-07-24T20:48:00.000Z"
 categories: []
 keywords: []
-slug: "200607-9a6b0ef3-8150-4a2f-be2a-1e4bbda81bc4"
+slug: "9a6b0ef3-8150-4a2f-be2a-1e4bbda81bc4"
 ---
 
 昔から、RHODIA というあの黄色い表紙のメモ帳を愛用している。使っているのは 12"と 16"かな。多くの人は 11"を愛用しているらしいが、自分ではこの大きさが使いやすいかな。

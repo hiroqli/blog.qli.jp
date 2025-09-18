@@ -4,7 +4,7 @@ description: ''
 date: '2010-03-24T09:23:59.000Z'
 categories: []
 keywords: []
-slug: "201003-54d855e2-6642-4146-92de-d72f5398efb0"
+slug: "54d855e2-6642-4146-92de-d72f5398efb0"
 ---
 [MacRumors](http://www.macrumors.com/2010/03/23/iphone-os-to-gain-universal-inbox/)は[TUAW](http://www.tuaw.com/2010/03/23/jobs-on-a-roll-drops-three-more-emails-expect-universal-iphone/)からの報告として、iPhoneのメールアプリ(MobileMail.app)にユニバーサル受信トレイがくるのではないかと伝えています。
 

@@ -4,7 +4,7 @@ description: ""
 date: "2006-06-25T19:49:13.000Z"
 categories: []
 keywords: []
-slug: "200606-378219f4-c690-4a7a-bba6-101f483f9295"
+slug: "378219f4-c690-4a7a-bba6-101f483f9295"
 ---
 
 MacBook を付けっぱなしにしながら AC アダプタを付けると、AC アダプタから異音がする。

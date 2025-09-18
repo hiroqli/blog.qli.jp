@@ -4,7 +4,7 @@ description: ''
 date: '2006-08-05T20:11:19.000Z'
 categories: []
 keywords: []
-slug: "200608-49c4cf33-f12c-4897-b90f-f0037ecef422"
+slug: "49c4cf33-f12c-4897-b90f-f0037ecef422"
 ---
 Remember the milkを使ったタスク管理を実践してきましたが、実はそれまではcheck\*pad使ってました。で、こんなエントリーを発見！
 

@@ -4,7 +4,7 @@ description: ''
 date: '2013-09-23T21:08:34.000Z'
 categories: []
 keywords: []
-slug: "201309-a83bb1aa-3773-423f-a014-3e36241c29e7"
+slug: "a83bb1aa-3773-423f-a014-3e36241c29e7"
 ---
 9月20日、新しいiPhoneであるiPhone 5sが登場しました。そして、もうひとつの新しいiPhoneであるiPhone 5cも登場しました。
 

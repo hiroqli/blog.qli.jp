@@ -4,7 +4,7 @@ description: iPad Pro 11インチを買いました。
 date: '2018-11-08T12:46:03.031Z'
 categories: []
 keywords: []
-slug: "201811-8499484f-f62a-4198-94b1-9c0ac9491000"
+slug: "8499484f-f62a-4198-94b1-9c0ac9491000"
 ---
 iPad Pro 11インチを買いました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2011-02-19T02:00:59.000Z'
 categories: []
 keywords: []
-slug: "201102-8b701e5c-2335-4f50-89f0-5de26b213dcc"
+slug: "8b701e5c-2335-4f50-89f0-5de26b213dcc"
 ---
 IS03を使い始めて2ヶ月間がたとうとしている。
 

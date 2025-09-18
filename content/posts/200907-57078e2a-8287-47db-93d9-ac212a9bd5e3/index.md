@@ -4,7 +4,7 @@ description: ''
 date: '2009-07-09T12:59:51.000Z'
 categories: []
 keywords: []
-slug: "200907-57078e2a-8287-47db-93d9-ac212a9bd5e3"
+slug: "57078e2a-8287-47db-93d9-ac212a9bd5e3"
 ---
 昨日、7月8日、MT5の発表で盛り上がっているときに突然出てきたニュースが、GoogleによるGoogleのためのOSの発表だった。名前はChrome OS。
 

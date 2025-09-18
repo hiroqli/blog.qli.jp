@@ -4,7 +4,7 @@ description: ''
 date: '2009-01-15T23:46:47.000Z'
 categories: []
 keywords: []
-slug: "200901-581072e4-e017-4e6e-a6a2-8d320fadeab2"
+slug: "581072e4-e017-4e6e-a6a2-8d320fadeab2"
 ---
 URL短縮サービスというと、twitterの自動変換で使われている tinyurlが有名ですが、ちょっとお気に入りなサービスがあったので、ご紹介。
 

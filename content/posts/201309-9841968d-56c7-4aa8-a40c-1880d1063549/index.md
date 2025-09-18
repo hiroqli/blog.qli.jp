@@ -4,7 +4,7 @@ description: ''
 date: '2013-09-01T21:30:09.000Z'
 categories: []
 keywords: []
-slug: "201309-9841968d-56c7-4aa8-a40c-1880d1063549"
+slug: "9841968d-56c7-4aa8-a40c-1880d1063549"
 ---
 新しいNexus7が発売になりました。
 

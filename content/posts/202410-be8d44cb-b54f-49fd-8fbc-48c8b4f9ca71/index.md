@@ -4,7 +4,7 @@ description: ''
 date: '2024-10-17T11:32:02.572Z'
 categories: []
 keywords: []
-slug: "202410-be8d44cb-b54f-49fd-8fbc-48c8b4f9ca71"
+slug: "be8d44cb-b54f-49fd-8fbc-48c8b4f9ca71"
 ---
 ![](0__nSbMprZgIsifsHzU.jpg)
 

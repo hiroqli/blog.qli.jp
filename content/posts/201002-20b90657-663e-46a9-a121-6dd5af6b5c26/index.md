@@ -4,7 +4,7 @@ description: ''
 date: '2010-02-22T00:08:35.000Z'
 categories: []
 keywords: []
-slug: "201002-20b90657-663e-46a9-a121-6dd5af6b5c26"
+slug: "20b90657-663e-46a9-a121-6dd5af6b5c26"
 ---
 このブログでも度々登場しているタスク管理ツール Things Mac / Things Touchの開発元である Cultured Codeが “[Arrivals](http://culturedcode.com/status/)” というページをオープンさせていました。
 

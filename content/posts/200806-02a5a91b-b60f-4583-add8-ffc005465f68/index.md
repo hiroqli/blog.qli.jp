@@ -4,7 +4,7 @@ description: ''
 date: '2008-06-15T16:24:00.000Z'
 categories: []
 keywords: []
-slug: "200806-02a5a91b-b60f-4583-add8-ffc005465f68"
+slug: "02a5a91b-b60f-4583-add8-ffc005465f68"
 ---
 iPhoneのアンケートではかねてから気になっていたGoogle ドキュメント のフォーム機能を使ってみました。
 

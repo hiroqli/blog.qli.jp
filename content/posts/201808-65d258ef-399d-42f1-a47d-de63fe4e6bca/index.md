@@ -4,7 +4,7 @@ description: Inside Omnifocus に掲載された記事がとても示唆深か�
 date: '2018-08-07T14:42:47.313Z'
 categories: []
 keywords: []
-slug: "201808-65d258ef-399d-42f1-a47d-de63fe4e6bca"
+slug: "65d258ef-399d-42f1-a47d-de63fe4e6bca"
 ---
 ![](1__ELPsIYd__HLCIUddn1RGjeg.jpeg)
 

@@ -4,7 +4,7 @@ description: ''
 date: '2006-06-21T10:02:28.000Z'
 categories: []
 keywords: []
-slug: "200606-f8a137e5-f48f-4261-99d1-fdce968e33e8"
+slug: "f8a137e5-f48f-4261-99d1-fdce968e33e8"
 ---
 リンク: [My RSS 管理人 ブログ: 会議室型メッセンジャー「フレッシュミーティング」β版を公開します](http://blog.myrss.jp/archives/2006/06/post_67.html "My RSS 管理人 ブログ: 会議室型メッセンジャー「フレッシュミーティング」β版を公開します").
 

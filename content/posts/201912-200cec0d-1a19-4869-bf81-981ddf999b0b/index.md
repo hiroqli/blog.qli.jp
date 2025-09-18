@@ -5,7 +5,7 @@ description: 2019年は音楽視聴環境のアップデートの年だった。
 date: '2019-12-21T05:45:34.847Z'
 categories: []
 keywords: []
-slug: "201912-200cec0d-1a19-4869-bf81-981ddf999b0b"
+slug: "200cec0d-1a19-4869-bf81-981ddf999b0b"
 ---
 ![](1__u6ebLQDK94TxA__qn02rtdA.jpeg)
 

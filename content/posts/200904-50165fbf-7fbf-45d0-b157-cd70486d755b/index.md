@@ -4,7 +4,7 @@ description: ''
 date: '2009-04-18T18:38:41.000Z'
 categories: []
 keywords: []
-slug: "200904-50165fbf-7fbf-45d0-b157-cd70486d755b"
+slug: "50165fbf-7fbf-45d0-b157-cd70486d755b"
 ---
 More Joel on Softwareをやっと読み終えることができました。
 

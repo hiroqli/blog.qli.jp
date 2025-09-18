@@ -4,7 +4,7 @@ description: ''
 date: '2009-01-10T19:07:42.000Z'
 categories: []
 keywords: []
-slug: "200901-a0002d26-38cf-44c7-9c48-0ca51c843712"
+slug: "a0002d26-38cf-44c7-9c48-0ca51c843712"
 ---
 MacWorldが終わった。と思ったら、CESですね。IT業界は年初が忙しかったりします。（関係者は年越しで準備しているので毎年頭が下がります）今年はVAIO Type PとPalm pre、そしてWindows 7が一番の注目ではないでしょうか？
 

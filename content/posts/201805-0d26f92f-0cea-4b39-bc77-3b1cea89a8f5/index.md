@@ -4,7 +4,7 @@ description: OmniFocus 3 for iOSには、細かいですが、簡単に特定の
 date: '2018-05-30T02:51:02.457Z'
 categories: []
 keywords: []
-slug: "201805-0d26f92f-0cea-4b39-bc77-3b1cea89a8f5"
+slug: "0d26f92f-0cea-4b39-bc77-3b1cea89a8f5"
 ---
 OmniFocus 3 for iOSには、細かいですが、簡単に特定のタグを脱着できる機能がつきました。
 

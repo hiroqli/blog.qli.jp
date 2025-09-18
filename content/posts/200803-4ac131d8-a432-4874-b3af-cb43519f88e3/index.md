@@ -4,7 +4,7 @@ description: ""
 date: "2008-03-08T01:33:49.000Z"
 categories: []
 keywords: []
-slug: "200803-4ac131d8-a432-4874-b3af-cb43519f88e3"
+slug: "4ac131d8-a432-4874-b3af-cb43519f88e3"
 ---
 
 昨日行われた、iPhone Software Roadmap について。内容は既報の通り。ここを読んでくれるくらいの方々ならニュースサイトをチェックして知っていると思うので割愛。

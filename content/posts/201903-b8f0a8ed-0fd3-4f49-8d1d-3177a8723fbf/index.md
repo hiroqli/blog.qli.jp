@@ -5,7 +5,7 @@ description: 2年前に買ったAirPodsのバッテリーがちょうど劣化�
 date: '2019-03-26T09:58:21.256Z'
 categories: []
 keywords: []
-slug: "201903-b8f0a8ed-0fd3-4f49-8d1d-3177a8723fbf"
+slug: "b8f0a8ed-0fd3-4f49-8d1d-3177a8723fbf"
 ---
 2年前に買ったAirPodsのバッテリーがちょうど劣化してきたタイミングで発売開始された AirPods with wireless charging case。ファーストインプレッション書いていきます。
 

@@ -4,7 +4,7 @@ description: ""
 date: "2006-06-22T11:32:00.000Z"
 categories: []
 keywords: []
-slug: "200606-ed54e77c-3fea-41f8-a929-b8336b6db15d"
+slug: "ed54e77c-3fea-41f8-a929-b8336b6db15d"
 ---
 
 久しぶりに feedpath から書き込み。

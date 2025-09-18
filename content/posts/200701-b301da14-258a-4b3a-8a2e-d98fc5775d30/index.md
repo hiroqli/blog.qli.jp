@@ -4,7 +4,7 @@ description: ''
 date: '2007-01-06T00:55:45.000Z'
 categories: []
 keywords: []
-slug: "200701-b301da14-258a-4b3a-8a2e-d98fc5775d30"
+slug: "b301da14-258a-4b3a-8a2e-d98fc5775d30"
 ---
 おもしろいサービスが紹介されていたので。
 

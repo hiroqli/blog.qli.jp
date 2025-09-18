@@ -4,7 +4,7 @@ description: ''
 date: '2008-11-12T10:02:23.000Z'
 categories: []
 keywords: []
-slug: "200811-c0bc5d9a-45a9-498b-8cfb-63c6b55fce99"
+slug: "c0bc5d9a-45a9-498b-8cfb-63c6b55fce99"
 ---
 windows版だけリリースされているGoogle Talkではビデオチャットが出来ていましたが、Windows版以外はリリースされていませんでした。またGoogle EarthですらWEB版の計画が着々と進んでいるなど、googleのWEB重視の方針は変わらなかったわけですが、そんな中、Gmailでビデオチャット機能が追加されました。
 

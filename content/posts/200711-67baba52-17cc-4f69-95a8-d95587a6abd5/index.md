@@ -4,7 +4,7 @@ description: ''
 date: '2007-11-21T00:01:27.000Z'
 categories: []
 keywords: []
-slug: "200711-67baba52-17cc-4f69-95a8-d95587a6abd5"
+slug: "67baba52-17cc-4f69-95a8-d95587a6abd5"
 ---
 最近のWEBサービスといえばGmail2.0が新しいのですが、Remember the Milkもバージョンアップを果たしました。本家ではRemember the Milk Reloadedと称していますが、個人的にはrmilk2.0と呼びたいと思います。
 

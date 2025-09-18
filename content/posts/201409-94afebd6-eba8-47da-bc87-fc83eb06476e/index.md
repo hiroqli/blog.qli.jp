@@ -4,7 +4,7 @@ description: ''
 date: '2014-09-12T09:07:18.000Z'
 categories: []
 keywords: []
-slug: "201409-94afebd6-eba8-47da-bc87-fc83eb06476e"
+slug: "94afebd6-eba8-47da-bc87-fc83eb06476e"
 ---
 iPhone 6を予約しました。
 

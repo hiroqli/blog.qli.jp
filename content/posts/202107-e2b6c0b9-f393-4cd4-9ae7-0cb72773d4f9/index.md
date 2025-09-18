@@ -4,7 +4,7 @@ description: 僕がサッカーを、Jリーグを、好きな理由は、Jリ�
 date: '2021-07-25T04:31:48.627Z'
 categories: []
 keywords: []
-slug: "202107-e2b6c0b9-f393-4cd4-9ae7-0cb72773d4f9"
+slug: "e2b6c0b9-f393-4cd4-9ae7-0cb72773d4f9"
 ---
 ![](1__AKfthEt1FlvlHl__1ljZG0w.jpeg)
 

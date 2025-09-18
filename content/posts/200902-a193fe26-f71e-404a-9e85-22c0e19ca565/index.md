@@ -4,7 +4,7 @@ description: ''
 date: '2009-02-22T15:03:30.000Z'
 categories: []
 keywords: []
-slug: "200902-a193fe26-f71e-404a-9e85-22c0e19ca565"
+slug: "a193fe26-f71e-404a-9e85-22c0e19ca565"
 ---
 昨年、2008年2月22日にこんな記事を書きました。
 

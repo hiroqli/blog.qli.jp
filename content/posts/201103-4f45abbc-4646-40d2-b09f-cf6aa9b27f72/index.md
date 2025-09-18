@@ -4,7 +4,7 @@ description: ''
 date: '2011-03-29T11:38:10.000Z'
 categories: []
 keywords: []
-slug: "201103-4f45abbc-4646-40d2-b09f-cf6aa9b27f72"
+slug: "4f45abbc-4646-40d2-b09f-cf6aa9b27f72"
 ---
 Appleから[WWDC 2011](http://developer.apple.com/wwdc/)の日程が発表されました（チケットは完売しています）。現地時間6月6日から10日まで。日本時間だと6月7日早朝にキーノートスピーチが開催されることになると思われます。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2008-07-18T22:31:55.000Z'
 categories: []
 keywords: []
-slug: "200807-18f1f6b0-dd01-4e95-b2bc-e1ed974f2494"
+slug: "18f1f6b0-dd01-4e95-b2bc-e1ed974f2494"
 ---
 iPhoneだけにうつつを抜かしていたわけではなくて、ちゃんとまじめに暮らしてますよ(笑)
 

@@ -4,7 +4,7 @@ description: ''
 date: '2006-12-06T23:47:52.000Z'
 categories: []
 keywords: []
-slug: "200612-98fbb0f7-cf67-42ab-a03a-cc8f5ffab4ff"
+slug: "98fbb0f7-cf67-42ab-a03a-cc8f5ffab4ff"
 ---
 最近、暇な時間を見つけてはブログ検索でmyloを検索することが多い。myloってまだまだ知名度がなくって、知っている人と言えば、もともとガジェット系が好きな人かソニー系が好きな人、そしてmixiニュースで知った人に大別される。mixiって人口多いので…と思いきや、それでも全然な感じ。
 

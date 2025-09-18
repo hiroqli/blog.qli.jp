@@ -4,7 +4,7 @@ description: ''
 date: '2016-03-25T02:27:17.000Z'
 categories: []
 keywords: []
-slug: "201603-589571fc-60cd-43fe-ac4b-1daf2a807625"
+slug: "589571fc-60cd-43fe-ac4b-1daf2a807625"
 ---
 イベント “Let Us Loop In You” に合わせてApple TVに、Appleイベントの生中継を見るだけのアプリが登場した。過去のイベントも見れるようになっていたので、時間があったこともあって、iPhone 6sやApple TV、iPad Proが発表された去年10月のイベントをなんとなく見ていた。
 

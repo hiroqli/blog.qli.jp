@@ -4,7 +4,7 @@ description: ''
 date: '2010-07-05T22:25:03.000Z'
 categories: []
 keywords: []
-slug: "201007-f925881d-ae11-4b6e-b265-d752e137b391"
+slug: "f925881d-ae11-4b6e-b265-d752e137b391"
 ---
 先週末にソフトバンクオンラインショップにて2日目に予約された方を中心に多く届いたようで、iPhone4ユーザが劇的に増えているようですね。Apple StoreにはBumper Blackが入荷していたものの売り切れているという話も聞きます。
 

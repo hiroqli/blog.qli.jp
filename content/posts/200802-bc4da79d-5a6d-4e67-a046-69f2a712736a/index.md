@@ -4,7 +4,7 @@ description: ''
 date: '2008-02-26T10:35:13.000Z'
 categories: []
 keywords: []
-slug: "200802-bc4da79d-5a6d-4e67-a046-69f2a712736a"
+slug: "bc4da79d-5a6d-4e67-a046-69f2a712736a"
 ---
 Google Talkからやっとステータスを通知してくれるバッジ(chatback)がでました。[ここ](http://www.google.com/talk/service/badge/New)から作ることができます。さっそく右側に設置しています。
 

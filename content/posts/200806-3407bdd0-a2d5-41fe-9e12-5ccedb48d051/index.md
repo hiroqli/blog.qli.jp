@@ -4,7 +4,7 @@ description: ''
 date: '2008-06-17T21:22:54.000Z'
 categories: []
 keywords: []
-slug: "200806-3407bdd0-a2d5-41fe-9e12-5ccedb48d051"
+slug: "3407bdd0-a2d5-41fe-9e12-5ccedb48d051"
 ---
 iPhone 3G、iPhone OS 2.0とともに発表されたMobileMe。これまでMacユーザ用にストレージとシンクのサービスを中心に提供してきたサービスが、me.comというドメインとともにリスタートすることになりました。
 

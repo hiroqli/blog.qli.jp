@@ -4,7 +4,7 @@ description: ''
 date: '2011-04-02T10:48:25.000Z'
 categories: []
 keywords: []
-slug: "201104-a3f16a71-02d1-4eca-b50f-0aaf07ce5ac5"
+slug: "a3f16a71-02d1-4eca-b50f-0aaf07ce5ac5"
 ---
 記事にするのが遅くなりましたが、先日[GTD勉強会 Vol.28](http://works4life.jp/2011/03/gtd-studying-28/) に行ってきました。テーマは”６つのレベル”について。
 

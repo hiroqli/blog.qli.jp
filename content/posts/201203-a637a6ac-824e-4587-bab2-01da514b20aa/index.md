@@ -4,7 +4,7 @@ description: ''
 date: '2012-03-05T22:23:51.000Z'
 categories: []
 keywords: []
-slug: "201203-a637a6ac-824e-4587-bab2-01da514b20aa"
+slug: "a637a6ac-824e-4587-bab2-01da514b20aa"
 ---
 阪神大震災の時と今を比べて違うのは、情報機器が発達し、人々が日常を記録することを覚えたこと。
 

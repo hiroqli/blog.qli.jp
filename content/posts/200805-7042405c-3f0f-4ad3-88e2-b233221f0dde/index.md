@@ -4,7 +4,7 @@ description: ''
 date: '2008-05-12T21:55:52.000Z'
 categories: []
 keywords: []
-slug: "200805-7042405c-3f0f-4ad3-88e2-b233221f0dde"
+slug: "7042405c-3f0f-4ad3-88e2-b233221f0dde"
 ---
 今回はお知らせとお願いのエントリー。
 

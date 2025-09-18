@@ -4,7 +4,7 @@ description: ''
 date: '2011-02-11T16:16:44.000Z'
 categories: []
 keywords: []
-slug: "201102-cbb8e200-eebd-4669-a94f-6a26d9bfb026"
+slug: "cbb8e200-eebd-4669-a94f-6a26d9bfb026"
 ---
 佐々木俊尚さんの「[キュレーションの時代](http://p.booklog.jp/book/18453)」を読み終わりました。
 

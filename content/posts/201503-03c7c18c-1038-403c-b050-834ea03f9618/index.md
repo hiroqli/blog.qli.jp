@@ -4,7 +4,7 @@ description: ''
 date: '2015-03-21T02:52:28.000Z'
 categories: []
 keywords: []
-slug: "201503-03c7c18c-1038-403c-b050-834ea03f9618"
+slug: "03c7c18c-1038-403c-b050-834ea03f9618"
 ---
 [**MediumとGhost**  
 _昨年末、Mediumが公式アカウントの日本語コンテンツを投稿してからというもの、これまで日本語圏からは見えてこなかった、Mediumの開発スピードが著しい。最近ではようやくiOSアプリから記事を書くことができるようになった（iPad版、…_medium.com](https://medium.com/@hiro/medium%E3%81%A8ghost-f4716c134d63 "https://medium.com/@hiro/medium%E3%81%A8ghost-f4716c134d63")[](https://medium.com/@hiro/medium%E3%81%A8ghost-f4716c134d63)

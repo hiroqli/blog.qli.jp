@@ -4,7 +4,7 @@ description: ''
 date: '2012-03-03T14:16:07.000Z'
 categories: []
 keywords: []
-slug: "201203-0c6ffe0c-310a-4b24-86fd-69f7a1b685f5"
+slug: "0c6ffe0c-310a-4b24-86fd-69f7a1b685f5"
 ---
 映画「リンダ リンダ リンダ」をiTunes Storeでレンタルした。
 

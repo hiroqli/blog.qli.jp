@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-22T11:00:07.000Z'
 categories: []
 keywords: []
-slug: "200804-71be9fd7-0ddb-4c06-9d6f-a31e65d8f5f0"
+slug: "71be9fd7-0ddb-4c06-9d6f-a31e65d8f5f0"
 ---
 久しぶりにSocialThing!をのぞいてみたら、invite数が12に増えていました。また、”次に対応して欲しいサービス”のアンケートも継続中ですが、”次に対応するサービス”というのが追加されていました。
 

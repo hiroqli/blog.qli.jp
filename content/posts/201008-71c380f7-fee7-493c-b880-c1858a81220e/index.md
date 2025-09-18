@@ -4,7 +4,7 @@ description: ''
 date: '2010-08-08T14:00:31.000Z'
 categories: []
 keywords: []
-slug: "201008-71c380f7-fee7-493c-b880-c1858a81220e"
+slug: "71c380f7-fee7-493c-b880-c1858a81220e"
 ---
 iPadが日本で発売されて72日。アメリカで発売されて126日が経過したわけですが、個人的にお気に入りのカバンメーカー、Freitagがようやく F23 iPad Sleeve を発売しました。
 

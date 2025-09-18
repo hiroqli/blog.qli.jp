@@ -4,7 +4,7 @@ description: 新しく発売されたMarshall Major IVで Mr.Children 20枚目�
 date: '2020-12-05T07:24:25.942Z'
 categories: []
 keywords: []
-slug: "202012-6425fd3c-1f27-4b2e-92b1-c398e4c70b49"
+slug: "6425fd3c-1f27-4b2e-92b1-c398e4c70b49"
 ---
 普段使っているヘッドフォンは、AppleやBeatsのものがほとんど。iOSから操作性が良い。移動中のBGMとして聴くには音の作りが十分。無線も強いので、音飛びがほとんどない。理由を探せばたくさんありますが、音の作りという意味では、大好きなヘッドフォンが別にあります。
 

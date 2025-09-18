@@ -4,7 +4,7 @@ description: 日本語OSを使っていると、特にWEB周りで不具合を�
 date: '2017-08-26T00:32:23.255Z'
 categories: []
 keywords: []
-slug: "201708-cf2bdf64-e54f-48fd-a81d-f5722f5a1b90"
+slug: "cf2bdf64-e54f-48fd-a81d-f5722f5a1b90"
 ---
 ![](1__uVd5GPPBdU82kq4IrVH5Xg.jpeg)
 

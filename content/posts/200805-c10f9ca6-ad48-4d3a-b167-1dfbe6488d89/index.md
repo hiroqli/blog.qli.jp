@@ -4,7 +4,7 @@ description: ''
 date: '2008-05-22T14:21:44.000Z'
 categories: []
 keywords: []
-slug: "200805-c10f9ca6-ad48-4d3a-b167-1dfbe6488d89"
+slug: "c10f9ca6-ad48-4d3a-b167-1dfbe6488d89"
 ---
 いままで Google Appのアプリとして提供されていたGoogle Sitesがgoogleアカウント用にも公開されました。まさか公開されるとは思っていませんでしたが、JotSpotを使っていたユーザはすぐにスイッチできるようになるようです。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2006-10-27T11:21:15.000Z'
 categories: []
 keywords: []
-slug: "200610-53fc20fd-3330-4789-b38f-9be212cd066d"
+slug: "53fc20fd-3330-4789-b38f-9be212cd066d"
 ---
 .Macのウェブメールがついにアップデートされました！レビューはまだ先にしておきますが、Internet Explorerをサポートしているなど、結構Appleにしては意欲作ですね。  
 これで容量を増やしてくれればもっといいけど。

@@ -4,7 +4,7 @@ description: ""
 date: "2006-08-06T21:24:00.000Z"
 categories: []
 keywords: []
-slug: "200608-f4c8d7ac-910f-436e-8668-f3aa774accfc"
+slug: "f4c8d7ac-910f-436e-8668-f3aa774accfc"
 ---
 
 **商品:** [Apple Mighty Mouse Wireless Mighty Mouse MA272J/A](http://www.amazon.co.jp/exec/obidos/ASIN/B000H77RCU/mrchildrenonl-22/ref=nosim/)

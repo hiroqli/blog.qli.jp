@@ -4,7 +4,7 @@ description: ''
 date: '2010-09-03T06:53:03.000Z'
 categories: []
 keywords: []
-slug: "201009-cfbdd1cd-99aa-4cd0-9fa8-50d7eac77c53"
+slug: "cfbdd1cd-99aa-4cd0-9fa8-50d7eac77c53"
 ---
 iTunes Pingが始まりました。いわゆる音楽SNS。アーティストをフォローして最新情報を得たり、友だちをフォローしてお互いが好きな音楽について知ったりといったSNSです。iTunesにこれまであった”アラート”と”レビュー”の正常進化形に思えます。
 

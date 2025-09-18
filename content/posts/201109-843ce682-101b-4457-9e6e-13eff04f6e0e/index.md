@@ -4,7 +4,7 @@ description: ''
 date: '2011-09-03T07:21:49.000Z'
 categories: []
 keywords: []
-slug: "201109-843ce682-101b-4457-9e6e-13eff04f6e0e"
+slug: "843ce682-101b-4457-9e6e-13eff04f6e0e"
 ---
 ブログを、TypePadからWordpressに乗り換えました。いろいろな事情がある…わけでもなく、ただいろいろな状況が変わる中で、Ruby版をまってもなかなか出てこないので、Wordpressに乗り換えてみることにしました。
 

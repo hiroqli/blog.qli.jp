@@ -4,7 +4,7 @@ description: ''
 date: '2006-12-02T11:49:44.000Z'
 categories: []
 keywords: []
-slug: "200612-e539a091-104c-496a-8462-2cf1e4450f28"
+slug: "e539a091-104c-496a-8462-2cf1e4450f28"
 ---
 TechCrunchで見つけたサービスを試してみました。
 

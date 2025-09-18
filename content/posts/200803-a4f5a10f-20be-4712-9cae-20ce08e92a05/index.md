@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-31T22:47:58.000Z'
 categories: []
 keywords: []
-slug: "200803-a4f5a10f-20be-4712-9cae-20ce08e92a05"
+slug: "a4f5a10f-20be-4712-9cae-20ce08e92a05"
 ---
 毎日使っているAudioTechnica ATH-ANC3ですが、今日なんだか調子が悪いことに気づきました。といっても気づくというレベルではなくて、電車が発車・停止するたびに、ミュート状態になるんです。
 

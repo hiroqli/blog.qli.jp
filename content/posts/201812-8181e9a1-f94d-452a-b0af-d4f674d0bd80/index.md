@@ -4,7 +4,7 @@ description: ''
 date: '2018-12-28T00:56:35.997Z'
 categories: []
 keywords: []
-slug: "201812-8181e9a1-f94d-452a-b0af-d4f674d0bd80"
+slug: "8181e9a1-f94d-452a-b0af-d4f674d0bd80"
 ---
 ![](1__ID0rCTbMs4rqyTsBActfrA__2x.jpeg)
 

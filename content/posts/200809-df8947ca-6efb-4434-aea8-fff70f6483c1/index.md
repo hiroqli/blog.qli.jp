@@ -4,7 +4,7 @@ description: ''
 date: '2008-09-04T12:48:39.000Z'
 categories: []
 keywords: []
-slug: "200809-df8947ca-6efb-4434-aea8-fff70f6483c1"
+slug: "df8947ca-6efb-4434-aea8-fff70f6483c1"
 ---
 ここでThingsというWEBサービスが紹介されていました。
 

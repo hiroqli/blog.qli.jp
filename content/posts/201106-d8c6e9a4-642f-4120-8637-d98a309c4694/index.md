@@ -4,7 +4,7 @@ description: ''
 date: '2011-06-26T10:40:12.000Z'
 categories: []
 keywords: []
-slug: "201106-d8c6e9a4-642f-4120-8637-d98a309c4694"
+slug: "d8c6e9a4-642f-4120-8637-d98a309c4694"
 ---
 映画 奇跡 をみてきた。
 

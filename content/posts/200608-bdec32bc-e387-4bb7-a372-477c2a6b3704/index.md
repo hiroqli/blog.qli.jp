@@ -4,7 +4,7 @@ description: ''
 date: '2006-08-16T17:08:41.000Z'
 categories: []
 keywords: []
-slug: "200608-bdec32bc-e387-4bb7-a372-477c2a6b3704"
+slug: "bdec32bc-e387-4bb7-a372-477c2a6b3704"
 ---
 ネットを徘徊しているとこういうニュースを発見してしまいました。
 

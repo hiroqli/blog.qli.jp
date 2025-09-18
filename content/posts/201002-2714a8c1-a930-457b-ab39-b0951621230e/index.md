@@ -4,7 +4,7 @@ description: ''
 date: '2010-02-12T22:19:45.000Z'
 categories: []
 keywords: []
-slug: "201002-2714a8c1-a930-457b-ab39-b0951621230e"
+slug: "2714a8c1-a930-457b-ab39-b0951621230e"
 ---
 気になる記事が投下されたので、アンサー記事的に書いておきます。ちなみに元記事はこちら \[ [アジャイルって受託開発との相性が最悪な気がする — GoTheDistance](http://d.hatena.ne.jp/gothedistance/20100212/1265907956) \]
 

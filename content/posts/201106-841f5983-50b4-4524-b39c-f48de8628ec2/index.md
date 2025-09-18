@@ -4,7 +4,7 @@ description: ''
 date: '2011-06-07T21:16:13.000Z'
 categories: []
 keywords: []
-slug: "201106-841f5983-50b4-4524-b39c-f48de8628ec2"
+slug: "841f5983-50b4-4524-b39c-f48de8628ec2"
 ---
 iOS 5の発表の中でReminderというのが発表されました。
 

@@ -4,7 +4,7 @@ description: WEBの世界に入って10年以上が経ち、もちろん周り�
 date: '2017-02-01T12:58:56.928Z'
 categories: []
 keywords: []
-slug: "201702-9338c607-c46b-4ba6-b0b3-f6244552770c"
+slug: "9338c607-c46b-4ba6-b0b3-f6244552770c"
 ---
 ![](1__iUe11qpfXVRqWLnVusaYeA.jpeg)
 

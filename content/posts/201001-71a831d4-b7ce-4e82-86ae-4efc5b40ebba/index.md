@@ -4,7 +4,7 @@ description: ''
 date: '2010-01-06T10:07:18.000Z'
 categories: []
 keywords: []
-slug: "201001-71a831d4-b7ce-4e82-86ae-4efc5b40ebba"
+slug: "71a831d4-b7ce-4e82-86ae-4efc5b40ebba"
 ---
 普段仕事はMacでやっていて、家にいるときもブログ書いたり、ツイッターしたりと、Macが活躍しています。昨年の今頃まではなんとなくWindowsにも依存があったりもしたのですが、今はほとんどMacBook Airで行っています。
 

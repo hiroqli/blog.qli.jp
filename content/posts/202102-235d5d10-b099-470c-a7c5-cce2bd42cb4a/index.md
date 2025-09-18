@@ -4,7 +4,7 @@ description: 本格的なWork from home が始まって約1年。その間に買
 date: '2021-02-10T13:08:20.584Z'
 categories: []
 keywords: []
-slug: "202102-235d5d10-b099-470c-a7c5-cce2bd42cb4a"
+slug: "235d5d10-b099-470c-a7c5-cce2bd42cb4a"
 ---
 本格的なWork from home が始まって約1年。その間に買ったものを紹介していきます。
 

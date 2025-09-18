@@ -4,7 +4,7 @@ description: ''
 date: '2007-08-04T23:48:56.000Z'
 categories: []
 keywords: []
-slug: "200708-d47f3ddf-82ab-4417-a086-7c958a275e4c"
+slug: "d47f3ddf-82ab-4417-a086-7c958a275e4c"
 ---
 久しぶりに面白いWEBサービスをさわったので軽くレビュー。
 

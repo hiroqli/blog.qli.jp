@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-25T14:53:04.000Z'
 categories: []
 keywords: []
-slug: "200607-4549bb04-024d-4a1a-bd92-9e748fb7c13f"
+slug: "4549bb04-024d-4a1a-bd92-9e748fb7c13f"
 ---
 そういえば、続きネタでひとつ。feedpathへの追加要望を。(ないって言ったくせに)
 

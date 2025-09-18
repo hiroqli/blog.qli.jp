@@ -4,7 +4,7 @@ description: ''
 date: '2007-11-13T00:28:03.000Z'
 categories: []
 keywords: []
-slug: "200711-f377de9c-b447-4407-ba41-634d3ca255c2"
+slug: "f377de9c-b447-4407-ba41-634d3ca255c2"
 ---
 Google TalkとAIMが相互接続を果たすという話がありました。日本ではどうしても知名度の低いAIMこと、AOL INSTANT MESSANGER(日本でのサービス提供元はeAccess)ですが、もともとこの世界の先駆者だっただけあって、米国を中心に英語圏ではメジャーなクライアントの一つ。そして忘れてならないのは、.Mac iChatとAIMの親和性。AOLを抜きにしてGoogleとAppleの相互接続ともいえるこのニュースは、Google Talkだけ別だし項目となったiChat for Leopardにも何かしらの影響があるのかもしれません。
 

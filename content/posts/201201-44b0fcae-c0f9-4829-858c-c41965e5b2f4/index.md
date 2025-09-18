@@ -4,7 +4,7 @@ description: ''
 date: '2012-01-14T01:07:05.000Z'
 categories: []
 keywords: []
-slug: "201201-44b0fcae-c0f9-4829-858c-c41965e5b2f4"
+slug: "44b0fcae-c0f9-4829-858c-c41965e5b2f4"
 ---
 iPhone4Sが発売されてずいぶん経ち、auとSoftbankの比較の意見もずいぶん落ち着いたところで、結局どっちのiPhoneを選択すればいいのか、という話を実体験に基づいてまとめておきたいと思います。
 

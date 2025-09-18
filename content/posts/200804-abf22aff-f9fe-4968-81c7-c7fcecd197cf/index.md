@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-10T11:08:39.000Z'
 categories: []
 keywords: []
-slug: "200804-abf22aff-f9fe-4968-81c7-c7fcecd197cf"
+slug: "abf22aff-f9fe-4968-81c7-c7fcecd197cf"
 ---
 aikoさんのアルバム。ちょうどカエラさんとアルバムの発売日が重なって、CD買いに行ったらカエラさんのアルバムを買う長い列ができていて大変でした＠タワレコ新宿。
 

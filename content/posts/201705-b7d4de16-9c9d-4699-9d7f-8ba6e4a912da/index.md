@@ -4,7 +4,7 @@ description: ''
 date: '2017-05-19T15:01:07.603Z'
 categories: []
 keywords: []
-slug: "201705-b7d4de16-9c9d-4699-9d7f-8ba6e4a912da"
+slug: "b7d4de16-9c9d-4699-9d7f-8ba6e4a912da"
 ---
 前回はThings3のアップデート部分について説明しました。 ということで、今回は新しく追加された、タスクの階層構造について少し語っていくことにします。
 

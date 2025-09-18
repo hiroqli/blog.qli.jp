@@ -4,7 +4,7 @@ description: ''
 date: '2011-11-10T23:17:58.000Z'
 categories: []
 keywords: []
-slug: "201111-2787537b-76d3-4599-adfd-8ecdcbe43238"
+slug: "2787537b-76d3-4599-adfd-8ecdcbe43238"
 ---
 明日から3日間、福岡市の中州、そして博多で、[明星和楽](http://myojowaraku.net/)というイベントが行われます。”めいせいわらく”ではなく、”みょうじょうわらく”です。
 

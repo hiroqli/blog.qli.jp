@@ -4,7 +4,7 @@ description: ''
 date: '2008-11-28T00:33:14.000Z'
 categories: []
 keywords: []
-slug: "200811-cbde3d70-2e35-41d9-855e-99862b2f43e4"
+slug: "cbde3d70-2e35-41d9-855e-99862b2f43e4"
 ---
 mixiが登録制への移行を発表した。なんといっても個人的な注目としては、mixi Connectという名前のAPI群を公開してくれること。これがないというだけでずいぶん辛辣なコメントをmixiに対してしてしまいました。
 

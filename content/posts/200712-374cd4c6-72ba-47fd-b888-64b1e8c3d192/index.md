@@ -4,7 +4,7 @@ description: ''
 date: '2007-12-25T21:44:27.000Z'
 categories: []
 keywords: []
-slug: "200712-374cd4c6-72ba-47fd-b888-64b1e8c3d192"
+slug: "374cd4c6-72ba-47fd-b888-64b1e8c3d192"
 ---
 このブログでも紹介したOpen Web Awardsの最終結果が発表されたそうです。
 

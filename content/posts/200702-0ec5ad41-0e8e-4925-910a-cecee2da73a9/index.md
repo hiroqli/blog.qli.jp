@@ -4,7 +4,7 @@ description: ''
 date: '2007-02-05T23:22:42.000Z'
 categories: []
 keywords: []
-slug: "200702-0ec5ad41-0e8e-4925-910a-cecee2da73a9"
+slug: "0ec5ad41-0e8e-4925-910a-cecee2da73a9"
 ---
 myloが届きました。  
 で、帰ろうとしたときに起きたトラブルを軽く片付けて、早めに帰宅。さっそく開梱です。

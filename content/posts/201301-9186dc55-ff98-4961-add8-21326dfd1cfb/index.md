@@ -4,7 +4,7 @@ description: ''
 date: '2013-01-29T23:14:50.000Z'
 categories: []
 keywords: []
-slug: "201301-9186dc55-ff98-4961-add8-21326dfd1cfb"
+slug: "9186dc55-ff98-4961-add8-21326dfd1cfb"
 ---
 1月27日にbeta 5がリリースされて、2日後。まだGM版もリリースされていないのですが、製品版がリリースされました。そして、それから数時間、iPad with Retina Display (iPad4) に 128GB が追加されました。
 

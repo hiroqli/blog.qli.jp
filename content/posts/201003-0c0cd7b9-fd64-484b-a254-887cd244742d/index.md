@@ -4,7 +4,7 @@ description: ''
 date: '2010-03-27T16:24:43.000Z'
 categories: []
 keywords: []
-slug: "201003-0c0cd7b9-fd64-484b-a254-887cd244742d"
+slug: "0c0cd7b9-fd64-484b-a254-887cd244742d"
 ---
 位置情報系には非常に興味があってウォッチしている。突然Twitter上で流行って、人気のあるTwitterクライアント Tweetie for iPhone が統合までしたfoursquare や、日本ではいまいちだけど、それでもしっかりとした土台を築いた gowalla などが有名なのだけど、位置情報系というと個人的に好きなのは brightkite だ。
 

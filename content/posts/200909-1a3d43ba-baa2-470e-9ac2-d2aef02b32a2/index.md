@@ -4,7 +4,7 @@ description: ''
 date: '2009-09-01T08:05:00.000Z'
 categories: []
 keywords: []
-slug: "200909-1a3d43ba-baa2-470e-9ac2-d2aef02b32a2"
+slug: "1a3d43ba-baa2-470e-9ac2-d2aef02b32a2"
 ---
 Snow Leopardに沸くOS X周りですが、[9月9日10時（日本時間9月10日 午前2時）](http://www.timeanddate.com/worldclock/fixedtime.html?day=9&month=9&year=2009&hour=10&min=0&sec=0&p1=256http://www.timeanddate.com/worldclock/fixedtime.html?day=9&month=9&year=2009&hour=10&min=0&sec=0&p1=256)より、メディアイベントが行われることになりました( via [MacRumors](http://www.macrumors.com/2009/08/31/apple-issues-invitations-for-september-9th-media-event/) )。タイトルは”It’s only rock and roll, but we like it.”メインはiPodの今年のバージョンの発表ですね。ウワサになっていたタブレットについては発表はないだろうとの憶測で落ち着いています。
 

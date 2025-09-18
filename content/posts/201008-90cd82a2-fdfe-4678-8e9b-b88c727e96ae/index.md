@@ -4,7 +4,7 @@ description: ''
 date: '2010-08-27T00:17:49.000Z'
 categories: []
 keywords: []
-slug: "201008-90cd82a2-fdfe-4678-8e9b-b88c727e96ae"
+slug: "90cd82a2-fdfe-4678-8e9b-b88c727e96ae"
 ---
 日本語がうまい、Craig Modさんの講演。
 

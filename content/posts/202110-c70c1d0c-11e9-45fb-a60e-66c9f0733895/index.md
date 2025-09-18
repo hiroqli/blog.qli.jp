@@ -4,7 +4,7 @@ description: Apple Watch Series 7 の発売直後にMacBook Proがフルパワ�
 date: '2021-10-20T10:46:34.365Z'
 categories: []
 keywords: []
-slug: "202110-c70c1d0c-11e9-45fb-a60e-66c9f0733895"
+slug: "c70c1d0c-11e9-45fb-a60e-66c9f0733895"
 ---
 Apple Watch Series 7 の発売直後にMacBook Proがフルパワー全開！してしまったのもあり、導入から数日経ってしまいました。
 

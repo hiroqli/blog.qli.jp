@@ -4,7 +4,7 @@ description: ''
 date: '2008-09-15T13:28:33.000Z'
 categories: []
 keywords: []
-slug: "200809-8d9a756e-1bc5-4efe-9dc4-84b44463ff4b"
+slug: "8d9a756e-1bc5-4efe-9dc4-84b44463ff4b"
 ---
 くるりのシングルって買ったことなかったんですが、ついに買ってしまったという感じですね。すごくキャッチーで。
 

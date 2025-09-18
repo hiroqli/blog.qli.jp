@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-02T11:31:05.000Z'
 categories: []
 keywords: []
-slug: "200704-cb9e16d6-ac5e-4c89-b317-81dc1fad3b00"
+slug: "cb9e16d6-ac5e-4c89-b317-81dc1fad3b00"
 ---
 実は、Mozilla Thunderbird 2.0 RC1 \[バージョン 2.0.0.0 (20070326)\]がMozillaのFTPサイトにアップされています。ビジュアル的にも整えられた形となり、リリース準備万端といった感じです。
 

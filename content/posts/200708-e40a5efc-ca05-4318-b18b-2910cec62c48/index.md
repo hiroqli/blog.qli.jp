@@ -4,7 +4,7 @@ description: ''
 date: '2007-08-20T19:08:29.000Z'
 categories: []
 keywords: []
-slug: "200708-e40a5efc-ca05-4318-b18b-2910cec62c48"
+slug: "e40a5efc-ca05-4318-b18b-2910cec62c48"
 ---
 このブログでは特に取り扱わなかったのですが、先日発生したSkypeの大規模障害について詳細が明かされました。
 

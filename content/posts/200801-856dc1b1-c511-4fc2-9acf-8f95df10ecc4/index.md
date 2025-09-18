@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-07T23:08:32.000Z'
 categories: []
 keywords: []
-slug: "200801-856dc1b1-c511-4fc2-9acf-8f95df10ecc4"
+slug: "856dc1b1-c511-4fc2-9acf-8f95df10ecc4"
 ---
 SonyがSkype for PSPを発表しました。新型PSPのみですが、1月末に予定されているアップデートにて利用可能になるようです。去年のmylo発売以来、PSPにもという声が絶えませんでしたが、ここに来てやっと発表です。
 

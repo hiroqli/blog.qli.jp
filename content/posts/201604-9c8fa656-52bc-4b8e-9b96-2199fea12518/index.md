@@ -4,7 +4,7 @@ description: ''
 date: '2016-04-09T02:09:30.000Z'
 categories: []
 keywords: []
-slug: "201604-9c8fa656-52bc-4b8e-9b96-2199fea12518"
+slug: "9c8fa656-52bc-4b8e-9b96-2199fea12518"
 ---
 iPad Proを購入するときにSmart Coverを一緒に購入した。一時期風呂蓋と揶揄された、アレだ。
 

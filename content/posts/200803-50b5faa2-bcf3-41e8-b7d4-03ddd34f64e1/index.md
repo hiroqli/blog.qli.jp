@@ -4,7 +4,7 @@ description: ""
 date: "2008-03-01T01:06:59.000Z"
 categories: []
 keywords: []
-slug: "200803-50b5faa2-bcf3-41e8-b7d4-03ddd34f64e1"
+slug: "50b5faa2-bcf3-41e8-b7d4-03ddd34f64e1"
 ---
 
 先日 Vox に以下のような記事が掲載されていました。

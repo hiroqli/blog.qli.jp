@@ -4,7 +4,7 @@ description: Ya Ya Ya とかいいません
 date: '2018-05-10T11:08:39.993Z'
 categories: []
 keywords: []
-slug: "201805-c1286840-f0d5-45c6-929a-8f9c5ca63a17"
+slug: "c1286840-f0d5-45c6-929a-8f9c5ca63a17"
 ---
 ![](1__1s3GYs__1LuD__IVor3__eS7A.jpeg)
 

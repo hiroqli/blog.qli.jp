@@ -4,7 +4,7 @@ description: ''
 date: '2009-09-02T09:00:11.000Z'
 categories: []
 keywords: []
-slug: "200909-b727ccbc-d7ae-4bdb-8149-a6bd380b52b2"
+slug: "b727ccbc-d7ae-4bdb-8149-a6bd380b52b2"
 ---
 Twitterでおつきあい頂いている方には分かっていると思いますが、ブログには紹介しきれていないほどの多数のWEBサービスのアカウントを持っていたりします。
 

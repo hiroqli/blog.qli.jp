@@ -4,7 +4,7 @@ description: ''
 date: '2023-08-26T03:02:25.567Z'
 categories: []
 keywords: []
-slug: "202308-846fe61b-b734-4647-bc29-c74a5d95a5a1"
+slug: "846fe61b-b734-4647-bc29-c74a5d95a5a1"
 ---
 ![](1__XegeXZ1gogwGEu7BLtWTVw.jpeg)
 

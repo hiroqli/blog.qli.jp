@@ -4,7 +4,7 @@ description: "「Apple 2021秋まつり Mac編」こと、unleashedイベント�
 date: '2021-10-26T09:37:38.383Z'
 categories: []
 keywords: []
-slug: "202110-775bd100-2c41-4061-a457-5da964f1a2a8"
+slug: "775bd100-2c41-4061-a457-5da964f1a2a8"
 ---
 「Apple 2021秋まつり Mac編」こと、unleashedイベントが無事に終わり、今日は26日。macOSをはじめとした、Appleの各種OSのアップデートと、AirPods、新しいMacBook、そして布が出荷されています。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2010-09-02T20:25:03.000Z'
 categories: []
 keywords: []
-slug: "201009-8ab34e3f-1906-4cc2-ab87-14c6067bc0d4"
+slug: "8ab34e3f-1906-4cc2-ab87-14c6067bc0d4"
 ---
 毎年恒例のAppleのiPod/iTunes 新製品発表会が行われました。
 

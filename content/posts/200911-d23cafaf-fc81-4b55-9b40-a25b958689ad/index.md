@@ -4,7 +4,7 @@ description: ''
 date: '2009-11-30T10:08:32.000Z'
 categories: []
 keywords: []
-slug: "200911-d23cafaf-fc81-4b55-9b40-a25b958689ad"
+slug: "d23cafaf-fc81-4b55-9b40-a25b958689ad"
 ---
 いくつか思うことがあったので、雑記感覚で書いてみよう。
 

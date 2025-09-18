@@ -4,7 +4,7 @@ description: ''
 date: '2011-03-29T21:34:27.000Z'
 categories: []
 keywords: []
-slug: "201103-327093a3-d3f9-406f-a9ad-964bba0e5ddd"
+slug: "327093a3-d3f9-406f-a9ad-964bba0e5ddd"
 ---
 Mac用GTDツール Things の開発元である CulturedCode は、自身のブログでCloud Syncのテスト開始を予告しました。
 

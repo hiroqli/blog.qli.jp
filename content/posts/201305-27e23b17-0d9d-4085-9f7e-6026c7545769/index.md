@@ -4,7 +4,7 @@ description: ''
 date: '2013-05-29T22:05:46.000Z'
 categories: []
 keywords: []
-slug: "201305-27e23b17-0d9d-4085-9f7e-6026c7545769"
+slug: "27e23b17-0d9d-4085-9f7e-6026c7545769"
 ---
 Apple CEOである Tim Cook氏が D11: All Things Digital というイベントの中でインタビューに応じていろんなことを話したそうなので、そのまとめ。
 

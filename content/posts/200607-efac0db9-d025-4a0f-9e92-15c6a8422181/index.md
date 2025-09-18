@@ -4,7 +4,7 @@ description: ""
 date: "2006-07-05T00:21:54.000Z"
 categories: []
 keywords: []
-slug: "200607-efac0db9-d025-4a0f-9e92-15c6a8422181"
+slug: "efac0db9-d025-4a0f-9e92-15c6a8422181"
 ---
 
 先ほどの書き込み「[i d e a \* i d e a — The Inbox Makeover ですっきり](/posts/fbb3dcce-1356-46ee-9621-4f03305a82de/)」の続き。

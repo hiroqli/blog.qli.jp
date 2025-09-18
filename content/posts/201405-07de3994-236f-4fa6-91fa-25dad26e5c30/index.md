@@ -4,7 +4,7 @@ description: ''
 date: '2014-05-06T21:21:31.000Z'
 categories: []
 keywords: []
-slug: "201405-07de3994-236f-4fa6-91fa-25dad26e5c30"
+slug: "07de3994-236f-4fa6-91fa-25dad26e5c30"
 ---
 iTunes Matchのプロセスが終わりました。
 

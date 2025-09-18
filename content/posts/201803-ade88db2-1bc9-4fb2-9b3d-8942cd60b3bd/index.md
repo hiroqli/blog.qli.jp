@@ -4,7 +4,7 @@ description: 2017年5月にThings 3がリリースされて10ヶ月ほど。こ�
 date: '2018-03-14T10:26:09.229Z'
 categories: []
 keywords: []
-slug: "201803-ade88db2-1bc9-4fb2-9b3d-8942cd60b3bd"
+slug: "ade88db2-1bc9-4fb2-9b3d-8942cd60b3bd"
 ---
 2017年5月にThings 3がリリースされて10ヶ月ほど。この辺りで、Things 3の使い方とかをスナップショット的にまとめておく。
 

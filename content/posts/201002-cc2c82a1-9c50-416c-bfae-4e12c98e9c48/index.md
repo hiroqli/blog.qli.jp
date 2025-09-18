@@ -4,7 +4,7 @@ description: ''
 date: '2010-02-20T03:14:15.000Z'
 categories: []
 keywords: []
-slug: "201002-cc2c82a1-9c50-416c-bfae-4e12c98e9c48"
+slug: "cc2c82a1-9c50-416c-bfae-4e12c98e9c48"
 ---
 パレードみてきた。朝の上映以外は基本的に夜らしい。行定監督とはい え、監督の名前だけでは人は入らないのかな。
 

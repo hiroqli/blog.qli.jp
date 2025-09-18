@@ -4,7 +4,7 @@ description: ""
 date: "2006-08-24T10:25:00.000Z"
 categories: []
 keywords: []
-slug: "200608-0d11c6c7-189f-4608-a8d5-f85857928a87"
+slug: "0d11c6c7-189f-4608-a8d5-f85857928a87"
 ---
 
 Google のオフィシャルブログへの Google Mac 専用エンジニアの投稿がありました。どうやら、Google Notifier がバージョンアップしたみたいです。

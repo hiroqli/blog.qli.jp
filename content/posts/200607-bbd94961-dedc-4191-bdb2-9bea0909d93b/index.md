@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-14T15:04:28.000Z'
 categories: []
 keywords: []
-slug: "200607-bbd94961-dedc-4191-bdb2-9bea0909d93b"
+slug: "bbd94961-dedc-4191-bdb2-9bea0909d93b"
 ---
 田口さんが書かれているGTD関連の記事にトリガーリストが追加されました。これは完全保存版ですよ！
 

@@ -4,7 +4,7 @@ description: ''
 date: '2012-06-30T15:24:08.000Z'
 categories: []
 keywords: []
-slug: "201206-05c3927b-bf24-45a1-8364-6d1a0aed1323"
+slug: "05c3927b-bf24-45a1-8364-6d1a0aed1323"
 ---
 今年のMacは、MacBook Air 11インチに決まりました。今年のっていっても、これまで使っていたモデルは MacBook Air 13インチ Late 2010 なので、約２年ぶりの更新になります。
 

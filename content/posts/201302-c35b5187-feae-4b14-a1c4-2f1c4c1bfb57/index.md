@@ -4,7 +4,7 @@ description: ''
 date: '2013-02-13T22:07:17.000Z'
 categories: []
 keywords: []
-slug: "201302-c35b5187-feae-4b14-a1c4-2f1c4c1bfb57"
+slug: "c35b5187-feae-4b14-a1c4-2f1c4c1bfb57"
 ---
 [Thingsの使い方](http://blog.qli.jp/2013/01/things2-manual-201301.html)をまとめたので次はOmniFocusの使い方をまとめておきます。OmniFocusはすでに次バージョンでUIに変更があることが発表されていますが、データ構造は変わらないため、使い方に影響があるものではないと考えています。参考までに、現在のバージョンは 1.10.4 です。
 

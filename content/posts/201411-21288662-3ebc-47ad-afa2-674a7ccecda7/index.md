@@ -4,7 +4,7 @@ description: ''
 date: '2014-11-15T00:17:10.000Z'
 categories: []
 keywords: []
-slug: "201411-21288662-3ebc-47ad-afa2-674a7ccecda7"
+slug: "21288662-3ebc-47ad-afa2-674a7ccecda7"
 ---
 記事自体スルーしてしまおうかと思ったけど、いい機会なので言及する形で書いておくことにする。という記事はこちら。
 

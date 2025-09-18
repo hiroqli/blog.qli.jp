@@ -4,7 +4,7 @@ description: Motif は”モチーフ”です
 date: '2022-08-09T12:30:45.968Z'
 categories: []
 keywords: []
-slug: "202208-6868e0bb-40e1-4ddb-8a38-7d87f8d7aeb3"
+slug: "6868e0bb-40e1-4ddb-8a38-7d87f8d7aeb3"
 ---
 Marshall から出ている Motif A.N.C.を試してみたので紹介します。
 

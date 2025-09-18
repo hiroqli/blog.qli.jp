@@ -4,7 +4,7 @@ description: ''
 date: '2006-10-31T23:39:31.000Z'
 categories: []
 keywords: []
-slug: "200610-38968041-82f9-4e85-b0a7-90c762fc2e2d"
+slug: "38968041-82f9-4e85-b0a7-90c762fc2e2d"
 ---
 GoogleがjotSpotというサービスを買ったことを発表しました。
 

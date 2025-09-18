@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-13T09:19:17.000Z'
 categories: []
 keywords: []
-slug: "200704-5c40e02f-5f09-41fc-8590-8ece96652ce1"
+slug: "5c40e02f-5f09-41fc-8590-8ece96652ce1"
 ---
 Leopardのリリースが延期されました。iPhoneの開発が難航しているのでしょうかね。おそらく、iTVの延期も少なからず影響しているんだと思いますが。
 

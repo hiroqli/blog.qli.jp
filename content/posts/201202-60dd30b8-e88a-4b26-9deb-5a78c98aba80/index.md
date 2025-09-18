@@ -4,7 +4,7 @@ description: ''
 date: '2012-02-16T23:15:03.000Z'
 categories: []
 keywords: []
-slug: "201202-60dd30b8-e88a-4b26-9deb-5a78c98aba80"
+slug: "60dd30b8-e88a-4b26-9deb-5a78c98aba80"
 ---
 Appleが次期OS、マウンテンライオンを発表しました([リンク](http://www.apple.com/macosx/mountain-lion/))。リリースは今夏と発表されていて、OS X Lionが2011年7月発売でしたので、約1年のアップデートとなります。
 

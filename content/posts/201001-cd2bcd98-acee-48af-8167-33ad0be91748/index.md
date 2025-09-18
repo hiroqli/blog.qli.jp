@@ -4,7 +4,7 @@ description: ''
 date: '2010-01-27T08:45:45.000Z'
 categories: []
 keywords: []
-slug: "201001-cd2bcd98-acee-48af-8167-33ad0be91748"
+slug: "cd2bcd98-acee-48af-8167-33ad0be91748"
 ---
 いよいよ迫ってきました。ずいぶん長いことあったウワサ合戦にもついに終止符が打たれるときがやってきました。Appleのイベント”Come see our latest creation”は、現地時間27日10am、[日本時間28日3am](http://www.timeanddate.com/worldclock/fixedtime.html?day=27&month=1&year=2010&hour=10&min=0&sec=0&p1=137)に開始となります。
 

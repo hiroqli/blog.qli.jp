@@ -4,7 +4,7 @@ description: ''
 date: '2010-12-01T22:15:17.000Z'
 categories: []
 keywords: []
-slug: "201012-9e38ae2a-c9dc-4e3e-8943-08601b645ab9"
+slug: "9e38ae2a-c9dc-4e3e-8943-08601b645ab9"
 ---
 David Allenさん著”Make It All Work”の和訳本”ひとつ上のGTD ストレスフリーの仕事術 実践編”を読みました。英語の方も持っているのですが、今回は日本語ということでじっくりと。
 

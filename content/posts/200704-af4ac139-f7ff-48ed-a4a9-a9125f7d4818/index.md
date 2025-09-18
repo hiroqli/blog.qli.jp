@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-05T11:19:05.000Z'
 categories: []
 keywords: []
-slug: "200704-af4ac139-f7ff-48ed-a4a9-a9125f7d4818"
+slug: "af4ac139-f7ff-48ed-a4a9-a9125f7d4818"
 ---
 Mozilla Labsからfirefoxをベースにした[ソーシャルブラウザCoopの研究のニュース](http://jp.techcrunch.com/archives/mozilla-to-build-social-features-into-firefox-bad-news-for-flock/)が飛び込んできましたが、これについて同じくFirefoxベースでソーシャルブラウザを開発しているFlockからのコメントがありました。
 

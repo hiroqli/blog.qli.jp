@@ -4,7 +4,7 @@ description: ''
 date: '2007-09-26T14:46:00.000Z'
 categories: []
 keywords: []
-slug: "200709-1b6ed6e4-5c34-4742-ab06-c281b1df1a0f"
+slug: "1b6ed6e4-5c34-4742-ab06-c281b1df1a0f"
 ---
 ブログではあまり触れないようにしていたのだけど、もうかれこれ10年近くMr.Children onlineというサイトを運営している。この間、そちらで「近い将来閉鎖します」という閉鎖宣言をした。
 

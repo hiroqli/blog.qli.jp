@@ -4,7 +4,7 @@ description: 1回目のスクラムフェス福岡を3月4日に開催できま�
 date: "2023-03-06T03:19:19.596Z"
 categories: []
 keywords: []
-slug: "202303-d2540bf9-6d3e-411e-a10a-f4c3d1ddb56e"
+slug: "d2540bf9-6d3e-411e-a10a-f4c3d1ddb56e"
 cover:
   image: 1__BxF4pcHq__MISUTtH7wXWpQ.jpeg
   # can also paste direct link from external site

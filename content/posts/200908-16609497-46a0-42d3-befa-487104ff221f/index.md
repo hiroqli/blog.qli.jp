@@ -4,7 +4,7 @@ description: ''
 date: '2009-08-08T22:21:32.000Z'
 categories: []
 keywords: []
-slug: "200908-16609497-46a0-42d3-befa-487104ff221f"
+slug: "16609497-46a0-42d3-befa-487104ff221f"
 ---
 個人的にイチオシなバンドである l[ego big morl](http://www.legobigmorl.jp/) の久しぶりのシングル「溢れる」。全部で３曲入っているんですが、３曲ともいい。
 

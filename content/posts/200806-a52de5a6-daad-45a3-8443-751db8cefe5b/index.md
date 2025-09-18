@@ -4,7 +4,7 @@ description: ''
 date: '2008-06-28T17:08:39.000Z'
 categories: []
 keywords: []
-slug: "200806-a52de5a6-daad-45a3-8443-751db8cefe5b"
+slug: "a52de5a6-daad-45a3-8443-751db8cefe5b"
 ---
 2008年7月11日といえば、もちろんiPhone 3Gが日本で発売される日です。iPhone 3GはどうやらApple Storeでの販売を行わず、Softbank shopもしくはSoftbank mobile取り扱い量販店で販売されることになるようです（この場合、Apple Shopでは販売されるかもしれませんね）。
 

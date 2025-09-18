@@ -4,7 +4,7 @@ description: ''
 date: '2012-05-23T22:18:16.000Z'
 categories: []
 keywords: []
-slug: "201205-c61f57ec-37d5-4e77-bb3d-9efa65ee3c24"
+slug: "c61f57ec-37d5-4e77-bb3d-9efa65ee3c24"
 ---
 お気づきの方もいらっしゃるかもしれませんが、ブログのデザインをいろいろ変更していました。
 

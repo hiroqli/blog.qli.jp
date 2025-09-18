@@ -4,7 +4,7 @@ description: ''
 date: '2006-12-01T21:39:18.000Z'
 categories: []
 keywords: []
-slug: "200612-497d31cb-d605-4e5f-9503-2d2d7dd58a45"
+slug: "497d31cb-d605-4e5f-9503-2d2d7dd58a45"
 ---
 リンク: [拡大するソーシャル系 — 欲しいモノを公開・共有するサービスが登場 — CNET Japan](http://japan.cnet.com/news/media/story/0,2000056023,20335167,00.htm?ref=rss "拡大するソーシャル系--欲しいモノを公開・共有するサービスが登場 - CNET Japan").
 

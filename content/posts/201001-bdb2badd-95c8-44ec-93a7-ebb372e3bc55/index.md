@@ -4,7 +4,7 @@ description: ''
 date: '2010-01-17T21:04:21.000Z'
 categories: []
 keywords: []
-slug: "201001-bdb2badd-95c8-44ec-93a7-ebb372e3bc55"
+slug: "bdb2badd-95c8-44ec-93a7-ebb372e3bc55"
 ---
 突然ですが、先日からMOLESKINEを持ち歩いています。
 

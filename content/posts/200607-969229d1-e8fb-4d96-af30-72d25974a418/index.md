@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-25T17:14:12.000Z'
 categories: []
 keywords: []
-slug: "200607-969229d1-e8fb-4d96-af30-72d25974a418"
+slug: "969229d1-e8fb-4d96-af30-72d25974a418"
 ---
 リンク: [ITmedia News：JASRAC、YouTubeに削除要請 ACCSも「対策を検討」](http://www.itmedia.co.jp/news/articles/0607/25/news083.html "ITmedia News：JASRAC、YouTubeに削除要請　ACCSも「対策を検討」").
 

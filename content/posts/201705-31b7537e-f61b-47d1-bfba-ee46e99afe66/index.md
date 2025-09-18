@@ -4,7 +4,7 @@ description: "「5月リリースとは言ったけど、さすがに1日じゃ�
 date: '2017-05-04T00:32:09.932Z'
 categories: []
 keywords: []
-slug: "201705-31b7537e-f61b-47d1-bfba-ee46e99afe66"
+slug: "31b7537e-f61b-47d1-bfba-ee46e99afe66"
 ---
 ![](1__j1qUqRty7jozdDZBS1v9Lw.jpeg)
 

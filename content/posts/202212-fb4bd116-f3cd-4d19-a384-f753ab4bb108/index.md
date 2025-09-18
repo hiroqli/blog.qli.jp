@@ -4,7 +4,7 @@ description: ここ最近は、YouTubeを見る時間が増えています。も
 date: '2022-12-21T12:34:37.443Z'
 categories: []
 keywords: []
-slug: "202212-fb4bd116-f3cd-4d19-a384-f753ab4bb108"
+slug: "fb4bd116-f3cd-4d19-a384-f753ab4bb108"
 ---
 ![](1__8b6qHxggmG5SAc7TeQHaeQ.jpeg)
 

@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-05T21:25:48.000Z'
 categories: []
 keywords: []
-slug: "200706-0840de41-823a-4c52-8fd7-b41fc1fc5627"
+slug: "0840de41-823a-4c52-8fd7-b41fc1fc5627"
 ---
 Appleが先週のMacBookの発表に引き続き、新しいMacBook Proを発表しました。来週のWWDCをにらんだ２週間連続のMacBookシリーズのアップデート、残るは、iMac、Mac mini、そしてウワサのMacBook miniです。  
 WWDCでは、iPhoneと、Leopardがメインになると思いますが、新しいハードは発表されるのでしょうか？

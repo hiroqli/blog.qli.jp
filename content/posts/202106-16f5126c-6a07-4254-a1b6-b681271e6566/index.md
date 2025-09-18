@@ -4,7 +4,7 @@ description: 6月19日神戸戦が終わり、アビスパ福岡の前半戦が�
 date: '2021-06-21T11:20:47.448Z'
 categories: []
 keywords: []
-slug: "202106-16f5126c-6a07-4254-a1b6-b681271e6566"
+slug: "16f5126c-6a07-4254-a1b6-b681271e6566"
 ---
 ![](1__GxBQF0NSVZfWBwwGYpnXlQ.jpeg)
 

@@ -4,7 +4,7 @@ description: ""
 date: "2006-06-23T22:27:04.000Z"
 categories: []
 keywords: []
-slug: "200606-86a1ef61-9552-44f6-872f-f8c1cb46b000"
+slug: "86a1ef61-9552-44f6-872f-f8c1cb46b000"
 ---
 
 今欲しいものがある。それはコメント管理だ。

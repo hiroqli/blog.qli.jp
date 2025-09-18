@@ -4,7 +4,7 @@ description: iPhone XS と Watch 4 を買いました。受け取りは、最寄
 date: '2018-09-21T08:26:24.159Z'
 categories: []
 keywords: []
-slug: "201809-3fe92aa8-6162-4045-8118-cf378f229dc1"
+slug: "3fe92aa8-6162-4045-8118-cf378f229dc1"
 ---
 iPhone XS と Watch 4 を買いました。受け取りは、最寄りのApple Storeである、Apple 新宿です。どうやら今年もメディア対応は表参道で実施したようですね。
 

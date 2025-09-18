@@ -4,7 +4,7 @@ description: ''
 date: '2006-06-29T12:12:54.000Z'
 categories: []
 keywords: []
-slug: "200606-a03a1abf-b7ab-47d0-800d-d263aebe5f3f"
+slug: "a03a1abf-b7ab-47d0-800d-d263aebe5f3f"
 ---
 時事問題を発見したのでトラバってみる。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2007-07-22T21:25:11.000Z'
 categories: []
 keywords: []
-slug: "200707-a54e15fc-bd8c-4b2d-bfca-96eef4449169"
+slug: "a54e15fc-bd8c-4b2d-bfca-96eef4449169"
 ---
 先日、Bloggerユーザオフなるものに行ってきました。bloggerっていうのはGoogleが2003年に買収したブログサービスのことです。
 

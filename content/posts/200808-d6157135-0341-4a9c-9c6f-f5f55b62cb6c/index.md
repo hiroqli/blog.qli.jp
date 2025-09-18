@@ -4,7 +4,7 @@ description: ''
 date: '2008-08-09T11:39:57.000Z'
 categories: []
 keywords: []
-slug: "200808-d6157135-0341-4a9c-9c6f-f5f55b62cb6c"
+slug: "d6157135-0341-4a9c-9c6f-f5f55b62cb6c"
 ---
 8月5日に、iPhoneの母艦用になっているMacBookのHDDが突然壊れて起動しなくなりました。ディスクユーティリティをかけると、論理的には直せないエラーだったのでフォーマットしようとすると「input/output error」。もう物理的にダメということのようでした。
 

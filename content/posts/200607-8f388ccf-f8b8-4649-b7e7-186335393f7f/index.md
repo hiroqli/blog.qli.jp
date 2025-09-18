@@ -4,7 +4,7 @@ description: ""
 date: "2006-07-06T10:59:58.000Z"
 categories: []
 keywords: []
-slug: "200607-8f388ccf-f8b8-4649-b7e7-186335393f7f"
+slug: "8f388ccf-f8b8-4649-b7e7-186335393f7f"
 ---
 
 いまごろ見つけました。

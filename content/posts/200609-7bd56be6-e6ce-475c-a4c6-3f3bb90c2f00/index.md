@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-20T23:04:04.000Z'
 categories: []
 keywords: []
-slug: "200609-7bd56be6-e6ce-475c-a4c6-3f3bb90c2f00"
+slug: "7bd56be6-e6ce-475c-a4c6-3f3bb90c2f00"
 ---
 Skypeが 10分間Skyoe out無料ギフトを配るイベントSkype dayが開催されています。なんと今回はMac User対象です！やってくれますねぇ、Skype。
 

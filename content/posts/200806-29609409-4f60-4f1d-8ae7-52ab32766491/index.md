@@ -4,7 +4,7 @@ description: ''
 date: '2008-06-07T16:20:44.000Z'
 categories: []
 keywords: []
-slug: "200806-29609409-4f60-4f1d-8ae7-52ab32766491"
+slug: "29609409-4f60-4f1d-8ae7-52ab32766491"
 ---
 NHKで”Save the Future”という番組をやっていて、同じ時期にNHKのお膝元である代々木公園でエコ関係のイベントをやっている。
 

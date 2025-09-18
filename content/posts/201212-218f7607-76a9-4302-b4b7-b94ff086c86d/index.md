@@ -4,7 +4,7 @@ description: ''
 date: '2012-12-29T11:32:50.000Z'
 categories: []
 keywords: []
-slug: "201212-218f7607-76a9-4302-b4b7-b94ff086c86d"
+slug: "218f7607-76a9-4302-b4b7-b94ff086c86d"
 ---
 年末にお荷物が届きました。
 

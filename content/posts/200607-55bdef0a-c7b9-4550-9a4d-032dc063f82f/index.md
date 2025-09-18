@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-26T00:10:17.000Z'
 categories: []
 keywords: []
-slug: "200607-55bdef0a-c7b9-4550-9a4d-032dc063f82f"
+slug: "55bdef0a-c7b9-4550-9a4d-032dc063f82f"
 ---
 すごく重要な情報を見つけてしまいました。というか見逃してました。  
   

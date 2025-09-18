@@ -4,7 +4,7 @@ description: ''
 date: '2007-10-31T17:49:19.000Z'
 categories: []
 keywords: []
-slug: "200710-f7c58576-c06a-4b06-8f6c-9c4daea3526e"
+slug: "f7c58576-c06a-4b06-8f6c-9c4daea3526e"
 ---
 まだまだ全アカウントには到達し切れていないようですが、自分のアカウントにはGmailのアカウント、Google Appsのアカウントともに先週末のLeopard祭りのさなかにやってきました。GmailのアカウントはさっそくMail.appに設定していますので、その雑感を。
 

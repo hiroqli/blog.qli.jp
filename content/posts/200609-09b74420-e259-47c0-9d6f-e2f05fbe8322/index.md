@@ -4,7 +4,7 @@ description: ""
 date: "2006-09-19T18:51:00.000Z"
 categories: []
 keywords: []
-slug: "200609-09b74420-e259-47c0-9d6f-e2f05fbe8322"
+slug: "09b74420-e259-47c0-9d6f-e2f05fbe8322"
 ---
 
 **ページタイトル:** フォクすけ＊ブログ

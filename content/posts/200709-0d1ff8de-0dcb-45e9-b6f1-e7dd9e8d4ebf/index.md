@@ -4,7 +4,7 @@ description: ''
 date: '2007-09-18T14:10:45.000Z'
 categories: []
 keywords: []
-slug: "200709-0d1ff8de-0dcb-45e9-b6f1-e7dd9e8d4ebf"
+slug: "0d1ff8de-0dcb-45e9-b6f1-e7dd9e8d4ebf"
 ---
 Google Readerが先ほど日本語化されました。URLに変更はありません。いつも使っているURLで、いつも読んでいるフィードが日本語UIとなったGoogle Readerで読めます。
 

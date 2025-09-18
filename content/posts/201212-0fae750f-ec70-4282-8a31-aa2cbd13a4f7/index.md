@@ -4,7 +4,7 @@ description: ''
 date: '2012-12-05T09:34:51.000Z'
 categories: []
 keywords: []
-slug: "201212-0fae750f-ec70-4282-8a31-aa2cbd13a4f7"
+slug: "0fae750f-ec70-4282-8a31-aa2cbd13a4f7"
 ---
 Gmailアプリ for iOSがアップデートしました。非常にsparrow的で使っていて気持ちいいですね。送信元(from)の変更もできるし、Gmailユーザーとしてはこのアプリは満足できるものになっているのではないでしょうか？
 

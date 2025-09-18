@@ -4,7 +4,7 @@ description: ''
 date: '2009-01-01T20:02:33.000Z'
 categories: []
 keywords: []
-slug: "200901-2bbde0dd-952d-4635-aa36-9262e317ca00"
+slug: "2bbde0dd-952d-4635-aa36-9262e317ca00"
 ---
 昨日は久しぶりに紅白歌合戦というものを見ていました。ここ数年はCountdown japanに参加していて、ライブ中だったり、帰宅の電車の中だったりだったので、新鮮でした。
 

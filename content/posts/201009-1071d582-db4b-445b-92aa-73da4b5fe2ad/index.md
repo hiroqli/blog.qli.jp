@@ -4,7 +4,7 @@ description: ''
 date: '2010-09-05T18:19:32.000Z'
 categories: []
 keywords: []
-slug: "201009-1071d582-db4b-445b-92aa-73da4b5fe2ad"
+slug: "1071d582-db4b-445b-92aa-73da4b5fe2ad"
 ---
 自分用のメモ書きの意味も含めて、ちょっと書いておきたい。
 

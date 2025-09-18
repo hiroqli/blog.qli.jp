@@ -4,7 +4,7 @@ description: ''
 date: '2008-10-31T22:32:59.000Z'
 categories: []
 keywords: []
-slug: "200810-ec10b058-46dd-40a8-a368-e26e40acd059"
+slug: "ec10b058-46dd-40a8-a368-e26e40acd059"
 ---
 レミオロメンの新アルバムが出ました。ツアーも決定していますね。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2023-07-29T03:02:01.371Z'
 categories: []
 keywords: []
-slug: "202307-b7bb7639-0755-4f38-a6b1-5e2953695f32"
+slug: "b7bb7639-0755-4f38-a6b1-5e2953695f32"
 ---
 Twitterのタイムラインから急に流れてきたNature Remo nanoの発売。早速手にいれて使い始めている。
 

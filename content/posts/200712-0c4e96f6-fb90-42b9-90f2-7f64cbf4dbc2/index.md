@@ -4,7 +4,7 @@ description: ''
 date: '2007-12-03T23:36:25.000Z'
 categories: []
 keywords: []
-slug: "200712-0c4e96f6-fb90-42b9-90f2-7f64cbf4dbc2"
+slug: "0c4e96f6-fb90-42b9-90f2-7f64cbf4dbc2"
 ---
 Googleが自身のベータ版以前のサービスを試験する場として設けているGoogle LabsでExperimental Searchというサービスを始めています。
 

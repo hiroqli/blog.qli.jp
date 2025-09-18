@@ -4,7 +4,7 @@ description: ''
 date: '2009-12-07T22:20:57.000Z'
 categories: []
 keywords: []
-slug: "200912-8233a4d3-0d65-4c57-ae85-b5967a4d4ee5"
+slug: "8233a4d3-0d65-4c57-ae85-b5967a4d4ee5"
 ---
 WEB学会シンポジウムに参加した。内容はともかくとして雑感を少し。
 

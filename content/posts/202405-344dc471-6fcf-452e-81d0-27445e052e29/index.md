@@ -4,7 +4,7 @@ description: 久しぶりに野外フェスに行きました。その日に限�
 date: '2024-05-04T03:02:13.476Z'
 categories: []
 keywords: []
-slug: "202405-344dc471-6fcf-452e-81d0-27445e052e29"
+slug: "344dc471-6fcf-452e-81d0-27445e052e29"
 ---
 ![](1__f5I39MkQtdTd2__FFjVNhjg.jpeg)
 

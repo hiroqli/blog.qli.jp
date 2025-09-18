@@ -4,7 +4,7 @@ description: ''
 date: '2008-06-20T12:28:44.000Z'
 categories: []
 keywords: []
-slug: "200806-4740803b-b5d8-4af0-b06a-9b172d17f536"
+slug: "4740803b-b5d8-4af0-b06a-9b172d17f536"
 ---
 Firefox3そっちのけでiPhoneづくしです。というのも”WebとMacと音楽と”をキーフレーズにしているこのブログでは、iPhoneほど取り上げるのにぴったりなデバイスって他にないのです。
 

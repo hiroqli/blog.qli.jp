@@ -4,7 +4,7 @@ description: ''
 date: '2007-10-18T19:05:26.000Z'
 categories: []
 keywords: []
-slug: "200710-69d36f7d-c5d1-4fa8-aa61-d319b01e4e01"
+slug: "69d36f7d-c5d1-4fa8-aa61-d319b01e4e01"
 ---
 今日は今週発売になったSalyuさんの新曲”LIBERTY”のレビューを。
 

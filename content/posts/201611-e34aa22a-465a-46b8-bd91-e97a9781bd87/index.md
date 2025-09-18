@@ -4,7 +4,7 @@ description: '2016年に「ストレスフリーの仕事術」（原題: READY 
 date: '2016-11-06T02:35:22.871Z'
 categories: []
 keywords: []
-slug: "201611-e34aa22a-465a-46b8-bd91-e97a9781bd87"
+slug: "e34aa22a-465a-46b8-bd91-e97a9781bd87"
 ---
 2016年に「ストレスフリーの仕事術」（原題: READY for ANYTHING）を購入してもう10年が経った。GTDを最初に取り組んでみて、もう10年経過したことになる。
 

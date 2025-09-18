@@ -4,7 +4,7 @@ description: ''
 date: '2008-06-21T06:38:48.000Z'
 categories: []
 keywords: []
-slug: "200806-fd37b9d0-96e5-42ed-a6dc-e82c250460e8"
+slug: "fd37b9d0-96e5-42ed-a6dc-e82c250460e8"
 ---
 今日から７月７日まで、”１００万人のキャンドルナイト”が始まります。
 

@@ -4,7 +4,7 @@ description: 佐野さんの件について触れたい。
 date: '2015-08-25T00:24:06.805Z'
 categories: []
 keywords: []
-slug: "201508-47be31f3-ea20-4452-ad6c-b09d7eafcef8"
+slug: "47be31f3-ea20-4452-ad6c-b09d7eafcef8"
 ---
 佐野さんの件について触れたい。
 

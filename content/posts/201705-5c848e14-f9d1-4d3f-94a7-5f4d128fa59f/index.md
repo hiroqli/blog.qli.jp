@@ -4,6 +4,6 @@ description: ''
 date: '2017-05-02T02:11:22.372Z'
 categories: []
 keywords: []
-slug: "201705-5c848e14-f9d1-4d3f-94a7-5f4d128fa59f"
+slug: "5c848e14-f9d1-4d3f-94a7-5f4d128fa59f"
 ---
 スペシャリティコーヒーってまさにそういう志向のもとに生まれたものじゃなかったっけ？

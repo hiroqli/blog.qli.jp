@@ -4,7 +4,7 @@ description: ''
 date: '2010-10-26T21:08:50.000Z'
 categories: []
 keywords: []
-slug: "201010-94ff3e48-bd8f-4eff-8ccc-0535ffd2d0bd"
+slug: "94ff3e48-bd8f-4eff-8ccc-0535ffd2d0bd"
 ---
 発表されてすぐ注文したMacBook Airが届きました。11.6インチもありましたが、13インチを選択しました。Googleのアップデート検索では、Twitterの発言数をグラフ化してくれるのですが、これをみるとTwitterでもMacBook Air祭りになっていた感がよく分かります。今日は発表後すぐに注文した人に一斉に届けられたようです。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2009-10-06T08:33:57.000Z'
 categories: []
 keywords: []
-slug: "200910-7ec98fc3-e93c-460e-831d-0f622d902722"
+slug: "7ec98fc3-e93c-460e-831d-0f622d902722"
 ---
 あまりブログのテーマとは関係ないのだけど、気になったので。
 

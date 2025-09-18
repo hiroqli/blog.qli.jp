@@ -4,7 +4,7 @@ description: ''
 date: '2010-08-21T07:53:56.000Z'
 categories: []
 keywords: []
-slug: "201008-8514a7cb-6fe1-4c39-aa47-3f99a8e5e488"
+slug: "8514a7cb-6fe1-4c39-aa47-3f99a8e5e488"
 ---
 日記を書くだけの [OhLife](https://ohlife.com/) というサービス。[Techcrunchでも紹介されていた](http://jp.techcrunch.com/archives/20100817ohlife-personal-journal-email/)ので、ちょっと試してみているところです。
 

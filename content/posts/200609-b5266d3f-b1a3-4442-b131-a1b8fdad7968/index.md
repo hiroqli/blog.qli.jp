@@ -4,7 +4,7 @@ description: ""
 date: "2006-09-06T15:14:00.000Z"
 categories: []
 keywords: []
-slug: "200609-b5266d3f-b1a3-4442-b131-a1b8fdad7968"
+slug: "b5266d3f-b1a3-4442-b131-a1b8fdad7968"
 ---
 
 20 代半ばですが、Borland, Turbo と聞いて、懐かしい感じがしました。昔はどちらかというと Borland 派だったからかな。Delphi の”begin””end”構文系って最近あまり触った経験もないので。

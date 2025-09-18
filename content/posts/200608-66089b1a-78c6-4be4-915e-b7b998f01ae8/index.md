@@ -4,7 +4,7 @@ description: ""
 date: "2006-08-28T11:54:00.000Z"
 categories: []
 keywords: []
-slug: "200608-66089b1a-78c6-4be4-915e-b7b998f01ae8"
+slug: "66089b1a-78c6-4be4-915e-b7b998f01ae8"
 ---
 
 ついに google が ASP モデル/SaaS モデルでのサービスを開始しましたね。広告モデルのみからの脱却があるのかどうかが 1 つの注目点ですね。

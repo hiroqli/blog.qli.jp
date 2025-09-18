@@ -4,7 +4,7 @@ description: ''
 date: '2014-11-27T11:59:36.000Z'
 categories: []
 keywords: []
-slug: "201411-059f556e-461e-4b3c-aeb4-7e38e698e181"
+slug: "059f556e-461e-4b3c-aeb4-7e38e698e181"
 ---
 Once upon a time, The Slovenian was in Fukuoka. His name is Marijan Pušniks. He is a football coach for Avispa Fukuoka.
 

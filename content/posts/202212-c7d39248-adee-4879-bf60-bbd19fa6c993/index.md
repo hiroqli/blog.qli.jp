@@ -4,7 +4,7 @@ description: 2022年ももうすぐ終わりということで今年の音楽・
 date: '2022-12-25T02:41:19.730Z'
 categories: []
 keywords: []
-slug: "202212-c7d39248-adee-4879-bf60-bbd19fa6c993"
+slug: "c7d39248-adee-4879-bf60-bbd19fa6c993"
 ---
 ![](1__BePejLS8h4zcq0KyR10VUg.jpeg)
 

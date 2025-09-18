@@ -4,7 +4,7 @@ description: ""
 date: "2006-11-07T23:00:22.000Z"
 categories: []
 keywords: []
-slug: "200611-6ed75b5c-94a1-4f22-a6ec-1a40430d8405"
+slug: "6ed75b5c-94a1-4f22-a6ec-1a40430d8405"
 ---
 突然ですが、GTD で大切な”ハコ”は、
 

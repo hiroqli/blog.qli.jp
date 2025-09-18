@@ -4,7 +4,7 @@ description: ''
 date: '2008-12-15T22:27:44.000Z'
 categories: []
 keywords: []
-slug: "200812-45da6f66-aea8-4113-9cfb-9fbef7246099"
+slug: "45da6f66-aea8-4113-9cfb-9fbef7246099"
 ---
 非正規雇用大量解雇と新卒内定取り消し。今回はこんなちょっとまじめなお話。
 

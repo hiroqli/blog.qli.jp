@@ -4,7 +4,7 @@ description: ""
 date: "2006-08-27T20:00:35.000Z"
 categories: []
 keywords: []
-slug: "200608-0757c832-25d5-4c6d-b75c-072ea88d350b"
+slug: "0757c832-25d5-4c6d-b75c-072ea88d350b"
 ---
 
 [以前の書き込み](/posts/55c3f8c8-a379-467b-82f0-e12ed2cf3003/)で

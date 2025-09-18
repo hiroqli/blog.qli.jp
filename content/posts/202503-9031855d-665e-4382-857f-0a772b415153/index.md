@@ -4,7 +4,7 @@ description: ラジオを聴くのが習慣になって、もう何年も経つ�
 date: "2025-03-08T03:02:41.460Z"
 categories: []
 keywords: []
-slug: "202503-9031855d-665e-4382-857f-0a772b415153"
+slug: "9031855d-665e-4382-857f-0a772b415153"
 cover:
   image: "1__JFYtKfU7cgF3WLm0urXUqQ.jpeg"
   # can also paste direct link from external site

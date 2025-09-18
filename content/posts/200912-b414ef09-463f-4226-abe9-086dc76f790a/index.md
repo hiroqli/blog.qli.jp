@@ -4,7 +4,7 @@ description: ''
 date: '2009-12-27T11:12:18.000Z'
 categories: []
 keywords: []
-slug: "200912-b414ef09-463f-4226-abe9-086dc76f790a"
+slug: "b414ef09-463f-4226-abe9-086dc76f790a"
 ---
 Twitterでずいぶん感情的なポストが飛んでいたような気がする、ITmediaの[”iPhoneやめました](http://plusd.itmedia.co.jp/mobile/articles/0912/24/news101.html)”記事。個人的には、率直な感想が書かれたいい記事だと思っています。
 

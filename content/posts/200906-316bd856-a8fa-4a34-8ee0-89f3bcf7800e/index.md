@@ -4,7 +4,7 @@ description: ''
 date: '2009-06-24T22:13:30.000Z'
 categories: []
 keywords: []
-slug: "200906-316bd856-a8fa-4a34-8ee0-89f3bcf7800e"
+slug: "316bd856-a8fa-4a34-8ee0-89f3bcf7800e"
 ---
 最近アグレッシブなPosterousがやっぱりやってくれました。ビデオ投稿に対応したそうです。
 

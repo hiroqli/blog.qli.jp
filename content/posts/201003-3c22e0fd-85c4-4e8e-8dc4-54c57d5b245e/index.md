@@ -4,7 +4,7 @@ description: ''
 date: '2010-03-31T05:22:32.000Z'
 categories: []
 keywords: []
-slug: "201003-3c22e0fd-85c4-4e8e-8dc4-54c57d5b245e"
+slug: "3c22e0fd-85c4-4e8e-8dc4-54c57d5b245e"
 ---
 昨日、突然出てきたiPhone次モデルの噂が飛び交う中、auが発表会を行いました。彼らのスマートフォンブランドISシリーズ([official site](http://au-is.jp/))です。
 

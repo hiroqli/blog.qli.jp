@@ -4,7 +4,7 @@ description: ''
 date: '2011-10-01T10:46:28.000Z'
 categories: []
 keywords: []
-slug: "201110-2545b4a1-3a71-48df-8416-4777461ca834"
+slug: "2545b4a1-3a71-48df-8416-4777461ca834"
 ---
 auが LISMO Music Store を12月に停止すると発表しました([ニュースリリース](http://www.kddi.com/corporate/news_release/2011/0930/index.html)）。昨今のiPhoneのうわさと相まって、Twitter中心に盛り上がっている人がいて、勘違いしている人もいそうなので、LISMO Musicまわりを簡単に図にしてみました。（自分も調べながら作ったので、間違いなどあればご指摘ください）
 

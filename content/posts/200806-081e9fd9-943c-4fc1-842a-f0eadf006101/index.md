@@ -4,7 +4,7 @@ description: ''
 date: '2008-06-10T03:45:35.000Z'
 categories: []
 keywords: []
-slug: "200806-081e9fd9-943c-4fc1-842a-f0eadf006101"
+slug: "081e9fd9-943c-4fc1-842a-f0eadf006101"
 ---
 WWDC 2008のkeynote。例によって動画はまだ見れていませんが、発表されたものをざっと。
 

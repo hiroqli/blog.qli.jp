@@ -4,7 +4,7 @@ description: ''
 date: '2010-03-14T11:39:01.000Z'
 categories: []
 keywords: []
-slug: "201003-960a5659-7d71-4573-9afb-e7f796761e6e"
+slug: "960a5659-7d71-4573-9afb-e7f796761e6e"
 ---
 小刻みなアップデートで使い勝手がどんどんよくなっているGoogle Buzzなのですが、なかなか気の利いたアップデートがありました([from Gmail blog](http://gmailblog.blogspot.com/2010/03/better-controls-for-buzz-in-your-inbox.html))。
 

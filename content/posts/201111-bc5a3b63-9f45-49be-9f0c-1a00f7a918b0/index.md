@@ -4,7 +4,7 @@ description: ''
 date: '2011-11-24T22:07:07.000Z'
 categories: []
 keywords: []
-slug: "201111-bc5a3b63-9f45-49be-9f0c-1a00f7a918b0"
+slug: "bc5a3b63-9f45-49be-9f0c-1a00f7a918b0"
 ---
 iPad アプリに [Flipboard](http://itunes.apple.com/jp/app/flipboard/id358801284?mt=8) というのがあります。TwitterやFacebookなどを雑誌みたいな感じで表示してくれるアプリなのですが、それに 500px が対応していました。
 

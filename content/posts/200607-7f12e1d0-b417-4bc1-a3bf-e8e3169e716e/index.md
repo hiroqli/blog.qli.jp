@@ -4,7 +4,7 @@ description: ""
 date: "2006-07-20T23:20:00.000Z"
 categories: []
 keywords: []
-slug: "200607-7f12e1d0-b417-4bc1-a3bf-e8e3169e716e"
+slug: "7f12e1d0-b417-4bc1-a3bf-e8e3169e716e"
 ---
 
 なんでだろ。最近急に feedpath のブログエディタ使うようになった気がする。久しぶりに macbook から記事投稿中。

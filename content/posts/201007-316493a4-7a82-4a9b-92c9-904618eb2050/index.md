@@ -4,7 +4,7 @@ description: ''
 date: '2010-07-27T21:42:09.000Z'
 categories: []
 keywords: []
-slug: "201007-316493a4-7a82-4a9b-92c9-904618eb2050"
+slug: "316493a4-7a82-4a9b-92c9-904618eb2050"
 ---
 Things Touch 1.6がリリースされていました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-16T08:02:17.000Z'
 categories: []
 keywords: []
-slug: "200801-b41c63e2-02be-461f-adec-98c095e27564"
+slug: "b41c63e2-02be-461f-adec-98c095e27564"
 ---
 KeynoteにてiPhoneそしてiPod Touchのアップデートが発表されましたが、 それにあわせて、Gmail公式ブログより、メールアプリの挙動が変更されたことが発表されました。
 

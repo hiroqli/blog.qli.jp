@@ -4,7 +4,7 @@ description: ""
 date: "2025-05-10T03:01:35.751Z"
 categories: []
 keywords: []
-slug: "202505-70e30010-8693-4cb7-81de-505a8f92bf82"
+slug: "70e30010-8693-4cb7-81de-505a8f92bf82"
 cover:
   image: 1__O0SGBa__swmRCS9jsNNFZ4w.png
   # can also paste direct link from external site

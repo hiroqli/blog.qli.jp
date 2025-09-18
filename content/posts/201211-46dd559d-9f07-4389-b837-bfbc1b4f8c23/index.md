@@ -4,7 +4,7 @@ description: ''
 date: '2012-11-02T11:52:21.000Z'
 categories: []
 keywords: []
-slug: "201211-46dd559d-9f07-4389-b837-bfbc1b4f8c23"
+slug: "46dd559d-9f07-4389-b837-bfbc1b4f8c23"
 ---
 iPad mini を買いました。Nexus7を買って約１ヶ月。Nexus7が教えてくれたのは、軽い7インチタブレットの手軽さでした。Nexus7の体験が、iPad miniを迷わず注文させたといっても過言ではありません。
 

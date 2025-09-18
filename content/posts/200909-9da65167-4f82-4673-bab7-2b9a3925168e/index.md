@@ -4,7 +4,7 @@ description: ''
 date: '2009-09-19T23:09:24.000Z'
 categories: []
 keywords: []
-slug: "200909-9da65167-4f82-4673-bab7-2b9a3925168e"
+slug: "9da65167-4f82-4673-bab7-2b9a3925168e"
 ---
 わりと最近なのですが、Mail.appのプラグインソフトである [Mail Act-on](http://www.indev.ca/MailActOn.html) を導入しました。そうそう、macでのメール管理はすべて Mail.app を使っているのですよ。
 

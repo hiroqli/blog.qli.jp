@@ -4,7 +4,7 @@ description: ''
 date: '2009-12-27T11:32:18.000Z'
 categories: []
 keywords: []
-slug: "200912-f4b89576-f581-4a34-ac23-601baef63529"
+slug: "f4b89576-f581-4a34-ac23-601baef63529"
 ---
 Qik Live for iPhoneがリリースされました([Qik official blog](http://qik.com/blog/qik-now-available-for-download-from-the-iphone-app-store/))。Qikというのはストリーミングサービスで、Ustreamとかと同じサービスになるのですが、大きな違いはモバイルに特化しているところです。
 

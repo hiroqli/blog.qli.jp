@@ -4,7 +4,7 @@ description: ''
 date: '2006-12-07T15:23:50.000Z'
 categories: []
 keywords: []
-slug: "200612-f729eb24-bd0e-4d96-b90f-b3b398b2c675"
+slug: "f729eb24-bd0e-4d96-b90f-b3b398b2c675"
 ---
 Picasa日本語版が始まったそうです。  
 flickrは日本語化する可能性は低そうだし、Picasa派も結構でてくるのかなと思います。  

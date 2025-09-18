@@ -4,7 +4,7 @@ description: ""
 date: "2023-12-18T13:30:47.075Z"
 categories: []
 keywords: []
-slug: "202312-92149fd8-c59d-4c86-a7b6-c91276db5a44"
+slug: "92149fd8-c59d-4c86-a7b6-c91276db5a44"
 ---
 
 長い期間を費やして開発された OmniFocus4 が、12 月 13 日に正式にリリースされました。

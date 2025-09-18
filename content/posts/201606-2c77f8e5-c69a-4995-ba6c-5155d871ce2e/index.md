@@ -4,7 +4,7 @@ description: 自分はタスク管理の方法として、カンバンが好き�
 date: '2016-06-05T04:48:24.667Z'
 categories: []
 keywords: []
-slug: "201606-2c77f8e5-c69a-4995-ba6c-5155d871ce2e"
+slug: "2c77f8e5-c69a-4995-ba6c-5155d871ce2e"
 ---
 自分はタスク管理の方法として、カンバンが好きだ。ちょうど、Kanban in Action、こと「[カンバン仕事術](http://www.amazon.co.jp/dp/487311764X/)」も読み終わり、カンバンが好きだということを再発見した。
 

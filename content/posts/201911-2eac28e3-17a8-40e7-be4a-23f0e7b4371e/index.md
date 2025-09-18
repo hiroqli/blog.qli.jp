@@ -4,7 +4,7 @@ description: AirPods Pro発売から１ヶ月。簡単なレビューをしま�
 date: '2019-11-29T23:01:01.312Z'
 categories: []
 keywords: []
-slug: "201911-2eac28e3-17a8-40e7-be4a-23f0e7b4371e"
+slug: "2eac28e3-17a8-40e7-be4a-23f0e7b4371e"
 ---
 11月30日になりました。来週にはApple 川崎がオープンするという噂もありますが、一方で、Apple 仙台一番町が姿を消し、日本最北端のApple Storeが Apple 新宿となっています。
 

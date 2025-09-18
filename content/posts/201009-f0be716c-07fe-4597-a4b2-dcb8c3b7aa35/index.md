@@ -4,7 +4,7 @@ description: ''
 date: '2010-09-17T22:15:56.000Z'
 categories: []
 keywords: []
-slug: "201009-f0be716c-07fe-4597-a4b2-dcb8c3b7aa35"
+slug: "f0be716c-07fe-4597-a4b2-dcb8c3b7aa35"
 ---
 9月5日、公開2日目、映画 “Mr.Children Split the Difference” を見ました。そのときに書いた感想をアップします。
 

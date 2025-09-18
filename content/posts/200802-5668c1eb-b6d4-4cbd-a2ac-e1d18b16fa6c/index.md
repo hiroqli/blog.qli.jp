@@ -4,7 +4,7 @@ description: ''
 date: '2008-02-03T15:23:19.000Z'
 categories: []
 keywords: []
-slug: "200802-5668c1eb-b6d4-4cbd-a2ac-e1d18b16fa6c"
+slug: "5668c1eb-b6d4-4cbd-a2ac-e1d18b16fa6c"
 ---
 今日は東京は雪が降っています。夜のうち降り始めた雪は、正午を越えた今でも降り続いています。
 

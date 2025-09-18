@@ -4,7 +4,7 @@ description: ''
 date: '2009-03-05T23:50:18.000Z'
 categories: []
 keywords: []
-slug: "200903-cfadb115-cfe5-4ac6-9b12-8ff174efd0dd"
+slug: "cfadb115-cfe5-4ac6-9b12-8ff174efd0dd"
 ---
 impressがたてつづけに出した高校生に関する”ケータイ事情”記事が興味深い。記事は次の２本：
 

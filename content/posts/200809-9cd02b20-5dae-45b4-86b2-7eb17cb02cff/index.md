@@ -4,7 +4,7 @@ description: ''
 date: '2008-09-16T23:19:36.000Z'
 categories: []
 keywords: []
-slug: "200809-9cd02b20-5dae-45b4-86b2-7eb17cb02cff"
+slug: "9cd02b20-5dae-45b4-86b2-7eb17cb02cff"
 ---
 一ヶ月ずらした夏休み秋休みってことで、平日にしか消化できない雑務のついでに映画を見てきました。
 

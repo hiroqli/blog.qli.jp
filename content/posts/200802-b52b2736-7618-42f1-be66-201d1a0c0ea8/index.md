@@ -4,7 +4,7 @@ description: ''
 date: '2008-02-05T08:11:25.000Z'
 categories: []
 keywords: []
-slug: "200802-b52b2736-7618-42f1-be66-201d1a0c0ea8"
+slug: "b52b2736-7618-42f1-be66-201d1a0c0ea8"
 ---
 LivedoorワイヤレスとFONの提携が発表され、Fonユーザ(linus)であれば、fon\_livedoorのアクセスポイントにてFONと同様にインターネットへの接続が可能となりました。個人的に興味を持ったのはこの部分。
 

@@ -4,7 +4,7 @@ description: iPhone 13の発売も近くなり、iOS15もリリースされま�
 date: '2021-09-20T21:07:47.939Z'
 categories: []
 keywords: []
-slug: "202109-87865240-da40-4b73-935d-01938cb7c321"
+slug: "87865240-da40-4b73-935d-01938cb7c321"
 ---
 iPhone 13の発売も近くなり、iOS15もリリースされました。iOS15 Public Betaを使ってきた経験を踏まえて、空間オーディオについて触れたいと思います。
 

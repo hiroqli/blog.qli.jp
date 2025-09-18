@@ -4,7 +4,7 @@ description: ""
 date: "2006-08-01T21:53:00.000Z"
 categories: []
 keywords: []
-slug: "200608-1b04b073-a1bb-49f7-8b47-baf5e8ae534a"
+slug: "1b04b073-a1bb-49f7-8b47-baf5e8ae534a"
 ---
 
 **本タイトル:** [ブログスフィア アメリカ企業を変えた 100 人のブロガーたち](http://www.amazon.co.jp/exec/obidos/ASIN/4822245292/mrchildrenonl-22/ref=nosim/)

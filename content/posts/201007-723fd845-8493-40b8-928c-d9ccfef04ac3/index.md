@@ -4,7 +4,7 @@ description: ''
 date: '2010-07-22T08:33:31.000Z'
 categories: []
 keywords: []
-slug: "201007-723fd845-8493-40b8-928c-d9ccfef04ac3"
+slug: "723fd845-8493-40b8-928c-d9ccfef04ac3"
 ---
 久しぶりにApple Store Ginzaでのセミナーに行ってきました。テーマは”[iPadのデザイン](http://east.webdirections.org/blog/wde-ex11/)”。講師は iA CEOのOliver Reichensteinさん。名前はドイツ語読みなのかな。
 

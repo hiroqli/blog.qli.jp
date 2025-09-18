@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-28T12:44:55.000Z'
 categories: []
 keywords: []
-slug: "200704-eb997619-b1d8-459e-a7d6-e4cf91edcd9b"
+slug: "eb997619-b1d8-459e-a7d6-e4cf91edcd9b"
 ---
 最近、ちょこちょこTwitterの類似品を見かけるようになった。それでもfeed吐いてなかったり、APIがなかったりするので、すでにエコシステムが盛り上がっているTwitterにかなうはずもないのだけど。
 

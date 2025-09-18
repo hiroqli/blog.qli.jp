@@ -4,7 +4,7 @@ description: ''
 date: '2010-07-20T13:02:22.000Z'
 categories: []
 keywords: []
-slug: "201007-5580db4a-b5a5-4229-8067-2bbf2a75534f"
+slug: "5580db4a-b5a5-4229-8067-2bbf2a75534f"
 ---
 忘れないうちに、冷めないうちに書いておこうと思う。
 

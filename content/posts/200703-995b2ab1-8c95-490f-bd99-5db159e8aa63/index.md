@@ -4,7 +4,7 @@ description: ''
 date: '2007-03-10T21:38:12.000Z'
 categories: []
 keywords: []
-slug: "200703-995b2ab1-8c95-490f-bd99-5db159e8aa63"
+slug: "995b2ab1-8c95-490f-bd99-5db159e8aa63"
 ---
 いつも密かに読ませていただいている、lomoさんのブログでiddyが紹介されていたので、早速登録してみた。
 

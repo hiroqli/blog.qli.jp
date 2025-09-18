@@ -4,7 +4,7 @@ description: Blogだけじゃなく、vlogが登場するなど、 “logging”
 date: '2020-08-22T02:42:39.350Z'
 categories: []
 keywords: []
-slug: "202008-e347e77e-7f24-4397-ac17-4cc5f2f8839d"
+slug: "e347e77e-7f24-4397-ac17-4cc5f2f8839d"
 ---
 ![](1__DHaJRUvwIQtqfNKFlLLCCw__2x.jpeg)
 

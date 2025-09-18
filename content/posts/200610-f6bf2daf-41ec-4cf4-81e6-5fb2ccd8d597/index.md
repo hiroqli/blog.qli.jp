@@ -4,7 +4,7 @@ description: ''
 date: '2006-10-21T20:55:25.000Z'
 categories: []
 keywords: []
-slug: "200610-f6bf2daf-41ec-4cf4-81e6-5fb2ccd8d597"
+slug: "f6bf2daf-41ec-4cf4-81e6-5fb2ccd8d597"
 ---
 Inernet Explorer 7における互換性の問題はこれだと思う。
 

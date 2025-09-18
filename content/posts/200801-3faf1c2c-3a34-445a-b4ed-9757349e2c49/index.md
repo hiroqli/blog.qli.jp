@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-17T23:24:50.000Z'
 categories: []
 keywords: []
-slug: "200801-3faf1c2c-3a34-445a-b4ed-9757349e2c49"
+slug: "3faf1c2c-3a34-445a-b4ed-9757349e2c49"
 ---
 MacBook Airについて、おもしろい記事があったので紹介しておきます。
 

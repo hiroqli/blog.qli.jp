@@ -4,7 +4,7 @@ description: ''
 date: '2011-09-23T08:08:57.000Z'
 categories: []
 keywords: []
-slug: "201109-d3ddb5d3-9d1d-4fd1-adf7-edaba4d0580f"
+slug: "d3ddb5d3-9d1d-4fd1-adf7-edaba4d0580f"
 ---
 (この記事は他所で投稿したものですが、思うところによりこちらにも転記しておきます）
 

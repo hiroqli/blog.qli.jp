@@ -4,7 +4,7 @@ description: ''
 date: '2013-10-13T09:40:24.000Z'
 categories: []
 keywords: []
-slug: "201310-eeede14c-9b3e-41ea-819b-a54bdd70c083"
+slug: "eeede14c-9b3e-41ea-819b-a54bdd70c083"
 ---
 iPhone5sを使い慣れてきて、iOS7も落ち着いてきたので、ここで今よく使っているアプリをまとめておきます。
 

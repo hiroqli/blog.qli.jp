@@ -4,7 +4,7 @@ description: ''
 date: '2009-10-09T08:11:06.000Z'
 categories: []
 keywords: []
-slug: "200910-1a9f05ce-b439-43b4-8743-d8a98d275aeb"
+slug: "1a9f05ce-b439-43b4-8743-d8a98d275aeb"
 ---
 Twitter as a Service という言葉があります。ユーザ管理をOAuthによってTwitterに任せてしまって、データをTweetとして保存することで、Twitterをデータストレージのようにしてサービスをつくるということですね。この言葉なんかは、Twitterが単なるサービスではなく、プラットフォーム化している、インフラ化している、ということだと思います。
 

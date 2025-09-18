@@ -4,7 +4,7 @@ description: ''
 date: '2007-03-20T19:03:28.000Z'
 categories: []
 keywords: []
-slug: "200703-1be594d2-07a9-4ddb-ab17-c6df9f705f5b"
+slug: "1be594d2-07a9-4ddb-ab17-c6df9f705f5b"
 ---
 なかなかおもしろかったので取り上げてみる。
 

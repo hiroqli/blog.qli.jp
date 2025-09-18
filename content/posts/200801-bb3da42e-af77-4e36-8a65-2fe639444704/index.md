@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-21T22:46:49.000Z'
 categories: []
 keywords: []
-slug: "200801-bb3da42e-af77-4e36-8a65-2fe639444704"
+slug: "bb3da42e-af77-4e36-8a65-2fe639444704"
 ---
 このブログのフィードのアドレスは、 feed://feeds.feedburner.jp/qli ですが、feed://feeds.qli.jp/qli でアクセスできるようにもなりました。ので、お知らせ。
 

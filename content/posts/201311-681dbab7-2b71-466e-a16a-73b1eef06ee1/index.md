@@ -4,7 +4,7 @@ description: ''
 date: '2013-11-06T22:58:27.000Z'
 categories: []
 keywords: []
-slug: "201311-681dbab7-2b71-466e-a16a-73b1eef06ee1"
+slug: "681dbab7-2b71-466e-a16a-73b1eef06ee1"
 ---
 “ほんとに使える「ユーザビリティ」”(原題; usable usability)という本を読みました。
 

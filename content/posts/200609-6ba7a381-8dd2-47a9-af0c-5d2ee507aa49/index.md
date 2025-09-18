@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-29T12:05:39.000Z'
 categories: []
 keywords: []
-slug: "200609-6ba7a381-8dd2-47a9-af0c-5d2ee507aa49"
+slug: "6ba7a381-8dd2-47a9-af0c-5d2ee507aa49"
 ---
 ついに、Lenovo製PCのバッテリーもサンフランシスコ空港での爆破を受けて回収となりました。で、ソニーはもう全部回収しちゃうことにしたそうです。
 

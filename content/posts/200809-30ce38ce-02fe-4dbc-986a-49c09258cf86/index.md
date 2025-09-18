@@ -4,7 +4,7 @@ description: ''
 date: '2008-09-04T08:48:20.000Z'
 categories: []
 keywords: []
-slug: "200809-30ce38ce-02fe-4dbc-986a-49c09258cf86"
+slug: "30ce38ce-02fe-4dbc-986a-49c09258cf86"
 ---
 Google Chromeがリリースされて一夜が過ぎた。Windowsを持っているgooglerはすでに試したんじゃないかと思う。
 

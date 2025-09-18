@@ -4,7 +4,7 @@ description: ''
 date: '2007-11-10T11:52:16.000Z'
 categories: []
 keywords: []
-slug: "200711-73abc496-24f6-4efb-90c3-c1ad08ed11f2"
+slug: "73abc496-24f6-4efb-90c3-c1ad08ed11f2"
 ---
 このブログで取り上げていなかったけれども、先週MacBook/MacBook Proがサイレントアップデートした。本当に”サイレント”で、実はまだ公式なプレスリリースが何もない状況なのだ。
 

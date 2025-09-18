@@ -4,7 +4,7 @@ description: OmniFocus 3 for iOS が5月30日にリリースされました。
 date: '2018-05-29T15:01:02.047Z'
 categories: []
 keywords: []
-slug: "201805-d84c2bcc-bd4a-45d2-9084-5f1db104d3e2"
+slug: "d84c2bcc-bd4a-45d2-9084-5f1db104d3e2"
 ---
 ![](1__NvpNAP8n__ivjG__T50qoYtg.jpeg)
 

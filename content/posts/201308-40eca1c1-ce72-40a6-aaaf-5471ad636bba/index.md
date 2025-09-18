@@ -4,7 +4,7 @@ description: ''
 date: '2013-08-03T09:24:35.000Z'
 categories: []
 keywords: []
-slug: "201308-40eca1c1-ce72-40a6-aaaf-5471ad636bba"
+slug: "40eca1c1-ce72-40a6-aaaf-5471ad636bba"
 ---
 突然なのですが、Time Capsuleを新調しました。Time Capusleはいつのまにか、正式名称が [AirMac Time Capsule](http://www.apple.com/jp/airmac-time-capsule/) になっていたんですね。
 

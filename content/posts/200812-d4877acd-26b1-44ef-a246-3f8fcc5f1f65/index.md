@@ -4,7 +4,7 @@ description: ''
 date: '2008-12-24T10:44:36.000Z'
 categories: []
 keywords: []
-slug: "200812-d4877acd-26b1-44ef-a246-3f8fcc5f1f65"
+slug: "d4877acd-26b1-44ef-a246-3f8fcc5f1f65"
 ---
 まだ全部読み切ってなくてレビューというわけにはいかないので、ご紹介ということで。
 

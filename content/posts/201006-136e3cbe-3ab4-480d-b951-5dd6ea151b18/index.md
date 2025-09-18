@@ -4,7 +4,7 @@ description: ''
 date: '2010-06-17T08:40:41.000Z'
 categories: []
 keywords: []
-slug: "201006-136e3cbe-3ab4-480d-b951-5dd6ea151b18"
+slug: "136e3cbe-3ab4-480d-b951-5dd6ea151b18"
 ---
 iPhone 4、みなさんちゃんと発売日に受け取れるように予約済ましてますよね？
 

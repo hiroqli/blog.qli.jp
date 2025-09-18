@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-04T12:32:41.000Z'
 categories: []
 keywords: []
-slug: "200706-c0e9cf76-8be9-4797-8794-88da1cf6e6ff"
+slug: "c0e9cf76-8be9-4797-8794-88da1cf6e6ff"
 ---
 RTMの日本語ブログが始まったそうです。これで一層利用者が増えるかもしれませんね。自分は何度か浮気しかけながらもcheck\*padで頑張っています。
 

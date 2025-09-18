@@ -4,7 +4,7 @@ description: ''
 date: '2007-01-06T00:38:40.000Z'
 categories: []
 keywords: []
-slug: "200701-08d3d6af-78bf-4d3a-a89a-ae3a47186e1e"
+slug: "08d3d6af-78bf-4d3a-a89a-ae3a47186e1e"
 ---
 この正月休みの間、家にいる時間はずっとBlue Dragon漬けなので、気晴らし…
 

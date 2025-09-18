@@ -4,7 +4,7 @@ description: ''
 date: '2007-08-06T20:55:17.000Z'
 categories: []
 keywords: []
-slug: "200708-a79ff4b3-1590-4090-a692-c17c59b236e3"
+slug: "a79ff4b3-1590-4090-a692-c17c59b236e3"
 ---
 興味深いエントリーがあったのでご紹介。
 

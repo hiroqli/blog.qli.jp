@@ -4,7 +4,7 @@ description: ''
 date: '2007-08-18T00:31:46.000Z'
 categories: []
 keywords: []
-slug: "200708-0d315433-ab8a-4953-a015-e8b6203775a6"
+slug: "0d315433-ab8a-4953-a015-e8b6203775a6"
 ---
 お世話になっているブログであるLifehacking.jpにて[Blog Action Day](http://blogactionday.org/)が紹介されていました。これはブログで同じ日に一斉に同じテーマでブログを書くことによってブロゴスフィアの声がどこまで届くかを見届けようという企画です。
 

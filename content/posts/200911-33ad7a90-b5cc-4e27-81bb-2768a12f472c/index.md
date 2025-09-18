@@ -4,7 +4,7 @@ description: ''
 date: '2009-11-23T22:19:07.000Z'
 categories: []
 keywords: []
-slug: "200911-33ad7a90-b5cc-4e27-81bb-2768a12f472c"
+slug: "33ad7a90-b5cc-4e27-81bb-2768a12f472c"
 ---
 書籍レビューは、もうひとつのブログでやることにしたのですが、これはWEBにかかっているので。
 

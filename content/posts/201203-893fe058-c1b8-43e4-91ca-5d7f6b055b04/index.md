@@ -4,7 +4,7 @@ description: ''
 date: '2012-03-22T20:18:48.000Z'
 categories: []
 keywords: []
-slug: "201203-893fe058-c1b8-43e4-91ca-5d7f6b055b04"
+slug: "893fe058-c1b8-43e4-91ca-5d7f6b055b04"
 ---
 Appleコミュニティで有名なサードパーティ製のメールクライアントといえばSparrowだ。これまでのメールクライアントの概念をとっぱらって、作られたメールクライアントだ。Gmailの”Inbox Zero”の思想を見事にアプリで再現したと言える。
 

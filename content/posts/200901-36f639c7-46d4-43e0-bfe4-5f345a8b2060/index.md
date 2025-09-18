@@ -4,7 +4,7 @@ description: ""
 date: "2009-01-29T23:46:58.000Z"
 categories: []
 keywords: []
-slug: "200901-36f639c7-46d4-43e0-bfe4-5f345a8b2060"
+slug: "36f639c7-46d4-43e0-bfe4-5f345a8b2060"
 ---
 
 Google が Chrome のイベントをやるというので、行ってきました。場所はセルリアンタワー 7F の Google オフィス。普段カフェテリアとして使っている場所だそうです。

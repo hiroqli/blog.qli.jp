@@ -4,7 +4,7 @@ description: ''
 date: '2007-01-11T12:19:41.000Z'
 categories: []
 keywords: []
-slug: "200701-743f12bb-465d-42c9-b6fb-6f06b3e42336"
+slug: "743f12bb-465d-42c9-b6fb-6f06b3e42336"
 ---
 Last.fmというのは、知ってのとおり、iTunesで聴いている音楽をLast.fm(サイト)に送って、履歴を残せるというソフトウェアなのですが、もちろんWindows版もMac版もあります。
 

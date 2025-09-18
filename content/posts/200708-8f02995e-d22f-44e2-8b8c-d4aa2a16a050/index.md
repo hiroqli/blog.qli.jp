@@ -4,7 +4,7 @@ description: ''
 date: '2007-08-20T19:00:21.000Z'
 categories: []
 keywords: []
-slug: "200708-8f02995e-d22f-44e2-8b8c-d4aa2a16a050"
+slug: "8f02995e-d22f-44e2-8b8c-d4aa2a16a050"
 ---
 Remember the MilkにProアカウントができました。彼らのストーリーを読む限り、どうやら運用費用の捻出が主な目的のようです。それだけではなく、Proアカウントになることで、新機能を使うことができるとか。  
 Last.fmのSubscriberになると、beta機能を試したりできるのですが、それと似たような感じですかね。

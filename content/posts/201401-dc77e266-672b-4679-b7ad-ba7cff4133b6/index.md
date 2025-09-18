@@ -4,7 +4,7 @@ description: ''
 date: '2014-01-21T00:17:22.000Z'
 categories: []
 keywords: []
-slug: "201401-dc77e266-672b-4679-b7ad-ba7cff4133b6"
+slug: "dc77e266-672b-4679-b7ad-ba7cff4133b6"
 ---
 ここ数日、iPhone5sのバッテリーの持たなさに困っていました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2009-08-03T08:45:46.000Z'
 categories: []
 keywords: []
-slug: "200908-8fb0cfa6-481d-4f03-8a6f-be538355ad1d"
+slug: "8fb0cfa6-481d-4f03-8a6f-be538355ad1d"
 ---
 ご連絡するのがかなり遅くなってしまったのですが、[WISH2009](http://agilemedia.jp/wish2009/)というイベントのWISHサポーターというのに参加しています。
 

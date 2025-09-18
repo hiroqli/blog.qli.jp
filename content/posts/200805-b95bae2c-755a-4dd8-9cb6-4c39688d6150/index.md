@@ -4,7 +4,7 @@ description: ''
 date: '2008-05-06T08:47:43.000Z'
 categories: []
 keywords: []
-slug: "200805-b95bae2c-755a-4dd8-9cb6-4c39688d6150"
+slug: "b95bae2c-755a-4dd8-9cb6-4c39688d6150"
 ---
 Google Readerに新機能が追加されました。追加された機能は全部で３点。順を追って見ていきたいと思います。
 

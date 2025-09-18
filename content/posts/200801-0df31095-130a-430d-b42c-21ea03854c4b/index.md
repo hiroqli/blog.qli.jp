@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-24T00:23:20.000Z'
 categories: []
 keywords: []
-slug: "200801-0df31095-130a-430d-b42c-21ea03854c4b"
+slug: "0df31095-130a-430d-b42c-21ea03854c4b"
 ---
 先日ですね、Remember the milk交流会というのがありまして。なんと全世界初！らしいのですが。
 

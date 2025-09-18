@@ -4,7 +4,7 @@ description: 火曜日に LEGO BIG MORL のライブに行った話は書いた�
 date: '2017-03-30T12:02:22.358Z'
 categories: []
 keywords: []
-slug: "201703-88224335-a576-442c-887c-4eb2385c74a7"
+slug: "88224335-a576-442c-887c-4eb2385c74a7"
 ---
 火曜日に LEGO BIG MORL のライブに行った話は書いたが、実はそこにはもう一つの話がある。
 

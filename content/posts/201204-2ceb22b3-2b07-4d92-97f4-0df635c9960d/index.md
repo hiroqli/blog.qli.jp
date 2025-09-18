@@ -4,7 +4,7 @@ description: ''
 date: '2012-04-13T22:26:09.000Z'
 categories: []
 keywords: []
-slug: "201204-2ceb22b3-2b07-4d92-97f4-0df635c9960d"
+slug: "2ceb22b3-2b07-4d92-97f4-0df635c9960d"
 ---
 最近はまっている、暇な時間つぶしのApple TVでの映画鑑賞。今回は”鴨川ホルモー”
 

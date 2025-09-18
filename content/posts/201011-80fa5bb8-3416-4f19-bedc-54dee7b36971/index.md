@@ -4,7 +4,7 @@ description: ''
 date: '2010-11-28T11:34:55.000Z'
 categories: []
 keywords: []
-slug: "201011-80fa5bb8-3416-4f19-bedc-54dee7b36971"
+slug: "80fa5bb8-3416-4f19-bedc-54dee7b36971"
 ---
 新しいブラウザが11月7日に登場した。[RockMelt](http://www.rockmelt.com/)というブラウザだ。ソーシャルブラウザというカテゴリで、FacebookやTwitterといった”ソーシャル”とつながったままWEBブラウジングができるというブラウザだ。
 

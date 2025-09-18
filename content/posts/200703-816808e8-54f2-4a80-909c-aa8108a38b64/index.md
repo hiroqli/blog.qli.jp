@@ -4,7 +4,7 @@ description: ''
 date: '2007-03-15T20:23:33.000Z'
 categories: []
 keywords: []
-slug: "200703-816808e8-54f2-4a80-909c-aa8108a38b64"
+slug: "816808e8-54f2-4a80-909c-aa8108a38b64"
 ---
 class=”enclosure enclosure-left enclosure-small”  
 style=”text-align: center; float: left;”>

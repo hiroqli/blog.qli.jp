@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-13T18:02:09.000Z'
 categories: []
 keywords: []
-slug: "200706-8bf3c57b-a20a-4dd1-ac51-6f4a72219068"
+slug: "8bf3c57b-a20a-4dd1-ac51-6f4a72219068"
 ---
 WWDCで発表されたニュースのうち、これが今のところ気になるニュースなのです。
 

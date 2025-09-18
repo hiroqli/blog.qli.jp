@@ -4,7 +4,7 @@ description: 5月15日に受け取ってから、おおよそ1週間。iPad Pro 
 date: "2024-10-17T11:49:40.607Z"
 categories: []
 keywords: []
-slug: "202410-81c520cb-e566-4f3a-8973-1a1faa140e38"
+slug: "81c520cb-e566-4f3a-8973-1a1faa140e38"
 cover:
   image: "0__WxMqjQ58aLeSowJQ.jpg"
   # can also paste direct link from external site

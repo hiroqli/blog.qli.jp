@@ -4,7 +4,7 @@ description: ""
 date: "2006-11-12T23:58:34.000Z"
 categories: []
 keywords: []
-slug: "200611-9af9c167-48a7-452e-9716-6fbecf6c37a2"
+slug: "9af9c167-48a7-452e-9716-6fbecf6c37a2"
 ---
 
 今頃書かなくてもいいと思われるかもしれませんが、意外と Vista のまじめなレビューってあんまりなかったような気もするので、書いておきます。MacBook(Intel Core Duo) + BootCamp + Windows Vista RC1 という環境となります。

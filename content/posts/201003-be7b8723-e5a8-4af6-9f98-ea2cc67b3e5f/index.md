@@ -4,7 +4,7 @@ description: ''
 date: '2010-03-11T09:22:17.000Z'
 categories: []
 keywords: []
-slug: "201003-be7b8723-e5a8-4af6-9f98-ea2cc67b3e5f"
+slug: "be7b8723-e5a8-4af6-9f98-ea2cc67b3e5f"
 ---
 レミオロメン５枚目のアルバム。セルフプロデュース作品。
 

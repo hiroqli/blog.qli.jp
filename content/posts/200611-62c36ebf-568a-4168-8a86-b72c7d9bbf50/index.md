@@ -4,7 +4,7 @@ description: ''
 date: '2006-11-27T18:09:23.000Z'
 categories: []
 keywords: []
-slug: "200611-62c36ebf-568a-4168-8a86-b72c7d9bbf50"
+slug: "62c36ebf-568a-4168-8a86-b72c7d9bbf50"
 ---
 リンク: [Apple Store 渋谷がリニューアル──“iPodバー”を新設](http://mac.ascii24.com/mac/news/misc/2006/11/24/666068-000.html "Apple Store 渋谷がリニューアル──“iPodバー”を新設").
 

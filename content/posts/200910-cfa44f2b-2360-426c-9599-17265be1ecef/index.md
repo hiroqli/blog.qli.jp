@@ -4,7 +4,7 @@ description: ''
 date: '2009-10-20T08:44:53.000Z'
 categories: []
 keywords: []
-slug: "200910-cfa44f2b-2360-426c-9599-17265be1ecef"
+slug: "cfa44f2b-2360-426c-9599-17265be1ecef"
 ---
 Twitterやブログなどでお世話になっている、[Lifehaking.jp](http://lifehacking.jp/) の [mehori](http://twitter.com/mehori) さんが本を書かれたということで、読んでみました。限定場所で先行発売（？）されていたらしく、早めに入手できました。
 

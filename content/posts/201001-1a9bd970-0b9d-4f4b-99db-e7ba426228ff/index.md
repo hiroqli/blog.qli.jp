@@ -4,7 +4,7 @@ description: ''
 date: '2010-01-09T14:56:06.000Z'
 categories: []
 keywords: []
-slug: "201001-1a9bd970-0b9d-4f4b-99db-e7ba426228ff"
+slug: "1a9bd970-0b9d-4f4b-99db-e7ba426228ff"
 ---
 このブログを読んで頂ければ分かるとおり、CLIEを使っていた頃からのガジェット好きなので、Willcomの[W-ZERO3](http://www.willcom-inc.com/ja/lineup/ws/004sh/index.html)であったりも通っている道だったりはするのですが、その頃からWindows Mobileは使いにくいなと思っていて、そのWindows Mobileの久々のメジャーバージョンアップであるWM7が来月発表される見込みだそうです（via [engadget](http://japanese.engadget.com/2010/01/08/windows-mobile-7/) )
 

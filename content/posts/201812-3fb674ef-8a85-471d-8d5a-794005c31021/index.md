@@ -5,7 +5,7 @@ description: この時期になるとなぜか無性に音楽が聴きたくな�
 date: '2018-12-15T01:34:16.435Z'
 categories: []
 keywords: []
-slug: "201812-3fb674ef-8a85-471d-8d5a-794005c31021"
+slug: "3fb674ef-8a85-471d-8d5a-794005c31021"
 ---
 ![](1__1g9dk207Un9tmxw61bVWTw.jpeg)
 

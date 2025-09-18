@@ -5,7 +5,7 @@ description: HomePodが発表から2年経過して日本で登場するとい�
 date: '2019-08-21T11:12:52.315Z'
 categories: []
 keywords: []
-slug: "201908-4cdbfc50-a205-4d0f-9686-eacae790e2f1"
+slug: "4cdbfc50-a205-4d0f-9686-eacae790e2f1"
 ---
 HomePodが発表から2年経過して日本で登場するということで、Apple Musicへの感度も高まってるのかなと思います。ただApple Musicは分かりやすいサービスではなく、そのためにガッカリ体験から批判するかたも根強くいます。
 

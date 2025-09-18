@@ -4,7 +4,7 @@ description: ''
 date: '2006-12-14T00:17:59.000Z'
 categories: []
 keywords: []
-slug: "200612-3ea374b8-e111-4848-8faa-dfe0a04ff724"
+slug: "3ea374b8-e111-4848-8faa-dfe0a04ff724"
 ---
 Skype 3.0 for Windows が正式版となりました。public chatも正式サービスインということですかね。WindowsでSkypeを使っている方はバージョンアップしてみましょう。
 

@@ -4,7 +4,7 @@ description: 今回は、ちょっと昔の話をしてみようと思います�
 date: '2025-07-26T03:01:57.177Z'
 categories: []
 keywords: []
-slug: "202507-1e43ba98-2811-4c12-aaa9-3a312baf7bdc"
+slug: "1e43ba98-2811-4c12-aaa9-3a312baf7bdc"
 ---
 ![](1__hDABr1CY4VkXf__pen7ENdw.jpeg)
 

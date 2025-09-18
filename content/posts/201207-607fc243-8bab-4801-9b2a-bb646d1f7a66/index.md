@@ -4,7 +4,7 @@ description: ''
 date: '2012-07-17T14:17:51.000Z'
 categories: []
 keywords: []
-slug: "201207-607fc243-8bab-4801-9b2a-bb646d1f7a66"
+slug: "607fc243-8bab-4801-9b2a-bb646d1f7a66"
 ---
 Chim↑pomの「芸術実行犯」（朝日出版社）を読んだ。
 

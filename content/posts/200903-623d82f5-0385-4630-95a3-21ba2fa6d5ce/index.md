@@ -4,7 +4,7 @@ description: ''
 date: '2009-03-02T09:52:59.000Z'
 categories: []
 keywords: []
-slug: "200903-623d82f5-0385-4630-95a3-21ba2fa6d5ce"
+slug: "623d82f5-0385-4630-95a3-21ba2fa6d5ce"
 ---
 100shikiさんで紹介されていたtweet o’clockをさっそく試してみた。
 

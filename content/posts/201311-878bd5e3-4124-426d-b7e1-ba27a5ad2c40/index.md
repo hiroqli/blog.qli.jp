@@ -4,7 +4,7 @@ description: ''
 date: '2013-11-18T21:27:59.000Z'
 categories: []
 keywords: []
-slug: "201311-878bd5e3-4124-426d-b7e1-ba27a5ad2c40"
+slug: "878bd5e3-4124-426d-b7e1-ba27a5ad2c40"
 ---
 Twitterのファウンダーである @ev がずいぶん前に始めたサービスが medium というブログプラットフォームです。Wiredでも紹介されたことがあるので、興味を持ったことがある人も多いのではないでしょうか。
 

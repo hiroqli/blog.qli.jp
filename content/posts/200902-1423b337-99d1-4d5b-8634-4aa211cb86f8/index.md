@@ -4,7 +4,7 @@ description: ''
 date: '2009-02-24T23:41:30.000Z'
 categories: []
 keywords: []
-slug: "200902-1423b337-99d1-4d5b-8634-4aa211cb86f8"
+slug: "1423b337-99d1-4d5b-8634-4aa211cb86f8"
 ---
 突然ですが、Safari 4 Public beta が発表されました。今回発表されたのはOS X(Tiger/ Leopard)版と、Windows(XP SP2/Vista)版です。
 

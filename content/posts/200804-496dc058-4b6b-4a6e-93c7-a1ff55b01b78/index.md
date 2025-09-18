@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-30T10:41:27.000Z'
 categories: []
 keywords: []
-slug: "200804-496dc058-4b6b-4a6e-93c7-a1ff55b01b78"
+slug: "496dc058-4b6b-4a6e-93c7-a1ff55b01b78"
 ---
 Javaアップデート１がMac OS X 10.5に対して適応されるようになりました。これによりJava SE 6がインストールされます。デフォルトはJava SE 5のままみたいですが、これどこかで変更できるんでしょうかね？
 

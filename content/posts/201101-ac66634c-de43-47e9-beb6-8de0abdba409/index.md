@@ -4,7 +4,7 @@ description: ''
 date: '2011-01-30T14:26:19.000Z'
 categories: []
 keywords: []
-slug: "201101-ac66634c-de43-47e9-beb6-8de0abdba409"
+slug: "ac66634c-de43-47e9-beb6-8de0abdba409"
 ---
 KDDIがAndroid auで作成したCM、65本を[Android au サイト](http://android-au.jp/)で公開しています。
 

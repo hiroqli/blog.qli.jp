@@ -4,7 +4,7 @@ description: rebuild.fm 98にて、プロジェクトマネージャーとプロ
 date: '2015-07-03T22:19:03.365Z'
 categories: []
 keywords: []
-slug: "201507-e2ef55a4-4578-43d8-a107-c6e34f04e3e6"
+slug: "e2ef55a4-4578-43d8-a107-c6e34f04e3e6"
 ---
 [rebuild.fm 98](http://rebuild.fm/98/)にて、プロジェクトマネージャーとプロダクトマネージャーにフォーカスを当てて話していた。
 

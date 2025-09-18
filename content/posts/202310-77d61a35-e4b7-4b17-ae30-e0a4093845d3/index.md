@@ -4,7 +4,7 @@ description: ""
 date: "2023-10-14T03:01:35.685Z"
 categories: []
 keywords: []
-slug: "202310-77d61a35-e4b7-4b17-ae30-e0a4093845d3"
+slug: "77d61a35-e4b7-4b17-ae30-e0a4093845d3"
 ---
 
 先日、Shokz OPENCOMM のレビューを書きました。先日といっても、6 月のことでした。

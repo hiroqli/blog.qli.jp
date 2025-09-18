@@ -4,7 +4,7 @@ description: ''
 date: '2014-06-08T09:05:20.000Z'
 categories: []
 keywords: []
-slug: "201406-9aa9d98b-ddb3-4e39-8b05-df094f8b60a6"
+slug: "9aa9d98b-ddb3-4e39-8b05-df094f8b60a6"
 ---
 KDDIからau wallet というものが始まり、しばらく持ち歩いています。その雑感を簡単に書いておきます。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2010-09-27T23:01:55.000Z'
 categories: []
 keywords: []
-slug: "201009-52ed2f08-4e54-4d34-972f-e15d04850c01"
+slug: "52ed2f08-4e54-4d34-972f-e15d04850c01"
 ---
 昨日、９月２７日、シャープが新しい電子書籍プラットフォーム [GALAPAGOS](http://www.sharp.co.jp/galapagos/) を発表しました。シャープが開発しているXMDFという電子書籍フォーマットを軸に、デバイス・ブックストアサービスなどを展開するそう。
 

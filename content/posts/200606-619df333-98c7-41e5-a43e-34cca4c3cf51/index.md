@@ -4,7 +4,7 @@ description: ""
 date: "2006-06-28T12:45:24.000Z"
 categories: []
 keywords: []
-slug: "200606-619df333-98c7-41e5-a43e-34cca4c3cf51"
+slug: "619df333-98c7-41e5-a43e-34cca4c3cf51"
 ---
 
 feedpath のおかげであまり使わない RSS リーダー（そういえば使ってるってひとをあまり知らない)Google Reader なのですが、久しぶりにアクセスしてみると、かなり変わってました。バージョンアップというよりも、仕様変更という感じ。  

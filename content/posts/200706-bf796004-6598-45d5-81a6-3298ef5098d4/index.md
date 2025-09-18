@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-18T11:21:29.000Z'
 categories: []
 keywords: []
-slug: "200706-bf796004-6598-45d5-81a6-3298ef5098d4"
+slug: "bf796004-6598-45d5-81a6-3298ef5098d4"
 ---
 いきなりですが、[英語ブログ](http://9-li.blogspot.com/)を始めてみました。
 

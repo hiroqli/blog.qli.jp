@@ -4,7 +4,7 @@ description: ""
 date: "2006-11-11T01:20:17.000Z"
 categories: []
 keywords: []
-slug: "200611-fdf0af39-c355-4056-b357-f5420125b4be"
+slug: "fdf0af39-c355-4056-b357-f5420125b4be"
 ---
 
 探したことないから分からないけど、あまり見かけないようなので書いておく。

@@ -4,7 +4,7 @@ description: ''
 date: '2006-10-27T16:48:01.000Z'
 categories: []
 keywords: []
-slug: "200610-f5532ee5-a130-461a-b681-9495f8845c80"
+slug: "f5532ee5-a130-461a-b681-9495f8845c80"
 ---
 リンク: [【FAQ】安全にVoxを使うには — チームVoxのブログ](http://team-jp.vox.com/library/post/faq%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E6%83%85%E5%A0%B1%E7%99%BB%E9%8C%B2%E3%81%AE%E6%B3%A8%E6%84%8F%E7%82%B9.html "【FAQ】安全にVoxを使うには - チームVoxのブログ").
 

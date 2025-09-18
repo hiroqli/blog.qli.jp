@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-20T11:40:34.000Z'
 categories: []
 keywords: []
-slug: "200803-1c323db1-d351-4774-87cc-add28d88a0d7"
+slug: "1c323db1-d351-4774-87cc-add28d88a0d7"
 ---
 もしかすると前の記事の続きかもしれないですが。
 

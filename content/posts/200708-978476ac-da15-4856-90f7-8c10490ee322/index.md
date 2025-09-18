@@ -4,7 +4,7 @@ description: ''
 date: '2007-08-25T17:09:34.000Z'
 categories: []
 keywords: []
-slug: "200708-978476ac-da15-4856-90f7-8c10490ee322"
+slug: "978476ac-da15-4856-90f7-8c10490ee322"
 ---
 [別冊カドカワ(総力特集)ap bank fes’07―音楽が地球のためにできること。 (カドカワムック 258)](http://qli.vox.com/library/book/6a00c225200a1d549d00e398a107af0002.html "別冊カドカワ(総力特集)ap bank fes’07―音楽が地球のためにできること。 (カドカワムック 258)")
 

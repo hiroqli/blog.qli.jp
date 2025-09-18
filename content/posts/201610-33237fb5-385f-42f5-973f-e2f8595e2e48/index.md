@@ -4,7 +4,7 @@ description: ''
 date: '2016-10-07T11:45:37.816Z'
 categories: []
 keywords: []
-slug: "201610-33237fb5-385f-42f5-973f-e2f8595e2e48"
+slug: "33237fb5-385f-42f5-973f-e2f8595e2e48"
 ---
 これまでずっとやってきた Mr.Children ONLINE という Mr.Childrenファンサイトをやめることにした。
 

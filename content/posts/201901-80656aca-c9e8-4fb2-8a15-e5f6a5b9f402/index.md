@@ -4,7 +4,7 @@ description: OmniFocusはその柔軟さ上に人によって解釈が分かれ�
 date: '2019-01-06T00:41:22.250Z'
 categories: []
 keywords: []
-slug: "201901-80656aca-c9e8-4fb2-8a15-e5f6a5b9f402"
+slug: "80656aca-c9e8-4fb2-8a15-e5f6a5b9f402"
 ---
 OmniFocusはその柔軟さ上に人によって解釈が分かれるところがある。それをまとめてみた。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-21T20:44:34.000Z'
 categories: []
 keywords: []
-slug: "200706-320391e9-f8d7-4c7f-86fa-a7dd967c8341"
+slug: "320391e9-f8d7-4c7f-86fa-a7dd967c8341"
 ---
 Macを使い出して、もう1年以上。最初はこだわってSafariを使っていたのだけど、今は完全にFirefoxに乗り換えてしまいました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2008-07-03T12:54:39.000Z'
 categories: []
 keywords: []
-slug: "200807-788fc323-b80f-455d-ac88-ae93935a2de8"
+slug: "788fc323-b80f-455d-ac88-ae93935a2de8"
 ---
 WWDCでは勝利宣言したtwitterですが、それ以降もやっぱりダウンが続いていて、海外のブロガーたちがjaikuやらFriendFeedに移行しても、それでもなおtwitterを使い続けていた日本人ユーザたちも痺れを切らしているようです。
 

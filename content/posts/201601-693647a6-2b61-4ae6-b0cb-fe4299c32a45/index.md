@@ -4,7 +4,7 @@ description: ''
 date: '2016-01-03T06:28:41.000Z'
 categories: []
 keywords: []
-slug: "201601-693647a6-2b61-4ae6-b0cb-fe4299c32a45"
+slug: "693647a6-2b61-4ae6-b0cb-fe4299c32a45"
 ---
 2015年の末に、AH-CG20を買った。DENONが5月ごろ出していたらしい、ノイズキャンセリングBLUETOOTHヘッドフォンである。
 

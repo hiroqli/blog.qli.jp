@@ -4,7 +4,7 @@ description: ''
 date: '2008-06-12T23:27:11.000Z'
 categories: []
 keywords: []
-slug: "200806-7967a95d-c8f6-4e35-ac47-320143e95395"
+slug: "7967a95d-c8f6-4e35-ac47-320143e95395"
 ---
 ちょっとしたアンケートをしたいなと思ったので作成してみました。アンケートはGoogle Documentで作成しました。
 

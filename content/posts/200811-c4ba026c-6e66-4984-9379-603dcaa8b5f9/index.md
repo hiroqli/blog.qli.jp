@@ -4,7 +4,7 @@ description: ''
 date: '2008-11-24T22:04:44.000Z'
 categories: []
 keywords: []
-slug: "200811-c4ba026c-6e66-4984-9379-603dcaa8b5f9"
+slug: "c4ba026c-6e66-4984-9379-603dcaa8b5f9"
 ---
 このブログは数日前からコメントをTypePad Connectで管理するようにしています。このサービス、Typepad.comをいろいろ触っていたら見つけて、なんとなく試用してみているという感じです。それだけ、Typepad connectが簡単すぎたんですね。
 

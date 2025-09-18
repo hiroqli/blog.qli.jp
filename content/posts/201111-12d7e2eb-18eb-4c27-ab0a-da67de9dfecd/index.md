@@ -4,7 +4,7 @@ description: ''
 date: '2011-11-24T21:36:42.000Z'
 categories: []
 keywords: []
-slug: "201111-12d7e2eb-18eb-4c27-ab0a-da67de9dfecd"
+slug: "12d7e2eb-18eb-4c27-ab0a-da67de9dfecd"
 ---
 いろいろ思うところもあり、かつ、ちょっとおもちゃとしてのiOSデバイスも欲しかったので、iPod Touchを買いました。買ったのは8GBのホワイトモデル。
 

@@ -4,7 +4,7 @@ description: 今回はGTDのお話。最近SubscriptionがリリースされたO
 date: '2019-04-10T13:03:58.167Z'
 categories: []
 keywords: []
-slug: "201904-da7d5264-4485-4439-8d06-e25d4359aa07"
+slug: "da7d5264-4485-4439-8d06-e25d4359aa07"
 ---
 今回はGTDのお話。最近SubscriptionがリリースされたOmniFocusではなく、Thingsの方です。
 

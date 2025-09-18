@@ -4,7 +4,7 @@ description: ''
 date: '2008-09-29T11:56:36.000Z'
 categories: []
 keywords: []
-slug: "200809-980c30bc-494e-4a21-9ce9-2040ecae30b1"
+slug: "980c30bc-494e-4a21-9ce9-2040ecae30b1"
 ---
 MobileMeになって、以前から.Macを使っていた人は、 “mac.com”ドメインと”me.com”ドメインが使えるようになったのですが、みなさんどっちをつかっていますか？
 

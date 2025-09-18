@@ -4,7 +4,7 @@ description: ''
 date: '2007-01-17T22:43:51.000Z'
 categories: []
 keywords: []
-slug: "200701-6ea053ba-693a-45ea-8d97-95b60d6010ac"
+slug: "6ea053ba-693a-45ea-8d97-95b60d6010ac"
 ---
 TERMINAL聞いてます。ってことで、簡単なファーストインプレッションを。 ほ…
 

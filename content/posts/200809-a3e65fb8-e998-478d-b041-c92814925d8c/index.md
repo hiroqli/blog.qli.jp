@@ -4,7 +4,7 @@ description: ''
 date: '2008-09-16T07:43:25.000Z'
 categories: []
 keywords: []
-slug: "200809-a3e65fb8-e998-478d-b041-c92814925d8c"
+slug: "a3e65fb8-e998-478d-b041-c92814925d8c"
 ---
 6月にiPhone 3Gが発表されたとき、”Windows Mobileのようなタスクリストを使ったユーザによるプロセスの管理は易しくない”といって発表された”Apple Push Notification Service”。9月にリリースすると明言されました。
 

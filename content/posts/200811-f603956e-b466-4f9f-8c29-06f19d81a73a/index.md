@@ -4,7 +4,7 @@ description: ""
 date: "2008-11-27T21:38:14.000Z"
 categories: []
 keywords: []
-slug: "200811-f603956e-b466-4f9f-8c29-06f19d81a73a"
+slug: "f603956e-b466-4f9f-8c29-06f19d81a73a"
 ---
 
 Google の公式ブログにこのような記事が上がっていました。

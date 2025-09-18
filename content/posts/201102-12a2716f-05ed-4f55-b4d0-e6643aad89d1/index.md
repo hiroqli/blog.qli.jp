@@ -4,7 +4,7 @@ description: ''
 date: '2011-02-10T21:02:04.000Z'
 categories: []
 keywords: []
-slug: "201102-12a2716f-05ed-4f55-b4d0-e6643aad89d1"
+slug: "12a2716f-05ed-4f55-b4d0-e6643aad89d1"
 ---
 Salyuさんが、コーネリアスと組んで salyuxsalyu名義で発表するアルバム s(o)un(d)beams。その企画としてSalyuさんが公式サイトで Chrome Music Mixer を使って、アルバムの収録曲の１つ「[ただのともだち](http://www.salyu.jp/salyuxsalyu/musicmixer/)」を披露しています。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2007-02-21T23:51:21.000Z'
 categories: []
 keywords: []
-slug: "200702-f04c966a-d1a7-470a-b9b6-1542e6c68bf6"
+slug: "f04c966a-d1a7-470a-b9b6-1542e6c68bf6"
 ---
 [ダブルドライブ](http://qli.vox.com/library/audio/6a00c225200a1d549d00d41420a0b66a47.html "ダブルドライブ")
 

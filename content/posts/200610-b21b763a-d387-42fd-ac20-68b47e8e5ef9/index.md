@@ -4,7 +4,7 @@ description: ""
 date: "2006-10-08T00:15:21.000Z"
 categories: []
 keywords: []
-slug: "200610-b21b763a-d387-42fd-ac20-68b47e8e5ef9"
+slug: "b21b763a-d387-42fd-ac20-68b47e8e5ef9"
 ---
 
 SNS って使ってますか？

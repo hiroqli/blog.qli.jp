@@ -4,7 +4,7 @@ description: ''
 date: '2007-05-03T18:39:36.000Z'
 categories: []
 keywords: []
-slug: "200705-5c6f179b-a51f-4855-95d3-206bbb900335"
+slug: "5c6f179b-a51f-4855-95d3-206bbb900335"
 ---
 [以前紹介したiStalkrというWEBサービス](http://blog.qli.jp/2007/04/post_a22b.html)では、日々バージョンアップしていて、Time Activityというのが表示できるようになりました。
 

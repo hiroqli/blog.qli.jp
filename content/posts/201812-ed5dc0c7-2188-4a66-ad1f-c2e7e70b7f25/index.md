@@ -4,7 +4,7 @@ description: Things の使い方を考える上で、興味深いツイートが
 date: '2018-12-25T13:20:11.599Z'
 categories: []
 keywords: []
-slug: "201812-ed5dc0c7-2188-4a66-ad1f-c2e7e70b7f25"
+slug: "ed5dc0c7-2188-4a66-ad1f-c2e7e70b7f25"
 ---
 Things の使い方を考える上で、興味深いツイートがCultured Codeからあったので軽くまとめる。
 

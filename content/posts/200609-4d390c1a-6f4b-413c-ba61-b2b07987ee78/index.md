@@ -4,7 +4,7 @@ description: ""
 date: "2006-09-19T16:30:17.000Z"
 categories: []
 keywords: []
-slug: "200609-4d390c1a-6f4b-413c-ba61-b2b07987ee78"
+slug: "4d390c1a-6f4b-413c-ba61-b2b07987ee78"
 ---
 ![]()
 

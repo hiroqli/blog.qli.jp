@@ -4,7 +4,7 @@ description: ''
 date: '2008-07-07T22:14:04.000Z'
 categories: []
 keywords: []
-slug: "200807-3ceec445-6c9e-4273-ae36-17fababc521b"
+slug: "3ceec445-6c9e-4273-ae36-17fababc521b"
 ---
 NTTドコモがBlackBerryの個人向けサービスを始めるそうです。
 

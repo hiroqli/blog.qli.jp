@@ -4,7 +4,7 @@ description: ''
 date: '2016-03-21T03:15:45.000Z'
 categories: []
 keywords: []
-slug: "201603-6a910d40-528e-4a72-80cd-5cfa3e8bc195"
+slug: "6a910d40-528e-4a72-80cd-5cfa3e8bc195"
 ---
 Todoistを使っていて、日付の設定が１つしかないことが気になっている。そこで、改めてタスクに必要とされることを考えてみた。
 

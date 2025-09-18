@@ -4,7 +4,7 @@ description: ''
 date: '2008-08-02T09:49:34.000Z'
 categories: []
 keywords: []
-slug: "200808-8b80e3e1-c524-428e-9291-8c3c1ceb574b"
+slug: "8b80e3e1-c524-428e-9291-8c3c1ceb574b"
 ---
 Mr.Children３ヶ月リリース企画第一弾シングルGIFT。この後は８月６日のライブDVD、そして９月のシングル”HANABI”が控えています。この曲はNHK北京オリンピックテーマ曲。
 

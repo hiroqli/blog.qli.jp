@@ -4,7 +4,7 @@ description: ''
 date: '2011-10-13T19:17:51.000Z'
 categories: []
 keywords: []
-slug: "201110-ef09c097-75f8-4511-a05a-9c85763b73b9"
+slug: "ef09c097-75f8-4511-a05a-9c85763b73b9"
 ---
 iOS 5 のリリースと同時にiCloudがサービスインしました。
 

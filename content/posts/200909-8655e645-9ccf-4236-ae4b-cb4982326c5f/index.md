@@ -4,7 +4,7 @@ description: ''
 date: '2009-09-25T07:39:51.000Z'
 categories: []
 keywords: []
-slug: "200909-8655e645-9ccf-4236-ae4b-cb4982326c5f"
+slug: "8655e645-9ccf-4236-ae4b-cb4982326c5f"
 ---
 毎年参加しているBlog Action Dayの今年のテーマが決まり、ついに公式ページが立ち上がりました。今年のテーマは”Climate Change”（気候変動）。そして日付は10月15日です。
 

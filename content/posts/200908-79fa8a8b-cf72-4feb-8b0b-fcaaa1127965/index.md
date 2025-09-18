@@ -4,7 +4,7 @@ description: ''
 date: '2009-08-25T08:19:42.000Z'
 categories: []
 keywords: []
-slug: "200908-79fa8a8b-cf72-4feb-8b0b-fcaaa1127965"
+slug: "79fa8a8b-cf72-4feb-8b0b-fcaaa1127965"
 ---
 WISH 2009 をみてみて感じたのはプレゼンのやりかたでした。今回は田口さんのaction\*padのプレゼンに評価が集まりましたが、今回のイベントで感じたプレゼンについてメモ程度に書いていきたいと思います。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-13T14:42:22.000Z'
 categories: []
 keywords: []
-slug: "200607-9e54d8c8-975c-4f34-b1f5-57dfea020ba3"
+slug: "9e54d8c8-975c-4f34-b1f5-57dfea020ba3"
 ---
 ついにここまできましたね。あともう一歩ってところでしょうか。
 

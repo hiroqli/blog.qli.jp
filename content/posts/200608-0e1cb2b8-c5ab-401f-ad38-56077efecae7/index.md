@@ -4,7 +4,7 @@ description: ""
 date: "2006-08-03T15:39:00.000Z"
 categories: []
 keywords: []
-slug: "200608-0e1cb2b8-c5ab-401f-ad38-56077efecae7"
+slug: "0e1cb2b8-c5ab-401f-ad38-56077efecae7"
 ---
 
 Google、ナイスな判断ですね。

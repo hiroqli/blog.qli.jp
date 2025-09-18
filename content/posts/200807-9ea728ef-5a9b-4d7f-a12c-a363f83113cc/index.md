@@ -4,7 +4,7 @@ description: ''
 date: '2008-07-02T13:18:34.000Z'
 categories: []
 keywords: []
-slug: "200807-9ea728ef-5a9b-4d7f-a12c-a363f83113cc"
+slug: "9ea728ef-5a9b-4d7f-a12c-a363f83113cc"
 ---
 リンクをたどっていたら気になる文章にたどり着いた。このブログ、Apple関係では有名な林信行さんのブログでした。
 

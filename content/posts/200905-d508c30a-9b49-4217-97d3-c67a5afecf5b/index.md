@@ -4,7 +4,7 @@ description: ''
 date: '2009-05-19T21:58:17.000Z'
 categories: []
 keywords: []
-slug: "200905-d508c30a-9b49-4217-97d3-c67a5afecf5b"
+slug: "d508c30a-9b49-4217-97d3-c67a5afecf5b"
 ---
 久々に気に入った音楽のレビューを書きますね。(２ヶ月ぶりとかびっくりです）
 

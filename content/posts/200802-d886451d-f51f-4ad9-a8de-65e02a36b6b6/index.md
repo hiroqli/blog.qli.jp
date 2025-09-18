@@ -4,7 +4,7 @@ description: ""
 date: "2008-02-22T00:04:38.000Z"
 categories: []
 keywords: []
-slug: "200802-d886451d-f51f-4ad9-a8de-65e02a36b6b6"
+slug: "d886451d-f51f-4ad9-a8de-65e02a36b6b6"
 ---
 
 本日、２月２２日は自分が twitter を使いだして１周年の記念日、twitter 記念日です。

@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-09T18:06:48.000Z'
 categories: []
 keywords: []
-slug: "200803-c96f6eab-3bb3-4ffa-b99f-6f6de1c406a2"
+slug: "c96f6eab-3bb3-4ffa-b99f-6f6de1c406a2"
 ---
 最近Gmailを利用する人が増えてきたなぁと思ってきたりしてて、自分の使い方を整理する意味で、書いておきます。
 

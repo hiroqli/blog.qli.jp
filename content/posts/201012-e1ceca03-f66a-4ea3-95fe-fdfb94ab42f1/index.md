@@ -4,7 +4,7 @@ description: ''
 date: '2010-12-03T23:45:43.000Z'
 categories: []
 keywords: []
-slug: "201012-e1ceca03-f66a-4ea3-95fe-fdfb94ab42f1"
+slug: "e1ceca03-f66a-4ea3-95fe-fdfb94ab42f1"
 ---
 もうこれを読んでいる方は大半の方が知っていると思いますが、iPhone用Google Readerクライアントアプリとして有名なReederのMac版が開発されていまして、そのDraft 1とするバージョンが公式サイトではないところ（[こちらです](http://madeatgloria.com/brewery)）からダウンロードすることができるようになっています。
 

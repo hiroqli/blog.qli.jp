@@ -4,7 +4,7 @@ description: ''
 date: '2015-06-20T14:00:43.000Z'
 categories: []
 keywords: []
-slug: "201506-0d6ae0e6-dd8d-4174-a435-cf96fffa6cb0"
+slug: "0d6ae0e6-dd8d-4174-a435-cf96fffa6cb0"
 ---
 きゅーり.jp を始めて9年目になりました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2010-12-31T00:16:35.000Z'
 categories: []
 keywords: []
-slug: "201012-8d0deca2-6eac-48cc-90de-5572d46353f6"
+slug: "8d0deca2-6eac-48cc-90de-5572d46353f6"
 ---
 IS03を使い始めて一週間。感じたことを書いてみたいと思います。
 

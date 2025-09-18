@@ -4,7 +4,7 @@ description: ''
 date: '2007-10-09T23:09:08.000Z'
 categories: []
 keywords: []
-slug: "200710-0b5fd6b0-2259-45f4-a36e-674d7ad303e2"
+slug: "0b5fd6b0-2259-45f4-a36e-674d7ad303e2"
 ---
 突然ですが、デザインを変えてみました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2015-12-04T15:01:00.000Z'
 categories: []
 keywords: []
-slug: "201512-f54c18ec-2f2f-4c20-b4bc-19d2eacd2513"
+slug: "f54c18ec-2f2f-4c20-b4bc-19d2eacd2513"
 ---
 「iPad ProのためのApple Pencil」を入手しました。
 

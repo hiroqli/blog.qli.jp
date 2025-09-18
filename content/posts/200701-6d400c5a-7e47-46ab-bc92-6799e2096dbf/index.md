@@ -4,7 +4,7 @@ description: ""
 date: "2007-01-19T00:17:43.000Z"
 categories: []
 keywords: []
-slug: "200701-6d400c5a-7e47-46ab-bc92-6799e2096dbf"
+slug: "6d400c5a-7e47-46ab-bc92-6799e2096dbf"
 ---
 
 Salyu さんの TERMINAL を iPod や ITunes で聞くとなんとなく納得いかないサウンドだった。でも CD で聞くとすごく臨場感あふれるサウンドが聞こえてきた。何が違うんだろう？と思いつつ、iTunes で Apple Lossless で TERMINAL をリッピングして再生。･･･これだ！

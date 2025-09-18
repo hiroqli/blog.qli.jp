@@ -4,7 +4,7 @@ description: ''
 date: '2006-11-27T00:20:01.000Z'
 categories: []
 keywords: []
-slug: "200611-96bcd553-e771-4568-b557-a505efbfe1e8"
+slug: "96bcd553-e771-4568-b557-a505efbfe1e8"
 ---
 通勤時の往復の時に大抵本を読んでいます。最近はまっているのは「[The MANZAI 1](http://www.amazon.co.jp/gp/redirect.html%3FASIN=4861762537%26tag=mrchildrenonl-22%26lcode=xm2%26cID=2025%26ccmID=165953%26location=/o/ASIN/4861762537%253FSubscriptionId=02ZH6J1W0649DTNS6002) 」なのですが、もうそろそろ読み終えそうなので、次何を読もうかふらっと本屋に入ったらこんな本を見つけました。
 

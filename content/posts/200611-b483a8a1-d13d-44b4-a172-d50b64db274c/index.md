@@ -4,7 +4,7 @@ description: ''
 date: '2006-11-05T02:09:27.000Z'
 categories: []
 keywords: []
-slug: "200611-b483a8a1-d13d-44b4-a172-d50b64db274c"
+slug: "b483a8a1-d13d-44b4-a172-d50b64db274c"
 ---
 Typepadがずいぶん長いメンテナンスをやっていたのでやっと投稿できました。
 

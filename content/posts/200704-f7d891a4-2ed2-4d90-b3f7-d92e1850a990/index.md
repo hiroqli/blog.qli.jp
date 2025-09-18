@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-11T05:24:53.000Z'
 categories: []
 keywords: []
-slug: "200704-f7d891a4-2ed2-4d90-b3f7-d92e1850a990"
+slug: "f7d891a4-2ed2-4d90-b3f7-d92e1850a990"
 ---
 ちょっと古いネタになってしまった申し訳ないのだけど。
 

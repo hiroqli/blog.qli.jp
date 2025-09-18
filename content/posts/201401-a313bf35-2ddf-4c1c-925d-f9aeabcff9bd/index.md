@@ -4,7 +4,7 @@ description: ''
 date: '2014-01-07T12:26:35.645Z'
 categories: []
 keywords: []
-slug: "201401-a313bf35-2ddf-4c1c-925d-f9aeabcff9bd"
+slug: "a313bf35-2ddf-4c1c-925d-f9aeabcff9bd"
 ---
 ![](1__zTTFv84ZbX__Hd28Y1SPYDw.jpeg)
 

@@ -4,7 +4,7 @@ description: ""
 date: "2006-07-19T10:09:00.000Z"
 categories: []
 keywords: []
-slug: "200607-0a76e9a9-22a9-4a5e-b41b-a2d01f08a0f6"
+slug: "0a76e9a9-22a9-4a5e-b41b-a2d01f08a0f6"
 ---
 
 freshmeeting 製品版がリリースされたようです。  

@@ -4,7 +4,7 @@ description: ''
 date: '2007-07-12T00:21:10.000Z'
 categories: []
 keywords: []
-slug: "200707-974237e2-654b-413a-afad-563df00f6454"
+slug: "974237e2-654b-413a-afad-563df00f6454"
 ---
 もはや、Macのウワサでは有名となった日本市場向けのウルトラポータブルMacなのですが、”信頼できる情報筋”からの情報としてMacBookではなく、MacBook Proのポータブル機が報告されています。
 

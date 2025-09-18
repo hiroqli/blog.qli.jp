@@ -4,7 +4,7 @@ description: 記事に必要なのは執筆者のみ
 date: '2015-05-22T08:06:26.729Z'
 categories: []
 keywords: []
-slug: "201505-97b19fd3-1e7a-4ff5-aae4-6ac5bfa91941"
+slug: "97b19fd3-1e7a-4ff5-aae4-6ac5bfa91941"
 ---
 ### 記事に必要なのは執筆者のみ
 

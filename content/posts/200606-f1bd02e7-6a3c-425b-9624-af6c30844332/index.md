@@ -4,7 +4,7 @@ description: ""
 date: "2006-06-27T07:59:00.000Z"
 categories: []
 keywords: []
-slug: "200606-f1bd02e7-6a3c-425b-9624-af6c30844332"
+slug: "f1bd02e7-6a3c-425b-9624-af6c30844332"
 ---
 
 IT メディアなかなかやってくれますねぇ。

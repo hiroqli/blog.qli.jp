@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-29T09:50:10.000Z'
 categories: []
 keywords: []
-slug: "200607-63665eea-d27e-4a3f-9fb9-12989af2500c"
+slug: "63665eea-d27e-4a3f-9fb9-12989af2500c"
 ---
 mixiでは結構前から騒がれてましたが、すでに書かせていただいているとおり、Salyuさんの楽曲が採用されている映画です。んで、[公式サイト](http://www.metro-movie.jp/)を見てみると、「音楽：小林武史」「監督：篠原哲雄」の文字が。
 

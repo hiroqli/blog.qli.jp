@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-20T23:31:36.000Z'
 categories: []
 keywords: []
-slug: "200706-83c64638-6fa0-4edc-adf3-0208e825d22f"
+slug: "83c64638-6fa0-4edc-adf3-0208e825d22f"
 ---
 iPhoneにYoutube対応のアプリケーションが内蔵されることが発表されました。これはAppleとGoogleの近い距離感を示すものだと思いますが、これを聞いてなるほどと思いました。
 

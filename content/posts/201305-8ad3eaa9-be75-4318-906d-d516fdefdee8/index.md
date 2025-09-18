@@ -4,7 +4,7 @@ description: ''
 date: '2013-05-10T20:47:40.000Z'
 categories: []
 keywords: []
-slug: "201305-8ad3eaa9-be75-4318-906d-d516fdefdee8"
+slug: "8ad3eaa9-be75-4318-906d-d516fdefdee8"
 ---
 UP を使い始めてもうずいぶんたちました。UPを充電している時、iPhoneにつなげている時、そして、お風呂に入っている時以外は、ずっとつけている生活を続けています。
 

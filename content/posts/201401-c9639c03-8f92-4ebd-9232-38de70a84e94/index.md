@@ -4,7 +4,7 @@ description: ''
 date: '2014-01-16T12:56:29.000Z'
 categories: []
 keywords: []
-slug: "201401-c9639c03-8f92-4ebd-9232-38de70a84e94"
+slug: "c9639c03-8f92-4ebd-9232-38de70a84e94"
 ---
 ここ最近、業界の中でいろんな「プロセス」の話が盛んだ。
 

@@ -4,7 +4,7 @@ description: 面倒なことが多いのでまとめてみた
 date: '2017-09-30T01:40:23.660Z'
 categories: []
 keywords: []
-slug: "201709-b0bd61f1-e85a-4110-8415-c0e627f04211"
+slug: "b0bd61f1-e85a-4110-8415-c0e627f04211"
 ---
 #### au iPhoneの機種変更はSIMカードの変更が必要
 

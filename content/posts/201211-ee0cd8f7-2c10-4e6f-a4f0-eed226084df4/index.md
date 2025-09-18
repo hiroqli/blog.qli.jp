@@ -4,7 +4,7 @@ description: ''
 date: '2012-11-01T21:38:57.000Z'
 categories: []
 keywords: []
-slug: "201211-ee0cd8f7-2c10-4e6f-a4f0-eed226084df4"
+slug: "ee0cd8f7-2c10-4e6f-a4f0-eed226084df4"
 ---
 天気予報は話題のウェザーニュースアプリを使っているのですが、そのアプリからアラートがきました。
 

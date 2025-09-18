@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-30T09:58:06.000Z'
 categories: []
 keywords: []
-slug: "200803-896f15b9-e68c-4ae9-a638-5ed94060e4ad"
+slug: "896f15b9-e68c-4ae9-a638-5ed94060e4ad"
 ---
 これまでのiPodでも、iTunesを解析して、iPodに追加されるらしい新機能を予想していたわけですが、iPhone SDKに対しても同じことが行われているようです。
 

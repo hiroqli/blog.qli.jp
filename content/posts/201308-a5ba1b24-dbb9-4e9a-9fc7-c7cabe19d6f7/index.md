@@ -4,7 +4,7 @@ description: ''
 date: '2013-08-16T22:20:05.000Z'
 categories: []
 keywords: []
-slug: "201308-a5ba1b24-dbb9-4e9a-9fc7-c7cabe19d6f7"
+slug: "a5ba1b24-dbb9-4e9a-9fc7-c7cabe19d6f7"
 ---
 映画「打ち上げ花火、下から見るか? 横から見るか?」のロケ地となった、旧飯岡町にいってきました。現在は市町村合併の結果 旭市となっています。
 

@@ -4,7 +4,7 @@ description: ""
 date: "2006-09-07T22:50:00.000Z"
 categories: []
 keywords: []
-slug: "200609-5f003b98-65d9-418f-8ece-6bdd828972d4"
+slug: "5f003b98-65d9-418f-8ece-6bdd828972d4"
 ---
 
 Google Japanese Team が Google グループでユーザ同士の意見交換の場所を作ったそうです。

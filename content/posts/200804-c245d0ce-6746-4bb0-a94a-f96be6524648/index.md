@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-05T00:37:38.000Z'
 categories: []
 keywords: []
-slug: "200804-c245d0ce-6746-4bb0-a94a-f96be6524648"
+slug: "c245d0ce-6746-4bb0-a94a-f96be6524648"
 ---
 こちらはTechCrunchで紹介されてわりと長い間待ったんですが、やっと今日届いて使い始めている感じです。そもそも使いたいと思ったのは
 

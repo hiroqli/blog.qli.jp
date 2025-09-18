@@ -4,7 +4,7 @@ description: ''
 date: '2007-01-08T09:02:16.000Z'
 categories: []
 keywords: []
-slug: "200701-34b4e74f-d33d-40c4-be07-0123b551dbb0"
+slug: "34b4e74f-d33d-40c4-be07-0123b551dbb0"
 ---
 さて、先日書いた映画と同時に借りた映画をもう一本ご紹介。 ほとんど、市原くん目当…
 

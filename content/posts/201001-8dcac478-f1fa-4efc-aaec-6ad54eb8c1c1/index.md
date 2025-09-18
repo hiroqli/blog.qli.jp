@@ -4,7 +4,7 @@ description: ''
 date: '2010-01-31T04:07:00.000Z'
 categories: []
 keywords: []
-slug: "201001-8dcac478-f1fa-4efc-aaec-6ad54eb8c1c1"
+slug: "8dcac478-f1fa-4efc-aaec-6ad54eb8c1c1"
 ---
 ゴールデンスランバーを見てきました。原作の伊坂幸太郎さんは大好きな作家さんの一人。   
 でも、この原作はまだ単行本になってなくて読んでないのですよ。

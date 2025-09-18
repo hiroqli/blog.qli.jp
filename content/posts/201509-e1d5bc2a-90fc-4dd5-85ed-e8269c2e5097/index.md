@@ -4,7 +4,7 @@ description: ''
 date: '2015-09-27T01:16:14.000Z'
 categories: []
 keywords: []
-slug: "201509-e1d5bc2a-90fc-4dd5-85ed-e8269c2e5097"
+slug: "e1d5bc2a-90fc-4dd5-85ed-e8269c2e5097"
 ---
 iPhone 6sの発売が6月25日に開始されました。今年の発売日に東京の天気は雨。行列にはとてもつらい天候になりましたが、今年は行列がありませんでした。
 

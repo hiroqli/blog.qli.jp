@@ -4,7 +4,7 @@ description: ''
 date: '2015-10-04T05:51:24.000Z'
 categories: []
 keywords: []
-slug: "201510-5218a0a3-8665-41aa-aea5-ca84f66489dc"
+slug: "5218a0a3-8665-41aa-aea5-ca84f66489dc"
 ---
 auでiPhone 6sに機種変更した人から「連絡先が消える」という話がちらほら聞こえている。
 

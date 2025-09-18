@@ -4,7 +4,7 @@ description: ''
 date: '2011-06-05T22:26:25.000Z'
 categories: []
 keywords: []
-slug: "201106-085a677b-2645-4f7b-99c1-09eaebaec06b"
+slug: "085a677b-2645-4f7b-99c1-09eaebaec06b"
 ---
 iPhoneアプリである Qik Video が6月4日付けでバージョンアップしていました。Qik Video というのは、Qikというモバイル専用ライブストリーミングサービスのアプリです。
 

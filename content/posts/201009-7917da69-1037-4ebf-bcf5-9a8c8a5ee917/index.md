@@ -4,7 +4,7 @@ description: ''
 date: '2010-09-09T21:29:55.000Z'
 categories: []
 keywords: []
-slug: "201009-7917da69-1037-4ebf-bcf5-9a8c8a5ee917"
+slug: "7917da69-1037-4ebf-bcf5-9a8c8a5ee917"
 ---
 9月8日に発売されたiPod shuffleに引き続き、新しい iPod nano が本日9月9日に発売になったと聞いたので早速買ってきてみました。Twitterで入荷情報なりいろいろ飛び交ってましたね。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2013-10-24T21:51:19.000Z'
 categories: []
 keywords: []
-slug: "201310-0554c1c6-7772-47ea-ac5f-f2e916a15d98"
+slug: "0554c1c6-7772-47ea-ac5f-f2e916a15d98"
 ---
 Appleさんから ユーザーに向けて送られるメールのひとつに、「Apple ID パスワードの再設定方法。」というメールがありまして。
 

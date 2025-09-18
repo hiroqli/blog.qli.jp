@@ -4,7 +4,7 @@ description: ''
 date: '2008-09-17T09:09:48.000Z'
 categories: []
 keywords: []
-slug: "200809-f7933d1b-3685-4546-991c-13ff6129621a"
+slug: "f7933d1b-3685-4546-991c-13ff6129621a"
 ---
 最近、twitter上で知らない人から話の脈絡のないreplyをもらうことがあるようになった。よくよく調べてみると、たいていがtwinkle経由であったり、brightkite経由だったりする。
 

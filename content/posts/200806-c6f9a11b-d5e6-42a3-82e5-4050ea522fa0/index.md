@@ -4,7 +4,7 @@ description: ''
 date: '2008-06-04T17:39:21.000Z'
 categories: []
 keywords: []
-slug: "200806-c6f9a11b-d5e6-42a3-82e5-4050ea522fa0"
+slug: "c6f9a11b-d5e6-42a3-82e5-4050ea522fa0"
 ---
 ソフトバンクモバイルから正式にiPhoneについて発表がありました。
 

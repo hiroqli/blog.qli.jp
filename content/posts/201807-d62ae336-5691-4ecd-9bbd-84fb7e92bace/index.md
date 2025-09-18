@@ -4,7 +4,7 @@ description: こんなにワールドカップの試合をきちんとみてい�
 date: '2018-07-03T06:39:35.552Z'
 categories: []
 keywords: []
-slug: "201807-d62ae336-5691-4ecd-9bbd-84fb7e92bace"
+slug: "d62ae336-5691-4ecd-9bbd-84fb7e92bace"
 ---
 こんなにワールドカップの試合をきちんとみているのは、初めてではないかと思えるくらいみている。
 

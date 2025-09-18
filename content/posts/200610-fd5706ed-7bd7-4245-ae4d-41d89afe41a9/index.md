@@ -4,7 +4,7 @@ description: ""
 date: "2006-10-02T00:23:54.000Z"
 categories: []
 keywords: []
-slug: "200610-fd5706ed-7bd7-4245-ae4d-41d89afe41a9"
+slug: "fd5706ed-7bd7-4245-ae4d-41d89afe41a9"
 ---
 
 2 世代目 iPod nano を使い始めて、いい頃合いになってきたので、改めてレビューを。

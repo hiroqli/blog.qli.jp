@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-10T11:17:14.000Z'
 categories: []
 keywords: []
-slug: "200704-b964a8c4-cf5d-44f2-8f4a-a3dd364639ec"
+slug: "b964a8c4-cf5d-44f2-8f4a-a3dd364639ec"
 ---
 いままでもみれましたが、モバイルGmailが正式にアナウンスされたそうです。今日説明会とか。Googleってちゃんと説明会開くんですね。驚きの新事実とか判明しそうな予感もしますが。
 

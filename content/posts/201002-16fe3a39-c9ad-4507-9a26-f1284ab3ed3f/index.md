@@ -4,7 +4,7 @@ description: ''
 date: '2010-02-08T14:05:42.000Z'
 categories: []
 keywords: []
-slug: "201002-16fe3a39-c9ad-4507-9a26-f1284ab3ed3f"
+slug: "16fe3a39-c9ad-4507-9a26-f1284ab3ed3f"
 ---
 先日のUCCの件、さがすといろんなブログで書かれていますね。その後、どうやら代理店経由ではなく、UCCが直でやったことらしいというところまで聞こえてきます。その後、[UCCは公式アカウントをきちんと立ち上げました](http://twitter.com/ueshimacoffee)。
 

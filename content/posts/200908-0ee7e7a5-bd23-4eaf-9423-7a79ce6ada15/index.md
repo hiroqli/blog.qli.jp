@@ -4,7 +4,7 @@ description: ''
 date: '2009-08-03T21:17:27.000Z'
 categories: []
 keywords: []
-slug: "200908-0ee7e7a5-bd23-4eaf-9423-7a79ce6ada15"
+slug: "0ee7e7a5-bd23-4eaf-9423-7a79ce6ada15"
 ---
 iPhone 3GSが発売されて一ヶ月がたち、だいたいiPhone 3GSもなじんできた頃かなーと思ってアンケートをしました。題して「iPhone 3GSの新機能使っていますか？」
 

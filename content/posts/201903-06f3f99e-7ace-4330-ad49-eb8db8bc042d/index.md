@@ -4,7 +4,7 @@ description: 今朝のツイートについて言葉足らずだなと思った�
 date: '2019-03-29T00:31:24.772Z'
 categories: []
 keywords: []
-slug: "201903-06f3f99e-7ace-4330-ad49-eb8db8bc042d"
+slug: "06f3f99e-7ace-4330-ad49-eb8db8bc042d"
 ---
 今朝のツイートについて言葉足らずだなと思ったので、補足。
 

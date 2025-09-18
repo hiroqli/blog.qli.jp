@@ -4,7 +4,7 @@ description: ''
 date: '2012-04-07T15:00:51.000Z'
 categories: []
 keywords: []
-slug: "201204-f3eea4e5-3d1b-498f-ae5c-0fd49b1d625d"
+slug: "f3eea4e5-3d1b-498f-ae5c-0fd49b1d625d"
 ---
 ここ最近テレビ番組が特番体制になってつまらないので、ついついAppleTVの映画に手が伸びる毎日です。
 

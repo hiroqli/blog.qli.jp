@@ -4,7 +4,7 @@ description: ''
 date: '2008-02-03T09:59:29.000Z'
 categories: []
 keywords: []
-slug: "200802-6d51c458-bc15-47f9-8a52-a7ae87c12988"
+slug: "6d51c458-bc15-47f9-8a52-a7ae87c12988"
 ---
 Mac Peopleお待ちかねのMacBook Air発売の足音が徐々に近づいてきました。
 

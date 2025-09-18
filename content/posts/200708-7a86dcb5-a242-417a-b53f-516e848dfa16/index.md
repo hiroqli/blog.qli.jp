@@ -4,7 +4,7 @@ description: ''
 date: '2007-08-08T08:26:48.000Z'
 categories: []
 keywords: []
-slug: "200708-7a86dcb5-a242-417a-b53f-516e848dfa16"
+slug: "7a86dcb5-a242-417a-b53f-516e848dfa16"
 ---
 さて、今日はApple祭りということで（笑）
 

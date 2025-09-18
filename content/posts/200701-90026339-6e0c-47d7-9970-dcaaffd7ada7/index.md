@@ -4,7 +4,7 @@ description: ''
 date: '2007-01-08T09:15:04.000Z'
 categories: []
 keywords: []
-slug: "200701-90026339-6e0c-47d7-9970-dcaaffd7ada7"
+slug: "90026339-6e0c-47d7-9970-dcaaffd7ada7"
 ---
 年末からずっと休みが続いていて、就寝前にgoogle readerとGmailはチェックするようにしていましたが、簡単にしか読んでいないので返信とか忘れてたらごめんなさい。
 

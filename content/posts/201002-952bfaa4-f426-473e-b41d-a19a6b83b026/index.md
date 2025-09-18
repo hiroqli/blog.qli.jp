@@ -4,7 +4,7 @@ description: ''
 date: '2010-02-02T09:40:15.000Z'
 categories: []
 keywords: []
-slug: "201002-952bfaa4-f426-473e-b41d-a19a6b83b026"
+slug: "952bfaa4-f426-473e-b41d-a19a6b83b026"
 ---
 iPadの発表で、iPhone OSの次のアップデートであるiPhone OS 3.2 SDKがベータながらも登場して。あと、iPadが大きい画面だったせいか、「なんでFlashサポートしないの？」議論がお盛んな感じ。
 

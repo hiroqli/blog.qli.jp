@@ -4,7 +4,7 @@ description: iPhone 12 Pro が発売になって2週間。今日はいよいよi
 date: '2020-11-05T23:55:29.021Z'
 categories: []
 keywords: []
-slug: "202011-2cfec4f9-5658-4bc9-9bbe-990e56cc125a"
+slug: "2cfec4f9-5658-4bc9-9bbe-990e56cc125a"
 ---
 iPhone 12 Pro が発売になって2週間。今日はいよいよiPhone 12 miniとiPhone 12 Pro Max の予約が開始されます。
 

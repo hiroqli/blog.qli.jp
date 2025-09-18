@@ -4,7 +4,7 @@ description: Catalinaで “Good bye iTunes, Hello Music” が行われ、音�
 date: '2019-10-24T14:17:12.097Z'
 categories: []
 keywords: []
-slug: "201910-2f0cdbfe-719a-4194-9977-b774ed3ec9cf"
+slug: "2f0cdbfe-719a-4194-9977-b774ed3ec9cf"
 ---
 Catalinaで “Good bye iTunes, Hello Music” が行われ、音楽体験を見直す機会が発生しているようなので、自分の音楽の聴き方をざっと書いておく。
 

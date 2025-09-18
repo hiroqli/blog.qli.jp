@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-12T23:35:03.000Z'
 categories: []
 keywords: []
-slug: "200706-fa302e97-bd66-4dc8-872d-770c02b2bf6a"
+slug: "fa302e97-bd66-4dc8-872d-770c02b2bf6a"
 ---
 WWDC07で発表されたのは10月発売のLeopardの機能とiPhoneの説明、そして、Safari 3 betaとそれのWindows版。
 

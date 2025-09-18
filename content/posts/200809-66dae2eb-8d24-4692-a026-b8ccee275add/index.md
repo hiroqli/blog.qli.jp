@@ -4,7 +4,7 @@ description: ''
 date: '2008-09-23T21:56:28.000Z'
 categories: []
 keywords: []
-slug: "200809-66dae2eb-8d24-4692-a026-b8ccee275add"
+slug: "66dae2eb-8d24-4692-a026-b8ccee275add"
 ---
 記事自体が古いものになってしまいましたが。取り上げないわけにはいかないだろうと。
 

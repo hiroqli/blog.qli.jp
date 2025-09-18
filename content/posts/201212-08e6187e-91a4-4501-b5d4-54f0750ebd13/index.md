@@ -4,7 +4,7 @@ description: ''
 date: '2012-12-22T22:35:58.000Z'
 categories: []
 keywords: []
-slug: "201212-08e6187e-91a4-4501-b5d4-54f0750ebd13"
+slug: "08e6187e-91a4-4501-b5d4-54f0750ebd13"
 ---
 LINEについて、今日NHKから以下のようなニュースが報道されました。  
 「[ＬＩＮＥ掲示板で性犯罪被害 実態把握へ](http://www3.nhk.or.jp/news/html/20121222/t10014376451000.html)」

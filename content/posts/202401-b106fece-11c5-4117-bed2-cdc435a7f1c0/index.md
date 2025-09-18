@@ -4,7 +4,7 @@ description: YOASOBIがApple Musicで展開していたYOASOBI’s Otsumamiと�
 date: '2024-01-20T03:01:38.446Z'
 categories: []
 keywords: []
-slug: "202401-b106fece-11c5-4117-bed2-cdc435a7f1c0"
+slug: "b106fece-11c5-4117-bed2-cdc435a7f1c0"
 ---
 東京でも雪がちらついたり、「降るぞ、降るぞ」と言ってくる天気予報に接すると、一年で寒い時期なんだなぁと思います。2月3日には立春がやってきます。その前の日は節分です。
 

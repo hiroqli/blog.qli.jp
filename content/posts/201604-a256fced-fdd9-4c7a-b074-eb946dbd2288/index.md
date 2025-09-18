@@ -4,7 +4,7 @@ description: ''
 date: '2016-04-25T10:31:00.000Z'
 categories: []
 keywords: []
-slug: "201604-a256fced-fdd9-4c7a-b074-eb946dbd2288"
+slug: "a256fced-fdd9-4c7a-b074-eb946dbd2288"
 ---
 駄文だけど、書いておく。
 

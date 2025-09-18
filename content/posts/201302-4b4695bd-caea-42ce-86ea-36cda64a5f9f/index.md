@@ -4,7 +4,7 @@ description: ''
 date: '2013-02-02T08:31:52.000Z'
 categories: []
 keywords: []
-slug: "201302-4b4695bd-caea-42ce-86ea-36cda64a5f9f"
+slug: "4b4695bd-caea-42ce-86ea-36cda64a5f9f"
 ---
 OmniFocus2が発表されました。OmniFocus2は、OmniFocus for iPad で培った経験をOS X版に持ってきたという、どこかで聞いたことあるような形でのバージョンアップを目指しています。サンフランシスコで行われたイベントでプレビュー版が公開され、スクリーンショットを含む詳細は[彼らのブログ](http://www.omnigroup.com/blog/entry/debut-of-omnifocus-2) にポストされました。
 

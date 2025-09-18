@@ -4,7 +4,7 @@ description: ４月に入って、LEGO BIG MORL “KEITH” と スガシカオ 
 date: '2019-04-23T14:40:32.843Z'
 categories: []
 keywords: []
-slug: "201904-9bac6c30-851a-4f6b-b4c9-d97beed94ecd"
+slug: "9bac6c30-851a-4f6b-b4c9-d97beed94ecd"
 ---
 ![](1__2__TE2Y7flUzMlp9QihT9OA.jpeg)
 

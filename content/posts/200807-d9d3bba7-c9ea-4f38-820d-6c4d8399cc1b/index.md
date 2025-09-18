@@ -4,7 +4,7 @@ description: ''
 date: '2008-07-04T22:56:10.000Z'
 categories: []
 keywords: []
-slug: "200807-d9d3bba7-c9ea-4f38-820d-6c4d8399cc1b"
+slug: "d9d3bba7-c9ea-4f38-820d-6c4d8399cc1b"
 ---
 以前、
 

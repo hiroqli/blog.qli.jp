@@ -4,7 +4,7 @@ description: ''
 date: '2014-03-03T20:31:41.000Z'
 categories: []
 keywords: []
-slug: "201403-0719dc11-d4d3-47cd-b6cf-3f54de24dcff"
+slug: "0719dc11-d4d3-47cd-b6cf-3f54de24dcff"
 ---
 よくタワレコやiTunes Storeなどの音楽ショップでの音楽のジャンルとしてROCKとPOPがある。ROCKとPOPという分け方は人によっては対極にあるものと受け取っているようで、「◯◯はPOPか？ROCKか？」という論争がしばしば目にしたりもした。「ミスチルはROCKだろ」「いやPOPだろ」という論争はあちこち目撃することが多かった。
 

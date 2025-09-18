@@ -4,7 +4,7 @@ description: ''
 date: '2014-05-23T23:55:04.000Z'
 categories: []
 keywords: []
-slug: "201405-12a7a0e5-2b42-45b5-8240-bf2c8959c28b"
+slug: "12a7a0e5-2b42-45b5-8240-bf2c8959c28b"
 ---
 OmniFocus 2 for Mac が兼ねてからの発表通り、アメリカ西海岸時間 ５月22日朝9時（JPT: 5/23 1:00)にリリースされました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2012-06-06T23:00:25.000Z'
 categories: []
 keywords: []
-slug: "201206-3280b316-9a03-4a60-9e87-f0503fd3e40a"
+slug: "3280b316-9a03-4a60-9e87-f0503fd3e40a"
 ---
 Mr.ChildrenのMicro/Macroという二組のベスト盤をひっさげてのドームツアー。
 

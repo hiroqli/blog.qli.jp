@@ -4,7 +4,7 @@ description: ''
 date: '2015-09-13T12:00:00.000Z'
 categories: []
 keywords: []
-slug: "201509-d7250519-2abd-4c7c-bd1c-3cae40e2b895"
+slug: "d7250519-2abd-4c7c-bd1c-3cae40e2b895"
 ---
 とか書いたらききたいという反応をいただいたので、少し書いておきます。
 

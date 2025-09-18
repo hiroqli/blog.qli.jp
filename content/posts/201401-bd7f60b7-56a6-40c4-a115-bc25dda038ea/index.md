@@ -4,7 +4,7 @@ description: ''
 date: '2014-01-17T22:45:13.000Z'
 categories: []
 keywords: []
-slug: "201401-bd7f60b7-56a6-40c4-a115-bc25dda038ea"
+slug: "bd7f60b7-56a6-40c4-a115-bc25dda038ea"
 ---
 1月22日にKDDIが春モデルを発表すると発表しています。
 

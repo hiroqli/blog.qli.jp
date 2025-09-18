@@ -4,7 +4,7 @@ description: ''
 date: '2025-06-28T03:01:30.425Z'
 categories: []
 keywords: []
-slug: "202506-703f84fc-30ff-43e3-bc37-0a3caf2d1b96"
+slug: "703f84fc-30ff-43e3-bc37-0a3caf2d1b96"
 ---
 このブログは2006年に始めて、今月で19年目に突入しました。
 

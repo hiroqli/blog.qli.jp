@@ -4,7 +4,7 @@ description: ''
 date: '2007-07-29T21:47:20.000Z'
 categories: []
 keywords: []
-slug: "200707-2ffcad9f-7688-4d47-b779-af19ead3749b"
+slug: "2ffcad9f-7688-4d47-b779-af19ead3749b"
 ---
 長い間沈黙を保ってきた[the brilliant green](http://www.thebrilliantgreen.jp/)がついに始動するそうです。前回の活動から、音楽活動にもプライベートにもいろいろあった3人ですが、新しいサウンドを届けてくれることを非常にうれしく思います。今回の復活後も気負わず肩の力を抜いて、彼ら自身のサウンドを届けて欲しいですね。
 

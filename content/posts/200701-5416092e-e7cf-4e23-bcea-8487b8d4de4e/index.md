@@ -4,7 +4,7 @@ description: ""
 date: "2007-01-29T00:46:25.000Z"
 categories: []
 keywords: []
-slug: "200701-5416092e-e7cf-4e23-bcea-8487b8d4de4e"
+slug: "5416092e-e7cf-4e23-bcea-8487b8d4de4e"
 ---
 
 わりと昔の記事になるけど、文字化けしてしまっている Gmail の文字化けを直す方法が紹介されていた。

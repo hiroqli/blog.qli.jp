@@ -4,7 +4,7 @@ description: ''
 date: '2009-09-06T08:44:58.000Z'
 categories: []
 keywords: []
-slug: "200909-627fea9e-6401-41c4-bc0b-445ad77aa4e9"
+slug: "627fea9e-6401-41c4-bc0b-445ad77aa4e9"
 ---
 いよいよ今週に迫ってきたAppleのメディアイベント。iPodよりもどうやらiTunesに注目が集まっているようです。
 

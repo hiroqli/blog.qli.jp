@@ -4,7 +4,7 @@ description: ''
 date: '2008-11-01T19:32:39.000Z'
 categories: []
 keywords: []
-slug: "200811-faa40ad7-71bc-4ec3-bca3-69bdfd13b065"
+slug: "faa40ad7-71bc-4ec3-bca3-69bdfd13b065"
 ---
 今日は用事を済ますために銀座へ。いつもは銀座にはApple Storeに用事があっていくことがほとんどなのですが、今日はApple Storeには本当に立ち寄る程度に。
 

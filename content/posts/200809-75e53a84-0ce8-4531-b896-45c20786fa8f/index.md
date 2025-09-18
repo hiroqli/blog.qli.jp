@@ -4,7 +4,7 @@ description: ''
 date: '2008-09-02T23:10:38.000Z'
 categories: []
 keywords: []
-slug: "200809-75e53a84-0ce8-4531-b896-45c20786fa8f"
+slug: "75e53a84-0ce8-4531-b896-45c20786fa8f"
 ---
 WEB2.0という騒ぎが収まっても、Googleプラットフォームが便利で、「全部WEBでいいじゃん」とか思っていた。メールもWEBで読むし、もちろんWEBの情報はWEBのRSSリーダーで見れたりするし。
 

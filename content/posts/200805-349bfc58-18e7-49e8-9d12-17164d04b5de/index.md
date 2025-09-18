@@ -4,7 +4,7 @@ description: ''
 date: '2008-05-10T12:31:01.000Z'
 categories: []
 keywords: []
-slug: "200805-349bfc58-18e7-49e8-9d12-17164d04b5de"
+slug: "349bfc58-18e7-49e8-9d12-17164d04b5de"
 ---
 タスク管理ソフト、英語ではProductivityというカテゴリだったりしますが、これまで、[CheckPad](http://www.checkpad.jp/)、[Remember the Milk](https://www.rememberthemilk.com/)、[OmniFocus](http://www.omnigroup.com/applications/omnifocus/)と試してきました。ここにきてまた新しいソフトウェアにたどり着きました。それが[Things](http://culturedcode.com/things/)です。
 

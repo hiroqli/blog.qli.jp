@@ -4,7 +4,7 @@ description: ''
 date: '2015-08-15T01:40:42.000Z'
 categories: []
 keywords: []
-slug: "201508-a7cf6b75-c657-4d77-b238-85d3596c2e51"
+slug: "a7cf6b75-c657-4d77-b238-85d3596c2e51"
 ---
 ### 背景
 

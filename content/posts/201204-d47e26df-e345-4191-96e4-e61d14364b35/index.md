@@ -4,7 +4,7 @@ description: ''
 date: '2012-04-14T08:59:51.000Z'
 categories: []
 keywords: []
-slug: "201204-d47e26df-e345-4191-96e4-e61d14364b35"
+slug: "d47e26df-e345-4191-96e4-e61d14364b35"
 ---
 auユーザーで待っていた人がなぜか多かったau iPhoneでのMMS対応がついにやってきました。まさかの土曜日当日発表当日リリース。Appleがよく使う Available today ってやつですね（auも以前からわりと使います）
 

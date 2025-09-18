@@ -4,7 +4,7 @@ description: ''
 date: '2007-02-20T23:34:55.000Z'
 categories: []
 keywords: []
-slug: "200702-80fe65db-d6f4-4a8b-8c9c-236cceeac807"
+slug: "80fe65db-d6f4-4a8b-8c9c-236cceeac807"
 ---
 かねてよりSkypeで検討されていたSkype 定額プランであるSkype Proがヨーロッパ向けのみですが発表されました。日本では、日本独自の状況などをみて追って発表されるのではないかと思います。(たぶん)
 

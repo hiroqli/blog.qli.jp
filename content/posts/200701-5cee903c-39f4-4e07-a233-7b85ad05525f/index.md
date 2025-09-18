@@ -4,7 +4,7 @@ description: ''
 date: '2007-01-15T21:13:03.000Z'
 categories: []
 keywords: []
-slug: "200701-5cee903c-39f4-4e07-a233-7b85ad05525f"
+slug: "5cee903c-39f4-4e07-a233-7b85ad05525f"
 ---
 特に話題性もなく、ひっそりと登場した感のある9(nine)ですが、レビューが掲載されていました。
 

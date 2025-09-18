@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-30T09:36:26.000Z'
 categories: []
 keywords: []
-slug: "200804-5fb2ccfd-f6b2-482d-834e-ed6fb61c265b"
+slug: "5fb2ccfd-f6b2-482d-834e-ed6fb61c265b"
 ---
 月曜日の発表という予想外の展開でビックリしたんですが、iMacがアップデートされましたね。その後火曜日にも何かあるかなと思ってましたがこちらには何もありませんでした。
 

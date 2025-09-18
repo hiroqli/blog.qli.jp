@@ -5,7 +5,7 @@ description: Android の今年のビッグリリース、Android 9 Pie が出ま
 date: '2018-08-26T02:10:58.764Z'
 categories: []
 keywords: []
-slug: "201808-0f02d5c4-20fc-4e78-a418-4756820b96e7"
+slug: "0f02d5c4-20fc-4e78-a418-4756820b96e7"
 ---
 Android の今年のビッグリリース、Android 9 Pie が出ましたね。それと呼応する形で、Android 9 Pie をインストールできるEssential Phone が、突然のセール中です。他の状況をみると、在庫処分なのではないかと疑ってしまいますが、国内で使えるデバイスとしては、コレしかないので、買っておきました。
 

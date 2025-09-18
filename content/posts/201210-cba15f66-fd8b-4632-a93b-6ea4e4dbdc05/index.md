@@ -4,7 +4,7 @@ description: ''
 date: '2012-10-11T21:24:35.000Z'
 categories: []
 keywords: []
-slug: "201210-cba15f66-fd8b-4632-a93b-6ea4e4dbdc05"
+slug: "cba15f66-fd8b-4632-a93b-6ea4e4dbdc05"
 ---
 9月13日に発表され、つい先日10月10日に発売開始された、iPod nano 7th gen を買いました。iPhoneを使っていても、iPod nanoだけは毎年買っていたりするのですが、毎年と同じように今回も (PRODUCT) RED を購入しました。この赤が好きなんです。
 

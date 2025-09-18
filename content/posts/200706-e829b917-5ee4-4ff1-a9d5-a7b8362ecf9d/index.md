@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-30T21:09:27.000Z'
 categories: []
 keywords: []
-slug: "200706-e829b917-5ee4-4ff1-a9d5-a7b8362ecf9d"
+slug: "e829b917-5ee4-4ff1-a9d5-a7b8362ecf9d"
 ---
 advanced w-zero3\[es\]を触ってきました。舞台はyodobashi-akiba。初日は行列が出来たそうですが、2つか目の今日は意外と閑散としてました。（といっても、そこは秋葉原なのでそれなりの人がいますが）
 

@@ -4,7 +4,7 @@ description: ''
 date: '2011-07-12T22:28:02.000Z'
 categories: []
 keywords: []
-slug: "201107-c0e810f6-2d41-45d1-905a-09ef0ab876b4"
+slug: "c0e810f6-2d41-45d1-905a-09ef0ab876b4"
 ---
 7月1日に日本で発売になった [LiveView](http://www.sonyericsson.co.jp/product/accessories/liveview/index.html) を買いました。Xperia acroの特典で安くなったので、つい。
 

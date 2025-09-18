@@ -4,7 +4,7 @@ description: ''
 date: '2007-02-24T23:04:10.000Z'
 categories: []
 keywords: []
-slug: "200702-fb6a1bb1-b1e6-4ae7-a0af-f1b04f9af7b8"
+slug: "fb6a1bb1-b1e6-4ae7-a0af-f1b04f9af7b8"
 ---
 今日はQuietPoint買ってきました。  
 NCヘッドフォンとしてはQC3を考えていたのですが、Triport OEをずっと使ってきて、なんとなくBOSEサウンドに違和感を感じてきていたので、いいタイミングでの発売ではあったかなと。かなり個人的理由ですが。

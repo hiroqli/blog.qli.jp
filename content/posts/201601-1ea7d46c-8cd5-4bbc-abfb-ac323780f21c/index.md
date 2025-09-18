@@ -4,7 +4,7 @@ description: ''
 date: '2016-01-09T03:33:11.000Z'
 categories: []
 keywords: []
-slug: "201601-1ea7d46c-8cd5-4bbc-abfb-ac323780f21c"
+slug: "1ea7d46c-8cd5-4bbc-abfb-ac323780f21c"
 ---
 今使っているヘッドフォンを、Amazon商品リンクとともにまとめてみることにしました。
 

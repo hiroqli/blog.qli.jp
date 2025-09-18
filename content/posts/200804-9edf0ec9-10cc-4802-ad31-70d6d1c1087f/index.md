@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-08T11:40:34.000Z'
 categories: []
 keywords: []
-slug: "200804-9edf0ec9-10cc-4802-ad31-70d6d1c1087f"
+slug: "9edf0ec9-10cc-4802-ad31-70d6d1c1087f"
 ---
 買収したWikiエンジンをGoogle Appに乗せたGoogleが、jaikuもGoogle Appに乗せる計画であることが明かされました。
 

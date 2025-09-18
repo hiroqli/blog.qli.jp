@@ -4,7 +4,7 @@ description: ''
 date: '2007-10-11T12:18:44.000Z'
 categories: []
 keywords: []
-slug: "200710-b238366b-f4b1-4462-b350-f48f573b64a7"
+slug: "b238366b-f4b1-4462-b350-f48f573b64a7"
 ---
 ちょっとしたご報告をさせていただきます。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2009-12-23T23:08:23.000Z'
 categories: []
 keywords: []
-slug: "200912-762a8d89-679e-4f91-be16-c1ec4722af74"
+slug: "762a8d89-679e-4f91-be16-c1ec4722af74"
 ---
 行ってきました！Advantage Lucy、冬のワンマン。会場は下北沢CLUB QUE。今回が2回目のルーシー、そして、2回目のQUE。前回は･･･と検索したら2008年4月とかだった。もう1年半ぶりだったんですねー。
 

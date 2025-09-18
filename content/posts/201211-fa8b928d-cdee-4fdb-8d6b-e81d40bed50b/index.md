@@ -4,7 +4,7 @@ description: ''
 date: '2012-11-19T21:47:40.000Z'
 categories: []
 keywords: []
-slug: "201211-fa8b928d-cdee-4fdb-8d6b-e81d40bed50b"
+slug: "fa8b928d-cdee-4fdb-8d6b-e81d40bed50b"
 ---
 明確にはiPad miniを買ってからだと思いますが、意識せずに徐々にMacBookを触る時間が減ってきています。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2009-08-02T12:23:48.000Z'
 categories: []
 keywords: []
-slug: "200908-5e8d650f-acf0-4383-928d-2d7acb3cae2c"
+slug: "5e8d650f-acf0-4383-928d-2d7acb3cae2c"
 ---
 7月末にネットレイティングスという会社が調査したTwitterのユニークユーザー数についての調査記事があった( [ITmedia](http://www.itmedia.co.jp/news/articles/0907/24/news036.html) )
 

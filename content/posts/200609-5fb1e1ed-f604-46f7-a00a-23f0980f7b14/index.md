@@ -4,7 +4,7 @@ description: ""
 date: "2006-09-07T20:03:00.000Z"
 categories: []
 keywords: []
-slug: "200609-5fb1e1ed-f604-46f7-a00a-23f0980f7b14"
+slug: "5fb1e1ed-f604-46f7-a00a-23f0980f7b14"
 ---
 
 ITmedia Biz.ID からまたこのような記事が。  

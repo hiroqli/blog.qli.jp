@@ -4,7 +4,7 @@ description: ''
 date: '2006-12-11T16:21:49.000Z'
 categories: []
 keywords: []
-slug: "200612-42ba3043-31b1-4eab-a6fd-4ee3ea82b2c8"
+slug: "42ba3043-31b1-4eab-a6fd-4ee3ea82b2c8"
 ---
 Fx3.0もいよいよ動き始めたようです。今回は描画機能の改善（画質の向上とか）もあるとのこと。Safariに追いついてくれればいうことなしです。
 

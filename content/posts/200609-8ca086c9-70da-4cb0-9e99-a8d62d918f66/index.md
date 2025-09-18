@@ -4,7 +4,7 @@ description: ""
 date: "2006-09-11T13:44:00.000Z"
 categories: []
 keywords: []
-slug: "200609-8ca086c9-70da-4cb0-9e99-a8d62d918f66"
+slug: "8ca086c9-70da-4cb0-9e99-a8d62d918f66"
 ---
 
 今週の大注目イベント、Apple “It’s show time”は、日本時間 13 日午前 2 時([コンバータ](http://www.timeanddate.com/worldclock/converted.html?day=12&month=9&year=2006&hour=10&min=0&sec=0&p1=224&p2=248))です。間違えて今日の夜中に頑張らないように。

@@ -4,7 +4,7 @@ description: たまには振り返ってみる
 date: '2020-05-18T13:13:44.775Z'
 categories: []
 keywords: []
-slug: "202005-0c679177-2129-4934-8d9b-454568da4fcf"
+slug: "0c679177-2129-4934-8d9b-454568da4fcf"
 ---
 ![](1__u6ebLQDK94TxA__qn02rtdA.jpeg)
 

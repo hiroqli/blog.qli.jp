@@ -4,7 +4,7 @@ description: ""
 date: "2011-12-30T11:42:57.000Z"
 categories: []
 keywords: []
-slug: "201112-0af59ff9-7f68-4d37-a1e0-8c0bb28ab534"
+slug: "0af59ff9-7f68-4d37-a1e0-8c0bb28ab534"
 ---
 とりとめのない記事になりそうですが、ちょっとざっくり書いていきます。
 

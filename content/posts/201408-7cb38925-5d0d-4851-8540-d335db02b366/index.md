@@ -4,7 +4,7 @@ description: ''
 date: '2014-08-06T11:18:39.000Z'
 categories: []
 keywords: []
-slug: "201408-7cb38925-5d0d-4851-8540-d335db02b366"
+slug: "7cb38925-5d0d-4851-8540-d335db02b366"
 ---
 Appleが9月9日に発表会を行うという噂が Re/code を始め、さまざまな噂サイトで報道されました。
 

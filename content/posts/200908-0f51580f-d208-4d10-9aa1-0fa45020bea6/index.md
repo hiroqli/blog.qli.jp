@@ -4,7 +4,7 @@ description: ''
 date: '2009-08-12T08:10:38.000Z'
 categories: []
 keywords: []
-slug: "200908-0f51580f-d208-4d10-9aa1-0fa45020bea6"
+slug: "0f51580f-d208-4d10-9aa1-0fa45020bea6"
 ---
 GTDのタスクをOFにしたばっかりですが、Thingsから今後の機能追加についての説明がブログでありましたので紹介しておきます。([This is not Roadmap](http://culturedcode.com/things/blog/2009/08/this-is-not-a-roadmap.html))
 

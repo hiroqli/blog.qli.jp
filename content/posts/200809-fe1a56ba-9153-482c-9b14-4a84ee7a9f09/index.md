@@ -4,7 +4,7 @@ description: ''
 date: '2008-09-16T07:05:47.000Z'
 categories: []
 keywords: []
-slug: "200809-fe1a56ba-9153-482c-9b14-4a84ee7a9f09"
+slug: "fe1a56ba-9153-482c-9b14-4a84ee7a9f09"
 ---
 GoogleのMac関連の動きは久しぶりなのですが、ついにSafari版の[Gears](http://gears.google.com)がリリースされました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2008-11-23T14:44:43.000Z'
 categories: []
 keywords: []
-slug: "200811-a321dc63-5f47-4de3-80c3-9884d2670bfc"
+slug: "a321dc63-5f47-4de3-80c3-9884d2670bfc"
 ---
 以前から気になっていた「エコバッグ」と「マイ箸」
 

@@ -4,7 +4,7 @@ description: ''
 date: '2012-09-20T03:48:11.000Z'
 categories: []
 keywords: []
-slug: "201209-37d930b9-8be1-41b2-9d67-12a0030a90d1"
+slug: "37d930b9-8be1-41b2-9d67-12a0030a90d1"
 ---
 iOS6の最大のトピックといえば、新しく書き直された地図です。
 

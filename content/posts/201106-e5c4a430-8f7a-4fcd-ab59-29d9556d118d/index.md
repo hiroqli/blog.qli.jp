@@ -4,7 +4,7 @@ description: ''
 date: '2011-06-25T08:49:09.000Z'
 categories: []
 keywords: []
-slug: "201106-e5c4a430-8f7a-4fcd-ab59-29d9556d118d"
+slug: "e5c4a430-8f7a-4fcd-ab59-29d9556d118d"
 ---
 AppleからMobileMe→iCloudへの移行の詳細が発表されました（[リンク](http://www.apple.com/mobileme/transition.html)）。追って日本語でも発表があるものと思われます。
 

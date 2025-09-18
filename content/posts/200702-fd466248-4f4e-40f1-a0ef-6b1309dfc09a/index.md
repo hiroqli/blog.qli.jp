@@ -4,7 +4,7 @@ description: ''
 date: '2007-02-21T08:00:31.000Z'
 categories: []
 keywords: []
-slug: "200702-fd466248-4f4e-40f1-a0ef-6b1309dfc09a"
+slug: "fd466248-4f4e-40f1-a0ef-6b1309dfc09a"
 ---
 ITMedia の百式 田口さんの連載記事でオオヒダさんのインタビュー記事が。
 

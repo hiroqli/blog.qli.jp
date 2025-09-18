@@ -1,7 +1,7 @@
 ---
 title: "今年も機種変更の季節がやってきた(2025)"
 date: "2025-09-13T03:01:43"
-slug: "202509-9b6f2b1a-77f5-4d9e-9c1f-cc5c9327c4f1"
+slug: "9b6f2b1a-77f5-4d9e-9c1f-cc5c9327c4f1"
 source: "medium"
 original_url: "https://hiro.medium.com/%E4%BB%8A%E5%B9%B4%E3%82%82%E6%A9%9F%E7%A8%AE%E5%A4%89%E6%9B%B4%E3%81%AE%E5%AD%A3%E7%AF%80%E3%81%8B%E3%82%99%E3%82%84%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F-2025-3e02bb88ba6c?source=rss-21bfda6f823e------2"
 draft: false

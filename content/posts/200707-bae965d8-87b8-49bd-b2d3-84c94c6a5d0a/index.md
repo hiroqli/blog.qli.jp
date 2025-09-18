@@ -4,7 +4,7 @@ description: ''
 date: '2007-07-28T10:22:35.000Z'
 categories: []
 keywords: []
-slug: "200707-bae965d8-87b8-49bd-b2d3-84c94c6a5d0a"
+slug: "bae965d8-87b8-49bd-b2d3-84c94c6a5d0a"
 ---
 エントリーが滞っていますが、最近わりと音楽を買い漁っているので、その中からピックアップして投稿します。
 

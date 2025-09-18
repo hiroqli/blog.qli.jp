@@ -4,7 +4,7 @@ description: ''
 date: '2014-02-02T21:15:41.000Z'
 categories: []
 keywords: []
-slug: "201402-9d87af64-2ea3-4bab-8744-c678b8024958"
+slug: "9d87af64-2ea3-4bab-8744-c678b8024958"
 ---
 「強いチームはオフィスを捨てる」を読んだので、雑感。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2009-01-07T22:18:10.000Z'
 categories: []
 keywords: []
-slug: "200901-1af6e8e9-7919-4d0e-8e67-9983f16ea38f"
+slug: "1af6e8e9-7919-4d0e-8e67-9983f16ea38f"
 ---
 フィルシラー氏による最初で最後の基調講演＠MacWorld Expoが終了しました。今回はさまざまな憶測が飛び交いましたが、発表されたのは
 

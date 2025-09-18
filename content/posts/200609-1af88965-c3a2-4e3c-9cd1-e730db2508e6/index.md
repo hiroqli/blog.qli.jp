@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-04T18:35:26.000Z'
 categories: []
 keywords: []
-slug: "200609-1af88965-c3a2-4e3c-9cd1-e730db2508e6"
+slug: "1af88965-c3a2-4e3c-9cd1-e730db2508e6"
 ---
 ヤフーも漏れなく出しましたって感じでしょうか？  
   

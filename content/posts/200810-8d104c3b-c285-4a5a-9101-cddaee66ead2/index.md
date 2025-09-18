@@ -4,7 +4,7 @@ description: ''
 date: '2008-10-10T06:41:33.000Z'
 categories: []
 keywords: []
-slug: "200810-8d104c3b-c285-4a5a-9101-cddaee66ead2"
+slug: "8d104c3b-c285-4a5a-9101-cddaee66ead2"
 ---
 新しいMacBookが発表されるとしてウワサされていた10月14日にAppleがメディア向けの発表会を行うことが明らかになりました。
 

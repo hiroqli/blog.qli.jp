@@ -4,7 +4,7 @@ description: ''
 date: '2013-02-28T23:31:10.000Z'
 categories: []
 keywords: []
-slug: "201302-f2176400-344b-4d09-9c34-0394b988a591"
+slug: "f2176400-344b-4d09-9c34-0394b988a591"
 ---
 emobile主催の新商品体験会に行ってきました。新商品っていうのは、emobile初のLTEスマートフォン、[STREAM X GL07S](http://emobile.jp/products/gl07s/) です。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2007-03-10T23:40:12.000Z'
 categories: []
 keywords: []
-slug: "200703-931b125f-1592-4fe5-96bd-49df594f517c"
+slug: "931b125f-1592-4fe5-96bd-49df594f517c"
 ---
 いろいろ書きたいことはあるのですが、まずはここから。
 

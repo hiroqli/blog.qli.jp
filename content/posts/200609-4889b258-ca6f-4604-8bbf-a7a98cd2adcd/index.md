@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-26T11:17:15.000Z'
 categories: []
 keywords: []
-slug: "200609-4889b258-ca6f-4604-8bbf-a7a98cd2adcd"
+slug: "4889b258-ca6f-4604-8bbf-a7a98cd2adcd"
 ---
 リンク: [asahi.com： 大阪サミット誘致「あほちゃうか」 慶大教授がブログで�-�関西](http://www.asahi.com/kansai/news/OSK200609250055.html "asahi.com： 大阪サミット誘致「あほちゃうか」　慶大教授がブログで�-�関西").
 

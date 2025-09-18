@@ -4,7 +4,7 @@ description: ""
 date: "2008-02-19T21:02:47.000Z"
 categories: []
 keywords: []
-slug: "200802-b2bc0bb0-4f90-4b1a-8ac7-d5bcd6db0bc8"
+slug: "b2bc0bb0-4f90-4b1a-8ac7-d5bcd6db0bc8"
 ---
 
 米 Sony から発表されていて、日本での発表が待ち望まれていた mylo2 がついに発表されました。

@@ -4,7 +4,7 @@ description: ''
 date: '2006-11-16T18:21:01.000Z'
 categories: []
 keywords: []
-slug: "200611-5194a861-0ff5-41db-82b7-c678f69973b0"
+slug: "5194a861-0ff5-41db-82b7-c678f69973b0"
 ---
 Typepad JapanがTechnoratiタグに対応しました。Technoratiはタグプロバイダとして、存在感を増し続けるみたいです。
 

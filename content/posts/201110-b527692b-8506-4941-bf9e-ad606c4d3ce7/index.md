@@ -4,7 +4,7 @@ description: ''
 date: '2011-10-16T09:18:49.000Z'
 categories: []
 keywords: []
-slug: "201110-b527692b-8506-4941-bf9e-ad606c4d3ce7"
+slug: "b527692b-8506-4941-bf9e-ad606c4d3ce7"
 ---
 今のうちしかかけないファーストインプレッションを書いておきたいと思います。というわけで、au版iPhone4Sについての感想を。比較対象は、ソフトバンク版iPhone4、そしてau版Xperia acroになるかと。
 

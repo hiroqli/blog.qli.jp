@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-15T22:44:52.000Z'
 categories: []
 keywords: []
-slug: "200706-ca5178f3-baba-4bfe-9f00-834c1332dcbf"
+slug: "ca5178f3-baba-4bfe-9f00-834c1332dcbf"
 ---
 今日はtwitterオフ、参加してきました。  
 オフは久しぶりで、70人という大人数はたぶん初めてで大所帯の飲みにビックリしつつって感じですかね。

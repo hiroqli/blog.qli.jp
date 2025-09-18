@@ -4,7 +4,7 @@ description: ""
 date: "2007-04-04T10:23:00.000Z"
 categories: []
 keywords: []
-slug: "200704-2aca6e46-2191-4d29-9a34-ff604cc6a3e8"
+slug: "2aca6e46-2191-4d29-9a34-ff604cc6a3e8"
 ---
 
 feedpath を久しぶりに使ってみました。feed reader としては、すでに google reader に乗り換えたんだけれども、feedpath はなぜかたまにログインしている。feedpath ネタをブログに書くのもたぶん久しぶりですね。

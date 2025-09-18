@@ -4,7 +4,7 @@ description: ''
 date: '2011-11-02T23:07:31.000Z'
 categories: []
 keywords: []
-slug: "201111-301f222f-84f4-4d50-8426-4fa984665c1f"
+slug: "301f222f-84f4-4d50-8426-4fa984665c1f"
 ---
 GAKU-MCさんのアコースティックキャンドルライブに行ってきた。
 

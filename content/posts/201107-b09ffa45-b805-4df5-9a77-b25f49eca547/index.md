@@ -4,7 +4,7 @@ description: ''
 date: '2011-07-23T10:38:29.000Z'
 categories: []
 keywords: []
-slug: "201107-b09ffa45-b805-4df5-9a77-b25f49eca547"
+slug: "b09ffa45-b805-4df5-9a77-b25f49eca547"
 ---
 7月20日、百獣の王、LionがついにAppleの檻の中に入ってきました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2012-11-07T21:35:52.000Z'
 categories: []
 keywords: []
-slug: "201211-3ba67b0e-98be-4c9f-9ee6-da6870648089"
+slug: "3ba67b0e-98be-4c9f-9ee6-da6870648089"
 ---
 まさかこの日がやってくるとは思いませんでしたよ。
 

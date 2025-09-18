@@ -6,7 +6,7 @@ description:
 date: "2024-04-27T03:01:31.735Z"
 categories: []
 keywords: []
-slug: "202404-693c2a5a-409f-488f-a904-52d6755aa92d"
+slug: "693c2a5a-409f-488f-a904-52d6755aa92d"
 cover:
   image: "0__vbIMVDF1Sw1dFuOo.jpg"
   # can also paste direct link from external site

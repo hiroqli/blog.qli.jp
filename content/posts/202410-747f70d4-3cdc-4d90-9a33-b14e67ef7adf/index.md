@@ -4,7 +4,7 @@ description: 夏フェスに行ってきました。いく予定もなかった�
 date: '2024-10-17T11:29:57.398Z'
 categories: []
 keywords: []
-slug: "202410-747f70d4-3cdc-4d90-9a33-b14e67ef7adf"
+slug: "747f70d4-3cdc-4d90-9a33-b14e67ef7adf"
 ---
 ![](0__KaO3SdrNEe6GV2iI.jpg)
 

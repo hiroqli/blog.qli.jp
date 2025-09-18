@@ -4,7 +4,7 @@ description: ''
 date: '2009-08-16T14:49:08.000Z'
 categories: []
 keywords: []
-slug: "200908-59e04c05-d0e7-4edd-a065-e1069c3e2e79"
+slug: "59e04c05-d0e7-4edd-a065-e1069c3e2e79"
 ---
 しつこいくらい宣伝している、わけでもありませんが、来週金曜日8月21日には[WISH2009](http://agilemedia.jp/wish2009/)が開催されます。TwitterがSxSWで一気にブレイクしたように、これがきっかけでブレイクするサービスとか生まれて欲しいものです。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2011-08-23T20:45:12.000Z'
 categories: []
 keywords: []
-slug: "201108-84890845-96cf-4ace-9c95-947549ca8847"
+slug: "84890845-96cf-4ace-9c95-947549ca8847"
 ---
 ![](0__EW9u1VXxakBFlhsB.png)
 

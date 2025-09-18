@@ -4,7 +4,7 @@ description: ""
 date: "2011-08-25T22:46:23.000Z"
 categories: []
 keywords: []
-slug: "201108-5947d2a9-d7aa-44e2-bcbd-82c4bc8d6413"
+slug: "5947d2a9-d7aa-44e2-bcbd-82c4bc8d6413"
 ---
 
 5 月に青山で行われたヘッドフォン祭りで出会ってから、約 4 ヶ月。予約注文していた、[Atomic Floyd SuperDarts](http://www.focal.co.jp/products/detail.php?product_id=525)がようやく手元に届きました。本当は 7 月には手元にあるはずだったのですが、発売延期もあり、ようやく。

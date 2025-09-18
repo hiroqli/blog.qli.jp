@@ -4,7 +4,7 @@ description: ''
 date: '2010-02-05T20:56:25.000Z'
 categories: []
 keywords: []
-slug: "201002-ce67629d-e65a-42aa-966b-608af5e4dc1a"
+slug: "ce67629d-e65a-42aa-966b-608af5e4dc1a"
 ---
 別のブログで書いたのでもう一度触れるのもなんなのですが、カバンを買いましたというエントリー。
 

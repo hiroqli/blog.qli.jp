@@ -4,7 +4,7 @@ description: ''
 date: '2010-06-22T03:37:31.000Z'
 categories: []
 keywords: []
-slug: "201006-8a2fdd35-846a-4fce-bc9e-485c8f185c96"
+slug: "8a2fdd35-846a-4fce-bc9e-485c8f185c96"
 ---
 iOS4がついにリリースされました。実は開発者向けのiOS4を数日間使っていました。[変更点はAppleのページにも取り上げられている](http://www.apple.com/jp/iphone/softwareupdate/)のですが、そうではないけれども実用上インパクトが大きかったものを中心に紹介したいと思います。なお、開発者向けの情報ですが、同時にXcode 3.2.3とiPhone SDK 4 がリリースされています。
 

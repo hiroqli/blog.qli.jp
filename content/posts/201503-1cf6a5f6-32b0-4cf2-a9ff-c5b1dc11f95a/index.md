@@ -4,7 +4,7 @@ description: ''
 date: '2015-03-19T12:03:02.000Z'
 categories: []
 keywords: []
-slug: "201503-1cf6a5f6-32b0-4cf2-a9ff-c5b1dc11f95a"
+slug: "1cf6a5f6-32b0-4cf2-a9ff-c5b1dc11f95a"
 ---
 また久々に「技術的負債」という単語が飛び交ってるなぁと思ったら、某社のCTOだった方の会社辞めましたブログ記事があたって、びっくりした。
 

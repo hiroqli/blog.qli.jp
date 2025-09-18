@@ -4,7 +4,7 @@ description: ''
 date: '2009-03-21T15:31:47.000Z'
 categories: []
 keywords: []
-slug: "200903-1b41ce0d-0c2c-4b49-9eec-3d586f0a84cf"
+slug: "1b41ce0d-0c2c-4b49-9eec-3d586f0a84cf"
 ---
 きっかけはちょっとした思いつきだったのですが、作ってみたので公開します。その名も”[Tweet-Local](http://tweetlocal.qli.jp/)”です。一応アルファとしていますが、コンセプトレベルでの公開といった方が正しいでしょうね。(23:08 追記: 名前解決できているのですが、qli.jpのサブドメインではまだアクセスできないみたいです。[appspotのサブドメイン](http://tweetlocal.appspot.com/)ではアクセスできるのでぜひ）
 

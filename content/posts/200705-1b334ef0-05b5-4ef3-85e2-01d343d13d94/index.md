@@ -4,7 +4,7 @@ description: ''
 date: '2007-05-18T08:35:40.000Z'
 categories: []
 keywords: []
-slug: "200705-1b334ef0-05b5-4ef3-85e2-01d343d13d94"
+slug: "1b334ef0-05b5-4ef3-85e2-01d343d13d94"
 ---
 最初は愛くるしかったTwitter Server catがだんだん憎らしくなってきて、紛らわし程度にharuとかmogo2とかtimelogとか、そしてjaikuとかに顔を見せていたわけですが、昨日から急激に猫の登場回数が減ってきました。
 

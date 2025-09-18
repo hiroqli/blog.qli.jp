@@ -4,7 +4,7 @@ description: 10月30日から17日が経過しました。
 date: '2019-11-16T14:12:59.438Z'
 categories: []
 keywords: []
-slug: "201911-8ba51c8c-d6f2-4554-a240-c2e6463d8d9f"
+slug: "8ba51c8c-d6f2-4554-a240-c2e6463d8d9f"
 ---
 10月30日から17日が経過しました。
 

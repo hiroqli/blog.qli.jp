@@ -4,7 +4,7 @@ description: ''
 date: '2012-09-30T11:15:35.000Z'
 categories: []
 keywords: []
-slug: "201209-3b2b19c2-8271-4fb7-a48c-0785c51894ed"
+slug: "3b2b19c2-8271-4fb7-a48c-0785c51894ed"
 ---
 yapc::asiaに初参加しました。
 

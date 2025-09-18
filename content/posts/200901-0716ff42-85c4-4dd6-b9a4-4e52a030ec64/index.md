@@ -4,7 +4,7 @@ description: ""
 date: "2009-01-15T13:56:37.000Z"
 categories: []
 keywords: []
-slug: "200901-0716ff42-85c4-4dd6-b9a4-4e52a030ec64"
+slug: "0716ff42-85c4-4dd6-b9a4-4e52a030ec64"
 ---
 
 Google が Google Code Blog にて[驚きのポスト](http://google-code-updates.blogspot.com/2009/01/changes-for-jaiku-and-farewell-to.html)をしています。

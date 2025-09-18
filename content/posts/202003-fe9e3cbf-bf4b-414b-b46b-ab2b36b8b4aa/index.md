@@ -4,7 +4,7 @@ description: 突然のWork from homeで仕事環境が変わった方も多い�
 date: '2020-03-17T14:15:04.813Z'
 categories: []
 keywords: []
-slug: "202003-fe9e3cbf-bf4b-414b-b46b-ab2b36b8b4aa"
+slug: "fe9e3cbf-bf4b-414b-b46b-ab2b36b8b4aa"
 ---
 ![](1__Ql0tf9HCcqsK5v2SuElzZQ.jpeg)
 

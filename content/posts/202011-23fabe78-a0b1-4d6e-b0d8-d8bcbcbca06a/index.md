@@ -4,7 +4,7 @@ description: 新しいM1 チップMacが届いていて、Twitterがとても賑
 date: '2020-11-17T13:57:39.541Z'
 categories: []
 keywords: []
-slug: "202011-23fabe78-a0b1-4d6e-b0d8-d8bcbcbca06a"
+slug: "23fabe78-a0b1-4d6e-b0d8-d8bcbcbca06a"
 ---
 新しいM1 チップMacが届いていて、Twitterがとても賑やかです。HomePod miniを購入した報告もTwitterに続々と届いていて、HomePodユーザーが増えてそうなことも楽しみです。
 

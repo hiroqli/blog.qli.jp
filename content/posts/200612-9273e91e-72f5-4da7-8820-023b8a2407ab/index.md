@@ -4,7 +4,7 @@ description: ""
 date: "2006-12-11T10:39:20.000Z"
 categories: []
 keywords: []
-slug: "200612-9273e91e-72f5-4da7-8820-023b8a2407ab"
+slug: "9273e91e-72f5-4da7-8820-023b8a2407ab"
 ---
 ![]()
 

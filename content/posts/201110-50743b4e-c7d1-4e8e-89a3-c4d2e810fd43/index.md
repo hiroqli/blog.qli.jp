@@ -4,7 +4,7 @@ description: ''
 date: '2011-10-26T00:01:58.000Z'
 categories: []
 keywords: []
-slug: "201110-50743b4e-c7d1-4e8e-89a3-c4d2e810fd43"
+slug: "50743b4e-c7d1-4e8e-89a3-c4d2e810fd43"
 ---
 Salyu x Salyu — 話したいあなたと — @ Zepp Tokyoに行ってきた。
 

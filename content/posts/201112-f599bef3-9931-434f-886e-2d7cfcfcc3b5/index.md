@@ -4,7 +4,7 @@ description: ''
 date: '2011-12-15T20:45:07.000Z'
 categories: []
 keywords: []
-slug: "201112-f599bef3-9931-434f-886e-2d7cfcfcc3b5"
+slug: "f599bef3-9931-434f-886e-2d7cfcfcc3b5"
 ---
 auサポート公式Twitterアカウントが唐突に au iPhoneユーザー向けにクリスマスプレゼント(?)をくれました。
 

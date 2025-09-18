@@ -4,7 +4,7 @@ description: ''
 date: '2015-09-17T11:12:02.000Z'
 categories: []
 keywords: []
-slug: "201509-3197c0a2-59f0-4a38-a3f7-07172deea10f"
+slug: "3197c0a2-59f0-4a38-a3f7-07172deea10f"
 ---
 iOS9がリリースされました。
 

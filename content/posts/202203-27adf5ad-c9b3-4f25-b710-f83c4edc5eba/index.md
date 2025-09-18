@@ -4,7 +4,7 @@ description: あなたが好きなものは何ですか？そして、それを�
 date: '2022-03-05T04:35:54.215Z'
 categories: []
 keywords: []
-slug: "202203-27adf5ad-c9b3-4f25-b710-f83c4edc5eba"
+slug: "27adf5ad-c9b3-4f25-b710-f83c4edc5eba"
 ---
 ![](1__8Swt4EUfNC6rJI8i3MFIgA.jpeg)
 

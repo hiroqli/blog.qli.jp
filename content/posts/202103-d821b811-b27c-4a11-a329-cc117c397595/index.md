@@ -4,7 +4,7 @@ description: 映画を見るということ
 date: '2021-03-19T10:47:59.686Z'
 categories: []
 keywords: []
-slug: "202103-d821b811-b27c-4a11-a329-cc117c397595"
+slug: "d821b811-b27c-4a11-a329-cc117c397595"
 ---
 映画を見るということ
 

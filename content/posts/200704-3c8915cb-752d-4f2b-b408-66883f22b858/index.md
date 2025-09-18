@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-23T21:45:08.000Z'
 categories: []
 keywords: []
-slug: "200704-3c8915cb-752d-4f2b-b408-66883f22b858"
+slug: "3c8915cb-752d-4f2b-b408-66883f22b858"
 ---
 もう書かなくていいと思いますが、[twitter](http://twitter.com/)にはまってます。最近は[twitterrific](http://iconfactory.com/software/twitterrific)をメインに、外出時はwebからといった更新方法です。モバイルは敢えて使わないようにしていたのですが、[30Boxes](http://30boxes.com/)から更新できそうなので、暇つぶしに更新して、そしてモバイルTwitterにもはまりそうです。これを機にメインのスケジューラを30Boxesに、ってもいいなぁと感じたりして。
 

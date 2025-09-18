@@ -4,7 +4,7 @@ description: ''
 date: '2007-01-26T14:58:07.000Z'
 categories: []
 keywords: []
-slug: "200701-d54901d2-dbdf-4dfe-82e1-b18b567ffe3e"
+slug: "d54901d2-dbdf-4dfe-82e1-b18b567ffe3e"
 ---
 Tb2 beta2のリリースの投稿を以前しました。
 

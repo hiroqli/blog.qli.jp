@@ -4,7 +4,7 @@ description: ''
 date: '2006-11-16T00:17:52.000Z'
 categories: []
 keywords: []
-slug: "200611-f80ac8fe-9fc3-4507-825c-e487cf15a786"
+slug: "f80ac8fe-9fc3-4507-825c-e487cf15a786"
 ---
 最近、ブログで商業系のサービスって多くなってきましたね。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2013-07-02T20:45:38.000Z'
 categories: []
 keywords: []
-slug: "201307-1b682782-15ec-41a8-b83d-ae382e1e8c47"
+slug: "1b682782-15ec-41a8-b83d-ae382e1e8c47"
 ---
 Google Readerが安らかに眠りましたね。
 

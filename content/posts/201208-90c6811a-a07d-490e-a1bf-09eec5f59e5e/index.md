@@ -4,7 +4,7 @@ description: ''
 date: '2012-08-05T11:03:10.000Z'
 categories: []
 keywords: []
-slug: "201208-90c6811a-a07d-490e-a1bf-09eec5f59e5e"
+slug: "90c6811a-a07d-490e-a1bf-09eec5f59e5e"
 ---
 au が 今年1月から提供している [迷惑メールおまかせ規制](http://www.au.kddi.com/service/email/support/meiwaku/email_boshi/filter/shitei_kyohi/meiwaku.html)。5月25日に導入を開始して、様子を見ていたのですが、非常にすばらしい動作をしてくれています。
 

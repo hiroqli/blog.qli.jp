@@ -4,7 +4,7 @@ description: ''
 date: '2014-04-01T19:55:53.000Z'
 categories: []
 keywords: []
-slug: "201404-52e3eb17-9cfa-4edc-a5ba-6f13283e661b"
+slug: "52e3eb17-9cfa-4edc-a5ba-6f13283e661b"
 ---
 2013年11月13日、Jawbone UPシリーズの新製品 UP24 が突然アメリカで発表、発売開始されました。それから遅れること４ヶ月、やっと日本でも正式に発売された。3月にはAndroidにも対応しているため、iOS / Android 両方で使えるものになる。
 

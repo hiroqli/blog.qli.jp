@@ -4,7 +4,7 @@ description: ""
 date: "2009-02-05T00:36:03.000Z"
 categories: []
 keywords: []
-slug: "200902-b550417d-9449-48a4-9c33-adf6b9379f5f"
+slug: "b550417d-9449-48a4-9c33-adf6b9379f5f"
 ---
 
 多くのサービスの停止を発表した Google が新サービス [google latitude](http://www.google.com/latitude/)を発表しました。( [Google Blog](http://googleblog.blogspot.com/2009/02/see-where-your-friends-are-with-google.html) / [Google Mobile Blog](http://googlemobile.blogspot.com/2009/02/locate-your-friends-in-real-time-with.html))

@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-12T21:00:21.000Z'
 categories: []
 keywords: []
-slug: "200704-33b7b7e5-dea0-40bf-a266-6f651f34d426"
+slug: "33b7b7e5-dea0-40bf-a266-6f651f34d426"
 ---
 いろんなところで紹介されていたのでJaikuを使ってみました。もうtwitterも２ヶ月くらいつかってるし、ってことで。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2011-07-01T21:55:30.000Z'
 categories: []
 keywords: []
-slug: "201107-c5197c41-b2ef-46c2-9a37-5875208d7589"
+slug: "c5197c41-b2ef-46c2-9a37-5875208d7589"
 ---
 MobileMeをメインに使ってきた。でも、メールとカレンダーを Googleに移行してみた。（あくまでトライアル）
 

@@ -4,7 +4,7 @@ description: ""
 date: "2008-02-11T10:51:45.000Z"
 categories: []
 keywords: []
-slug: "200802-23463d25-8986-49d8-9b3b-665495c8b8db"
+slug: "23463d25-8986-49d8-9b3b-665495c8b8db"
 ---
 
 iPod Touch が壊れました。

@@ -4,7 +4,7 @@ description: ''
 date: '2012-12-28T11:01:55.000Z'
 categories: []
 keywords: []
-slug: "201212-3b444003-c4ce-4af2-99eb-bc4eab28e89f"
+slug: "3b444003-c4ce-4af2-99eb-bc4eab28e89f"
 ---
 もう年末ぎりぎりな感じですが、来年の手帳はもう選び終わっていますか？
 

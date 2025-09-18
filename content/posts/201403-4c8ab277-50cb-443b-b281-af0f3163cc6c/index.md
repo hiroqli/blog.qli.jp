@@ -4,7 +4,7 @@ description: ''
 date: '2014-03-24T20:42:05.000Z'
 categories: []
 keywords: []
-slug: "201403-4c8ab277-50cb-443b-b281-af0f3163cc6c"
+slug: "4c8ab277-50cb-443b-b281-af0f3163cc6c"
 ---
 たまたまAndroidとiOSの最新版があるのでgoogle nowの挙動の違いみたいなものをまとめてみる。
 

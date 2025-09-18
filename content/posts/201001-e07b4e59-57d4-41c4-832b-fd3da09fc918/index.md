@@ -4,7 +4,7 @@ description: ''
 date: '2010-01-19T09:22:25.000Z'
 categories: []
 keywords: []
-slug: "201001-e07b4e59-57d4-41c4-832b-fd3da09fc918"
+slug: "e07b4e59-57d4-41c4-832b-fd3da09fc918"
 ---
 気になる記事があったのでご紹介
 

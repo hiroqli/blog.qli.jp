@@ -4,7 +4,7 @@ description: ''
 date: '2007-01-22T16:02:27.000Z'
 categories: []
 keywords: []
-slug: "200701-fa64efd7-c66e-4722-b1a8-2fbdf66c1a88"
+slug: "fa64efd7-c66e-4722-b1a8-2fbdf66c1a88"
 ---
 土日の連休にとくに出かける用事もなかったので、頑張ってApple Lossless化を行いました。CDをLossless化すると、大体700kbps～1000kbpsのあたりの音源となり、iPod nano Black(8GB)には20時間程度しか入らないことになります。けど、普段使いならこのくらいの時間で問題なしですね。
 

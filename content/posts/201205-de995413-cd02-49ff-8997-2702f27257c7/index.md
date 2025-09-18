@@ -4,7 +4,7 @@ description: ''
 date: '2012-05-11T20:46:09.000Z'
 categories: []
 keywords: []
-slug: "201205-de995413-cd02-49ff-8997-2702f27257c7"
+slug: "de995413-cd02-49ff-8997-2702f27257c7"
 ---
 というわけで、突然ではありますが、KDDIが 定額音楽配信サービス LISMO unlimited を iPhoneに対応させました。
 

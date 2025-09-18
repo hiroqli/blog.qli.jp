@@ -4,7 +4,7 @@ description: ''
 date: '2007-11-16T00:53:19.000Z'
 categories: []
 keywords: []
-slug: "200711-05854a8c-99a2-489a-8e17-545f44037c3f"
+slug: "05854a8c-99a2-489a-8e17-545f44037c3f"
 ---
 TypePadが深夜のリニューアルで容量と転送量を増やしました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2006-08-28T12:23:51.000Z'
 categories: []
 keywords: []
-slug: "200608-176618a6-b8e5-449a-a04b-7cd6fafbe2ed"
+slug: "176618a6-b8e5-449a-a04b-7cd6fafbe2ed"
 ---
 今日のKDDIは秋冬モデル含め怒濤のニュースリリースがあって埋もれそうなのだけど、このニュースに着目。
 

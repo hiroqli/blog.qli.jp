@@ -4,7 +4,7 @@ description: ''
 date: '2008-08-06T23:03:33.000Z'
 categories: []
 keywords: []
-slug: "200808-cb7e445e-4fd1-4f00-87c2-7ba7d7b73780"
+slug: "cb7e445e-4fd1-4f00-87c2-7ba7d7b73780"
 ---
 きゅーり.jp には、サブドキュメントというべき [きゅーり@wiki](http://qlijp.pbwiki.com/) というのがあるのですが、いろいろ検討した結果pbwikiを使っていたのです。
 

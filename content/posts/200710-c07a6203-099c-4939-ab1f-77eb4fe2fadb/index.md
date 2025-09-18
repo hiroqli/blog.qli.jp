@@ -4,7 +4,7 @@ description: ''
 date: '2007-10-16T22:27:42.000Z'
 categories: []
 keywords: []
-slug: "200710-c07a6203-099c-4939-ab1f-77eb4fe2fadb"
+slug: "c07a6203-099c-4939-ab1f-77eb4fe2fadb"
 ---
 やっとやっとやっと…。
 

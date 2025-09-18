@@ -4,7 +4,7 @@ description: ''
 date: '2010-03-03T10:48:51.000Z'
 categories: []
 keywords: []
-slug: "201003-8c09cf4c-5a32-4163-9a7a-27c5a31aebe8"
+slug: "8c09cf4c-5a32-4163-9a7a-27c5a31aebe8"
 ---
 さて、いよいよiPad熱が高まってきました。製造上のトラブルとか伝わってきたりしますが、Appleファンはそんなもの何とも思いません（笑）
 

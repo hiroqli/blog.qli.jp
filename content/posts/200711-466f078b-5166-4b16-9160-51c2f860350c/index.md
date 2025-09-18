@@ -4,7 +4,7 @@ description: ''
 date: '2007-11-29T22:53:54.000Z'
 categories: []
 keywords: []
-slug: "200711-466f078b-5166-4b16-9160-51c2f860350c"
+slug: "466f078b-5166-4b16-9160-51c2f860350c"
 ---
 今日お伝えしていたGoogle GadgetのWidget化がリリースされました。GoogleアップデータからGoogleデスクトップとは別にGoogle Gadgetというツールが新しくリリースされています。
 

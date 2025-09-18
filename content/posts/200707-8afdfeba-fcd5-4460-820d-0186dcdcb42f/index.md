@@ -4,7 +4,7 @@ description: ''
 date: '2007-07-02T22:27:09.000Z'
 categories: []
 keywords: []
-slug: "200707-8afdfeba-fcd5-4460-820d-0186dcdcb42f"
+slug: "8afdfeba-fcd5-4460-820d-0186dcdcb42f"
 ---
 iTunesで放浪していてたまたま見つけたアルバムをご紹介。[immaculate Machine](http://www.last.fm/music/Immaculate+Machine)というのはカナダを中心として活動されている（らしい）３人組のバンド。”らしい”というのは正直彼ら（もしくは、彼女ら）のことをよく知らないからです。
 

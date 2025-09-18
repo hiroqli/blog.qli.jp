@@ -4,7 +4,7 @@ description: ''
 date: '2009-09-18T07:33:39.000Z'
 categories: []
 keywords: []
-slug: "200909-3ffa205a-af1c-4276-9edf-fc72dddb00f9"
+slug: "3ffa205a-af1c-4276-9edf-fc72dddb00f9"
 ---
 今年の7月、evernoteのライセンスをフリーから有料契約であるプレミアムに変更しました。
 

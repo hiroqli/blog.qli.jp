@@ -4,7 +4,7 @@ description: ""
 date: "2008-02-23T22:36:32.000Z"
 categories: []
 keywords: []
-slug: "200802-88bab900-5443-4a4c-a557-27ff34558fd9"
+slug: "88bab900-5443-4a4c-a557-27ff34558fd9"
 ---
 
 先日の下記の書き込みの続きです。

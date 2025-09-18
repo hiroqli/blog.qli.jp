@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-24T23:55:55.000Z'
 categories: []
 keywords: []
-slug: "200803-d68a4edf-bc05-47e8-9ed3-8930567cf87a"
+slug: "d68a4edf-bc05-47e8-9ed3-8930567cf87a"
 ---
 どうやらSafari3.1をインストールした方々から、
 

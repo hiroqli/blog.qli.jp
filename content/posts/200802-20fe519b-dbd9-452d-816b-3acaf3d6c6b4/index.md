@@ -4,7 +4,7 @@ description: ''
 date: '2008-02-13T23:48:40.000Z'
 categories: []
 keywords: []
-slug: "200802-20fe519b-dbd9-452d-816b-3acaf3d6c6b4"
+slug: "20fe519b-dbd9-452d-816b-3acaf3d6c6b4"
 ---
 MacBook Airの店頭入荷が始まっているようです。本格的に衝動買いできる日も近づいているようです。
 

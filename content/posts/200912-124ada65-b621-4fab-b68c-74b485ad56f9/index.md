@@ -4,7 +4,7 @@ description: ''
 date: '2009-12-13T18:51:09.000Z'
 categories: []
 keywords: []
-slug: "200912-124ada65-b621-4fab-b68c-74b485ad56f9"
+slug: "124ada65-b621-4fab-b68c-74b485ad56f9"
 ---
 Twitterが日本でブレイク期を迎えていて、本当に様々なメディアで紹介されていて、NHKですら、一企業のサービスなのにきちんとTwitterという形で紹介されるほどだったりするわけなのですが、どこかでTwitter特集が組まれる度にTwitterの世界ではちょっとした騒ぎが起きます。
 

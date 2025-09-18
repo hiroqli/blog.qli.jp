@@ -4,7 +4,7 @@ description: ""
 date: "2006-10-17T23:50:41.000Z"
 categories: []
 keywords: []
-slug: "200610-121a8e4f-20ca-4bc9-b50c-73260049e69f"
+slug: "121a8e4f-20ca-4bc9-b50c-73260049e69f"
 ---
 
 お久しぶりです

@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-19T14:25:14.000Z'
 categories: []
 keywords: []
-slug: "200607-a616f5b1-c85c-4541-b83f-d483595dbc98"
+slug: "a616f5b1-c85c-4541-b83f-d483595dbc98"
 ---
 ついに待望のものが出ました。
 

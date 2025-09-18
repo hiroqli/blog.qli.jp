@@ -4,7 +4,7 @@ description: ''
 date: '2010-12-23T22:31:44.000Z'
 categories: []
 keywords: []
-slug: "201012-aebb4ee7-4a18-4090-9dfb-650bd2dc3e9d"
+slug: "aebb4ee7-4a18-4090-9dfb-650bd2dc3e9d"
 ---
 auの携帯電話をG9からIS03に機種変更しました。12月15日に予約して、今日入荷連絡もらったので、約1週間程度で手に入ったことになりますね。
 

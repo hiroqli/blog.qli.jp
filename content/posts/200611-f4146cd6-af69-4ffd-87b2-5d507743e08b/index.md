@@ -4,7 +4,7 @@ description: ''
 date: '2006-11-09T00:51:01.000Z'
 categories: []
 keywords: []
-slug: "200611-f4146cd6-af69-4ffd-87b2-5d507743e08b"
+slug: "f4146cd6-af69-4ffd-87b2-5d507743e08b"
 ---
 もう、Macbook登場時から出る噂があったmacbook intel core 2 duoモデルがついに出ました。メモリは1Gが標準搭載となるモデルがでるなど、値段据え置きでちょっとした性能向上が図られています。
 

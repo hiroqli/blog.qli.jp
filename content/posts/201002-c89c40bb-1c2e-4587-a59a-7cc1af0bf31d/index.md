@@ -4,7 +4,7 @@ description: ''
 date: '2010-02-23T23:31:08.000Z'
 categories: []
 keywords: []
-slug: "201002-c89c40bb-1c2e-4587-a59a-7cc1af0bf31d"
+slug: "c89c40bb-1c2e-4587-a59a-7cc1af0bf31d"
 ---
 ハイチにお金を届けるためのライブ
 

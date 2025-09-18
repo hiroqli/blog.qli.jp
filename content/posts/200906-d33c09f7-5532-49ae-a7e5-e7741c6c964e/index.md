@@ -4,7 +4,7 @@ description: ''
 date: '2009-06-09T07:40:12.000Z'
 categories: []
 keywords: []
-slug: "200906-d33c09f7-5532-49ae-a7e5-e7741c6c964e"
+slug: "d33c09f7-5532-49ae-a7e5-e7741c6c964e"
 ---
 Jobs氏のいないWWDC09が開幕しました。keynoteで最後に登場するか、と言われていましたが、今年のkeynoteは”one more thing”も”one last thing”もなし。でも、なかなか濃い内容の話だったと思います。
 

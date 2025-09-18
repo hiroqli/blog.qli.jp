@@ -4,7 +4,7 @@ description: ''
 date: '2015-12-08T12:08:10.000Z'
 categories: []
 keywords: []
-slug: "201512-be0e2607-49d5-4c15-956a-e9792fbf5510"
+slug: "be0e2607-49d5-4c15-956a-e9792fbf5510"
 ---
 今日、OmniFocusのアップデートが来ていました。
 

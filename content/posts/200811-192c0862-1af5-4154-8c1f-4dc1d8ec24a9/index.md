@@ -4,7 +4,7 @@ description: ''
 date: '2008-11-16T12:42:28.000Z'
 categories: []
 keywords: []
-slug: "200811-192c0862-1af5-4154-8c1f-4dc1d8ec24a9"
+slug: "192c0862-1af5-4154-8c1f-4dc1d8ec24a9"
 ---
 [NHKのデジタルネイティブ](http://www.nhk.or.jp/digitalnative/)を見ました。
 

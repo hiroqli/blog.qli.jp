@@ -4,7 +4,7 @@ description: いろんな条件が重なりHomePodを2台体制にしました�
 date: '2020-04-03T12:31:38.208Z'
 categories: []
 keywords: []
-slug: "202004-ae79ca2c-eca2-4836-a749-4c09bb9e916d"
+slug: "ae79ca2c-eca2-4836-a749-4c09bb9e916d"
 ---
 いろんな条件が重なりHomePodを2台体制にしました。
 

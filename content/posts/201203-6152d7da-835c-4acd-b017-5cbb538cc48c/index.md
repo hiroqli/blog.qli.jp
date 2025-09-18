@@ -4,7 +4,7 @@ description: ''
 date: '2012-03-14T23:43:41.000Z'
 categories: []
 keywords: []
-slug: "201203-6152d7da-835c-4acd-b017-5cbb538cc48c"
+slug: "6152d7da-835c-4acd-b017-5cbb538cc48c"
 ---
 > The opportunities in front of Twitter are exciting, and we couldn’t be happier about bringing our team’s expertise to a product that reaches hundreds of millions of users around the globe. Plus, the people at Twitter are genuinely nice folks who share our vision for making sharing simpler.
 

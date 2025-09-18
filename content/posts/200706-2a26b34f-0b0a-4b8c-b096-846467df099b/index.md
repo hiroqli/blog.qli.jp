@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-09T14:43:44.000Z'
 categories: []
 keywords: []
-slug: "200706-2a26b34f-0b0a-4b8c-b096-846467df099b"
+slug: "2a26b34f-0b0a-4b8c-b096-846467df099b"
 ---
 Skype Proがついに日本でも始まりました。ついでにSkype To Goというサービスも開始。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2008-08-18T23:54:14.000Z'
 categories: []
 keywords: []
-slug: "200808-adf11bff-b916-4e20-9bdb-9e2928fcde0b"
+slug: "adf11bff-b916-4e20-9bdb-9e2928fcde0b"
 ---
 プロフィールサービスと言われるものというのは、自分を紹介するためのひとつの指標となったりする便利なサービスだったりします。Twitterとかで見ているとiddyを使っている人か、about meを使っている人に大別される気がしますが、さてどちらが多いんでしょうか。
 

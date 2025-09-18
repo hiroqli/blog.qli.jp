@@ -4,7 +4,7 @@ description: ''
 date: '2015-03-18T13:12:53.000Z'
 categories: []
 keywords: []
-slug: "201503-080832ff-3996-4960-bafe-1b3d54f84a7e"
+slug: "080832ff-3996-4960-bafe-1b3d54f84a7e"
 ---
 Apple Watchの詳細が発表されたとき、面白いなぁと思ったのは、Apple WatchにBluetoothだけではなく、Wi-Fiが搭載されていたことだった。
 

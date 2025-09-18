@@ -4,7 +4,7 @@ description: ""
 date: "2006-07-18T15:57:00.000Z"
 categories: []
 keywords: []
-slug: "200607-bf313dea-c0bf-4d77-9b94-1a4543c9f4cc"
+slug: "bf313dea-c0bf-4d77-9b94-1a4543c9f4cc"
 ---
 
 タスク管理ツール”remember the milk”の運用が安定してきたので、書き込み。  

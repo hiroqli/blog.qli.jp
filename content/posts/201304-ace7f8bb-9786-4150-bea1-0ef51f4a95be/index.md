@@ -4,7 +4,7 @@ description: ''
 date: '2013-04-06T21:35:34.000Z'
 categories: []
 keywords: []
-slug: "201304-ace7f8bb-9786-4150-bea1-0ef51f4a95be"
+slug: "ace7f8bb-9786-4150-bea1-0ef51f4a95be"
 ---
 なんだかよく流れがわかっていないのだけれども、KAIさんの“やっぱり「日本人にはブログより日記」なのかも”を読んで書いてみる。
 

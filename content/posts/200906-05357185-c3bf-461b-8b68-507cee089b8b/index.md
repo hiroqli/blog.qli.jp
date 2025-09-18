@@ -4,7 +4,7 @@ description: ''
 date: '2009-06-14T15:53:18.000Z'
 categories: []
 keywords: []
-slug: "200906-05357185-c3bf-461b-8b68-507cee089b8b"
+slug: "05357185-c3bf-461b-8b68-507cee089b8b"
 ---
 遅ればせながら、iPhone for everybodyを申し込んできた。
 

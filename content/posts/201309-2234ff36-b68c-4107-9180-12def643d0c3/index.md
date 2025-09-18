@@ -4,7 +4,7 @@ description: ''
 date: '2013-09-19T07:19:46.000Z'
 categories: []
 keywords: []
-slug: "201309-2234ff36-b68c-4107-9180-12def643d0c3"
+slug: "2234ff36-b68c-4107-9180-12def643d0c3"
 ---
 iOS7がリリースされました。と、同時に、タスク管理ソフトウェアである OmniFocus for iOSがバージョンアップしました。今回のバージョンアップは、新しいアプリとしてリリースされたので、別途購入する必要があります。これまでのOmniFocusはiTunes App Storeから削除されたとのことです。
 

@@ -4,7 +4,7 @@ description: ""
 date: "2006-09-01T07:36:14.000Z"
 categories: []
 keywords: []
-slug: "200609-99cabf59-a5a3-4322-b8d8-232337d2a8c4"
+slug: "99cabf59-a5a3-4322-b8d8-232337d2a8c4"
 ---
 
 先日、[こちら](/posts/0d11c6c7-189f-4608-a8d5-f85857928a87/)でお伝えした Google Notifier ですが、あちこちで

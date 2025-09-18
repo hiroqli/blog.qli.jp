@@ -4,7 +4,7 @@ description: ''
 date: '2016-03-23T14:38:37.000Z'
 categories: []
 keywords: []
-slug: "201603-08748301-05a9-4457-a834-f04541bf3f7d"
+slug: "08748301-05a9-4457-a834-f04541bf3f7d"
 ---
 3/21のAppleのイベント “Let Us Loop You In” で発表された中で個人的に注目だったものの一つが、黒いミラネーゼループ。
 

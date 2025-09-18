@@ -4,7 +4,7 @@ description: ''
 date: '2015-11-15T15:11:35.000Z'
 categories: []
 keywords: []
-slug: "201511-f554c094-4214-48ac-b884-41cff2044d9c"
+slug: "f554c094-4214-48ac-b884-41cff2044d9c"
 ---
 ### Fukuoka
 

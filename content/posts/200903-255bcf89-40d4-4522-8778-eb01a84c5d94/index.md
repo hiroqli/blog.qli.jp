@@ -4,7 +4,7 @@ description: ''
 date: '2009-03-03T00:31:38.000Z'
 categories: []
 keywords: []
-slug: "200903-255bcf89-40d4-4522-8778-eb01a84c5d94"
+slug: "255bcf89-40d4-4522-8778-eb01a84c5d94"
 ---
 今年も買ったDVD “apbank fes ‘08”。もう毎年買っていてお布施のようになっていますね。今回もapbank fesに関する収支報告もついています。
 

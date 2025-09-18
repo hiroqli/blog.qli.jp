@@ -4,7 +4,7 @@ description: ''
 date: '2007-08-03T08:54:17.000Z'
 categories: []
 keywords: []
-slug: "200708-c4573b3a-432b-482e-8eee-c214f880eadd"
+slug: "c4573b3a-432b-482e-8eee-c214f880eadd"
 ---
 日本に住んでいる以上あまり関係ないですが、American Airlinesが国内線で（つまり米国内で）飛行機の中でのWiFiサービスを始めるとか。
 

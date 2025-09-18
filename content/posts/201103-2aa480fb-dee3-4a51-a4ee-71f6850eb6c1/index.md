@@ -4,7 +4,7 @@ description: ''
 date: '2011-03-03T23:27:16.000Z'
 categories: []
 keywords: []
-slug: "201103-2aa480fb-dee3-4a51-a4ee-71f6850eb6c1"
+slug: "2aa480fb-dee3-4a51-a4ee-71f6850eb6c1"
 ---
 AppleのイベントでiPad 2が発表されました。病気療養中のJobsがステージに登場し、発表、最後に”2011 : Year of the iPad 2"という強い宣言で締めくくりました。
 

@@ -4,7 +4,7 @@ description: ""
 date: "2006-09-13T19:36:00.000Z"
 categories: []
 keywords: []
-slug: "200609-2faf79d4-9952-4988-9a44-4f4b5c23d39f"
+slug: "2faf79d4-9952-4988-9a44-4f4b5c23d39f"
 ---
 
 今日は iPod だけでも Apple 系の方々は浮き足立っているところですが、Skype for mac も新たな進展がありました。

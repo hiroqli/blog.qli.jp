@@ -4,7 +4,7 @@ description: ''
 date: '2012-10-15T19:47:56.000Z'
 categories: []
 keywords: []
-slug: "201210-109a6bbf-9210-42a7-afa0-f990ef077b30"
+slug: "109a6bbf-9210-42a7-afa0-f990ef077b30"
 ---
 7インチで軽くて機動性のあるNexus7を褒めていたんですが、持ち歩くのをやめました。
 

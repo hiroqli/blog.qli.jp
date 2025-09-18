@@ -4,7 +4,7 @@ description: ''
 date: '2025-03-15T03:02:32.489Z'
 categories: []
 keywords: []
-slug: "202503-9ce4dcd6-1822-4597-8b7b-aa4b857b565c"
+slug: "9ce4dcd6-1822-4597-8b7b-aa4b857b565c"
 ---
 先日、OmniFocusの使い方をまとめました。
 

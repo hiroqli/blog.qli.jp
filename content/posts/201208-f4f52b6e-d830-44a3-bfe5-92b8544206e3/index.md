@@ -4,7 +4,7 @@ description: ''
 date: '2012-08-07T08:34:50.000Z'
 categories: []
 keywords: []
-slug: "201208-f4f52b6e-d830-44a3-bfe5-92b8544206e3"
+slug: "f4f52b6e-d830-44a3-bfe5-92b8544206e3"
 ---
 なぜ、対立構造を作りたいのか分からないし、結局何がしたいのか分からない。
 

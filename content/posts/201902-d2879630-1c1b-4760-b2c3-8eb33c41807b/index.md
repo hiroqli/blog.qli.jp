@@ -4,7 +4,7 @@ description: 楽しみすぎるので、これまでにあった情報をもと�
 date: '2019-02-22T00:40:54.917Z'
 categories: []
 keywords: []
-slug: "201902-d2879630-1c1b-4760-b2c3-8eb33c41807b"
+slug: "d2879630-1c1b-4760-b2c3-8eb33c41807b"
 ---
 ![](1__uz2Gwf5t5__GCUdYZI3Ch1w.jpeg)
 

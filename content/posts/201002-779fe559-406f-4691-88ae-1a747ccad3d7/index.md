@@ -4,7 +4,7 @@ description: ''
 date: '2010-02-18T23:23:13.000Z'
 categories: []
 keywords: []
-slug: "201002-779fe559-406f-4691-88ae-1a747ccad3d7"
+slug: "779fe559-406f-4691-88ae-1a747ccad3d7"
 ---
 つい先日iPod nanoを買いました。買ったのは16GB Product REDモデルです。限定に弱いので。
 

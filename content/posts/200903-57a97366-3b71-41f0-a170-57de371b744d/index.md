@@ -4,7 +4,7 @@ description: ''
 date: '2009-03-14T12:02:34.000Z'
 categories: []
 keywords: []
-slug: "200903-57a97366-3b71-41f0-a170-57de371b744d"
+slug: "57a97366-3b71-41f0-a170-57de371b744d"
 ---
 [nobi-taro Podacast](http://www.castalia.jp/podcast/1582)がやたらとハッシュタグを推すので、影響されすぎて、twitterで[「ハッシュタグつかおーぜ！」的な発言](https://twitter.com/hiro/status/1321802628)をしてみたら面白いことになってきた。というわけで、（もっと面白いことになりますようにという願いを込めて）ブログにポストしておく（昨日からポスト続きだったので少し遠慮していたのですが）。
 

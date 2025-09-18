@@ -4,7 +4,7 @@ description: ""
 date: "2006-07-06T12:38:00.000Z"
 categories: []
 keywords: []
-slug: "200607-66c9031b-b2cd-4ae7-ab23-15143e80e945"
+slug: "66c9031b-b2cd-4ae7-ab23-15143e80e945"
 ---
 
 全国の google crazy が待望していた google pack 日本語版が登場です。

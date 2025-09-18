@@ -4,7 +4,7 @@ description: ''
 date: '2006-06-21T06:22:11.000Z'
 categories: []
 keywords: []
-slug: "200606-4b4fe3ab-bc06-4f56-89df-c5d5405e5efb"
+slug: "4b4fe3ab-bc06-4f56-89df-c5d5405e5efb"
 ---
 リンク: \[マイクロソフト、「Windows Live Messenger」正式版を提供開始\](http://internet.watch.impress.co.jp/cda/news/2006/06/20/12392.html)
 

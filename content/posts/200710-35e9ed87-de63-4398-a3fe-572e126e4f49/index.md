@@ -4,7 +4,7 @@ description: ''
 date: '2007-10-31T18:14:14.000Z'
 categories: []
 keywords: []
-slug: "200710-35e9ed87-de63-4398-a3fe-572e126e4f49"
+slug: "35e9ed87-de63-4398-a3fe-572e126e4f49"
 ---
 さまざまなミュージシャンとともにbank bandが繰り広げた、apbank fes ‘07のダイジェストがフジテレビで放送されるそうです。
 

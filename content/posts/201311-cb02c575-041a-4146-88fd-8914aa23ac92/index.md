@@ -4,7 +4,7 @@ description: ''
 date: '2013-11-03T23:38:10.000Z'
 categories: []
 keywords: []
-slug: "201311-cb02c575-041a-4146-88fd-8914aa23ac92"
+slug: "cb02c575-041a-4146-88fd-8914aa23ac92"
 ---
 発表された時点で iPad mini Retina を買うつもりでいたのですが、禅問答の末、iPad Airを購入しました。購入時にApple Storeの認識不足でごちゃごちゃしたのですが、それは置いておいて、やっぱりいいデバイスだと思います。
 

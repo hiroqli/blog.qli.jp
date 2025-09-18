@@ -4,7 +4,7 @@ description: 6年目。6年目になっても、3.11といえばあの日のこ�
 date: '2017-03-11T04:17:45.392Z'
 categories: []
 keywords: []
-slug: "201703-749d21a2-9aa6-4f10-a761-d046e8f3eeef"
+slug: "749d21a2-9aa6-4f10-a761-d046e8f3eeef"
 ---
 ![](1__q__bHwj9SDMYC5gHoXPHwMA__2x.jpeg)
 

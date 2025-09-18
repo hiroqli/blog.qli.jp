@@ -5,7 +5,7 @@ description: OmniFocusの記事が意外にも多くの方に読んでいただ�
 date: '2018-10-19T13:06:43.909Z'
 categories: []
 keywords: []
-slug: "201810-228cf46c-75d6-4119-9202-46feb6653387"
+slug: "228cf46c-75d6-4119-9202-46feb6653387"
 ---
 OmniFocusの記事が意外にも多くの方に読んでいただけるようなので、OmniFocusを取り上げます。なお、ここでの “OmniFocus” は OmniFocus3 を前提にしています。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-19T09:30:51.000Z'
 categories: []
 keywords: []
-slug: "200706-e781d842-3202-43a2-b0e1-a12896340a14"
+slug: "e781d842-3202-43a2-b0e1-a12896340a14"
 ---
 Apple Storeで限定発売のものというのは少なくはないですが、この度Apple Store限定品で、かつApple Store ShibuyaやApple Store Ginzaにも見あたらなかったのでonlineを使ってみました。Onlineを使うのは、iPod nano 2G以来なのでほとんど1年ぶりかと。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-28T12:07:50.000Z'
 categories: []
 keywords: []
-slug: "200607-5d81e2d3-1126-4f21-8a0d-b3f6a38c2e88"
+slug: "5d81e2d3-1126-4f21-8a0d-b3f6a38c2e88"
 ---
 面白い記事があったので取り上げておきます。今起きている変化がmicrosoftという大企業を突き動かしているのは確実みたいですね。
 

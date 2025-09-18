@@ -4,7 +4,7 @@ description: ''
 date: '2014-10-17T14:13:49.000Z'
 categories: []
 keywords: []
-slug: "201410-3bcd5c47-a926-4357-b24d-232b37c95afc"
+slug: "3bcd5c47-a926-4357-b24d-232b37c95afc"
 ---
 Things 2.5 for Mac が登場しました。Things 2.5は Yosemite 対応が主な変更点になりました。
 

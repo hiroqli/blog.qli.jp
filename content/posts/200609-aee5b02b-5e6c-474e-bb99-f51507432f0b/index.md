@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-02T11:09:48.000Z'
 categories: []
 keywords: []
-slug: "200609-aee5b02b-5e6c-474e-bb99-f51507432f0b"
+slug: "aee5b02b-5e6c-474e-bb99-f51507432f0b"
 ---
 興味深い記事があったのでエントリー。
 

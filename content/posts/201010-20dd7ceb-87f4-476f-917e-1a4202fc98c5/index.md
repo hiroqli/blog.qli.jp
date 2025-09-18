@@ -4,7 +4,7 @@ description: ''
 date: '2010-10-15T06:27:20.000Z'
 categories: []
 keywords: []
-slug: "201010-20dd7ceb-87f4-476f-917e-1a4202fc98c5"
+slug: "20dd7ceb-87f4-476f-917e-1a4202fc98c5"
 ---
 MobileMeでしばらくベータテストされていた新カレンダーがベータ版を脱出し、製品版になっていて、驚きました。
 

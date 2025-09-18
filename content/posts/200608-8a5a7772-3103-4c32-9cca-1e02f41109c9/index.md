@@ -4,7 +4,7 @@ description: ''
 date: '2006-08-11T10:58:02.000Z'
 categories: []
 keywords: []
-slug: "200608-8a5a7772-3103-4c32-9cca-1e02f41109c9"
+slug: "8a5a7772-3103-4c32-9cca-1e02f41109c9"
 ---
 まぁ、ご存じの方も多いGmailのFrom選択機能。メールによる本人確認方法でパスすれば、Fromが選択できるという機能。  
   

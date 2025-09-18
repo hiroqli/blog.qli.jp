@@ -4,7 +4,7 @@ description: ''
 date: '2006-12-30T11:57:20.000Z'
 categories: []
 keywords: []
-slug: "200612-564e4fc4-1b22-44ee-9b84-c8bd2fd97c99"
+slug: "564e4fc4-1b22-44ee-9b84-c8bd2fd97c99"
 ---
 2006年も今日と明日を残すのみとなったので、この辺で今年のまとめをしてみようかと思います。
 

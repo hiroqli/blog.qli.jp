@@ -4,7 +4,7 @@ description: ''
 date: '2010-02-17T10:27:59.000Z'
 categories: []
 keywords: []
-slug: "201002-e5aa9e5a-b346-43ac-9313-38f8b106093c"
+slug: "e5aa9e5a-b346-43ac-9313-38f8b106093c"
 ---
 Twitterのタイムライン見ていると、Buzzはもうやっていない人が出始めているような雰囲気もありますが、そのBuzzが意外と面白いのでエントリー。
 

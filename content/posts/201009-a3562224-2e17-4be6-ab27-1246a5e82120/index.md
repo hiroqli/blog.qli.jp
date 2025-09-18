@@ -4,7 +4,7 @@ description: ''
 date: '2010-09-25T10:54:38.000Z'
 categories: []
 keywords: []
-slug: "201009-a3562224-2e17-4be6-ab27-1246a5e82120"
+slug: "a3562224-2e17-4be6-ab27-1246a5e82120"
 ---
 先日（９月２２日）、iWork for iPad ( Pages, Numbers, Keynote )がバージョンアップして、MobileMe iDiskをサポートしました。これまでは、 iWork.com（まだベータ版）を介して、それからMac/PCのiTunesを通してのファイル共有ができていましたが、今回のアップデートによりシンプルなOver the Airのファイル共有ができるようになりました。
 

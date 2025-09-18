@@ -4,7 +4,7 @@ description: ''
 date: '2007-11-20T23:50:02.000Z'
 categories: []
 keywords: []
-slug: "200711-9f1c4898-65db-4365-be87-dff5062d870c"
+slug: "9f1c4898-65db-4365-be87-dff5062d870c"
 ---
 APIの先駆けをやってのけた、かの米Amazonが、電子書籍システムKindleを発表しました。個人的に着目したのはこの部分。
 

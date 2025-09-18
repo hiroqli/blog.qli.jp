@@ -4,7 +4,7 @@ description: 今年も6月になり、一年の半分が近づき、WWDCがや�
 date: '2018-06-05T04:42:59.088Z'
 categories: []
 keywords: []
-slug: "201806-039ac855-172d-4b9f-994f-bc5e012788a2"
+slug: "039ac855-172d-4b9f-994f-bc5e012788a2"
 ---
 今年も6月になり、一年の半分が近づき、WWDCがやって来ました。
 

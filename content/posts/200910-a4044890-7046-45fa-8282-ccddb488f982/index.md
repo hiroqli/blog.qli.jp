@@ -4,7 +4,7 @@ description: ''
 date: '2009-10-12T10:24:23.000Z'
 categories: []
 keywords: []
-slug: "200910-a4044890-7046-45fa-8282-ccddb488f982"
+slug: "a4044890-7046-45fa-8282-ccddb488f982"
 ---
 たしかTwitterで流れていた(のかな？)で知ったので読んでみました。
 

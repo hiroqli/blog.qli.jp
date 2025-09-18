@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-28T23:38:23.000Z'
 categories: []
 keywords: []
-slug: "200704-58a8f191-2844-441f-85b2-98778fd7d0fb"
+slug: "58a8f191-2844-441f-85b2-98778fd7d0fb"
 ---
 Twitter経由でこういうエントリーがあったので反応してみる。
 

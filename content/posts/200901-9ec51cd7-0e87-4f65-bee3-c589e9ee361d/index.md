@@ -4,7 +4,7 @@ description: ""
 date: "2009-01-20T23:35:08.000Z"
 categories: []
 keywords: []
-slug: "200901-9ec51cd7-0e87-4f65-bee3-c589e9ee361d"
+slug: "9ec51cd7-0e87-4f65-bee3-c589e9ee361d"
 ---
 
 あちこちで多くの人がビックリした、Jaiku のオープンソース化について。

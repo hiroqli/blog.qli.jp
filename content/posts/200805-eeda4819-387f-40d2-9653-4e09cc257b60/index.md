@@ -4,7 +4,7 @@ description: ''
 date: '2008-05-07T23:40:01.000Z'
 categories: []
 keywords: []
-slug: "200805-eeda4819-387f-40d2-9653-4e09cc257b60"
+slug: "eeda4819-387f-40d2-9653-4e09cc257b60"
 ---
 本日５月８日、apbankがホストとなっているWEBプログラムである eco-reso webが開始されました。
 

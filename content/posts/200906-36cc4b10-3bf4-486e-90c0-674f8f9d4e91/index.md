@@ -4,7 +4,7 @@ description: ''
 date: '2009-06-28T10:45:49.000Z'
 categories: []
 keywords: []
-slug: "200906-36cc4b10-3bf4-486e-90c0-674f8f9d4e91"
+slug: "36cc4b10-3bf4-486e-90c0-674f8f9d4e91"
 ---
 さっくりと乗り換えましたよ。
 

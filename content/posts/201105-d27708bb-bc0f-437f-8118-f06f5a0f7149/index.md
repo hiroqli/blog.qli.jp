@@ -4,7 +4,7 @@ description: ''
 date: '2011-05-25T22:33:44.000Z'
 categories: []
 keywords: []
-slug: "201105-d27708bb-bc0f-437f-8118-f06f5a0f7149"
+slug: "d27708bb-bc0f-437f-8118-f06f5a0f7149"
 ---
 ちょうど原宿で空き時間があったので、KDDIスタジオに行ってみました。先日触らなかったINFOBAR Androidを触ってみようかなと思ったのです。
 

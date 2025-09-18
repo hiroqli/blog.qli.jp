@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-14T16:50:11.000Z'
 categories: []
 keywords: []
-slug: "200607-c2ff3585-e1ec-4d36-bb6e-b77dae67a34d"
+slug: "c2ff3585-e1ec-4d36-bb6e-b77dae67a34d"
 ---
 SpeedFeedあたりでコードネームは出てきていたfeedpathの方針向けサービスがついにプレスリリースとなりました。一応、個人的にはネット系のエンジニアとしてWEB2.0のB2Bビジネスには注視していきたいと思っているので、取り上げておきます。
 

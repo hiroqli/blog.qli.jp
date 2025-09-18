@@ -4,7 +4,7 @@ description: ''
 date: '2012-04-24T21:51:56.000Z'
 categories: []
 keywords: []
-slug: "201204-02df894a-190b-437b-85ed-8d7950ec09ef"
+slug: "02df894a-190b-437b-85ed-8d7950ec09ef"
 ---
 Read it Later がバージョンアップして、[Pocket](http://getpocket.com/) になりました。
 

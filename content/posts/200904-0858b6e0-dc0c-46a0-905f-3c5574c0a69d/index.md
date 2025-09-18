@@ -4,7 +4,7 @@ description: ''
 date: '2009-04-01T13:39:57.000Z'
 categories: []
 keywords: []
-slug: "200904-0858b6e0-dc0c-46a0-905f-3c5574c0a69d"
+slug: "0858b6e0-dc0c-46a0-905f-3c5574c0a69d"
 ---
 以前、こんな記事を書きました。
 

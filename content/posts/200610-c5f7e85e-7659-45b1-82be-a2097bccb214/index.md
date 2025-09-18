@@ -4,7 +4,7 @@ description: ''
 date: '2006-10-11T14:03:39.000Z'
 categories: []
 keywords: []
-slug: "200610-c5f7e85e-7659-45b1-82be-a2097bccb214"
+slug: "c5f7e85e-7659-45b1-82be-a2097bccb214"
 ---
 MozillaのカレンダープロジェクトであるSunbirdとLightningのバージョン0.3が公開されました。0.3なので、まだまだ実用向けではないはずなので、ご注意を。
 

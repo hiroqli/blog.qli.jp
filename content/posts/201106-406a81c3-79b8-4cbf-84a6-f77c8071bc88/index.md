@@ -4,7 +4,7 @@ description: ''
 date: '2011-06-26T20:11:32.000Z'
 categories: []
 keywords: []
-slug: "201106-406a81c3-79b8-4cbf-84a6-f77c8071bc88"
+slug: "406a81c3-79b8-4cbf-84a6-f77c8071bc88"
 ---
 iOS 5 beta 2 が公開され、開発者もiPhoneのwifi syncが使えるようになりました。これは、すでにWWDCにて発表されていた機能で、PC/Macで起動されているiTunesとiOSとの同期をwifi経由で行えるようになるものです。
 

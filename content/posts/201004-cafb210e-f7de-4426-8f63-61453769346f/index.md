@@ -4,7 +4,7 @@ description: ''
 date: '2010-04-22T08:51:37.000Z'
 categories: []
 keywords: []
-slug: "201004-cafb210e-f7de-4426-8f63-61453769346f"
+slug: "cafb210e-f7de-4426-8f63-61453769346f"
 ---
 Blurの新曲 “Fool’s Day” が彼らの[オフィシャルサイト](http://www.blur.co.uk/)でダウンロードできるようになっています。
 

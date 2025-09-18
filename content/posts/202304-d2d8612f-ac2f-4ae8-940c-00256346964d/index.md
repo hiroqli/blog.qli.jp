@@ -4,7 +4,7 @@ description: ''
 date: '2023-04-29T03:01:50.889Z'
 categories: []
 keywords: []
-slug: "202304-d2d8612f-ac2f-4ae8-940c-00256346964d"
+slug: "d2d8612f-ac2f-4ae8-940c-00256346964d"
 ---
 iPad mini(第6世代)を手に入れた。64GBでWi-Fiモデルで8.3インチでパープルな、iPad miniだ。理由はいくつかあるが、まずは本を読む、気軽に持ち出せるデバイスが欲しかった。
 

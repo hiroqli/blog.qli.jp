@@ -4,7 +4,7 @@ description: ''
 date: '2007-11-07T22:56:39.000Z'
 categories: []
 keywords: []
-slug: "200711-e39c68fc-2317-449d-b8c2-fcd2e376e0ac"
+slug: "e39c68fc-2317-449d-b8c2-fcd2e376e0ac"
 ---
 いくつかまとまって話が飛び込んできました。
 

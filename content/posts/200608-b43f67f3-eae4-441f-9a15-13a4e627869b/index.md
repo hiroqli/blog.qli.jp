@@ -4,7 +4,7 @@ description: ''
 date: '2006-08-23T08:39:34.000Z'
 categories: []
 keywords: []
-slug: "200608-b43f67f3-eae4-441f-9a15-13a4e627869b"
+slug: "b43f67f3-eae4-441f-9a15-13a4e627869b"
 ---
 日本で人気があるタスク管理ツールといえば、[Remember the milk](http://www.rememberthemilk.com/) と [check\*pad](http://www.checkpad.jp/) ですよね。  
 check\*padはシンプルさをウリにしているツールで、その機能のほとんどはRemember the milkにも実装されています。ですので、Remeber the milk（もう面倒なので以下rmilk)を選べば、タスク管理で欲しい機能はある程度そろっていることになります。

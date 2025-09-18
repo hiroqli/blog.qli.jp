@@ -4,7 +4,7 @@ description: ''
 date: '2008-03-31T10:28:20.000Z'
 categories: []
 keywords: []
-slug: "200803-ff3572a9-4ac3-49f5-9ff0-b14e21d6ec89"
+slug: "ff3572a9-4ac3-49f5-9ff0-b14e21d6ec89"
 ---
 以前お伝えした問題、
 

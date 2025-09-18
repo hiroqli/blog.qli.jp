@@ -4,7 +4,7 @@ description: ''
 date: '2012-09-16T08:16:25.000Z'
 categories: []
 keywords: []
-slug: "201209-a4abeeab-b17c-4fb7-8c64-a1466c44ec1b"
+slug: "a4abeeab-b17c-4fb7-8c64-a1466c44ec1b"
 ---
 ![](0__AE5UkN5ZZvOK65ev.jpg)
 

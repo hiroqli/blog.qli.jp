@@ -4,7 +4,7 @@ description: ''
 date: '2010-01-28T21:21:16.000Z'
 categories: []
 keywords: []
-slug: "201001-e7f2ddbe-92a0-45af-86cb-dc7ae7b55b20"
+slug: "e7f2ddbe-92a0-45af-86cb-dc7ae7b55b20"
 ---
 「時間に余裕があって、ふっとカフェに行ったとき、あなたはカバンから何を取り出しますか？」
 

@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-09T08:21:26.000Z'
 categories: []
 keywords: []
-slug: "200706-e4a1fc2c-d59a-4267-af8f-4377b5c3765c"
+slug: "e4a1fc2c-d59a-4267-af8f-4377b5c3765c"
 ---
 このところ立て続けにハードウェアのアップデートを繰り返しているApple。来週にはiMacのアップデートすら囁かれていて、もしこのままウワサ通りmac miniが無くなるとすれば、Mac Pro以外のすべてのハードウェアが刷新されることになる。
 

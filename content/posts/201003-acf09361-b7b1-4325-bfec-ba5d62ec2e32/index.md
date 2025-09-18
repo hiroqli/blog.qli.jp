@@ -4,7 +4,7 @@ description: ''
 date: '2010-03-23T21:23:59.000Z'
 categories: []
 keywords: []
-slug: "201003-acf09361-b7b1-4325-bfec-ba5d62ec2e32"
+slug: "acf09361-b7b1-4325-bfec-ba5d62ec2e32"
 ---
 いろいろあったので慌ててまとめる。Twitterネタ。
 

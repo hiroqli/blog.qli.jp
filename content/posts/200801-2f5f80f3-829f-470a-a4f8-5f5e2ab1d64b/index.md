@@ -4,7 +4,7 @@ description: ''
 date: '2008-01-01T07:38:14.000Z'
 categories: []
 keywords: []
-slug: "200801-2f5f80f3-829f-470a-a4f8-5f5e2ab1d64b"
+slug: "2f5f80f3-829f-470a-a4f8-5f5e2ab1d64b"
 ---
 あけましておめでとうございます。今年もよろしくお願いします。
 

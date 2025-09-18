@@ -4,7 +4,7 @@ description: 2024年5月28日、赤い公園 ラストライブから3年が経�
 date: '2024-10-17T11:48:57.817Z'
 categories: []
 keywords: []
-slug: "202410-51655eef-86cc-48cb-9708-ed0d84f599dd"
+slug: "51655eef-86cc-48cb-9708-ed0d84f599dd"
 ---
 ![](0__S9nNme__OKBTkI__QQ.jpg)
 

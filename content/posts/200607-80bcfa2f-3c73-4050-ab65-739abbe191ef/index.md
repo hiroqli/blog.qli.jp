@@ -4,7 +4,7 @@ description: ''
 date: '2006-07-31T08:40:31.000Z'
 categories: []
 keywords: []
-slug: "200607-80bcfa2f-3c73-4050-ab65-739abbe191ef"
+slug: "80bcfa2f-3c73-4050-ab65-739abbe191ef"
 ---
 コメント書こうとしたらいろいろ書きたくなったので、エントリーにしました(汗、いっぱい)。
 

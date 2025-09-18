@@ -4,7 +4,7 @@ description: ''
 date: '2010-11-07T20:35:31.000Z'
 categories: []
 keywords: []
-slug: "201011-06c5c3ff-7725-4587-9da0-8d084da4450d"
+slug: "06c5c3ff-7725-4587-9da0-8d084da4450d"
 ---
 先週金曜日、2010年11月5日にAtomic Floyd の新作、[Atomic Floyd mini Darts](http://www.focal.co.jp/products/detail.php?product_id=383)が発表・発売されました。9月4日にこっそり告知されて以来、2ヶ月待ったことになります。その間、某所で限定発売されたりもしたそうですが。
 

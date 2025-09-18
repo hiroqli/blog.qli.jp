@@ -4,7 +4,7 @@ description: Finally!
 date: '2017-05-18T15:05:16.216Z'
 categories: []
 keywords: []
-slug: "201705-cf0990fc-987c-4378-bbf9-9d8bf85395fa"
+slug: "cf0990fc-987c-4378-bbf9-9d8bf85395fa"
 ---
 ![](1__PI4cdEvuyD7u3JA6RPnyVg.png)
 

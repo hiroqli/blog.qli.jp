@@ -4,7 +4,7 @@ description: ''
 date: '2009-08-22T19:23:41.000Z'
 categories: []
 keywords: []
-slug: "200908-18cb6e5e-48ec-40ca-8993-d5a5f222d741"
+slug: "18cb6e5e-48ec-40ca-8993-d5a5f222d741"
 ---
 21日金曜日はWISH2009に参加してきました。といっても、パンもらって席に座って聞いているだけですが。
 

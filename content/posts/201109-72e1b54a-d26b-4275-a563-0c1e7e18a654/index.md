@@ -4,7 +4,7 @@ description: ''
 date: '2011-09-16T07:11:12.000Z'
 categories: []
 keywords: []
-slug: "201109-72e1b54a-d26b-4275-a563-0c1e7e18a654"
+slug: "72e1b54a-d26b-4275-a563-0c1e7e18a654"
 ---
 リコーからGR Digital 4 が発表されました。GRD 3 からあまり外観が変わらず、手ぶれ補正とかが追加されました。
 

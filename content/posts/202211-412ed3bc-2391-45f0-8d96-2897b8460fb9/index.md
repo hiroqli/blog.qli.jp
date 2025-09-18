@@ -4,7 +4,7 @@ description: 8か月ぶりに福岡へ、3年ぶりに実家へ
 date: "2022-11-02T15:15:14.210Z"
 categories: []
 keywords: []
-slug: "202211-412ed3bc-2391-45f0-8d96-2897b8460fb9"
+slug: "412ed3bc-2391-45f0-8d96-2897b8460fb9"
 cover:
   image: 1__ZupD0Ixy5TPsmyIRMpKc3w.jpeg
   alt: ""

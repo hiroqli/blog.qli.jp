@@ -4,7 +4,7 @@ description: ''
 date: '2007-09-08T20:42:52.000Z'
 categories: []
 keywords: []
-slug: "200709-9d30c404-acce-4b32-b2ef-47de0499f46f"
+slug: "9d30c404-acce-4b32-b2ef-47de0499f46f"
 ---
 今日は新しくなったiPodファミリーを見てきました。Apple Store Shibuya, Apple Store Ginzaと回ってみたのですが、どの店も商品の配置が大きく変わってました。中でもApple TVが奥の方に追いやられていたのが気になりました。まぁ、日本での盛り上がりを考えれば当たり前ですが。
 

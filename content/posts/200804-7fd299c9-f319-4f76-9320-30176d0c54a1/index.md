@@ -4,7 +4,7 @@ description: ''
 date: '2008-04-30T09:26:25.000Z'
 categories: []
 keywords: []
-slug: "200804-7fd299c9-f319-4f76-9320-30176d0c54a1"
+slug: "7fd299c9-f319-4f76-9320-30176d0c54a1"
 ---
 行ってきました！advantage Lucy、春のワンマン。下北ライブ。
 

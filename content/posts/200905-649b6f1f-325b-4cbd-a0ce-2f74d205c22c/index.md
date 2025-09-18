@@ -4,7 +4,7 @@ description: ''
 date: '2009-05-13T08:23:03.000Z'
 categories: []
 keywords: []
-slug: "200905-649b6f1f-325b-4cbd-a0ce-2f74d205c22c"
+slug: "649b6f1f-325b-4cbd-a0ce-2f74d205c22c"
 ---
 Mac OS X 10.5 Leopardの最新アップデートである、[10.5.7がリリース](http://support.apple.com/downloads/Mac_OS_X_10_5_7_Update?viewlocale=ja_JP)されました。
 

@@ -4,7 +4,7 @@ description: ''
 date: '2007-05-25T22:12:30.000Z'
 categories: []
 keywords: []
-slug: "200705-26f2f0a3-119e-4246-b2e5-ff7fd1ed3384"
+slug: "26f2f0a3-119e-4246-b2e5-ff7fd1ed3384"
 ---
 Google Calendarがついにモバイルに対応しました。確認したところ、au W43Sでも文字化けせずに表示できました。
 

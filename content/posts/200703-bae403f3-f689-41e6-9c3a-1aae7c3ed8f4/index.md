@@ -4,7 +4,7 @@ description: ''
 date: '2007-03-17T12:18:32.000Z'
 categories: []
 keywords: []
-slug: "200703-bae403f3-f689-41e6-9c3a-1aae7c3ed8f4"
+slug: "bae403f3-f689-41e6-9c3a-1aae7c3ed8f4"
 ---
 なんだか「読み逃げ」という言葉があるらしい。
 

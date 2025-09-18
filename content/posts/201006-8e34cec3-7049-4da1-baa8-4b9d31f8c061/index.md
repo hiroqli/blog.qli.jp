@@ -4,7 +4,7 @@ description: ''
 date: '2010-06-28T21:20:54.000Z'
 categories: []
 keywords: []
-slug: "201006-8e34cec3-7049-4da1-baa8-4b9d31f8c061"
+slug: "8e34cec3-7049-4da1-baa8-4b9d31f8c061"
 ---
 **First 5 days with iPhone 4**
 

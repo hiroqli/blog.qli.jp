@@ -4,7 +4,7 @@ description: ''
 date: '2011-06-24T23:54:52.000Z'
 categories: []
 keywords: []
-slug: "201106-5c2a336a-1e8d-438b-ab21-8960e24df410"
+slug: "5c2a336a-1e8d-438b-ab21-8960e24df410"
 ---
 ６月２４日に発売になったXperia acroに機種変更してきました。
 

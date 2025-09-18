@@ -4,7 +4,7 @@ description: ''
 date: '2007-06-27T10:14:18.000Z'
 categories: []
 keywords: []
-slug: "200706-77d06863-b668-4fd3-8d74-dd3dd0aad81c"
+slug: "77d06863-b668-4fd3-8d74-dd3dd0aad81c"
 ---
 昨日のニュースですが、+LhacaというLzhソフトウェア(アーカイバ)に脆弱性が報告されたというニュースがありました。
 

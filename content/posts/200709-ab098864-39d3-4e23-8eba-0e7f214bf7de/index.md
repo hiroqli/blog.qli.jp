@@ -4,7 +4,7 @@ description: ''
 date: '2007-09-07T19:42:02.000Z'
 categories: []
 keywords: []
-slug: "200709-ab098864-39d3-4e23-8eba-0e7f214bf7de"
+slug: "ab098864-39d3-4e23-8eba-0e7f214bf7de"
 ---
 頭の中をすっきりさせたかったので、[Voxの方](http://qli.vox.com/library/post/%E4%B8%80%E6%99%82%E3%81%97%E3%81%AE%E3%81%8E%E3%81%8B%E6%80%9D%E3%81%84%E5%88%87%E3%82%8A%E3%81%8B.html)にいろいろと書いた。iTunesに関連した問題なのだけど、実は最大の問題として、
 

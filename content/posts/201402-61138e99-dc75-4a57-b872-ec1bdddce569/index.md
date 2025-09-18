@@ -4,7 +4,7 @@ description: ''
 date: '2014-02-14T20:49:18.000Z'
 categories: []
 keywords: []
-slug: "201402-61138e99-dc75-4a57-b872-ec1bdddce569"
+slug: "61138e99-dc75-4a57-b872-ec1bdddce569"
 ---
 ![](0__nh0M__wGsTeRizAxn.JPG)
 

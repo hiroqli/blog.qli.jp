@@ -4,7 +4,7 @@ description: ''
 date: '2015-12-31T02:14:14.000Z'
 categories: []
 keywords: []
-slug: "201512-6d88b12a-a75a-4b2a-941b-aad38546659a"
+slug: "6d88b12a-a75a-4b2a-941b-aad38546659a"
 ---
 なんとなく今年をふりかえってみた。
 

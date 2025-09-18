@@ -4,7 +4,7 @@ description: ''
 date: '2007-07-15T15:20:49.000Z'
 categories: []
 keywords: []
-slug: "200707-cafbc914-22c4-4cd9-956f-eada5cad5812"
+slug: "cafbc914-22c4-4cd9-956f-eada5cad5812"
 ---
 なんだ、これは。というのがあったのでご紹介。  
 ソフィアモバイルという聞き慣れないところからnaniという端末が発表されるらしい。発表はwireless japanにて。

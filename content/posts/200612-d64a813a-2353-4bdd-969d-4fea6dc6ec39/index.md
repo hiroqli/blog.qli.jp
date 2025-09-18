@@ -4,7 +4,7 @@ description: ''
 date: '2006-12-09T23:12:51.000Z'
 categories: []
 keywords: []
-slug: "200612-d64a813a-2353-4bdd-969d-4fea6dc6ec39"
+slug: "d64a813a-2353-4bdd-969d-4fea6dc6ec39"
 ---
 最近、タスクのこなし方について書き込みしてなかったですが、安定してきているからからかもしれないです。
 

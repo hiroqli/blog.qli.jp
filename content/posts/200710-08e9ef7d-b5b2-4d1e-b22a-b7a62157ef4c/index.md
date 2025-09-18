@@ -4,7 +4,7 @@ description: ''
 date: '2007-10-19T18:16:35.000Z'
 categories: []
 keywords: []
-slug: "200710-08e9ef7d-b5b2-4d1e-b22a-b7a62157ef4c"
+slug: "08e9ef7d-b5b2-4d1e-b22a-b7a62157ef4c"
 ---
 さて、お祭りまで残り7日ということで、日本で数%しかいないMac好きな方々はもうLeopardのことで頭がいっぱいな状態となってます。自分もそうです。普段だったら2つも続けてApple記事だけ書くってことはありません。
 

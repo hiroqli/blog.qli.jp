@@ -4,7 +4,7 @@ description: ''
 date: '2006-09-12T20:02:33.000Z'
 categories: []
 keywords: []
-slug: "200609-ffbd1df2-bba4-4bb5-bed3-c2c25c36c9b7"
+slug: "ffbd1df2-bba4-4bb5-bed3-c2c25c36c9b7"
 ---
 最近、W-ZERO3\[es\]が突然シャットダウンする現象が起きている気がする。昨日まで充電満タンだったのに、今日の昼過ぎ、カバンから取り出したら落ちていた。充電すればまた復活するのだけど・・・。
 

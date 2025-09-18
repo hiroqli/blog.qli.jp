@@ -4,7 +4,7 @@ description: 最近は本当にいろんな Productivity の方法があり、�
 date: '2019-06-01T00:23:53.440Z'
 categories: []
 keywords: []
-slug: "201906-e766d9f4-7ea0-49f3-9545-102f986b542c"
+slug: "e766d9f4-7ea0-49f3-9545-102f986b542c"
 ---
 最近は本当にいろんな Productivity の方法があり、アプリもたくさん出てきています。Productivityの最適な方法は、それぞれ人が持っている考え方や、好みで変わるので千差万別。人の数だけ最適な解もあります。
 

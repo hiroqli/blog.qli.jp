@@ -4,7 +4,7 @@ description: ''
 date: '2007-04-19T13:20:00.000Z'
 categories: []
 keywords: []
-slug: "200704-e5c8958b-366e-4bcc-bfaf-e27d8c5cacde"
+slug: "e5c8958b-366e-4bcc-bfaf-e27d8c5cacde"
 ---
 feedburner.jp経由のfeedを購読されている方むけに、del.icio.usの最新エントリーを流すようにしました。
 
