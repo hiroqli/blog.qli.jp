@@ -1,0 +1,42 @@
+/* post-meta内のいいねボタン */
+.like-meta {
+  display: inline-block;
+}
+
+.like-button-inline {
+  background: none;
+  border: none;
+  color: var(--secondary);
+  cursor: pointer;
+  font-size: inherit;
+  font-family: inherit;
+  padding: 0;
+  margin: 0;
+  transition: color 0.2s ease;
+  user-select: none;
+}
+
+.like-button-inline:hover {
+  color: var(--primary);
+}
+
+.like-button-inline.liked {
+  color: #ff6b6b;
+}
+
+.like-button-inline.liked:hover {
+  color: #ff5252;
+}
+
+#like-count {
+  font-weight: 500;
+}
+
+/* ダークモード対応 */
+[data-theme="dark"] .like-button-inline {
+  color: var(--secondary);
+}
+
+[data-theme="dark"] .like-button-inline:hover {
+  color: var(--primary);
+}

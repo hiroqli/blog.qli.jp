@@ -1,0 +1,18 @@
+{
+  "rules": {
+    "likes": {
+      "$postId": {
+        ".read": true,
+        ".write": true,
+        "count": {
+          ".validate": "newData.isNumber() && newData.val() >= 0"
+        },
+        "users": {
+          "$userId": {
+            ".validate": "newData.isBoolean()"
+          }
+        }
+      }
+    }
+  }
+}
