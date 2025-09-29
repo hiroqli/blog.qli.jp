@@ -114,6 +114,7 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
+  ShowFullTextinRSS: true
 
   # コメント・メタ設定
   comments: false
