@@ -152,16 +152,24 @@ params:
     Text: "編集を提案"
     appendFilePath: false
 
-  # 検索設定（Fuse.js）
+  # 検索設定（Fuse.js） / 日本語に最適化
   fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
+    tokenize: true
+    matchAllTokens: true
+    includeScore: true
+    includeMatches: true
     location: 0
-    distance: 1000
     threshold: 0.4
-    minMatchCharLength: 0
     limit: 10
-    keys: ["title", "permalink", "summary", "content"]
+    keys:
+      - name: "title"
+        weight: 0.8
+      - name: "content"
+        weight: 0.5
+      - name: "tags"
+        weight: 0.3
+      - name: "categories"
+        weight: 0.3
 
 markup:
   goldmark:
