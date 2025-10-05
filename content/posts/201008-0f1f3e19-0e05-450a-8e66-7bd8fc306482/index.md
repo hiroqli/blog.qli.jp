@@ -9,7 +9,7 @@ slug: "0f1f3e19-0e05-450a-8e66-7bd8fc306482"
 
 突然ですが、今週に入ってから、メインのマシンを MacBook Air から iMac に切り替えた。自分にとっての”メインマシン”の定義は、iPhone と sync を行うマシンであり、利用するに当たって何不自由のないデータが入っているマシンのことを指す。
 
-スケジュールの管理を MobileMe で行っていて、なんとなく Google Calendar との同期を Spanning Sync で行っていて、その同期サーバとして iMac を購入した([参考](/posts/ddcabb63-51c2-4780-b9ac-cae6073d4038/))のだけれども、MobileMe Calendar beta の導入とともに Spanning Sync が使えなくなった（具体的理由は MobileMe 側の CalDav がなぜか書き込み権限をくれないため）ので、iMac の使い道がなくなっていました。
+スケジュールの管理を MobileMe で行っていて、なんとなく Google Calendar との同期を Spanning Sync で行っていて、その同期サーバとして iMac を購入した([参考]({{< ref "posts/200911-ddcabb63-51c2-4780-b9ac-cae6073d4038" >}}))のだけれども、MobileMe Calendar beta の導入とともに Spanning Sync が使えなくなった（具体的理由は MobileMe 側の CalDav がなぜか書き込み権限をくれないため）ので、iMac の使い道がなくなっていました。
 
 もともと MacBook Air、というかノート型をメインマシンにしていたのは、家の中でも持ち運びが楽なマシンの方がいろいろと都合がいいからなのですが、その欲望はほとんど iPad と iPhone で満たせそうなことと、ここ最近あまり開発をしなくなったので”コンピュータ”である必要がなくなったことなどもあり、またこのまま音楽と画像のメインレポジトリを MacBook Air にしておくには(128GB の容量では）そろそろきつくなり始めたというのもあります。
 
