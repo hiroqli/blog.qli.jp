@@ -19,7 +19,7 @@ RAINBOW で本編を締めくくられたそのライブは、10 年間の想い
 
 彼らをライブで初めて見たのは 2009 年 11 月 6 日、BBO Reception Party にて。まさに OORONG RECORDS からメジャーデビューを果たした後になる。それからもう 7 年近くが過ぎた。
 
-[BradBerry Orchestra Reception Party](/posts/80369213-660f-4080-a268-5a9ef39a47f1/)
+[BradBerry Orchestra Reception Party]({{< ref "posts/200911-80369213-660f-4080-a268-5a9ef39a47f1" >}})
 
 SHIBUYA AX で無料ライブをやった(2009 年)こともあるし、ap bank fes ’10＠つま恋で、音を奏でたこともある。そして、TOKYO DESIGNERS WEEK でライブをやったこともある(2011 年)。
 

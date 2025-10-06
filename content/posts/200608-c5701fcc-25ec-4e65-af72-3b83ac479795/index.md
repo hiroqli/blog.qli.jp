@@ -24,4 +24,4 @@ first Draft ということなので、FireBirdfirefox みたいにいずれは�
 自分としては、google calendar のデータを iCal+ ( Missing Sync or iSync or iTunes)でケータイやら iPod やらに同期させているので、いつでも確認できる状態なんですよね。なかなか iCal を立ち上げないので、iCal 上を常に最新にしておくというのが難関ですが。  
 #モバイルで確認する必要があまりないので、何とかなってますが。
 
-持ち運び優先であれば、[アナログ方式ということでクオバディスにするかも](/posts/9a6b0ef3-8150-4a2f-be2a-1e4bbda81bc4/)。
+持ち運び優先であれば、[アナログ方式ということでクオバディスにするかも]({{< ref "posts/200607-9a6b0ef3-8150-4a2f-be2a-1e4bbda81bc4" >}})。

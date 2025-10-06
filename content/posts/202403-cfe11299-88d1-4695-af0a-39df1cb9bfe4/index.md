@@ -32,6 +32,6 @@ OmniFocus のカスタムパースペクティブ「次」では、今着手で�
 
 なんだか Things の使い方を示したドキュメント”Getting Productive with Things”の”Establish your daily routine”に似ている気もします。
 
-[**Getting Productive with Things 日本語版**](/posts/373dbb15-685e-4fad-a8dd-e8634e6f7b9a/)
+[**Getting Productive with Things 日本語版**]({{< ref "posts/201705-373dbb15-685e-4fad-a8dd-e8634e6f7b9a" >}})
 
 Daily review とまでは言いませんが、朝イチに今日のスケジュールをアシスタントに聞いて確認する、くらいのことはやってもいいのかもしれませんね。朝刊を読む習慣のように。

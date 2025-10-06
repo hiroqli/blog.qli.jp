@@ -70,7 +70,7 @@ menu:
       weight: 40
 
 permalinks:
-  posts: /posts/:year/:month/:slug/
+  posts: /:year:month:slug/
 
 # パラメータ設定
 params:

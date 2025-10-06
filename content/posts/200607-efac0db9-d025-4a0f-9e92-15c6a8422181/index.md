@@ -7,7 +7,7 @@ keywords: []
 slug: "efac0db9-d025-4a0f-9e92-15c6a8422181"
 ---
 
-先ほどの書き込み「[i d e a \* i d e a — The Inbox Makeover ですっきり](/posts/fbb3dcce-1356-46ee-9621-4f03305a82de/)」の続き。
+先ほどの書き込み「[i d e a \* i d e a — The Inbox Makeover ですっきり]({{< ref "posts/200607-fbb3dcce-1356-46ee-9621-4f03305a82de" >}})」の続き。
 
 実は、Thunderbird に”[Gmail UI](http://www.longshot.com/~kmixter/gmailui.html)”という Extension がある。これを導入すると、Gmail のキーボードショートカットと同じように、j/k でスクロールできて便利なのだけど、この機能に”y”を押すとトップレベルの指定したメールボックスにメールを移動させるという機能がある。今まで使っていなかったのだけど、TIM を実践してとりあえず保存するメールの格納先に”@Archives”というフォルダを作って、”y”を押すとこのフォルダに自動的に移動するようにしてみた。これがすごくスッキリする。
 

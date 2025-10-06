@@ -21,6 +21,6 @@ Watch OS 2 に対応するにあたって、文字盤に Things の情報を置�
 
 Things for Watch OS 2 では、”今日”のリストの情報しかみれませんが、あさイチで「今日やること」が決まっているのであればこれで充分。
 
-- 参考: [日本語訳: Getting Started with Things](/posts/78eb42e6-90e8-4b5b-abc0-6dd67f4eb252/)
+- 参考: [日本語訳: Getting Started with Things]({{< ref "posts/201405-78eb42e6-90e8-4b5b-abc0-6dd67f4eb252" >}})
 
 ちょっと息抜きの時間に腕時計でタスクを完了にして、残りのタスクに取りかかるだけですし、帰宅中にタスクが残ってる=寄り道することを思い出す、ということもあるかもしれません。
