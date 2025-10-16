@@ -75,8 +75,13 @@ jobs:
                   
                   for entry in feed.entries:
                       post_date = datetime(*entry.published_parsed[:6])
-                      
+
                       if post_date > cutoff_date:
+                          # タグ情報を取得
+                          tags = []
+                          if hasattr(entry, 'tags'):
+                              tags = [tag.term for tag in entry.tags]
+
                           recent_posts.append({
                               'title': entry.title,
                               'link': entry.link,
@@ -84,9 +89,10 @@ jobs:
                               'published_date': post_date,
                               'summary': entry.summary,
                               'content': entry.get('content', [{}])[0].get('value', ''),
-                              'guid': entry.guid
+                              'guid': entry.guid,
+                              'tags': tags
                           })
-                          print(f"Found recent post: {entry.title}")
+                          print(f"Found recent post: {entry.title} (tags: {', '.join(tags) if tags else 'none'})")
                   
                   return recent_posts
                   
@@ -141,6 +147,16 @@ jobs:
                   frontmatter += f'slug: "{uuid_slug}"\n'
                   frontmatter += 'source: "medium"\n'
                   frontmatter += f'original_url: "{post["link"]}"\n'
+
+                  # タグを追加（インライン配列形式）
+                  if post.get('tags'):
+                      # タグ内の特殊文字をエスケープ
+                      safe_tags = [tag.replace('"', '\\"') for tag in post['tags']]
+                      tags_str = ', '.join([f'"{tag}"' for tag in safe_tags])
+                      frontmatter += f'tags: [{tags_str}]\n'
+                  else:
+                      frontmatter += 'tags: []\n'
+
                   frontmatter += 'draft: false\n'
                   frontmatter += '---\n\n'
                   
