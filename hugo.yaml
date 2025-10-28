@@ -41,6 +41,10 @@ markup:
   highlight:
     noClasses: false
     style: monokai
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
 
 # シンタックスハイライト
 pygmentsUseClasses: true
@@ -56,18 +60,22 @@ menu:
       name: アーカイブ
       url: /archives/
       weight: 20
-#    - identifier: categories
-#      name: カテゴリー
-#      url: /categories/
-#      weight: 20
-#    - identifier: tags
-#      name: タグ
-#      url: /tags/
-#      weight: 30
+    #    - identifier: categories
+    #      name: カテゴリー
+    #      url: /categories/
+    #      weight: 20
+    #    - identifier: tags
+    #      name: タグ
+    #      url: /tags/
+    #      weight: 30
     - identifier: search
       name: サイト内検索
       url: /search/
       weight: 40
+    - identifier: author
+      name: Author
+      url: /author/
+      weight: 50
 
 permalinks:
   posts: /:year:month:slug/
@@ -91,8 +99,12 @@ params:
       url: "https://x.com/hiro"
     - name: instagram
       url: https://www.instagram.com/hiro.qli/
+    - name: threads
+      url: "https://www.threads.com"
     - name: medium
       url: "https://medium.com/@hiro"
+    - name: mastodon
+      url: "https://mastodon.cloud/@hiro"
     - name: rss
       url: "/index.xml"
 
@@ -129,7 +141,7 @@ params:
     favicon16x16: "/favicon/favicon-16x16.png"
     favicon32x32: "/favicon/favicon-32x32.png"
     apple_touch_icon: "/favicon/apple-touch-icon.png"
-  
+
   # Analytics
   analytics:
     google:
@@ -171,12 +183,3 @@ params:
         weight: 0.3
       - name: "categories"
         weight: 0.3
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-  tableOfContents:
-    startLevel: 2
-    endLevel: 6
-    ordered: false

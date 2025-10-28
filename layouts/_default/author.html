@@ -1,0 +1,203 @@
+{{- define "main" }}
+
+<!-- Font Awesome Kit -->
+<script src="https://kit.fontawesome.com/0408cbb145.js" crossorigin="anonymous"></script>
+
+<article class="author-page">
+  <div class="author-container">
+    <header class="author-header">
+      <h1 class="author-brand">{{ site.Params.author }}</h1>
+      {{- with .Params.description }}
+      <p class="author-description">{{ . }}</p>
+      {{- end }}
+    </header>
+
+    {{- if site.Params.socialIcons }}
+    <div class="author-social">
+      <ul class="social-links">
+        {{- range site.Params.socialIcons }}
+        {{- if ne .name "rss" }}
+        <li>
+          <a href="{{ .url }}" target="_blank" rel="me noopener noreferrer" aria-label="{{ .name }}"
+            title="{{ .name }}">
+            {{- if eq .name "twitter" }}
+            <i class="fa-brands fa-twitter"></i>
+            {{- else if eq .name "instagram" }}
+            <i class="fa-brands fa-instagram"></i>
+            {{- else if eq .name "threads" }}
+            <i class="fa-brands fa-square-threads"></i>
+            {{- else if eq .name "mastodon" }}
+            <i class="fa-brands fa-mastodon"></i>
+            {{- else if eq .name "medium" }}
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" style="width: 1em; height: 1em; display: inline-block; vertical-align: -0.125em;">
+              <path fill="currentColor" d="M0 32v448h448V32H0zm372.2 106.1l-24 23c-2.1 1.6-3.1 4.2-2.7 6.7v169.3c-.4 2.6.6 5.2 2.7 6.7l23.5 23v5.1h-118V367l24.3-23.6c2.4-2.4 2.4-3.1 2.4-6.7V199.8l-67.6 171.6h-9.1L125 199.8v115c-.7 4.8 1 9.7 4.4 13.2l31.6 38.3v5.1H71.2v-5.1l31.6-38.3c3.4-3.5 4.9-8.4 4.1-13.2v-133c.4-3.7-1-7.3-3.8-9.8L75 138.1V133h87.3l67.4 148L289 133.1h83.2v5z"/>
+            </svg>
+            {{- else if eq .name "github" }}
+            <i class="fa-brands fa-github"></i>
+            {{- else if eq .name "linkedin" }}
+            <i class="fa-brands fa-linkedin"></i>
+            {{- else if eq .name "facebook" }}
+            <i class="fa-brands fa-facebook"></i>
+            {{- else if eq .name "youtube" }}
+            <i class="fa-brands fa-youtube"></i>
+            {{- else if eq .name "bluesky" }}
+            <i class="fa-solid fa-cloud"></i>
+            {{- else }}
+            <i class="fa-solid fa-link"></i>
+            {{- end }}
+          </a>
+        </li>
+        {{- end }}
+        {{- end }}
+      </ul>
+    </div>
+    {{- end }}
+
+    {{- with .Content }}
+    <div class="author-bio">
+      {{ . }}
+    </div>
+    {{- end }}
+  </div>
+</article>
+
+<style>
+  .author-page {
+    min-height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 1rem;
+  }
+
+  .author-container {
+    max-width: 600px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .author-header {
+    margin-bottom: 3rem;
+  }
+
+  .author-brand {
+    font-size: 3rem;
+    font-weight: 700;
+    margin: 0 0 1rem 0;
+    line-height: 1.2;
+    color: var(--primary);
+  }
+
+  .author-description {
+    font-size: 1.125rem;
+    margin: 1rem 0 0 0;
+    color: var(--secondary);
+    font-weight: 400;
+  }
+
+  .author-social {
+    margin: 2.5rem 0;
+  }
+
+  .social-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+  }
+
+  .social-links li {
+    margin: 0;
+  }
+
+  .social-links a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    color: var(--primary);
+    transition: all 0.2s ease;
+    border-radius: 8px;
+    font-size: 1.75rem;
+  }
+
+  .social-links a:hover {
+    color: var(--tertiary);
+    transform: translateY(-3px);
+  }
+
+  .author-bio {
+    margin-top: 3rem;
+    font-size: 1rem;
+    line-height: 1.8;
+    color: var(--secondary);
+    text-align: left;
+    padding: 2rem;
+    background: var(--code-bg);
+    border-radius: 12px;
+  }
+
+  .author-bio p {
+    margin: 0.75rem 0;
+  }
+
+  .author-bio p:first-child {
+    margin-top: 0;
+  }
+
+  .author-bio p:last-child {
+    margin-bottom: 0;
+  }
+
+  .author-bio a {
+    color: var(--primary);
+    text-decoration: underline;
+    transition: color 0.2s ease;
+  }
+
+  .author-bio a:hover {
+    color: var(--tertiary);
+  }
+
+  @media (max-width: 768px) {
+    .author-brand {
+      font-size: 2.25rem;
+    }
+
+    .author-description {
+      font-size: 1rem;
+    }
+
+    .social-links {
+      gap: 1rem;
+    }
+
+    .social-links a {
+      width: 44px;
+      height: 44px;
+      font-size: 1.5rem;
+    }
+
+    .author-bio {
+      padding: 1.5rem;
+      font-size: 0.95rem;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .author-brand {
+      font-size: 1.875rem;
+    }
+
+    .author-description {
+      font-size: 0.95rem;
+    }
+  }
+</style>
+
+{{- end }}{{/* end main */}}
