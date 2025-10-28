@@ -89,9 +89,9 @@ params:
   author: "hiro"
 
   # プロフィールモード
-  homeInfoParams:
-    Title: Hi there &#x1f44b;
-    Content: Wanna chat about Apple, music, movies, and all sorts of other things on a planet?
+  #homeInfoParams:
+  #  Title: Hi there &#x1f44b;
+  #  Content: Wanna chat about Apple, music, movies, and all sorts of other things on a planet?
 
   # ソーシャルアイコン
   socialIcons:
