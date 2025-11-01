@@ -100,7 +100,7 @@ params:
     - name: instagram
       url: https://www.instagram.com/hiro.qli/
     - name: threads
-      url: "https://www.threads.com"
+      url: https://www.threads.com/@hiro.qli
     - name: medium
       url: "https://medium.com/@hiro"
     - name: mastodon
