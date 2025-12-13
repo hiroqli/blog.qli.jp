@@ -122,10 +122,10 @@ jobs:
               return markdown_content.strip()
 
           def generate_date_based_directory(post_date):
-              """日付ベース（YYYYMM-UUID）のディレクトリ名を生成"""
+              """日付ベース（YYYYMM/UUID）のディレクトリ名を生成"""
               uuid_part = str(uuid.uuid4())
               date_prefix = post_date.strftime('%Y%m')
-              return f"{date_prefix}-{uuid_part}", uuid_part
+              return f"{date_prefix}/{uuid_part}", uuid_part
 
           def create_hugo_post(post, output_dir):
               """Hugo用の記事ファイルを作成"""
@@ -135,8 +135,8 @@ jobs:
                   directory_name, uuid_slug = generate_date_based_directory(post_date)
                   date_iso = post['published']
                   content = clean_medium_content(post['content'])
-                  
-                  # ディレクトリ名は YYYYMM-UUID、slugはUUIDのみ
+
+                  # ディレクトリ名は YYYYMM/UUID、slugはUUIDのみ
                   post_dir = os.path.join(output_dir, directory_name)
                   os.makedirs(post_dir, exist_ok=True)
                   
@@ -173,8 +173,8 @@ jobs:
                   return False, None, None
 
           def main():
-              print("=== Medium Post Fetcher (Directory: YYYYMM-UUID, Slug: UUID) ===")
-              
+              print("=== Medium Post Fetcher (Directory: YYYYMM/UUID, Slug: UUID) ===")
+
               username = "hiro"
               days_back = 7
               output_dir = "content/posts"
@@ -261,7 +261,7 @@ jobs:
 
           if ! git diff --cached --quiet; then
             POSTS_COUNT=$(jq '.posts_imported' scripts/logs/medium_import_summary.json)
-            git commit -m "Add $POSTS_COUNT new posts from Medium (Dir: YYYYMM-UUID, Slug: UUID)"
+            git commit -m "Add $POSTS_COUNT new posts from Medium (Dir: YYYYMM/UUID, Slug: UUID)"
             git push
           else
             echo "No changes to commit"
@@ -271,7 +271,7 @@ jobs:
         if: steps.check_posts.outputs.has_new_posts == 'true'
         run: |
           echo "## 📝 Medium記事インポート完了" >> $GITHUB_STEP_SUMMARY
-          echo "ディレクトリ形式: YYYYMM-UUID, Slug形式: UUID" >> $GITHUB_STEP_SUMMARY
+          echo "ディレクトリ形式: YYYYMM/UUID, Slug形式: UUID" >> $GITHUB_STEP_SUMMARY
           echo "インポート日時: $(date)" >> $GITHUB_STEP_SUMMARY
           echo "新規記事数: $(jq '.posts_imported' scripts/logs/medium_import_summary.json)" >> $GITHUB_STEP_SUMMARY
           echo "### インポートした記事:" >> $GITHUB_STEP_SUMMARY
