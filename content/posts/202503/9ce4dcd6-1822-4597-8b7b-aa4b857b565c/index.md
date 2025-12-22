@@ -5,6 +5,9 @@ date: '2025-03-15T03:02:32.489Z'
 categories: []
 keywords: []
 slug: "9ce4dcd6-1822-4597-8b7b-aa4b857b565c"
+tags: [OmniFocus, Productivity]
+cover:
+  image: "omnifocus-later-cover.jpeg"
 ---
 先日、OmniFocusの使い方をまとめました。
 
@@ -30,5 +33,3 @@ _Edit description_hiro.medium.com](https://hiro.medium.com/omnifocus%E3%81%AE%E4
 また、OmniFocusの特徴でもある「延期」を使っていません。それは、今すぐにでも実行可能なアクションだからです。
 
 これらを確認するためのカスタムパースペクティブとして「Later」を設定しています。「Next」で実行するアクションがなく、時間がある時に、「Later」を確認するようにしています。
-
-![](1__JU9LuhvNwJJACVfjyNn__gA.jpeg)

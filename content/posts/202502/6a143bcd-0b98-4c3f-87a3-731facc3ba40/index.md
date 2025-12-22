@@ -5,8 +5,9 @@ date: '2025-02-01T03:02:03.504Z'
 categories: []
 keywords: []
 slug: "6a143bcd-0b98-4c3f-87a3-731facc3ba40"
+cover:
+  image: "airpods4-review-cover.jpeg"
 ---
-![](1__LlGtZyhF4bpjJwAJgtie3Q.jpeg)
 
 今年の初売りでAirPods 4 (ノイズキャンセリング付き)を買いました。本当は発売日に買ってもよかったんですが、タイミング的に買いそびれたまま、どうせならと初売りでゲットすることに。Apple製品は長く使っていますが、初売りで買ったのは初めてでした。
 

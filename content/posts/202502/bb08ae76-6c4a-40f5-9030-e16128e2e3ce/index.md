@@ -5,6 +5,8 @@ date: '2025-02-22T03:02:24.721Z'
 categories: []
 keywords: []
 slug: "bb08ae76-6c4a-40f5-9030-e16128e2e3ce"
+cover:
+  image: "evernote-updates-cover.jpeg"
 ---
 Evernoteユーザーの方ならアップデートが毎日のようにくることに気づいていると思います。実際、さまざまなアップデートのおかげで使いやすくなっているのですが、Evernoteは日本語での発信を止めているので、どんな機能が追加されたのか気づいていない方も多いのではないかと思います。
 
@@ -39,7 +41,5 @@ Evernoteではノートで “/” を入力することで、さまざまな要
 
 ここで紹介した更新はページにまとまって紹介されています。ウォッチしたいという方は、RSSもあるので、RSSリーダーやTapestryで購読しておくとよいと思います。
 
-[**Evernote Product Updates**  
+[**Evernote Product Updates**
 _See the latest Evernote features, improvements, and product updates. Share your feedback and your suggestions!_product.evernote.com](https://product.evernote.com "https://product.evernote.com")[](https://product.evernote.com)
-
-![](1__TayOIin7uWpYIgn3m4Wdrg.jpeg)

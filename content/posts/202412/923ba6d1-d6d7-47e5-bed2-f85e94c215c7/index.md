@@ -5,8 +5,9 @@ date: '2024-12-07T03:02:13.216Z'
 categories: []
 keywords: []
 slug: "923ba6d1-d6d7-47e5-bed2-f85e94c215c7"
+cover:
+  image: "heading-home-cover.jpeg"
 ---
-![](1__jdq40J4rzhxHU1WYHxSkuQ.jpeg)
 
 久しぶりに実家に帰省した。前回の帰省の時は、マスクつけてたり、自分が媒介して両親に感染させてしまわないかとても不安だったのを覚えている。久しぶりに帰省した実家は、長いこと畑だった場所が住宅地になっていたりと、街も変化しているようだった。
 

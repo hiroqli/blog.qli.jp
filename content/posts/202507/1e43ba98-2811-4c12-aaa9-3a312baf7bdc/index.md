@@ -5,8 +5,9 @@ date: '2025-07-26T03:01:57.177Z'
 categories: []
 keywords: []
 slug: "1e43ba98-2811-4c12-aaa9-3a312baf7bdc"
+cover:
+  image: "1__hDABr1CY4VkXf__pen7ENdw.jpeg"
 ---
-![](1__hDABr1CY4VkXf__pen7ENdw.jpeg)
 
 今回は、ちょっと昔の話をしてみようと思います。このブログやTwitterでもたびたび触れているように、気がつけば日常の中でいろんな「ミュージックプレイス」に通うようになっています。
 

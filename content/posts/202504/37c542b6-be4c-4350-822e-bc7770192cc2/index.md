@@ -5,8 +5,9 @@ date: '2025-04-12T03:02:50.369Z'
 categories: []
 keywords: []
 slug: "37c542b6-be4c-4350-822e-bc7770192cc2"
+cover:
+  image: "macbook-air-m4-cover.png"
 ---
-![](1__eN1Hw8yrcM2fTDS7Nl1eAg.png)
 
 MacBook Air M4を迎えました。色はスカイブルー、画面は15インチ。これまではM1のMacBook Proを使っていて、それがIntel Macからの初移行でした（その時の話は、ブログにも書いています）。
 

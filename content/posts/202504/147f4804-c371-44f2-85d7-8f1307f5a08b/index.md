@@ -5,8 +5,9 @@ date: '2025-04-19T03:02:23.569Z'
 categories: []
 keywords: []
 slug: "147f4804-c371-44f2-85d7-8f1307f5a08b"
+cover:
+  image: "album-listening-cover.png"
 ---
-![](1__jEhLktfhQSX4xn9ZRFQRrQ.png)
 
 櫻坂46の2ndアルバム「Addiction」の収録内容が発表された。Interludeでシングル曲をつなぐ構成になっていて、Type-AにはRemixも入るらしい。ファンの間では、さっそくいろんな声が飛び交っていた。
 
