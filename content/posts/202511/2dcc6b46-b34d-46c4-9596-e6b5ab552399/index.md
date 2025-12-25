@@ -33,5 +33,3 @@ draft: false
 自分の部屋に戻ればパーソナル空間が広がっていて、ベッドと風呂があるだけの部屋で本を読み耽ってもいいし、何もしないをしてもいい。その時間と空間の使い方がとても贅沢だなと思いました。
 
 自分はその日歩き回ったせいか 9 時過ぎには眠くなっていて、何も考えず寝てしまいましたね。翌朝日の出を見ました。
-
-<https://medium.com/media/a77a38565e064fd1986e6f703ddc7a40/href>![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=bee9d9d1e48d)
