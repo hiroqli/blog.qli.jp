@@ -8,8 +8,6 @@ tags: ["music"]
 draft: false
 ---
 
-### 2026年のライブ初め
-
 リーガルリリーと羊文学の対バンライブに行ってきた。最高の夜だった。
 
 その日、仕事をいつもより早めに切り上げて、早めに会場に向かった。目的は開場前の事前物販だ。ライブが始まる前にハコでノベルティの販売があって、(ハコによっても異なるが)だいたい開場時間の1時間前や30分前に切り上げることが多い。今回もそれに間に合うように会場に移動した。開場時間の30分前にはTシャツを購入した。
@@ -42,10 +40,6 @@ draft: false
 
 [セットリスト / cell, core 2025 to 2026 東京編](https://www.livefans.jp/events/1847987)
 
-![](https://cdn-images-1.medium.com/max/1024/1*p63Amu8_nAJm68_2pZYXMg.jpeg)
-
-kirin(リーガルリリー)と羊(羊文学)
+{{< figure src="legal-lily-hitsujibungaku.jpeg" caption="kirin(リーガルリリー)と羊(羊文学)" >}}
 
 そして、このライブが自分の2026年ライブ初めだった。今年もよろしくお願いします。
-
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=688feaa599dc)
