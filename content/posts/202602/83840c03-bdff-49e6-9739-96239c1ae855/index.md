@@ -10,7 +10,7 @@ draft: false
 
 国立新美術館で開催されている「テート美術館 － YBA&BEYOND 世界を変えた90s 英国アート」を見てきました。UKのサッチャー首相辞任からの90年代について、アート作品とともに振り返る美術展。
 
-![](https://cdn-images-1.medium.com/max/1024/1*q9fR3rIw7QP0npkcJjt3Gw.jpeg)
+{{< figure src="yba-beyond.jpeg" >}}
 
 自分はSong2でBlurを知り、そこから彼らの音楽をdiggるようにして聞いていました。「Modern Life Is Rubbish」や「The Great Escape」など、彼らのサウンドはどことなく現実逃避ができるドラッグのような響きがあり、気になっていました。
 
@@ -25,5 +25,3 @@ draft: false
 [ブラーの「The Best Of」をApple Musicで](https://music.apple.com/jp/album/the-best-of/867694889)
 
 東京でも5月までやっているようです。6月以降は京都で。気になる方がいたらぜひ。
-
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=a4a0f12fa4fc)
