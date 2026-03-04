@@ -4,9 +4,9 @@
 {{- if (or (eq $author_type "[]string") (eq $author_type "[]interface {}")) }}
 {{- range $i, $v := $author }}
 {{- if $i }}, {{ end }}
-<a href="/author/">{{ $v }}</a>
+<a href="/authors/{{ $v }}/">{{ $v }}</a>
 {{- end }}
 {{- else }}
-<a href="/author/">{{ $author }}</a>
+<a href="/authors/{{ $author }}/">{{ $author }}</a>
 {{- end }}
 {{- end -}}

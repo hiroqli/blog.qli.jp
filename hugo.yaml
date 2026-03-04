@@ -74,7 +74,7 @@ menu:
       weight: 40
     - identifier: author
       name: Author
-      url: /author/
+      url: /authors/hiro/
       weight: 50
 
 permalinks:
