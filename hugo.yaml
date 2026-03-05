@@ -88,10 +88,10 @@ params:
   keywords: [ブログ, 福岡, 個人サイト, PaperMod, Apple, 映画, 音楽]
   author: "hiro"
 
-  # プロフィールモード
-  #homeInfoParams:
-  #  Title: Hi there &#x1f44b;
-  #  Content: Wanna chat about Apple, music, movies, and all sorts of other things on a planet?
+  # Home-Info Mode
+  homeInfoParams:
+    Title: ようこそ Hi there &#x1f44b;
+    Content: このブログは [このブログ](https://medium.com/@hiro) の内容をミラーしています <br /> This blog mirrors content from [here](https://medium.com/@hiro)
 
   # ソーシャルアイコン
   socialIcons:
