@@ -19,5 +19,3 @@ draft: false
 タクシーの運転手が少し寂しそうだったのも覚えている。
 
 歴史のifで遊びたくなる気持ちはある。「あの時こうしていれば」と考えたくなる瞬間はいつもやってくる。でも自分は、「今」を受け止め、行動することを優先していきたい。
-
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=b10f378a6f60)
