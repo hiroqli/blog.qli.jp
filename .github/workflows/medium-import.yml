@@ -100,25 +100,33 @@ jobs:
                   print(f"Error fetching feed: {e}")
                   return []
 
-          def clean_medium_content(html_content):
+          def clean_medium_content(html_content, title=None):
               """MediumのHTMLコンテンツをクリーンアップ"""
               if not html_content:
                   return ""
-              
+
               soup = BeautifulSoup(html_content, 'html.parser')
-              
+
               for element in soup.find_all(['script', 'style', 'noscript']):
                   element.decompose()
-              
+
+              # Mediumのトラッキングピクセルを削除
+              for img in soup.find_all('img', src=lambda s: s and 'medium.com/_/stat' in s):
+                  img.decompose()
+
               for figure in soup.find_all('figure'):
                   figcaption = figure.find('figcaption')
                   if figcaption:
                       figcaption.name = 'p'
                       figcaption['class'] = 'caption'
-              
+
               markdown_content = md(str(soup), heading_style="ATX")
               markdown_content = re.sub(r'\n\s*\n\s*\n', '\n\n', markdown_content)
-              
+
+              # 冒頭のタイトル重複見出しを削除
+              if title:
+                  markdown_content = re.sub(r'^#{1,3} ' + re.escape(title) + r'\s*\n', '', markdown_content)
+
               return markdown_content.strip()
 
           def generate_date_based_directory(post_date):
@@ -134,7 +142,7 @@ jobs:
                   post_date = post['published_date']
                   directory_name, uuid_slug = generate_date_based_directory(post_date)
                   date_iso = post['published']
-                  content = clean_medium_content(post['content'])
+                  content = clean_medium_content(post['content'], title=title)
 
                   # ディレクトリ名は YYYYMM/UUID、slugはUUIDのみ
                   post_dir = os.path.join(output_dir, directory_name)
